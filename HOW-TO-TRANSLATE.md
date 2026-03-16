@@ -213,6 +213,7 @@ python3 utils/ttot_font.py import rom/root/font_data.bin work/font_data work/fon
 - `font_tiles_edit.png`는 `4bpp grayscale` 편집용 PNG다.
 - 실제 폰트 타일 청크만 다시 써서 `font_data.bin`을 재조립한다.
 - 현재 기본값은 `tiles_index=6`, `palette_index=0`, `meta_index=5`다.
+- 현재 기본 출력은 `16x16 glyph (2x2 tiles)` 기준이다.
 
 ## 5. 주의사항
 
