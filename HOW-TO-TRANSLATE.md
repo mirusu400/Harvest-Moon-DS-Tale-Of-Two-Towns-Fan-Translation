@@ -94,6 +94,7 @@ JSON 예시:
 
 사용 스크립트:
 - [utils/ttot_gfx.py](/Users/seongjinkim/lab/Harvest-Moon-DS-Tale-Of-Two-Towns-Fan-Translation/utils/ttot_gfx.py)
+- [utils/ttot_font.py](/Users/seongjinkim/lab/Harvest-Moon-DS-Tale-Of-Two-Towns-Fan-Translation/utils/ttot_font.py)
 
 특징:
 - 컨테이너 전체를 다시 패킹하므로 청크 크기 변화 허용
@@ -185,6 +186,33 @@ python3 utils/ttot_gfx.py export-raw rom/root/console_obj_data.bin work/console_
 1. `ttot_gfx.py batch-export`
 2. `raw/` 또는 `assets/*.png` 수정
 3. `ttot_gfx.py batch-import`
+
+폰트:
+1. `ttot_font.py export`
+2. `font_tiles_edit.png` 수정
+3. `ttot_font.py import`
+
+## 4-1. 폰트 추출/재삽입
+
+폰트 추출:
+```bash
+python3 utils/ttot_font.py export rom/root/font_data.bin work/font_data
+```
+
+원본 팔레트 미리보기까지 추출:
+```bash
+python3 utils/ttot_font.py export rom/root/font_data.bin work/font_data --export-palette-preview
+```
+
+폰트 재삽입:
+```bash
+python3 utils/ttot_font.py import rom/root/font_data.bin work/font_data work/font_data_patched.bin
+```
+
+특징:
+- `font_tiles_edit.png`는 `4bpp grayscale` 편집용 PNG다.
+- 실제 폰트 타일 청크만 다시 써서 `font_data.bin`을 재조립한다.
+- 현재 기본값은 `tiles_index=6`, `palette_index=0`, `meta_index=5`다.
 
 ## 5. 주의사항
 
