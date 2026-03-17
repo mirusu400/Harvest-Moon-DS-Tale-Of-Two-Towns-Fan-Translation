@@ -151,6 +151,9 @@ work/console_obj/
   assets/
     obj_0000_tiles.png
     obj_0000_preview.png
+    obj_0000_preview_parts/
+      record_0000.png
+      ...
     obj_0000.json
     obj_0000_cells.json
     ...
@@ -162,7 +165,9 @@ work/console_obj/
 - `--keep-palette`를 빼면 PNG 팔레트도 다시 반영한다.
 - BG 자동 추출은 휴리스틱 기반이라 일부 청크는 PNG 후보가 안 잡힐 수 있다.
 - OBJ는 이제 `*_preview.png`를 수정해도 재삽입 가능하다.
+- 가로가 긴 OBJ는 `*_preview_parts/record_XXXX.png`를 수정하는 쪽이 더 안전하다.
 - OBJ는 `*_preview.png`가 있으면 그것을 우선 사용하고, 없으면 `*_tiles.png`를 사용한다.
+- `*_preview_parts/`가 있으면 import는 그 개별 PNG들을 `*_preview.png`보다 우선 사용한다.
 - OBJ preview 재삽입 시 각 셀은 원래 palette bank 안에서 가장 가까운 색으로 자동 보정된다.
 - OBJ의 `*_cells.json`에는 메타 청크 해석 결과가 들어 있다.
 

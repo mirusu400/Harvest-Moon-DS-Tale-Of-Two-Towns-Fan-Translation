@@ -488,11 +488,12 @@ def build_obj_preview_layout(meta: Dict[str, object]) -> Dict[str, object]:
     bounds = [obj_record_bounds(record) for record in cells]
     widths = [max(8, max_x - min_x) for (min_x, min_y, max_x, max_y) in bounds]
     heights = [max(8, max_y - min_y) for (min_x, min_y, max_x, max_y) in bounds]
-    max_cols = 6
-    cols = max(1, min(max_cols, math.ceil(math.sqrt(max(1, len(cells))))))
-    rows = math.ceil(max(1, len(cells)) / cols)
     cell_w = max(widths, default=8) + 4
     cell_h = max(heights, default=8) + 4
+    max_preview_width = 1024
+    max_cols = max(1, min(6, max_preview_width // max(1, cell_w)))
+    cols = max(1, min(max_cols, math.ceil(math.sqrt(max(1, len(cells))))))
+    rows = math.ceil(max(1, len(cells)) / cols)
     return {
         "bounds": bounds,
         "widths": widths,
@@ -504,7 +505,24 @@ def build_obj_preview_layout(meta: Dict[str, object]) -> Dict[str, object]:
     }
 
 
-def render_obj_preview(tile_blob: bytes, palette_blob: bytes, meta_blob: bytes, bpp: int, out_png: Path, meta_json_path: Path) -> Dict[str, object]:
+def save_palette_to_image(image: Image.Image, colors: Sequence[Tuple[int, int, int, int]]) -> None:
+    flat_palette: List[int] = []
+    for color in colors[:256]:
+        flat_palette.extend(color[:3])
+    while len(flat_palette) < 256 * 3:
+        flat_palette.extend((0, 0, 0))
+    image.putpalette(flat_palette)
+
+
+def render_obj_preview(
+    tile_blob: bytes,
+    palette_blob: bytes,
+    meta_blob: bytes,
+    bpp: int,
+    out_png: Path,
+    meta_json_path: Path,
+    parts_dir: Path,
+) -> Dict[str, object]:
     tiles = decode_tiles_4bpp(tile_blob) if bpp == 4 else decode_tiles_8bpp(tile_blob)
     colors = decode_palette(palette_blob)
     meta = parse_obj_meta(meta_blob)
@@ -512,18 +530,18 @@ def render_obj_preview(tile_blob: bytes, palette_blob: bytes, meta_blob: bytes, 
 
     cells = meta["records"]
     record_images = [render_obj_record(tiles, record, len(colors) // 16 if bpp == 4 else 1) for record in cells]
+    parts_dir.mkdir(parents=True, exist_ok=True)
+    for record_index, record_image in enumerate(record_images):
+        save_palette_to_image(record_image, colors)
+        record_image.save(parts_dir / f"record_{record_index:04d}.png")
+
     layout = build_obj_preview_layout(meta)
     cols = int(layout["cols"])
     rows = int(layout["rows"])
     cell_w = int(layout["cell_w"])
     cell_h = int(layout["cell_h"])
     image = Image.new("P", (cols * cell_w, rows * cell_h))
-    flat_palette: List[int] = []
-    for color in colors[:256]:
-        flat_palette.extend(color[:3])
-    while len(flat_palette) < 256 * 3:
-        flat_palette.extend((0, 0, 0))
-    image.putpalette(flat_palette)
+    save_palette_to_image(image, colors)
     pixels = image.load()
 
     for cell_index, record_image in enumerate(record_images):
@@ -541,6 +559,7 @@ def render_obj_preview(tile_blob: bytes, palette_blob: bytes, meta_blob: bytes, 
         "palette_colors": len(colors),
         "bpp": bpp,
         "cells_json": meta_json_path.name,
+        "preview_parts_dir": parts_dir.name,
     }
 
 
@@ -618,6 +637,64 @@ def rebuild_obj_tiles_from_preview(tile_blob: bytes, palette_blob: bytes, meta_b
     return encode_tiles_4bpp(tiles), new_palette
 
 
+def rebuild_obj_tiles_from_preview_parts(
+    tile_blob: bytes,
+    palette_blob: bytes,
+    meta_blob: bytes,
+    bpp: int,
+    parts_dir: Path,
+) -> Tuple[bytes, bytes]:
+    if bpp != 4:
+        raise ValueError("Preview-part reimport currently supports 4bpp OBJ only")
+
+    colors = decode_palette(palette_blob)
+    meta = parse_obj_meta(meta_blob)
+    tiles = decode_tiles_4bpp(tile_blob)
+    palette_count = max(1, (len(palette_blob) // 2) // 16)
+
+    for record_index, record in enumerate(meta["records"]):
+        part_path = parts_dir / f"record_{record_index:04d}.png"
+        if not part_path.exists():
+            continue
+        image = Image.open(part_path)
+        expected_width = max(8, obj_record_bounds(record)[2] - obj_record_bounds(record)[0])
+        expected_height = max(8, obj_record_bounds(record)[3] - obj_record_bounds(record)[1])
+        if image.size != (expected_width, expected_height):
+            raise ValueError(
+                f"Preview-part size mismatch for record {record_index}: got {image.size}, "
+                f"expected {(expected_width, expected_height)}"
+            )
+        src_rgb = image.convert("RGB").load()
+        min_x, min_y, _max_x, _max_y = obj_record_bounds(record)
+        for entry in record["entries"]:
+            width, height = obj_dimensions_from_flags(int(entry["flags"]))
+            tiles_x = width // 8
+            tiles_y = height // 8
+            tile_index = int(entry["tile"])
+            palette_index = int(entry["palette"]) % palette_count
+            palette_base = palette_index * 16
+            local_x = int(entry["x"]) - min_x
+            local_y = int(entry["y"]) - min_y
+            for ty in range(tiles_y):
+                for tx in range(tiles_x):
+                    out_tile_index = tile_index + ty * tiles_x + tx
+                    if out_tile_index >= len(tiles):
+                        continue
+                    tile_pixels: List[int] = []
+                    for py in range(8):
+                        for px in range(8):
+                            pixel = nearest_palette_index_in_range(
+                                src_rgb[local_x + tx * 8 + px, local_y + ty * 8 + py],
+                                colors,
+                                palette_base,
+                                palette_base + 16,
+                            )
+                            tile_pixels.append(pixel - palette_base)
+                    tiles[out_tile_index] = tile_pixels
+
+    return encode_tiles_4bpp(tiles), palette_blob
+
+
 def is_valid_obj_combo(tile_blob: bytes, palette_blob: bytes, meta_blob: bytes) -> bool:
     if len(tile_blob) % 32 != 0:
         return False
@@ -691,6 +768,7 @@ def detect_obj_assets(container: HavContainer) -> List[Dict[str, object]]:
                 "bpp": 4,
                 "png": f"assets/obj_{index:04d}_tiles.png",
                 "preview_png": f"assets/obj_{index:04d}_preview.png",
+                "preview_parts_dir": f"assets/obj_{index:04d}_preview_parts",
                 "meta": f"assets/obj_{index:04d}.json",
                 "cells_json": f"assets/obj_{index:04d}_cells.json",
                 "meta_raw": f"raw/{container.path.stem}_{index + 2:04d}.hav",
@@ -733,6 +811,7 @@ def detect_obj_assets_from_rows(container: HavContainer, rows: Sequence[Dict[str
                 "bpp": 4,
                 "png": f"assets/obj_{idx:04d}_tiles.png",
                 "preview_png": f"assets/obj_{idx:04d}_preview.png",
+                "preview_parts_dir": f"assets/obj_{idx:04d}_preview_parts",
                 "meta": f"assets/obj_{idx:04d}.json",
                 "cells_json": f"assets/obj_{idx:04d}_cells.json",
                 "meta_raw": f"raw/{container.path.stem}_{meta_index:04d}.hav",
@@ -803,6 +882,7 @@ def batch_export(args: argparse.Namespace) -> None:
                 asset["bpp"],
                 out_dir / asset["preview_png"],
                 out_dir / asset["cells_json"],
+                out_dir / asset["preview_parts_dir"],
             )
         meta.update(asset)
         meta["source_file"] = Path(args.input).name
@@ -1023,7 +1103,16 @@ def batch_import(args: argparse.Namespace) -> None:
                 blobs[asset["palette_index"]] = encode_palette(colors[:palette_limit])
         else:
             preview_path = work_dir / asset.get("preview_png", "")
-            if asset.get("preview_png") and preview_path.exists():
+            preview_parts_dir = work_dir / asset.get("preview_parts_dir", "")
+            if asset.get("preview_parts_dir") and preview_parts_dir.exists():
+                new_tiles, new_palette = rebuild_obj_tiles_from_preview_parts(
+                    blobs[asset["tiles_index"]],
+                    blobs[asset["palette_index"]],
+                    blobs[asset["meta_index"]],
+                    asset["bpp"],
+                    preview_parts_dir,
+                )
+            elif asset.get("preview_png") and preview_path.exists():
                 new_tiles, new_palette = rebuild_obj_tiles_from_preview(
                     blobs[asset["tiles_index"]],
                     blobs[asset["palette_index"]],
