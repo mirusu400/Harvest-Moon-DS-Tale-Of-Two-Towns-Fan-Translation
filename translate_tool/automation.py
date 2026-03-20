@@ -27,7 +27,7 @@ if prompt == "n":
     exit()
 
 # 반복 실행
-for i in range(10):
+for i in range(1):
     print(f">>> iteration {i+1} start.")
     result = run_codex(prompt)
     print(result)
