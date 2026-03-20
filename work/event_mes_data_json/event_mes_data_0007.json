@@ -10,7 +10,7 @@
       "name": "0",
       "message": "このはな村住人と仲良く！[RAW:0E27]",
       "original": "このはな村住人と仲良く！[RAW:0E27]",
-      "translation": "코노하나 마을 주민과 친해지기[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "ブルーベル村住人と仲良く！[RAW:0E27]",
       "original": "ブルーベル村住人と仲良く！[RAW:0E27]",
-      "translation": "블루벨 마을 주민과 친해지기[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "元気にしてほしい！[RAW:0E27]",
       "original": "元気にしてほしい！[RAW:0E27]",
-      "translation": "잘 지내면 좋겠어[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "あの子と仲良くなりたい！[RAW:0E27]",
       "original": "あの子と仲良くなりたい！[RAW:0E27]",
-      "translation": "저 아이랑 친해지고 싶어[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "あの人と仲良くなりたい！[RAW:0E27]",
       "original": "あの人と仲良くなりたい！[RAW:0E27]",
-      "translation": "저 사람하고 친해지고 싶어[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "女神さまにうたってほしい！[RAW:0E27]",
       "original": "女神さまにうたってほしい！[RAW:0E27]",
-      "translation": "여신님께 노래해줘[RAW:0E27]!",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "女神さまに笑ってほしい！[RAW:0E27]",
       "original": "女神さまに笑ってほしい！[RAW:0E27]",
-      "translation": "여신님이 웃어줬으면[RAW:0E27]!",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "アリエラと結婚させて！[RAW:0E27-0F27]？",
       "original": "アリエラと結婚させて！[RAW:0E27-0F27]？",
-      "translation": "아리에라와 결혼하게 해줘![RAW:0E27-0F27]?",
+      "translation": "",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

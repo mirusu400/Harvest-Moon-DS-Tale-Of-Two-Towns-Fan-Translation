@@ -10,7 +10,7 @@
       "name": "0",
       "message": "ベンチ[RAW:0E27]",
       "original": "ベンチ[RAW:0E27]",
-      "translation": "벤치[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "村はずれ[RAW:0E27]",
       "original": "村はずれ[RAW:0E27]",
-      "translation": "마을 외곽[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "木の下[RAW:0E27]",
       "original": "木の下[RAW:0E27]",
-      "translation": "나무 아래[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "食事処ソナ[RAW:0E27]",
       "original": "食事処ソナ[RAW:0E27]",
-      "translation": "식당 소나[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "いこいの場[RAW:0E27]",
       "original": "いこいの場[RAW:0E27]",
-      "translation": "휴식처[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "橋の上[RAW:0E27]",
       "original": "橋の上[RAW:0E27]",
-      "translation": "다리 위[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "自宅[RAW:0E27]",
       "original": "自宅[RAW:0E27]",
-      "translation": "집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "教会そば[RAW:0E27]",
       "original": "教会そば[RAW:0E27]",
-      "translation": "교회 근처[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "村はずれ[RAW:0E27]",
       "original": "村はずれ[RAW:0E27]",
-      "translation": "마을 외곽[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "トンネル前[RAW:0E27]",
       "original": "トンネル前[RAW:0E27]",
-      "translation": "터널 앞[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "プティ・ハワード[RAW:0E27]",
       "original": "プティ・ハワード[RAW:0E27]",
-      "translation": "프티 하워드[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "広場[RAW:0E27]",
       "original": "広場[RAW:0E27]",
-      "translation": "광장[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "花だん前[RAW:0E27]",
       "original": "花だん前[RAW:0E27]",
-      "translation": "화단 앞[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -140,7 +140,7 @@
       "name": "13",
       "message": "シェ・グラニー前[RAW:0E27]",
       "original": "シェ・グラニー前[RAW:0E27]",
-      "translation": "셰 그래니 앞[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -150,7 +150,7 @@
       "name": "14",
       "message": "自宅[RAW:0E27]",
       "original": "自宅[RAW:0E27]",
-      "translation": "집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "山頂[RAW:0E27]",
       "original": "山頂[RAW:0E27]",
-      "translation": "산 정상[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -170,7 +170,7 @@
       "name": "16",
       "message": "泉[RAW:0E27]",
       "original": "泉[RAW:0E27]",
-      "translation": "샘[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -180,7 +180,7 @@
       "name": "17",
       "message": "川辺[RAW:0E27]",
       "original": "川辺[RAW:0E27]",
-      "translation": "강변[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -190,7 +190,7 @@
       "name": "18",
       "message": "山の中腹[RAW:0E27]",
       "original": "山の中腹[RAW:0E27]",
-      "translation": "산 중턱[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -200,7 +200,7 @@
       "name": "19",
       "message": "たきのそば[RAW:0E27]",
       "original": "たきのそば[RAW:0E27]",
-      "translation": "폭포 근처[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -210,7 +210,7 @@
       "name": "20",
       "message": "アーシュの家[RAW:0E27]",
       "original": "アーシュの家[RAW:0E27]",
-      "translation": "아슈의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -220,7 +220,7 @@
       "name": "21",
       "message": "チヒロの部屋[RAW:0E27]",
       "original": "チヒロの部屋[RAW:0E27]",
-      "translation": "치히로의 방[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -230,7 +230,7 @@
       "name": "22",
       "message": "カミルの家[RAW:0E27]",
       "original": "カミルの家[RAW:0E27]",
-      "translation": "카밀의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -240,7 +240,7 @@
       "name": "23",
       "message": "竹馬の友[RAW:0E27]",
       "original": "竹馬の友[RAW:0E27]",
-      "translation": "벗이 되는 친구[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -250,7 +250,7 @@
       "name": "24",
       "message": "役場[RAW:0E27]",
       "original": "役場[RAW:0E27]",
-      "translation": "구청[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -260,7 +260,7 @@
       "name": "25",
       "message": "リアの家[RAW:0E27]",
       "original": "リアの家[RAW:0E27]",
-      "translation": "리아의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -270,7 +270,7 @@
       "name": "26",
       "message": "ラズベリーの家[RAW:0E27]",
       "original": "ラズベリーの家[RAW:0E27]",
-      "translation": "라즈베리의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -280,7 +280,7 @@
       "name": "27",
       "message": "リコリスの家[RAW:0E27]",
       "original": "リコリスの家[RAW:0E27]",
-      "translation": "리코리스의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -290,7 +290,7 @@
       "name": "28",
       "message": "ナナの家[RAW:0E27]",
       "original": "ナナの家[RAW:0E27]",
-      "translation": "나나의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -300,7 +300,7 @@
       "name": "29",
       "message": "賢者さまの家[RAW:0E27]",
       "original": "賢者さまの家[RAW:0E27]",
-      "translation": "현자님의 집[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -310,7 +310,7 @@
       "name": "30",
       "message": "教会[RAW:0E27]",
       "original": "教会[RAW:0E27]",
-      "translation": "교회[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -320,7 +320,7 @@
       "name": "31",
       "message": "ディルカの家[RAW:0E27-0F27]｝",
       "original": "ディルカの家[RAW:0E27-0F27]｝",
-      "translation": "디루카의 집[RAW:0E27-0F27]｝",
+      "translation": "",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

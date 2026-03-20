@@ -10,7 +10,7 @@
       "name": "0",
       "message": "終了[RAW:0E27]",
       "original": "終了[RAW:0E27]",
-      "translation": "종료[RAW:0E27]",
+      "translation": "",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "次へ[RAW:0E27-0F27]。",
       "original": "次へ[RAW:0E27-0F27]。",
-      "translation": "다음[RAW:0E27-0F27]。",
+      "translation": "",
       "controls": [
         "[RAW:0E27-0F27]"
       ]
