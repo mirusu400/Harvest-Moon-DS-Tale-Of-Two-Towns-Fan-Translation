@@ -10,7 +10,7 @@ code_map = {}
 TM_FILE = "master_translation_memory.json"
 translation_memory = {}
 script_dir = os.path.dirname(os.path.abspath(__file__))
-base_path = os.path.join(script_dir, "..", "work", "mes_data_json")
+base_path = os.path.join(script_dir, "..", "work", "event_mes_data_json")
 if os.path.exists(TM_FILE):
     with open(TM_FILE, "r", encoding="utf-8") as f:
         translation_memory = json.load(f)
