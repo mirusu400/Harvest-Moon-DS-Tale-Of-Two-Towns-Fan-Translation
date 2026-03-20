@@ -1,0 +1,139 @@
+{
+  "source_file": "event_mes_data_0927.hav",
+  "container_index": 927,
+  "entry_count": 9,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-AB1F-491F]いらっしゃい！[RAW:2823]待ってたわよ、[RAW:2A23]！[RAW:0E27]",
+      "original": "[RAW:411F-AB1F-491F]いらっしゃい！[RAW:2823]待ってたわよ、[RAW:2A23]！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AB1F-491F]",
+        "[RAW:2823]",
+        "[RAW:2A23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:401F-A81F-491F]いらっしゃい。[RAW:2823]よく来たな、[RAW:2A23]。[RAW:0E27]",
+      "original": "[RAW:401F-A81F-491F]いらっしゃい。[RAW:2823]よく来たな、[RAW:2A23]。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A81F-491F]",
+        "[RAW:2823]",
+        "[RAW:2A23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:401F-B51F-481F]これで全員ね。[RAW:2B23-401F-B51F-491F]じゃあ、みんな[RAW:2823]席についてちょうだい！[RAW:0E27]",
+      "original": "[RAW:401F-B51F-481F]これで全員ね。[RAW:2B23-401F-B51F-491F]じゃあ、みんな[RAW:2823]席についてちょうだい！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-B51F-481F]",
+        "[RAW:2B23-401F-B51F-491F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:401F-B51F-491F]それじゃあパーティーを[RAW:2823]始めちゃうわよ！[RAW:2B23-401F-B51F-481F]今日はあたしが愛情たっぷりの[RAW:2823]料理を用意したわ。[RAW:2B23-401F-B51F-491F]お腹いっぱい楽しんでね！[RAW:2B23]じゃあ、みんな[RAW:2823]自分のグラスを持って。[RAW:2B23-401F-B51F-481F]せーの…[RAW:0A27-2B23-441F-D120-2823]　　　カンパーイ！！[RAW:0B27-0E27]",
+      "original": "[RAW:401F-B51F-491F]それじゃあパーティーを[RAW:2823]始めちゃうわよ！[RAW:2B23-401F-B51F-481F]今日はあたしが愛情たっぷりの[RAW:2823]料理を用意したわ。[RAW:2B23-401F-B51F-491F]お腹いっぱい楽しんでね！[RAW:2B23]じゃあ、みんな[RAW:2823]自分のグラスを持って。[RAW:2B23-401F-B51F-481F]せーの…[RAW:0A27-2B23-441F-D120-2823]　　　カンパーイ！！[RAW:0B27-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-B51F-491F]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-B51F-481F]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-B51F-491F]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-B51F-481F]",
+        "[RAW:0A27-2B23-441F-D120-2823]",
+        "[RAW:0B27-0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:401F-B51F-491F]じゃあ、みんな[RAW:2823]自分のグラスを持って。[RAW:2B23-401F-B51F-481F]せーの…[RAW:2B23-441F-D120-2823]　　　カンパーイ！！[RAW:0A27-0E27]",
+      "original": "[RAW:401F-B51F-491F]じゃあ、みんな[RAW:2823]自分のグラスを持って。[RAW:2B23-401F-B51F-481F]せーの…[RAW:2B23-441F-D120-2823]　　　カンパーイ！！[RAW:0A27-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-B51F-491F]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-B51F-481F]",
+        "[RAW:2B23-441F-D120-2823]",
+        "[RAW:0A27-0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:411F-AB1F-481F]今日は来てくれてありがとう。[RAW:2B23-411F-AB1F-491F-2A23]と一緒に過ごせて[RAW:2823]とても楽しかったわ。[RAW:2B23-411F-AB1F-4D1F]来年もうちのパーティーに[RAW:2823]参加してほしいな。[RAW:0E27]",
+      "original": "[RAW:411F-AB1F-481F]今日は来てくれてありがとう。[RAW:2B23-411F-AB1F-491F-2A23]と一緒に過ごせて[RAW:2823]とても楽しかったわ。[RAW:2B23-411F-AB1F-4D1F]来年もうちのパーティーに[RAW:2823]参加してほしいな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AB1F-481F]",
+        "[RAW:2B23-411F-AB1F-491F-2A23]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-AB1F-4D1F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:411F-AB1F-491F]ふふ、ありがとう[RAW:2823-2A23]。[RAW:2B23-411F-AB1F-481F]それじゃあ、また明日ね。[RAW:2B23-411F-AB1F-491F]もう遅い時間なんだから[RAW:2823]気をつけて帰ってよね。[RAW:0E27]",
+      "original": "[RAW:411F-AB1F-491F]ふふ、ありがとう[RAW:2823-2A23]。[RAW:2B23-411F-AB1F-481F]それじゃあ、また明日ね。[RAW:2B23-411F-AB1F-491F]もう遅い時間なんだから[RAW:2823]気をつけて帰ってよね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AB1F-491F]",
+        "[RAW:2823-2A23]",
+        "[RAW:2B23-411F-AB1F-481F]",
+        "[RAW:2B23-411F-AB1F-491F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:401F-A81F-481F]もう夜も遅い。[RAW:2823]家まで送るよ。[RAW:0E27]",
+      "original": "[RAW:401F-A81F-481F]もう夜も遅い。[RAW:2823]家まで送るよ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A81F-481F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:401F-A81F-491F]今日は楽しかったよ。[RAW:2823]また[RAW:2A23]と[RAW:2823]こんな時間を過ごしたいな。[RAW:2B23]それじゃあ、ボクは帰る。[RAW:2823]また明日会おう。[RAW:0E27-0F27]！",
+      "original": "[RAW:401F-A81F-491F]今日は楽しかったよ。[RAW:2823]また[RAW:2A23]と[RAW:2823]こんな時間を過ごしたいな。[RAW:2B23]それじゃあ、ボクは帰る。[RAW:2823]また明日会おう。[RAW:0E27-0F27]！",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A81F-491F]",
+        "[RAW:2823]",
+        "[RAW:2A23]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

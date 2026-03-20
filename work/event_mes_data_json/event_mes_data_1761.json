@@ -1,0 +1,249 @@
+{
+  "source_file": "event_mes_data_1761.hav",
+  "container_index": 1761,
+  "entry_count": 20,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-B41F-481F-3621]増築したいのね～。[RAW:2823]待ってたわ～。[RAW:2B23-411F-B41F-491F]じゃあ、さっそく[RAW:2823]品物をもらおうかしら～？[RAW:0E27]",
+      "original": "[RAW:411F-B41F-481F-3621]増築したいのね～。[RAW:2823]待ってたわ～。[RAW:2B23-411F-B41F-491F]じゃあ、さっそく[RAW:2823]品物をもらおうかしら～？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B41F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-B41F-491F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:411F-B41F-491F-3621]確かに受け取ったわ～。[RAW:0E27]",
+      "original": "[RAW:411F-B41F-491F-3621]確かに受け取ったわ～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B41F-491F-3621]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:411F-B41F-481F-3621]後はお金ね。[RAW:2823-0010]Ｇ、[RAW:2823]確かにもらったわ～。[RAW:0E27]",
+      "original": "[RAW:411F-B41F-481F-3621]後はお金ね。[RAW:2823-0010]Ｇ、[RAW:2823]確かにもらったわ～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B41F-481F-3621]",
+        "[RAW:2823-0010]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "[RAW:411F-B41F-491F-3621]ご苦労さま～。[RAW:2823]確かにいただいたわ～。[RAW:2B23-411F-B41F-481F]じゃあ、牧場に行きましょ～。[RAW:2823]すぐにやってあげるわ～。[RAW:0E27]",
+      "original": "[RAW:411F-B41F-491F-3621]ご苦労さま～。[RAW:2823]確かにいただいたわ～。[RAW:2B23-411F-B41F-481F]じゃあ、牧場に行きましょ～。[RAW:2823]すぐにやってあげるわ～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B41F-491F-3621]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-B41F-481F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "[RAW:411F-B41F-481F-3621]ちょっと待っててね～。[RAW:2823]すぐに終わるから～。[RAW:0E27]",
+      "original": "[RAW:411F-B41F-481F-3621]ちょっと待っててね～。[RAW:2823]すぐに終わるから～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B41F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "[RAW:411F-B41F-481F-3621]終わったわよ～。[RAW:2823]われながら、とても[RAW:2823]いい仕事をしたと思うわ～。[RAW:2B23]水田をふやしたわ～。[RAW:2823]これで、もっとお米が[RAW:2823]作れるようになるわね～。[RAW:2B23-411F-B41F-491F]後は見てからの[RAW:2823]お楽しみ～♪[RAW:2823]すぐに使えるからね～。[RAW:2B23]仕事もぶじに終わったし、[RAW:2823]わたしはこれで帰るわ～。[RAW:2823]じゃあね～。[RAW:0E27]",
+      "original": "[RAW:411F-B41F-481F-3621]終わったわよ～。[RAW:2823]われながら、とても[RAW:2823]いい仕事をしたと思うわ～。[RAW:2B23]水田をふやしたわ～。[RAW:2823]これで、もっとお米が[RAW:2823]作れるようになるわね～。[RAW:2B23-411F-B41F-491F]後は見てからの[RAW:2823]お楽しみ～♪[RAW:2823]すぐに使えるからね～。[RAW:2B23]仕事もぶじに終わったし、[RAW:2823]わたしはこれで帰るわ～。[RAW:2823]じゃあね～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B41F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-B41F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27-0F27]‥",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27-0F27]‥",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27-0F27]"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "source_file": "event_mes_data_0499.hav",
+  "container_index": 499,
+  "entry_count": 1,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "今日は何かあった気がする…。[RAW:2B23]よし。[RAW:2823]いったん、家にもどろう。[RAW:0E27-0F27]、",
+      "original": "今日は何かあった気がする…。[RAW:2B23]よし。[RAW:2823]いったん、家にもどろう。[RAW:0E27-0F27]、",
+      "translation": "",
+      "controls": [
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

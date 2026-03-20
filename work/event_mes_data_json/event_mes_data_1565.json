@@ -1,0 +1,142 @@
+{
+  "source_file": "event_mes_data_1565.hav",
+  "container_index": 1565,
+  "entry_count": 13,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "＜いらっしゃいませ＞[RAW:0E27]",
+      "original": "＜いらっしゃいませ＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-A41F-481F-3323]　＜買う＞[RAW:2823]　＜買わない＞[RAW:2823]　＜説明を聞く＞[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3323]　＜買う＞[RAW:2823]　＜買わない＞[RAW:2823]　＜説明を聞く＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3323]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "＜買わない選択時＞[RAW:0E27]",
+      "original": "＜買わない選択時＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "＜お金たりないよ＞[RAW:0E27]",
+      "original": "＜お金たりないよ＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "＜お礼＞[RAW:0E27]",
+      "original": "＜お礼＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "＜説明＞[RAW:0E27]",
+      "original": "＜説明＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "＜アイテムを選んでね＞[RAW:0E27]",
+      "original": "＜アイテムを選んでね＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "＜結果はどうかな＞[RAW:0E27]",
+      "original": "＜結果はどうかな＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "＜結果１＞[RAW:0E27]",
+      "original": "＜結果１＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "＜結果２＞[RAW:0E27]",
+      "original": "＜結果２＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "＜結果３＞[RAW:0E27]",
+      "original": "＜結果３＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "＜結果４＞[RAW:0E27]",
+      "original": "＜結果４＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "＜結果５＞[RAW:0E27-0F27]｀",
+      "original": "＜結果５＞[RAW:0E27-0F27]｀",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

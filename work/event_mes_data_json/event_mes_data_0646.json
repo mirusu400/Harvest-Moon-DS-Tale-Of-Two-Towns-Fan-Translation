@@ -1,0 +1,21 @@
+{
+  "source_file": "event_mes_data_0646.hav",
+  "container_index": 646,
+  "entry_count": 1,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:401F-AA1F-481F-3521]そうですか。ではまた今度[RAW:6308-6308-6308]。[RAW:0E27-0F27]、",
+      "original": "[RAW:401F-AA1F-481F-3521]そうですか。ではまた今度[RAW:6308-6308-6308]。[RAW:0E27-0F27]、",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:6308-6308-6308]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

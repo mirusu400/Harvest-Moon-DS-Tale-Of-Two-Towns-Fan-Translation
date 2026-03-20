@@ -1,0 +1,30 @@
+{
+  "source_file": "event_mes_data_0745.hav",
+  "container_index": 745,
+  "entry_count": 2,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:461F-AE1F-491F-3621]じゃあ、どこへ行きましょう？[RAW:0E27]",
+      "original": "[RAW:461F-AE1F-491F-3621]じゃあ、どこへ行きましょう？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:461F-AE1F-491F-3621]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:3323-0008-0010-2823-0008-0110-2823-0008-0210-0E27-0F27]。",
+      "original": "[RAW:3323-0008-0010-2823-0008-0110-2823-0008-0210-0E27-0F27]。",
+      "translation": "",
+      "controls": [
+        "[RAW:3323-0008-0010-2823-0008-0110-2823-0008-0210-0E27-0F27]"
+      ]
+    }
+  ]
+}

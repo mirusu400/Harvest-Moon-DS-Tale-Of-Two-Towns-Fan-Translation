@@ -1,0 +1,263 @@
+{
+  "source_file": "event_mes_data_0971.hav",
+  "container_index": 971,
+  "entry_count": 19,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-AD1F-4C1F-3621]ああ、すまない。[RAW:2823]ちょっと考え事をしていた。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4C1F-3621]ああ、すまない。[RAW:2823]ちょっと考え事をしていた。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4C1F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-AD1F-481F-3621]心配いらない。[RAW:2823]大丈夫だ。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]心配いらない。[RAW:2823]大丈夫だ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-AD1F-481F-3621]…[RAW:2A23]。[RAW:2823]おまえに、ちょっと[RAW:2823]聞きたい事があるんだが。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]…[RAW:2A23]。[RAW:2823]おまえに、ちょっと[RAW:2823]聞きたい事があるんだが。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:2A23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:411F-AD1F-4C1F-3621]おまえは…その、[RAW:2823]よくわたしのさそいを[RAW:2823]受けてくれるが……。[RAW:2B23]わたしといて、[RAW:2823]楽しいと思うか？[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4C1F-3621]おまえは…その、[RAW:2823]よくわたしのさそいを[RAW:2823]受けてくれるが……。[RAW:2B23]わたしといて、[RAW:2823]楽しいと思うか？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4C1F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:411F-AD1F-481F-3621]そ…そうか。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]そ…そうか。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:411F-AD1F-481F-3621]…[RAW:2A23]は、[RAW:2823]もう良く知っていると思うが[RAW:2823]わたしは植物が好きだ。[RAW:2B23]植物の研究に熱中すると[RAW:2823]周りが見えなくなってしまう。[RAW:2B23-411F-AD1F-4C1F-3621]そのせいで、学生時代なんかは[RAW:2823]よく付き合いが悪いと[RAW:2823]言われていた。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]…[RAW:2A23]は、[RAW:2823]もう良く知っていると思うが[RAW:2823]わたしは植物が好きだ。[RAW:2B23]植物の研究に熱中すると[RAW:2823]周りが見えなくなってしまう。[RAW:2B23-411F-AD1F-4C1F-3621]そのせいで、学生時代なんかは[RAW:2823]よく付き合いが悪いと[RAW:2823]言われていた。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:2A23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-AD1F-4C1F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:411F-AD1F-481F-3621]別に、それを悲しいとか[RAW:2823]さびしいと思った事はない。[RAW:2B23-411F-AD1F-4B1F-3621]そう思えないわたしは、[RAW:2823]可愛げがないのかもしれないが[RAW:2823]…こればかりは性格だな。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]別に、それを悲しいとか[RAW:2823]さびしいと思った事はない。[RAW:2B23-411F-AD1F-4B1F-3621]そう思えないわたしは、[RAW:2823]可愛げがないのかもしれないが[RAW:2823]…こればかりは性格だな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-AD1F-4B1F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:411F-AD1F-481F-3621]だれに、どう思われても[RAW:2823]関係ない事だと、[RAW:2823]ずっと思っていたんだ。[RAW:2B23-411F-AD1F-4B1F-3621]でも、最近は…[RAW:2823]その考え方が変わってしまった[RAW:2823]気がする。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]だれに、どう思われても[RAW:2823]関係ない事だと、[RAW:2823]ずっと思っていたんだ。[RAW:2B23-411F-AD1F-4B1F-3621]でも、最近は…[RAW:2823]その考え方が変わってしまった[RAW:2823]気がする。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-AD1F-4B1F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:411F-AD1F-481F-3621-2A23]は、わたしの事を[RAW:2823]…どういう人間だと[RAW:2823]思っているんだろうか？[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621-2A23]は、わたしの事を[RAW:2823]…どういう人間だと[RAW:2823]思っているんだろうか？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621-2A23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "[RAW:3223-0008]しっかり者の女の子！[RAW:2823-0008]かわいい女の子！[RAW:0E27]",
+      "original": "[RAW:3223-0008]しっかり者の女の子！[RAW:2823-0008]かわいい女の子！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:411F-AD1F-481F-3621]そうか。[RAW:2823]おまえは、わたしの事を[RAW:2823]そういう風に思っているのか。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-481F-3621]そうか。[RAW:2823]おまえは、わたしの事を[RAW:2823]そういう風に思っているのか。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "[RAW:411F-AD1F-4C1F-3621]なるほど。参考になった。[RAW:2823]しっかり者…か。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4C1F-3621]なるほど。参考になった。[RAW:2823]しっかり者…か。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4C1F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "[RAW:411F-AD1F-491F-3621]何でもない。ちょっと[RAW:2823]意見が聞きたかっただけだ。[RAW:2823]気にしないでくれ。[RAW:2B23-411F-AD1F-481F-3621]…さて、そろそろ時間も[RAW:2823]遅いし、帰ろうか？[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-491F-3621]何でもない。ちょっと[RAW:2823]意見が聞きたかっただけだ。[RAW:2823]気にしないでくれ。[RAW:2B23-411F-AD1F-481F-3621]…さて、そろそろ時間も[RAW:2823]遅いし、帰ろうか？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-491F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-AD1F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "[RAW:411F-AD1F-4D1F-3621]はっ！？[RAW:2823]か、かわ…っ？[RAW:2B23]バ…バカか、おまえは！！[RAW:2823]わたしは、そういう事を[RAW:2823]聞いているんじゃない…っ！[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4D1F-3621]はっ！？[RAW:2823]か、かわ…っ？[RAW:2B23]バ…バカか、おまえは！！[RAW:2823]わたしは、そういう事を[RAW:2823]聞いているんじゃない…っ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4D1F-3621]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "[RAW:411F-AD1F-4D1F-3621]も、もういい！[RAW:2823]帰るぞ！！[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4D1F-3621]も、もういい！[RAW:2823]帰るぞ！！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4D1F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "[RAW:411F-AD1F-4B1F-3621-D020]ほぅわぁっ！？！？[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4B1F-3621-D020]ほぅわぁっ！？！？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4B1F-3621-D020]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "[RAW:411F-AD1F-4B1F-3621]いったぁ…。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4B1F-3621]いったぁ…。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4B1F-3621]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "[RAW:411F-AD1F-4D1F-3621]お、おまえが、[RAW:2823]変な事を言うからっ…！[RAW:2823]こ…こんな失態……っ。[RAW:2B23]………っ。[RAW:0E27]",
+      "original": "[RAW:411F-AD1F-4D1F-3621]お、おまえが、[RAW:2823]変な事を言うからっ…！[RAW:2823]こ…こんな失態……っ。[RAW:2B23]………っ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4D1F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "[RAW:411F-AD1F-4A1F-3621]見るなバカ！[RAW:2823]今度こそ帰るっ！　じゃあな！[RAW:0E27-0F27]…",
+      "original": "[RAW:411F-AD1F-4A1F-3621]見るなバカ！[RAW:2823]今度こそ帰るっ！　じゃあな！[RAW:0E27-0F27]…",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-AD1F-4A1F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

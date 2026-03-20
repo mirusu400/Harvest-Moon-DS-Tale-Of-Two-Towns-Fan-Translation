@@ -1,0 +1,592 @@
+{
+  "source_file": "event_mes_data_1558.hav",
+  "container_index": 1558,
+  "entry_count": 51,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "＜また次回来てね＞[RAW:0E27]",
+      "original": "＜また次回来てね＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "ここは占い屋カネヨシじゃ。[RAW:2823]ほらおぬし。これからの[RAW:2823]運勢を知りたくはないか？[RAW:9023-0E27]",
+      "original": "ここは占い屋カネヨシじゃ。[RAW:2823]ほらおぬし。これからの[RAW:2823]運勢を知りたくはないか？[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]で占うぞ。[RAW:2823-3223-0008]占う[RAW:2823-0008]やめる[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]で占うぞ。[RAW:2823-3223-0008]占う[RAW:2823-0008]やめる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]",
+        "[RAW:2823-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:431F]ま、知らずに生きていくのも[RAW:2823]また１つの生き方じゃろうて。[RAW:2823]気が向いたら来るといい。[RAW:0E27]",
+      "original": "[RAW:431F]ま、知らずに生きていくのも[RAW:2823]また１つの生き方じゃろうて。[RAW:2823]気が向いたら来るといい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:431F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:431F]おぬし、お金が足りんぞ。[RAW:2823]残念じゃが、[RAW:2823]出なおしてきてくれるかの。[RAW:0E27]",
+      "original": "[RAW:431F]おぬし、お金が足りんぞ。[RAW:2823]残念じゃが、[RAW:2823]出なおしてきてくれるかの。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:431F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:431F-2D23]あぶらかたぶら…。[RAW:2C23-2823]おぬしの運命は[RAW:2823]どこへ向かうのか…ッ！[RAW:0E27]",
+      "original": "[RAW:431F-2D23]あぶらかたぶら…。[RAW:2C23-2823]おぬしの運命は[RAW:2823]どこへ向かうのか…ッ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:431F-2D23]",
+        "[RAW:2C23-2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "どうじゃった？[RAW:2823]ためになったかの？[RAW:2823]また、いつでも聞きにこい。[RAW:0E27]",
+      "original": "どうじゃった？[RAW:2823]ためになったかの？[RAW:2823]また、いつでも聞きにこい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "＜結果はどうかな＞[RAW:0E27]",
+      "original": "＜結果はどうかな＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "ラッキーカラーは赤。[RAW:2823]アクティブな行動が[RAW:2823]幸運をもたらすぞ。[RAW:0E27]",
+      "original": "ラッキーカラーは赤。[RAW:2823]アクティブな行動が[RAW:2823]幸運をもたらすぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "ラッキーカラーはオレンジ。[RAW:2823]周囲からも愛され、[RAW:2823]親しまれるぞ。[RAW:0E27]",
+      "original": "ラッキーカラーはオレンジ。[RAW:2823]周囲からも愛され、[RAW:2823]親しまれるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "ラッキーカラーは黄色。[RAW:2823]ものごとを前向きに考えれば、[RAW:2823]いいことが近づいてくるぞ。[RAW:0E27]",
+      "original": "ラッキーカラーは黄色。[RAW:2823]ものごとを前向きに考えれば、[RAW:2823]いいことが近づいてくるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "ラッキーカラーは緑。[RAW:2823]温和で調和を心がけると、[RAW:2823]静かな生活になるだろう。[RAW:0E27]",
+      "original": "ラッキーカラーは緑。[RAW:2823]温和で調和を心がけると、[RAW:2823]静かな生活になるだろう。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "ラッキーカラーは青。[RAW:2823]冷静に周囲を見てみると、[RAW:2823]自分がさらによく見えるぞ。[RAW:0E27]",
+      "original": "ラッキーカラーは青。[RAW:2823]冷静に周囲を見てみると、[RAW:2823]自分がさらによく見えるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "ラッキーカラーは視。[RAW:2823]新しいさわやかな出会いが[RAW:2823]おこる、かも、しれんぞ！[RAW:0E27]",
+      "original": "ラッキーカラーは視。[RAW:2823]新しいさわやかな出会いが[RAW:2823]おこる、かも、しれんぞ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "ラッキーカラーは黒。[RAW:2823]独立心を強くもつと[RAW:2823]なおいいかもしれないぞ。[RAW:0E27]",
+      "original": "ラッキーカラーは黒。[RAW:2823]独立心を強くもつと[RAW:2823]なおいいかもしれないぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "ラッキーカラーは白。[RAW:2823]すなおな気持ちが幸せを[RAW:2823]もたらせてくれるぞ。[RAW:0E27]",
+      "original": "ラッキーカラーは白。[RAW:2823]すなおな気持ちが幸せを[RAW:2823]もたらせてくれるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "やる前からあきらめないこと。[RAW:2823]スタートしたほうが、[RAW:2823]うまくいくこともあるのだ。[RAW:0E27]",
+      "original": "やる前からあきらめないこと。[RAW:2823]スタートしたほうが、[RAW:2823]うまくいくこともあるのだ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "お気にいりの場所で、[RAW:2823]ラッキーなハプニングが[RAW:2823]ある予感。[RAW:0E27]",
+      "original": "お気にいりの場所で、[RAW:2823]ラッキーなハプニングが[RAW:2823]ある予感。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "大切な人との信頼が、[RAW:2823]さらに深まる出来事が[RAW:2823]ありそうだ…。[RAW:0E27]",
+      "original": "大切な人との信頼が、[RAW:2823]さらに深まる出来事が[RAW:2823]ありそうだ…。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "目標達成まで、あと少し。[RAW:2823]立ち止まっている時間は[RAW:2823]なさそうだ。[RAW:0E27]",
+      "original": "目標達成まで、あと少し。[RAW:2823]立ち止まっている時間は[RAW:2823]なさそうだ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "金運がひくい予感。[RAW:2823]買う物を決めてからの[RAW:2823]お出かけがいいらしい。[RAW:0E27]",
+      "original": "金運がひくい予感。[RAW:2823]買う物を決めてからの[RAW:2823]お出かけがいいらしい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "気付かぬうちに、[RAW:2823]ワガママやっているぞ。[RAW:2823]思いやりを忘れずにな。[RAW:0E27]",
+      "original": "気付かぬうちに、[RAW:2823]ワガママやっているぞ。[RAW:2823]思いやりを忘れずにな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "あせり気味な毎日か。[RAW:2823]ゆったりとひとりの時間を[RAW:2823]過ごしてみるのもいいぞ。[RAW:0E27]",
+      "original": "あせり気味な毎日か。[RAW:2823]ゆったりとひとりの時間を[RAW:2823]過ごしてみるのもいいぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "36",
+      "message": "変化にまどわされず、[RAW:2823]自分を信じて動こうぞ。[RAW:2823]ツキはやってくるぞ。[RAW:0E27]",
+      "original": "変化にまどわされず、[RAW:2823]自分を信じて動こうぞ。[RAW:2823]ツキはやってくるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "37",
+      "message": "年上の意見を大切にしてみろ。[RAW:2823]確実にまえにすすむぞ。[RAW:0E27]",
+      "original": "年上の意見を大切にしてみろ。[RAW:2823]確実にまえにすすむぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "38",
+      "message": "友情がふかまりそうだ。[RAW:2823]あいてをおもいやると、[RAW:2823]さらに仲良くなれるぞ。[RAW:0E27]",
+      "original": "友情がふかまりそうだ。[RAW:2823]あいてをおもいやると、[RAW:2823]さらに仲良くなれるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "39",
+      "message": "とりあえず、[RAW:2823]どんな人とも話してみる。[RAW:2823]運が開けるぞ。[RAW:0E27]",
+      "original": "とりあえず、[RAW:2823]どんな人とも話してみる。[RAW:2823]運が開けるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "40",
+      "message": "自分のイイトコロを[RAW:2823]みつめなおすといいらしいぞ。[RAW:2823-0E27]",
+      "original": "自分のイイトコロを[RAW:2823]みつめなおすといいらしいぞ。[RAW:2823-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823-0E27]"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "41",
+      "message": "いつものそなたでいると、[RAW:2823]よいイメージを[RAW:2823]あいてにあたえるぞ。[RAW:0E27]",
+      "original": "いつものそなたでいると、[RAW:2823]よいイメージを[RAW:2823]あいてにあたえるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "42",
+      "message": "道を歩いていると、[RAW:2823]ヨイモノが[RAW:2823]みつかるかもしれんの。[RAW:0E27]",
+      "original": "道を歩いていると、[RAW:2823]ヨイモノが[RAW:2823]みつかるかもしれんの。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "43",
+      "message": "勝負事は、さけたほうが[RAW:2823]良いかもしれんのぉ。[RAW:0E27]",
+      "original": "勝負事は、さけたほうが[RAW:2823]良いかもしれんのぉ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "44",
+      "message": "モテモテオーラがみえる。[RAW:2823]モテモテでいけ。[RAW:2823]モテモテで！[RAW:0E27]",
+      "original": "モテモテオーラがみえる。[RAW:2823]モテモテでいけ。[RAW:2823]モテモテで！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "45",
+      "message": "ふだんは行かない場所に[RAW:2823]行ってみよう。[RAW:2823]新しい発見があるぞ。[RAW:0E27]",
+      "original": "ふだんは行かない場所に[RAW:2823]行ってみよう。[RAW:2823]新しい発見があるぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "46",
+      "message": "からだが一番大事。[RAW:2823]からだが一番大事。[RAW:2823]からだが一番大事なのじゃー。[RAW:0E27]",
+      "original": "からだが一番大事。[RAW:2823]からだが一番大事。[RAW:2823]からだが一番大事なのじゃー。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "47",
+      "message": "グーでいけ。[RAW:2823]グーでいけば[RAW:2823]チョキに勝てるぞ！[RAW:0E27]",
+      "original": "グーでいけ。[RAW:2823]グーでいけば[RAW:2823]チョキに勝てるぞ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "48",
+      "message": "のんびりもいいが、[RAW:2823]新テーマはスパイシー！[RAW:2823]シゲキを楽しむがいいぞ。[RAW:0E27]",
+      "original": "のんびりもいいが、[RAW:2823]新テーマはスパイシー！[RAW:2823]シゲキを楽しむがいいぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "49",
+      "message": "しあわせのじゅもんは、[RAW:2823]大きな声で、[RAW:2823]リラックスぅぅぅ～。[RAW:0E27]",
+      "original": "しあわせのじゅもんは、[RAW:2823]大きな声で、[RAW:2823]リラックスぅぅぅ～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "50",
+      "message": "ジャンプが[RAW:2823]ハッピーをよびこむぞ。[RAW:2823]ほら、ジャーンプ！[RAW:0E27-0F27]°",
+      "original": "ジャンプが[RAW:2823]ハッピーをよびこむぞ。[RAW:2823]ほら、ジャーンプ！[RAW:0E27-0F27]°",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

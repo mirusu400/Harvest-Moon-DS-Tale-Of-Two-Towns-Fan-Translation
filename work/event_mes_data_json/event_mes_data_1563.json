@@ -1,0 +1,334 @@
+{
+  "source_file": "event_mes_data_1563.hav",
+  "container_index": 1563,
+  "entry_count": 27,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "来週の結果を、[RAW:2823]楽しみにしているぜ。[RAW:0E27]",
+      "original": "来週の結果を、[RAW:2823]楽しみにしているぜ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "よう！[RAW:2823]オレと予想ゲームをしないか？[RAW:2823]１回１００Ｇだ。[RAW:0E27]",
+      "original": "よう！[RAW:2823]オレと予想ゲームをしないか？[RAW:2823]１回１００Ｇだ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-A41F-481F-3323]　する！[RAW:2823]　しない[RAW:2823]　説明を聞く[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3323]　する！[RAW:2823]　しない[RAW:2823]　説明を聞く[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3323]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "なんだ、ノリが悪いな。[RAW:2823]まあ、また気が向いたら[RAW:2823]来てくれよな。[RAW:0E27]",
+      "original": "なんだ、ノリが悪いな。[RAW:2823]まあ、また気が向いたら[RAW:2823]来てくれよな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "お金が足りないみたいだぞ。[RAW:0E27]",
+      "original": "お金が足りないみたいだぞ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "よし、それじゃあちゃんと[RAW:2823]来週結果を聞きに来てくれよ。[RAW:2823]待ってるからな！[RAW:0E27]",
+      "original": "よし、それじゃあちゃんと[RAW:2823]来週結果を聞きに来てくれよ。[RAW:2823]待ってるからな！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "予想ゲームは、お題に対して[RAW:2823]１週間先の結果を予想する[RAW:2823]ゲームだ。例えば…。[RAW:2B23]１週間の間雨が何回ふるか？[RAW:2823]っていうお題があるとする。[RAW:2823]その回数を予想するんだ。[RAW:2B23]予想したら来週のバザーの時に[RAW:2823]ウチに来てくれれば、結果を[RAW:2823]発表するぜ。[RAW:2B23]もし当たったら賞品をやろう。[RAW:2823]はずれてても参加賞があるから[RAW:2823]ちゃんと来てくれよ。[RAW:2B23]さあ、どうだ、[RAW:2823]１回１００Ｇで、[RAW:2823]予想ゲームをするかい？[RAW:0E27]",
+      "original": "予想ゲームは、お題に対して[RAW:2823]１週間先の結果を予想する[RAW:2823]ゲームだ。例えば…。[RAW:2B23]１週間の間雨が何回ふるか？[RAW:2823]っていうお題があるとする。[RAW:2823]その回数を予想するんだ。[RAW:2B23]予想したら来週のバザーの時に[RAW:2823]ウチに来てくれれば、結果を[RAW:2823]発表するぜ。[RAW:2B23]もし当たったら賞品をやろう。[RAW:2823]はずれてても参加賞があるから[RAW:2823]ちゃんと来てくれよ。[RAW:2B23]さあ、どうだ、[RAW:2823]１回１００Ｇで、[RAW:2823]予想ゲームをするかい？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "よし！　それじゃあ、[RAW:2823]明日から１週間先の予想を[RAW:2823]するぞ。お題はそうだな…。[RAW:9023-0E27]",
+      "original": "よし！　それじゃあ、[RAW:2823]明日から１週間先の予想を[RAW:2823]するぞ。お題はそうだな…。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "それじゃあ、[RAW:2823]一週間後の予想を[RAW:2823]聞かせてもらおうか。[RAW:0E27]",
+      "original": "それじゃあ、[RAW:2823]一週間後の予想を[RAW:2823]聞かせてもらおうか。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "よう！[RAW:2823]ちゃんと結果を聞きに来たな。[RAW:2823]先週のお題は覚えてるか？[RAW:0E27]",
+      "original": "よう！[RAW:2823]ちゃんと結果を聞きに来たな。[RAW:2823]先週のお題は覚えてるか？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:411F-A41F-481F-3223]　覚えてない[RAW:2823]　覚えてるから結果を聞く[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3223]　覚えてない[RAW:2823]　覚えてるから結果を聞く[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3223]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "じゃあ、[RAW:2823]先週のお題をもう一度言うぞ。[RAW:9023-0E27]",
+      "original": "じゃあ、[RAW:2823]先週のお題をもう一度言うぞ。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "それじゃあ発表するぜ。[RAW:2823]お題の結果は…。[RAW:9023-0E27]",
+      "original": "それじゃあ発表するぜ。[RAW:2823]お題の結果は…。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "残念、はずれたな。[RAW:2823]まあガッカリせずに、[RAW:2823]また挑戦してくれよ。[RAW:2B23]",
+      "original": "残念、はずれたな。[RAW:2823]まあガッカリせずに、[RAW:2823]また挑戦してくれよ。[RAW:2B23]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "ほら、これは参加賞だ。[RAW:2823]受け取ってくれ。[RAW:2823]遊んでくれてありがとな。[RAW:0E27]",
+      "original": "ほら、これは参加賞だ。[RAW:2823]受け取ってくれ。[RAW:2823]遊んでくれてありがとな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "みごと正解だな！[RAW:0E27]",
+      "original": "みごと正解だな！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "おめでとう！　ほら、[RAW:2823]賞品を受け取ってくれ。[RAW:9023-0E27]",
+      "original": "おめでとう！　ほら、[RAW:2823]賞品を受け取ってくれ。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "またウチで遊んでくれな。[RAW:2823]待ってるぜ！[RAW:0E27]",
+      "original": "またウチで遊んでくれな。[RAW:2823]待ってるぜ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "　＜お題＞[RAW:2823]　＜お題＞[RAW:2823]　＜お題＞[RAW:9023-0E27]",
+      "original": "　＜お題＞[RAW:2823]　＜お題＞[RAW:2823]　＜お題＞[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3323]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "＜お題の結果＞[RAW:0E27]",
+      "original": "＜お題の結果＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "　＜お題＞[RAW:2823]　＜お題＞[RAW:2823]　＜お題＞[RAW:9023-0E27]",
+      "original": "　＜お題＞[RAW:2823]　＜お題＞[RAW:2823]　＜お題＞[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3323]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "＜お題の結果＞[RAW:0E27]",
+      "original": "＜お題の結果＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "　＜お題＞[RAW:2823]　＜お題＞[RAW:2823]　＜お題＞[RAW:9023-0E27]",
+      "original": "　＜お題＞[RAW:2823]　＜お題＞[RAW:2823]　＜お題＞[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3323]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "＜お題の結果＞[RAW:0E27-0F27]〔",
+      "original": "＜お題の結果＞[RAW:0E27-0F27]〔",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

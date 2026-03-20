@@ -1,0 +1,92 @@
+{
+  "source_file": "event_mes_data_0986.hav",
+  "container_index": 986,
+  "entry_count": 6,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-1320-C01F-491F-3621]おっ、はじめまして！[RAW:0E27]",
+      "original": "[RAW:411F-1320-C01F-491F-3621]おっ、はじめまして！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-1320-C01F-491F-3621]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-C01F-481F-3621]オレは、今日からこの村で[RAW:2823]暮らす事になった[RAW:6E20]ディルカ[RAW:6C20]。[RAW:2823]よろしくな！　…えーっと？[RAW:0E27]",
+      "original": "[RAW:411F-C01F-481F-3621]オレは、今日からこの村で[RAW:2823]暮らす事になった[RAW:6E20]ディルカ[RAW:6C20]。[RAW:2823]よろしくな！　…えーっと？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C01F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:6E20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-C01F-491F-3621]そっか、[RAW:2823-2A23]って言うのか。[RAW:2B23]それじゃ、あらためて[RAW:2823]よろしく、[RAW:2A23]！[RAW:0E27]",
+      "original": "[RAW:411F-C01F-491F-3621]そっか、[RAW:2823-2A23]って言うのか。[RAW:2B23]それじゃ、あらためて[RAW:2823]よろしく、[RAW:2A23]！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C01F-491F-3621]",
+        "[RAW:2823-2A23]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2A23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:411F-C01F-481F-3621]あぁ、それとオレん家は[RAW:2823]すぐそこの[RAW:2823]赤い屋根の家だから。[RAW:0E27]",
+      "original": "[RAW:411F-C01F-481F-3621]あぁ、それとオレん家は[RAW:2823]すぐそこの[RAW:2823]赤い屋根の家だから。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C01F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:411F-C01F-481F-3621]ふだん、ゆうびん配達の仕事で[RAW:2823]家をあける事が多いんだけど…[RAW:2823]良かったら今度遊びに来いよ。[RAW:0E27]",
+      "original": "[RAW:411F-C01F-481F-3621]ふだん、ゆうびん配達の仕事で[RAW:2823]家をあける事が多いんだけど…[RAW:2823]良かったら今度遊びに来いよ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C01F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:411F-C01F-481F-3621]…おっと！[RAW:2823]オレそろそろ行かなくちゃ。[RAW:2B23]まだ、あいさつまわりの[RAW:2823]とちゅうなんだ。[RAW:2B23-411F-C01F-491F-3621]じゃあな、[RAW:2A23]！[RAW:0E27-0F27]：",
+      "original": "[RAW:411F-C01F-481F-3621]…おっと！[RAW:2823]オレそろそろ行かなくちゃ。[RAW:2B23]まだ、あいさつまわりの[RAW:2823]とちゅうなんだ。[RAW:2B23-411F-C01F-491F-3621]じゃあな、[RAW:2A23]！[RAW:0E27-0F27]：",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C01F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-C01F-491F-3621]",
+        "[RAW:2A23]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

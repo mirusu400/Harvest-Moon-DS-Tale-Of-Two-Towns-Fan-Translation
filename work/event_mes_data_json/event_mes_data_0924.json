@@ -1,0 +1,677 @@
+{
+  "source_file": "event_mes_data_0924.hav",
+  "container_index": 924,
+  "entry_count": 55,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "今日は[RAW:6D20]料理大会[RAW:6C20]！[RAW:2823]テーマは[RAW:0410]。[RAW:2823]お昼になったら山頂に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]料理大会[RAW:6C20]！[RAW:2823]テーマは[RAW:0410]。[RAW:2823]お昼になったら山頂に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:0410]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "今日は[RAW:6D20]お花見[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823]おいしい料理を持って行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]お花見[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823]おいしい料理を持って行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "今日は[RAW:6D20]魚つかみ大会[RAW:6C20]！[RAW:2823]いっぱいお魚を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]魚つかみ大会[RAW:6C20]！[RAW:2823]いっぱいお魚を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "今日は[RAW:6D20]天体観賞[RAW:6C20]！[RAW:2823]星がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]天体観賞[RAW:6C20]！[RAW:2823]星がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "今日は[RAW:6D20]音楽祭[RAW:6C20]！[RAW:2823]どんな曲がきけるのかな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]音楽祭[RAW:6C20]！[RAW:2823]どんな曲がきけるのかな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "今日は[RAW:6D20]かぼちゃ祭[RAW:6C20]！[RAW:2823]おいしいお菓子を[RAW:2823]用意しておこう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]かぼちゃ祭[RAW:6C20]！[RAW:2823]おいしいお菓子を[RAW:2823]用意しておこう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]日頃の感謝をこめて[RAW:2823]チョコを使った料理を渡そう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]日頃の感謝をこめて[RAW:2823]チョコを使った料理を渡そう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]プレゼントをもらえると[RAW:2823]うれしいな。[RAW:0E27]",
+      "original": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]プレゼントをもらえると[RAW:2823]うれしいな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "明日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]一緒に過ごしてくれる人、[RAW:2823]見つかるといいな。[RAW:0E27]",
+      "original": "明日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]一緒に過ごしてくれる人、[RAW:2823]見つかるといいな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823-6D20-0010-6C20]と約束してるよ。[RAW:2823]２０時に[RAW:6D20-0110-6C20]に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823-6D20-0010-6C20]と約束してるよ。[RAW:2823]２０時に[RAW:6D20-0110-6C20]に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823-6D20-0010-6C20]",
+        "[RAW:2823]",
+        "[RAW:6D20-0110-6C20]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]今夜は家族と楽しく[RAW:2823]お祝いしよう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]今夜は家族と楽しく[RAW:2823]お祝いしよう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "今日は[RAW:6D20]カウントダウン[RAW:6C20]！[RAW:2823]村のみんなと新年のお祝いだ！[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]カウントダウン[RAW:6C20]！[RAW:2823]村のみんなと新年のお祝いだ！[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "今日は[RAW:6D20]春の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]春の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823-0310]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "今日は[RAW:6D20]夏の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]夏の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823-0310]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "今日は[RAW:6D20]秋の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]秋の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823-0310]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "今日は[RAW:6D20]こどもの日[RAW:6C20]！[RAW:2823]おいしいデザートを持って[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]こどもの日[RAW:6C20]！[RAW:2823]おいしいデザートを持って[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "今日は[RAW:6D20]虫とり大会[RAW:6C20]！[RAW:2823]たくさん虫を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]虫とり大会[RAW:6C20]！[RAW:2823]たくさん虫を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "今日は[RAW:6D20]魚釣り大会[RAW:6C20]！[RAW:2823]使いたい釣り竿をそうびして[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]魚釣り大会[RAW:6C20]！[RAW:2823]使いたい釣り竿をそうびして[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "今日は[RAW:6D20]お月見[RAW:6C20]！[RAW:2823]月がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]お月見[RAW:6C20]！[RAW:2823]月がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "今日は[RAW:6D20]雪祭[RAW:6C20]！[RAW:2823]今年はどんな雪像だろう？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]雪祭[RAW:6C20]！[RAW:2823]今年はどんな雪像だろう？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "今日は[RAW:6D20]年越し祭[RAW:6C20]！[RAW:2823]おいしいおそば、楽しみだな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]年越し祭[RAW:6C20]！[RAW:2823]おいしいおそば、楽しみだな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "今月も今日で終わり。[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
+      "original": "今月も今日で終わり。[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "今月も今日で終わりだから[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
+      "original": "今月も今日で終わりだから[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "今日は[RAW:6D20]ニワトリ祭[RAW:6C20]！[RAW:2823]ニワトリは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]ニワトリ祭[RAW:6C20]！[RAW:2823]ニワトリは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "今日は[RAW:6D20]ウシ祭[RAW:6C20]！[RAW:2823]ウシは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]ウシ祭[RAW:6C20]！[RAW:2823]ウシは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "今日は[RAW:6D20]イヌ祭[RAW:6C20]！[RAW:2823]イヌは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]イヌ祭[RAW:6C20]！[RAW:2823]イヌは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "今日は[RAW:6D20]ネコ祭[RAW:6C20]！[RAW:2823]ネコは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]ネコ祭[RAW:6C20]！[RAW:2823]ネコは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "今日は[RAW:6D20]ヒツジ祭[RAW:6C20]！[RAW:2823]ヒツジは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]ヒツジ祭[RAW:6C20]！[RAW:2823]ヒツジは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "今日は[RAW:6D20]アルパカ祭[RAW:6C20]！[RAW:2823]アルパカは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]アルパカ祭[RAW:6C20]！[RAW:2823]アルパカは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "アーシュ[RAW:0E27]",
+      "original": "アーシュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "カミル[RAW:0E27]",
+      "original": "カミル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "リア[RAW:0E27]",
+      "original": "リア[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "ラズベリー[RAW:0E27]",
+      "original": "ラズベリー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "役場[RAW:0E27]",
+      "original": "役場[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "カフェ[RAW:0E27]",
+      "original": "カフェ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "かぶ[RAW:0E27]",
+      "original": "かぶ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "36",
+      "message": "じゃがいも[RAW:0E27]",
+      "original": "じゃがいも[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "37",
+      "message": "きゅうり[RAW:0E27]",
+      "original": "きゅうり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "38",
+      "message": "きゃべつ[RAW:0E27]",
+      "original": "きゃべつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "39",
+      "message": "いちご[RAW:0E27]",
+      "original": "いちご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "40",
+      "message": "ラディッシュ[RAW:0E27]",
+      "original": "ラディッシュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "41",
+      "message": "たまねぎ[RAW:0E27]",
+      "original": "たまねぎ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "42",
+      "message": "トマト[RAW:0E27]",
+      "original": "トマト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "43",
+      "message": "とうもろこし[RAW:0E27]",
+      "original": "とうもろこし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "44",
+      "message": "すいか[RAW:0E27]",
+      "original": "すいか[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "45",
+      "message": "にんじん[RAW:0E27]",
+      "original": "にんじん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "46",
+      "message": "さつまいも[RAW:0E27]",
+      "original": "さつまいも[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "47",
+      "message": "ほうれん草[RAW:0E27]",
+      "original": "ほうれん草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "48",
+      "message": "なす[RAW:0E27]",
+      "original": "なす[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "49",
+      "message": "ピーマン[RAW:0E27]",
+      "original": "ピーマン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "50",
+      "message": "今日は[RAW:6D20]花の日[RAW:6C20]！[RAW:2823]村のみんなにお花をおくって[RAW:2823]今までよりも仲良くなろう！[RAW:0E27]",
+      "original": "今日は[RAW:6D20]花の日[RAW:6C20]！[RAW:2823]村のみんなにお花をおくって[RAW:2823]今までよりも仲良くなろう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "51",
+      "message": "サラダ[RAW:0E27]",
+      "original": "サラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "52",
+      "message": "スープ[RAW:0E27]",
+      "original": "スープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "53",
+      "message": "メイン[RAW:0E27]",
+      "original": "メイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "54",
+      "message": "デザート[RAW:0E27-0F27]＃",
+      "original": "デザート[RAW:0E27-0F27]＃",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

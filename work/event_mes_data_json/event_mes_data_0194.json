@@ -1,0 +1,80 @@
+{
+  "source_file": "event_mes_data_0194.hav",
+  "container_index": 194,
+  "entry_count": 6,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "さっぱりした～。[RAW:2823]やっぱり、おふろは[RAW:2823]気持ち良いな～。[RAW:0E27]",
+      "original": "さっぱりした～。[RAW:2823]やっぱり、おふろは[RAW:2823]気持ち良いな～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "ふぅ、気持ち良かった。[RAW:2823]…けど、さっき入ったばかり[RAW:2823]だから、ちょっとふやけそう。[RAW:0E27]",
+      "original": "ふぅ、気持ち良かった。[RAW:2823]…けど、さっき入ったばかり[RAW:2823]だから、ちょっとふやけそう。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "ふぅ、スッキリ。[RAW:2823]さあ、何をしようかな？[RAW:0E27]",
+      "original": "ふぅ、スッキリ。[RAW:2823]さあ、何をしようかな？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "うーん。[RAW:2823]さっき行ったばかりだから、[RAW:2823]行く必要なかったかな。[RAW:0E27]",
+      "original": "うーん。[RAW:2823]さっき行ったばかりだから、[RAW:2823]行く必要なかったかな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "はぁ～、さっぱりした！[RAW:2823]やっぱり、自然のおふろは[RAW:2823]いやされるな～♪[RAW:0E27]",
+      "original": "はぁ～、さっぱりした！[RAW:2823]やっぱり、自然のおふろは[RAW:2823]いやされるな～♪[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "うーん、気持ちよかったけど[RAW:2823]熱くてふやけそう…。[RAW:2823]また時間をおいて入りたいな。[RAW:0E27-0F27]：",
+      "original": "うーん、気持ちよかったけど[RAW:2823]熱くてふやけそう…。[RAW:2823]また時間をおいて入りたいな。[RAW:0E27-0F27]：",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

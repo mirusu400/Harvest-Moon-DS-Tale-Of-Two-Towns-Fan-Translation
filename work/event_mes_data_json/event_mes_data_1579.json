@@ -1,0 +1,151 @@
+{
+  "source_file": "event_mes_data_1579.hav",
+  "container_index": 1579,
+  "entry_count": 11,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-B31F-481F]いらっしゃいませ～[RAW:6D20]◯[RAW:6C20-2823]ジェシュ・アニマルリー、[RAW:2823]アイテムショップだよ～！[RAW:9023-0E27]",
+      "original": "[RAW:411F-B31F-481F]いらっしゃいませ～[RAW:6D20]◯[RAW:6C20-2823]ジェシュ・アニマルリー、[RAW:2823]アイテムショップだよ～！[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F]",
+        "[RAW:6D20]",
+        "[RAW:6C20-2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-B31F-481F-3223-0008]アイテムを見たい[RAW:2823-0008]なんでもない[RAW:0E27]",
+      "original": "[RAW:411F-B31F-481F-3223-0008]アイテムを見たい[RAW:2823-0008]なんでもない[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-B31F-481F]え～～。[RAW:2823]じゃ、またきてね～[RAW:6D20]◯[RAW:6C20-0E27]",
+      "original": "[RAW:411F-B31F-481F]え～～。[RAW:2823]じゃ、またきてね～[RAW:6D20]◯[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F]",
+        "[RAW:2823]",
+        "[RAW:6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:411F-B31F-4B1F]ん～っと…、[RAW:2823]お金、たりないよ。[RAW:2823]ごめんね…。[RAW:9023-0E27]",
+      "original": "[RAW:411F-B31F-4B1F]ん～っと…、[RAW:2823]お金、たりないよ。[RAW:2823]ごめんね…。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-4B1F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:411F-B31F-491F]やった～！[RAW:2823]ありがと～[RAW:6D20]◯[RAW:6C20-9023-0E27]",
+      "original": "[RAW:411F-B31F-491F]やった～！[RAW:2823]ありがと～[RAW:6D20]◯[RAW:6C20-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-491F]",
+        "[RAW:2823]",
+        "[RAW:6D20]",
+        "[RAW:6C20-9023-0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:411F-B31F-4B1F]う～ん…、[RAW:2823]カバンがいっぱいだよ～。[RAW:2823]もう、何も入らないよ。[RAW:9023-0E27]",
+      "original": "[RAW:411F-B31F-4B1F]う～ん…、[RAW:2823]カバンがいっぱいだよ～。[RAW:2823]もう、何も入らないよ。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-4B1F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:411F-B31F-481F]あれ～？[RAW:2823]やめちゃうの？[RAW:2823]ほかに何かある～？[RAW:9023-0E27]",
+      "original": "[RAW:411F-B31F-481F]あれ～？[RAW:2823]やめちゃうの？[RAW:2823]ほかに何かある～？[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:411F-B31F-481F-6D20-0010-2708-6C20]だよ～！[RAW:2823-3223-0008]買う[RAW:2823-0008]やめる[RAW:0E27]",
+      "original": "[RAW:411F-B31F-481F-6D20-0010-2708-6C20]だよ～！[RAW:2823-3223-0008]買う[RAW:2823-0008]やめる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F-6D20-0010-2708-6C20]",
+        "[RAW:2823-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:411F-B31F-481F-0010]は、[RAW:2823]１個[RAW:6D20-0110-2708-6C20]だよ～。[RAW:2823]いくつ買うの？[RAW:9023-0E27]",
+      "original": "[RAW:411F-B31F-481F-0010]は、[RAW:2823]１個[RAW:6D20-0110-2708-6C20]だよ～。[RAW:2823]いくつ買うの？[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F-0010]",
+        "[RAW:2823]",
+        "[RAW:6D20-0110-2708-6C20]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "[RAW:411F-B31F-481F]ごめんなさい…。[RAW:2823]これは１つしか売れないって、[RAW:2823]お兄ちゃんが…。[RAW:9023-0E27]",
+      "original": "[RAW:411F-B31F-481F]ごめんなさい…。[RAW:2823]これは１つしか売れないって、[RAW:2823]お兄ちゃんが…。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:411F-B31F-481F]アイテムが残っていないＭＳＧ[RAW:0E27-0F27]゜",
+      "original": "[RAW:411F-B31F-481F]アイテムが残っていないＭＳＧ[RAW:0E27-0F27]゜",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-B31F-481F]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

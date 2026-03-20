@@ -1,0 +1,171 @@
+{
+  "source_file": "event_mes_data_1564.hav",
+  "container_index": 1564,
+  "entry_count": 14,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "また次回も挑戦してね。[RAW:0E27]",
+      "original": "また次回も挑戦してね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "あなた、自分の腕を[RAW:2823]ちょっと試していかない？[RAW:0E27]",
+      "original": "あなた、自分の腕を[RAW:2823]ちょっと試していかない？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-A41F-481F-3323]　試していく！[RAW:2823]　試さないよ[RAW:2823]　説明を聞く[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3323]　試していく！[RAW:2823]　試さないよ[RAW:2823]　説明を聞く[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3323]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "あら、自信がないのかしら？[RAW:2823]それならしょうがないわね。[RAW:2823]気が向いたら挑戦してね。[RAW:0E27]",
+      "original": "あら、自信がないのかしら？[RAW:2823]それならしょうがないわね。[RAW:2823]気が向いたら挑戦してね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "あれ、お金がたりないみたい。[RAW:2823]ざんねんだわ。[RAW:0E27]",
+      "original": "あれ、お金がたりないみたい。[RAW:2823]ざんねんだわ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "ナイスシュートだったわ！[RAW:2823]はい、これは賞品よ。[RAW:2823]受け取ってね。[RAW:9023-0E27]",
+      "original": "ナイスシュートだったわ！[RAW:2823]はい、これは賞品よ。[RAW:2823]受け取ってね。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "また挑戦してくれるんでしょ？[RAW:2823]まってるからね。[RAW:0E27]",
+      "original": "また挑戦してくれるんでしょ？[RAW:2823]まってるからね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "＜説明＞[RAW:0E27]",
+      "original": "＜説明＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "そうこなくっちゃ！[RAW:2823]じゃあ、準備するから[RAW:2823]ちょっとだけ待っててね。[RAW:0E27]",
+      "original": "そうこなくっちゃ！[RAW:2823]じゃあ、準備するから[RAW:2823]ちょっとだけ待っててね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "おまたせしたわ。[RAW:2823]では、はりきってどうぞ！[RAW:2B23]お店からはなれすぎないように[RAW:2823]注意してね。[RAW:0E27]",
+      "original": "おまたせしたわ。[RAW:2823]では、はりきってどうぞ！[RAW:2B23]お店からはなれすぎないように[RAW:2823]注意してね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "どこへ行くの？[RAW:2823]カゴの中に、投げ入れるのよ。[RAW:0E27]",
+      "original": "どこへ行くの？[RAW:2823]カゴの中に、投げ入れるのよ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "おめでとう！[RAW:0E27]１回で出せちゃうなんて[RAW:0E27]すごいじゃない！[RAW:0E27]",
+      "original": "おめでとう！[RAW:0E27]１回で出せちゃうなんて[RAW:0E27]すごいじゃない！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]",
+        "[RAW:0E27]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "おめでとう！[RAW:2823]本当にだしちゃうなんて[RAW:2823]やるわね～。[RAW:0E27]",
+      "original": "おめでとう！[RAW:2823]本当にだしちゃうなんて[RAW:2823]やるわね～。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "ナイスシュートとは[RAW:2823]いかなかったみたいね。[RAW:2823]ざんねんだわ。[RAW:0E27-0F27]々",
+      "original": "ナイスシュートとは[RAW:2823]いかなかったみたいね。[RAW:2823]ざんねんだわ。[RAW:0E27-0F27]々",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

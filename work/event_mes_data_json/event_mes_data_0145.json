@@ -1,0 +1,38 @@
+{
+  "source_file": "event_mes_data_0145.hav",
+  "container_index": 145,
+  "entry_count": 2,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "わたしは、しがない[RAW:2823]アルバイトです。[RAW:2B23]いそがしい[RAW:0210]さんの[RAW:2823]お役にたてるよう、[RAW:2823]頑張ります！！[RAW:0E27]",
+      "original": "わたしは、しがない[RAW:2823]アルバイトです。[RAW:2B23]いそがしい[RAW:0210]さんの[RAW:2823]お役にたてるよう、[RAW:2823]頑張ります！！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:0210]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "どんなに雨がつめたくても[RAW:2823]わたしはしがないアルバイト。[RAW:2B23-0210]さんのために[RAW:2823]少しでもお役に立てるよう[RAW:2823]頑張ります！！[RAW:0E27-0F27]。",
+      "original": "どんなに雨がつめたくても[RAW:2823]わたしはしがないアルバイト。[RAW:2B23-0210]さんのために[RAW:2823]少しでもお役に立てるよう[RAW:2823]頑張ります！！[RAW:0E27-0F27]。",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2B23-0210]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

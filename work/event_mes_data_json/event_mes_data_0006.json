@@ -1,0 +1,369 @@
+{
+  "source_file": "event_mes_data_0006.hav",
+  "container_index": 6,
+  "entry_count": 36,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "きな粉[RAW:0E27]",
+      "original": "きな粉[RAW:0E27]",
+      "translation": "콩가루[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "小麦粉[RAW:0E27]",
+      "original": "小麦粉[RAW:0E27]",
+      "translation": "밀가루[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "そば粉[RAW:0E27]",
+      "original": "そば粉[RAW:0E27]",
+      "translation": "메밀가루[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "米粉[RAW:0E27]",
+      "original": "米粉[RAW:0E27]",
+      "translation": "쌀가루[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "アスパラ[RAW:0E27]",
+      "original": "アスパラ[RAW:0E27]",
+      "translation": "아스파라거스[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "トマト[RAW:0E27]",
+      "original": "トマト[RAW:0E27]",
+      "translation": "토마토[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "ほうれん草[RAW:0E27]",
+      "original": "ほうれん草[RAW:0E27]",
+      "translation": "시금치[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "そば[RAW:0E27]",
+      "original": "そば[RAW:0E27]",
+      "translation": "메밀[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "カーネーションの種[RAW:0E27]",
+      "original": "カーネーションの種[RAW:0E27]",
+      "translation": "카네이션 씨앗[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "ひまわりの種[RAW:0E27]",
+      "original": "ひまわりの種[RAW:0E27]",
+      "translation": "해바라기 씨앗[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "ホワイトローズの種[RAW:0E27]",
+      "original": "ホワイトローズの種[RAW:0E27]",
+      "translation": "화이트 로즈 씨앗[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "りんどうの種[RAW:0E27]",
+      "original": "りんどうの種[RAW:0E27]",
+      "translation": "린도 씨앗[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "極ヨーグルト[RAW:0E27]",
+      "original": "極ヨーグルト[RAW:0E27]",
+      "translation": "프리미엄 요거트[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "極ハーブマヨネーズ[RAW:0E27]",
+      "original": "極ハーブマヨネーズ[RAW:0E27]",
+      "translation": "프리미엄 허브 마요네즈[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "極ハーブバター[RAW:0E27]",
+      "original": "極ハーブバター[RAW:0E27]",
+      "translation": "프리미엄 허브 버터[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "極果実ヨーグルト[RAW:0E27]",
+      "original": "極果実ヨーグルト[RAW:0E27]",
+      "translation": "프리미엄 과일 요거트[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "いちご[RAW:0E27]",
+      "original": "いちご[RAW:0E27]",
+      "translation": "딸기[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "とうもろこし[RAW:0E27]",
+      "original": "とうもろこし[RAW:0E27]",
+      "translation": "옥수수[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "さつまいも[RAW:0E27]",
+      "original": "さつまいも[RAW:0E27]",
+      "translation": "고구마[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "大根[RAW:0E27]",
+      "original": "大根[RAW:0E27]",
+      "translation": "무[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "鉱山石[RAW:0E27]",
+      "original": "鉱山石[RAW:0E27]",
+      "translation": "광석[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "鉱山石[RAW:0E27]",
+      "original": "鉱山石[RAW:0E27]",
+      "translation": "광석[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "鉱山石[RAW:0E27]",
+      "original": "鉱山石[RAW:0E27]",
+      "translation": "광석[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "鉱山石[RAW:0E27]",
+      "original": "鉱山石[RAW:0E27]",
+      "translation": "광석[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "フライドポテト[RAW:0E27]",
+      "original": "フライドポテト[RAW:0E27]",
+      "translation": "감자튀김[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "たまねぎピクルス[RAW:0E27]",
+      "original": "たまねぎピクルス[RAW:0E27]",
+      "translation": "양파 피클[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "にんじんピクルス[RAW:0E27]",
+      "original": "にんじんピクルス[RAW:0E27]",
+      "translation": "당근 피클[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "はくさいのキムチ[RAW:0E27]",
+      "original": "はくさいのキムチ[RAW:0E27]",
+      "translation": "배추 김치[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "じゃがいも[RAW:0E27]",
+      "original": "じゃがいも[RAW:0E27]",
+      "translation": "감자[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "たまねぎ[RAW:0E27]",
+      "original": "たまねぎ[RAW:0E27]",
+      "translation": "양파[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "にんじん[RAW:0E27]",
+      "original": "にんじん[RAW:0E27]",
+      "translation": "당근[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "白菜[RAW:0E27]",
+      "original": "白菜[RAW:0E27]",
+      "translation": "배추[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "さくらんぼ[RAW:0E27]",
+      "original": "さくらんぼ[RAW:0E27]",
+      "translation": "체리[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "もも[RAW:0E27]",
+      "original": "もも[RAW:0E27]",
+      "translation": "복숭아[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "りんご[RAW:0E27]",
+      "original": "りんご[RAW:0E27]",
+      "translation": "사과[RAW:0E27]",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "みかん[RAW:0E27-0F27]」",
+      "original": "みかん[RAW:0E27-0F27]」",
+      "translation": "귤[RAW:0E27-0F27]」",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

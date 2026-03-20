@@ -1,0 +1,21 @@
+{
+  "source_file": "event_mes_data_0050.hav",
+  "container_index": 50,
+  "entry_count": 1,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:3223-0008]セーブして寝る[RAW:2823-0008]セーブしないで寝る[RAW:0E27-0F27]、",
+      "original": "[RAW:3223-0008]セーブして寝る[RAW:2823-0008]セーブしないで寝る[RAW:0E27-0F27]、",
+      "translation": "[RAW:3223-0008]저장하고 잠자기[RAW:2823-0008]저장 안 하고 잠자기[RAW:0E27-0F27]、",
+      "controls": [
+        "[RAW:3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

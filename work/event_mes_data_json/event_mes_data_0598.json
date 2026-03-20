@@ -1,0 +1,31 @@
+{
+  "source_file": "event_mes_data_0598.hav",
+  "container_index": 598,
+  "entry_count": 2,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:401F-A81F-481F-3521]むらはずれー[RAW:0E27]",
+      "original": "[RAW:401F-A81F-481F-3521]むらはずれー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A81F-481F-3521]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:401F-A81F-481F]かなり遠くまで来てしまった。[RAW:0E27-0F27]。",
+      "original": "[RAW:401F-A81F-481F]かなり遠くまで来てしまった。[RAW:0E27-0F27]。",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A81F-481F]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

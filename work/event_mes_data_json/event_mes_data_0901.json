@@ -1,0 +1,448 @@
+{
+  "source_file": "event_mes_data_0901.hav",
+  "container_index": 901,
+  "entry_count": 40,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:401F-1320-AA1F-481F-3521-1420]おじゃまするよ、[RAW:2823-2A23]。[RAW:0E27]",
+      "original": "[RAW:401F-1320-AA1F-481F-3521-1420]おじゃまするよ、[RAW:2823-2A23]。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-1320-AA1F-481F-3521-1420]",
+        "[RAW:2823-2A23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:401F-AA1F-481F-3521]今日は女性にプレゼントを[RAW:2823]渡す日だそうだな。[RAW:2B23-401F-AA1F-491F-3521]そんなわけで、キミにも[RAW:2823]渡しておこうと思ってね。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]今日は女性にプレゼントを[RAW:2823]渡す日だそうだな。[RAW:2B23-401F-AA1F-491F-3521]そんなわけで、キミにも[RAW:2823]渡しておこうと思ってね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "[RAW:401F-AA1F-481F-3521]今日はキミにプレゼントを[RAW:2823]持って来たんだ。[RAW:2B23-401F-AA1F-491F-3521]感謝祭のお菓子だよ。[RAW:2823]受け取ってくれ。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]今日はキミにプレゼントを[RAW:2823]持って来たんだ。[RAW:2B23-401F-AA1F-491F-3521]感謝祭のお菓子だよ。[RAW:2823]受け取ってくれ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "[RAW:401F-AA1F-481F-3521]今日はお世話になっている[RAW:2823]女性に、プレゼントを渡す日と[RAW:2823]聞いてね。[RAW:2B23-401F-AA1F-491F-3521]キミに渡そうと思って[RAW:2823]持って来たんだ。[RAW:2823]受け取ってくれ。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]今日はお世話になっている[RAW:2823]女性に、プレゼントを渡す日と[RAW:2823]聞いてね。[RAW:2B23-401F-AA1F-491F-3521]キミに渡そうと思って[RAW:2823]持って来たんだ。[RAW:2823]受け取ってくれ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "[RAW:401F-AA1F-481F-3521]冬にキミから、お菓子を[RAW:2823]もらっただろう？[RAW:2B23-401F-AA1F-491F-3521]今日はそのお礼を[RAW:2823]渡しに来たんだ。[RAW:2B23-401F-AA1F-4D1F-3521]大したものじゃないが、[RAW:2823]受け取ってほしい。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]冬にキミから、お菓子を[RAW:2823]もらっただろう？[RAW:2B23-401F-AA1F-491F-3521]今日はそのお礼を[RAW:2823]渡しに来たんだ。[RAW:2B23-401F-AA1F-4D1F-3521]大したものじゃないが、[RAW:2823]受け取ってほしい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-4D1F-3521]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "[RAW:401F-AA1F-481F-3521]去年の感謝祭では、キミから[RAW:2823]お菓子をもらったからね。[RAW:2B23-401F-AA1F-491F-3521]今日はオレの番だよ。[RAW:2B23-401F-AA1F-4D1F-3521]いつもなら一曲聞かせる[RAW:2823]ところだけど、感謝祭だから[RAW:2823]オレもお菓子を用意したよ。[RAW:2B23]これを受け取ってほしい。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]去年の感謝祭では、キミから[RAW:2823]お菓子をもらったからね。[RAW:2B23-401F-AA1F-491F-3521]今日はオレの番だよ。[RAW:2B23-401F-AA1F-4D1F-3521]いつもなら一曲聞かせる[RAW:2823]ところだけど、感謝祭だから[RAW:2823]オレもお菓子を用意したよ。[RAW:2B23]これを受け取ってほしい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2B23-401F-AA1F-4D1F-3521]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "[RAW:401F-AA1F-481F-3521]今日は感謝祭のお返しを[RAW:2823]持って来たんだ。[RAW:2B23-401F-AA1F-491F-3521]去年はとてもおいしい[RAW:2823]お菓子をもらったからね。[RAW:2B23-401F-AA1F-4D1F-3521]オレも頑張っておいしい[RAW:2823]お菓子を用意したよ。[RAW:2823]受け取ってくれるかな。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]今日は感謝祭のお返しを[RAW:2823]持って来たんだ。[RAW:2B23-401F-AA1F-491F-3521]去年はとてもおいしい[RAW:2823]お菓子をもらったからね。[RAW:2B23-401F-AA1F-4D1F-3521]オレも頑張っておいしい[RAW:2823]お菓子を用意したよ。[RAW:2823]受け取ってくれるかな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-AA1F-4D1F-3521]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "[RAW:401F-AA1F-481F-3521]では、オレはこれで失礼する。[RAW:2B23-401F-AA1F-491F-3521]またな、[RAW:2A23]。[RAW:0E27]",
+      "original": "[RAW:401F-AA1F-481F-3521]では、オレはこれで失礼する。[RAW:2B23-401F-AA1F-491F-3521]またな、[RAW:2A23]。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AA1F-481F-3521]",
+        "[RAW:2B23-401F-AA1F-491F-3521]",
+        "[RAW:2A23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "36",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "37",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "38",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "39",
+      "message": "ダミー[RAW:0E27-0F27]】",
+      "original": "ダミー[RAW:0E27-0F27]】",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

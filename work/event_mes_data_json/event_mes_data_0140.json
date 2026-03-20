@@ -1,0 +1,105 @@
+{
+  "source_file": "event_mes_data_0140.hav",
+  "container_index": 140,
+  "entry_count": 9,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:0E27]",
+      "original": "[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:0E27]",
+      "original": "[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:0E27]",
+      "original": "[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:0E27]",
+      "original": "[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "ダミー[RAW:1108-0E27]",
+      "original": "ダミー[RAW:1108-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:1108-0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "ダミー[RAW:1208-0E27]",
+      "original": "ダミー[RAW:1208-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:1208-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:411F-A41F-481F-3223-0008]もちろん！[RAW:2823-0008]まだ準備ができてない[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3223-0008]もちろん！[RAW:2823-0008]まだ準備ができてない[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:411F-A41F-481F-3223-0008]そろそろ始める！[RAW:2823-0008]まだ準備ができてない[RAW:0E27]",
+      "original": "[RAW:411F-A41F-481F-3223-0008]そろそろ始める！[RAW:2823-0008]まだ準備ができてない[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:411F-A41F-481F-3223-0008]これで大丈夫！[RAW:2823-0008]やっぱり考えなおす[RAW:0E27-0F27]！",
+      "original": "[RAW:411F-A41F-481F-3223-0008]これで大丈夫！[RAW:2823-0008]やっぱり考えなおす[RAW:0E27-0F27]！",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

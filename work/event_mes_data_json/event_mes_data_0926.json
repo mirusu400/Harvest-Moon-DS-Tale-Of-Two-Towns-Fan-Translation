@@ -1,0 +1,153 @@
+{
+  "source_file": "event_mes_data_0926.hav",
+  "container_index": 926,
+  "entry_count": 11,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:401F-B91F-481F]今夜は雲もなくて[RAW:2823]お月見にはもってこいだな。[RAW:2B23-401F-B91F-491F]みんな、今だけは仕事を忘れて[RAW:2823]ゆっくりと月を[RAW:2823]愛でようじゃないか！[RAW:0E27]",
+      "original": "[RAW:401F-B91F-481F]今夜は雲もなくて[RAW:2823]お月見にはもってこいだな。[RAW:2B23-401F-B91F-491F]みんな、今だけは仕事を忘れて[RAW:2823]ゆっくりと月を[RAW:2823]愛でようじゃないか！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-B91F-481F]",
+        "[RAW:2823]",
+        "[RAW:2B23-401F-B91F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:401F-AE1F-491F]きれいなお月さま。[RAW:2823]銀色にかがやいて[RAW:2823]まるで宝石のようだわ。[RAW:0E27]",
+      "original": "[RAW:401F-AE1F-491F]きれいなお月さま。[RAW:2823]銀色にかがやいて[RAW:2823]まるで宝石のようだわ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AE1F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:401F-A71F-491F]本当ですね。[RAW:2823]とても大きくて[RAW:2823]手をのばせば届きそうです。[RAW:0E27]",
+      "original": "[RAW:401F-A71F-491F]本当ですね。[RAW:2823]とても大きくて[RAW:2823]手をのばせば届きそうです。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A71F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:401F-BD1F-491F]ふふ、たまにはこうして[RAW:2823]のんびりした時間を過ごすのも[RAW:2823]いいものね。[RAW:0E27]",
+      "original": "[RAW:401F-BD1F-491F]ふふ、たまにはこうして[RAW:2823]のんびりした時間を過ごすのも[RAW:2823]いいものね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-BD1F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:401F-AD1F-491F]きれい♪[RAW:2823]じっと見つめていると[RAW:2823]心が吸い込まれてしまいそう。[RAW:0E27]",
+      "original": "[RAW:401F-AD1F-491F]きれい♪[RAW:2823]じっと見つめていると[RAW:2823]心が吸い込まれてしまいそう。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-AD1F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:401F-A91F-491F]月はきれいだし[RAW:2823]月見だんごはうまいし[RAW:2823]言うことなしだな！[RAW:0E27]",
+      "original": "[RAW:401F-A91F-491F]月はきれいだし[RAW:2823]月見だんごはうまいし[RAW:2823]言うことなしだな！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-A91F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:401F-BE1F-491F]あらあら、うれしいわー。[RAW:2823]おだんごはたくさんあるから[RAW:2823]どんどん食べてね。[RAW:0E27]",
+      "original": "[RAW:401F-BE1F-491F]あらあら、うれしいわー。[RAW:2823]おだんごはたくさんあるから[RAW:2823]どんどん食べてね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-BE1F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:401F-B91F-491F]風流だな。[RAW:2823]風も涼しくて[RAW:2823]とても心地いい。[RAW:0E27]",
+      "original": "[RAW:401F-B91F-491F]風流だな。[RAW:2823]風も涼しくて[RAW:2823]とても心地いい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-B91F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:401F-C11F-491F]ふん。[RAW:2823]虫たちも気持ちよさそうに[RAW:2823]ないておるわ。[RAW:0E27]",
+      "original": "[RAW:401F-C11F-491F]ふん。[RAW:2823]虫たちも気持ちよさそうに[RAW:2823]ないておるわ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-C11F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "[RAW:401F-BB1F-491F]心が落ち着くのう。[RAW:2823]いつの間にか[RAW:2823]眠ってしまいそうじゃ。[RAW:0E27]",
+      "original": "[RAW:401F-BB1F-491F]心が落ち着くのう。[RAW:2823]いつの間にか[RAW:2823]眠ってしまいそうじゃ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-BB1F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:401F-B91F-481F]もう夜も遅いな。[RAW:2823]そろそろ村に戻ろうか。[RAW:0E27-0F27]゜",
+      "original": "[RAW:401F-B91F-481F]もう夜も遅いな。[RAW:2823]そろそろ村に戻ろうか。[RAW:0E27-0F27]゜",
+      "translation": "",
+      "controls": [
+        "[RAW:401F-B91F-481F]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

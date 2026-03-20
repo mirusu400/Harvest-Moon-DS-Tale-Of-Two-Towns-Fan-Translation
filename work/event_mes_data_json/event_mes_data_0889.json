@@ -1,0 +1,39 @@
+{
+  "source_file": "event_mes_data_0889.hav",
+  "container_index": 889,
+  "entry_count": 2,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-C61F-481F-3621]ぱんぱかぱーん♪[RAW:2823-2A23]ちゃん、[RAW:2823]頑張ってくれてるみたいね～！[RAW:2B23]今の村同士の仲良し度は[RAW:2823]こんな感じよ～！[RAW:0E27]",
+      "original": "[RAW:411F-C61F-481F-3621]ぱんぱかぱーん♪[RAW:2823-2A23]ちゃん、[RAW:2823]頑張ってくれてるみたいね～！[RAW:2B23]今の村同士の仲良し度は[RAW:2823]こんな感じよ～！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621]",
+        "[RAW:2823-2A23]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-C61F-481F-3621]ぱんぱかぱーん♪[RAW:2823-2A23]ちゃん、[RAW:2823]やるわね～！！[RAW:2B23]今の村同士の仲良し度は[RAW:2823]こんな感じよ～！[RAW:0E27-0F27]。",
+      "original": "[RAW:411F-C61F-481F-3621]ぱんぱかぱーん♪[RAW:2823-2A23]ちゃん、[RAW:2823]やるわね～！！[RAW:2B23]今の村同士の仲良し度は[RAW:2823]こんな感じよ～！[RAW:0E27-0F27]。",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621]",
+        "[RAW:2823-2A23]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

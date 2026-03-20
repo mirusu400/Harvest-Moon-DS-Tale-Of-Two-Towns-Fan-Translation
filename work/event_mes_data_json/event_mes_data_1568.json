@@ -1,0 +1,375 @@
+{
+  "source_file": "event_mes_data_1568.hav",
+  "container_index": 1568,
+  "entry_count": 29,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "いらっしゃい。[RAW:2823]ここはレアクジ引き屋の[RAW:2823]レアロットですわ。[RAW:9023-0E27]",
+      "original": "いらっしゃい。[RAW:2823]ここはレアクジ引き屋の[RAW:2823]レアロットですわ。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "…あら、この店は初めて？[RAW:2823]ここではお金ではなく[RAW:6D20]コイン[RAW:6C20]で[RAW:2823]クジ引きができますわ。[RAW:2B23]ゴールドコインなら１枚、[RAW:2823]シルバーコインなら３枚、[RAW:2823]ブロンズコインなら５枚あれば[RAW:2B23]１回クジ引きができますの。[RAW:2823]ハズレはありませんし、[RAW:2823]もし大当たりがでれば…[RAW:2B23]普通のクジ屋では手に入らない[RAW:2823]ような、レアなアイテムを[RAW:2823]さしあげますわ[RAW:6D20]◯[RAW:6C20-9023-0E27]",
+      "original": "…あら、この店は初めて？[RAW:2823]ここではお金ではなく[RAW:6D20]コイン[RAW:6C20]で[RAW:2823]クジ引きができますわ。[RAW:2B23]ゴールドコインなら１枚、[RAW:2823]シルバーコインなら３枚、[RAW:2823]ブロンズコインなら５枚あれば[RAW:2B23]１回クジ引きができますの。[RAW:2823]ハズレはありませんし、[RAW:2823]もし大当たりがでれば…[RAW:2B23]普通のクジ屋では手に入らない[RAW:2823]ような、レアなアイテムを[RAW:2823]さしあげますわ[RAW:6D20]◯[RAW:6C20-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:6D20]",
+        "[RAW:6C20-9023-0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-A41F-481F]レアクジを引きますの？[RAW:2823-3223-0008]レアクジを引く[RAW:2823-0008]やめる[RAW:9023-0E27]",
+      "original": "[RAW:411F-A41F-481F]レアクジを引きますの？[RAW:2823-3223-0008]レアクジを引く[RAW:2823-0008]やめる[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A41F-481F]",
+        "[RAW:2823-3223-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "あら、やめるんですの？[RAW:2823]そうですわね…時の運、とも[RAW:2823]いいますものね。[RAW:0E27]",
+      "original": "あら、やめるんですの？[RAW:2823]そうですわね…時の運、とも[RAW:2823]いいますものね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "まあ…残念。[RAW:2823]コインが足りないようですわ。[RAW:2823]でなおしてきてくださいませ。[RAW:0E27]",
+      "original": "まあ…残念。[RAW:2823]コインが足りないようですわ。[RAW:2823]でなおしてきてくださいませ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "どのコインで引きますの？[RAW:2B23-411F-A41F-481F-3323-0008]ゴールドコイン１枚で引く！[RAW:2823-0008]シルバーコイン３枚で引く！[RAW:2823-0008]ブロンズコイン５枚で引く！[RAW:9023-0E27]",
+      "original": "どのコインで引きますの？[RAW:2B23-411F-A41F-481F-3323-0008]ゴールドコイン１枚で引く！[RAW:2823-0008]シルバーコイン３枚で引く！[RAW:2823-0008]ブロンズコイン５枚で引く！[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2B23-411F-A41F-481F-3323-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:2823-0008]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:431F]わかりましたわ。[RAW:2823]では、あなたのその運、[RAW:2823]試してみましょう！[RAW:2B23]…………！！[RAW:9023-0E27]",
+      "original": "[RAW:431F]わかりましたわ。[RAW:2823]では、あなたのその運、[RAW:2823]試してみましょう！[RAW:2B23]…………！！[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:431F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "賞品の[RAW:6D20-0010-6C20]に[RAW:2823]なりますわ。[RAW:2823]大切にしてくださいませね。[RAW:0E27]",
+      "original": "賞品の[RAW:6D20-0010-6C20]に[RAW:2823]なりますわ。[RAW:2823]大切にしてくださいませね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20-0010-6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "運とは、まるで季節のように[RAW:2823]日々うつりかわるもの。[RAW:2B23]また、[RAW:2823]いつでもおいでくださいませ。[RAW:0E27]",
+      "original": "運とは、まるで季節のように[RAW:2823]日々うつりかわるもの。[RAW:2B23]また、[RAW:2823]いつでもおいでくださいませ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "…あら。今日はあなた、[RAW:2823]もうたくさんクジ引きを[RAW:2823]していますわ。[RAW:2B23]運は限りあるもの。[RAW:2823]そんなに使ったらなくなって[RAW:2823]しまいますわ。[RAW:2B23]また来週いらして。ね？[RAW:0E27]",
+      "original": "…あら。今日はあなた、[RAW:2823]もうたくさんクジ引きを[RAW:2823]していますわ。[RAW:2B23]運は限りあるもの。[RAW:2823]そんなに使ったらなくなって[RAW:2823]しまいますわ。[RAW:2B23]また来週いらして。ね？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "ダミー[RAW:0E27]",
+      "original": "ダミー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "＜結果はどうかな＞[RAW:0E27]",
+      "original": "＜結果はどうかな＞[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "…まぁ！！　[RAW:6D20]特賞[RAW:6C20]ですわ！[RAW:2823]フフッ、あなたってすごく運が[RAW:2823]良いのですね。すごいですわ。[RAW:0E27]",
+      "original": "…まぁ！！　[RAW:6D20]特賞[RAW:6C20]ですわ！[RAW:2823]フフッ、あなたってすごく運が[RAW:2823]良いのですね。すごいですわ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "[RAW:6D20]１等[RAW:6C20]ですわ。[RAW:2823]大当たりですわね♪[RAW:2823]とってもすごいですわ[RAW:6D20]◯[RAW:6C20-0E27]",
+      "original": "[RAW:6D20]１等[RAW:6C20]ですわ。[RAW:2823]大当たりですわね♪[RAW:2823]とってもすごいですわ[RAW:6D20]◯[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "[RAW:6D20]２等[RAW:6C20]ですわ[RAW:0108]　[RAW:2823]当たりですわね！！　かなり[RAW:2823]良い運をお持ちのようですわ♪[RAW:0E27]",
+      "original": "[RAW:6D20]２等[RAW:6C20]ですわ[RAW:0108]　[RAW:2823]当たりですわね！！　かなり[RAW:2823]良い運をお持ちのようですわ♪[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:0108]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "[RAW:6D20]３等[RAW:6C20]ですわ[RAW:0108]　[RAW:2823]なかなか良い運をお持ちの[RAW:2823]ようですわね。[RAW:0E27]",
+      "original": "[RAW:6D20]３等[RAW:6C20]ですわ[RAW:0108]　[RAW:2823]なかなか良い運をお持ちの[RAW:2823]ようですわね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:0108]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "[RAW:6D20]４等[RAW:6C20]！！　ミニ当たりですわ！[RAW:2823]それなりに良い運をお持ちの[RAW:2823]ようですわね。[RAW:0E27]",
+      "original": "[RAW:6D20]４等[RAW:6C20]！！　ミニ当たりですわ！[RAW:2823]それなりに良い運をお持ちの[RAW:2823]ようですわね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "[RAW:6D20]５等[RAW:6C20]ですわ。[RAW:2823]次はもっと良いものが[RAW:2823]当たると良いですわね。[RAW:0E27]",
+      "original": "[RAW:6D20]５等[RAW:6C20]ですわ。[RAW:2823]次はもっと良いものが[RAW:2823]当たると良いですわね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "あら…残念。[RAW:2823]ハズレですわ。[RAW:2B23]でも、めげずにまた挑戦して[RAW:2823]くださいませね。待ってますわ。[RAW:0E27]",
+      "original": "あら…残念。[RAW:2823]ハズレですわ。[RAW:2B23]でも、めげずにまた挑戦して[RAW:2823]くださいませね。待ってますわ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "[RAW:6D20]６等[RAW:6C20]ですわ。[RAW:2823]次はもっともっと良いものが[RAW:2823]当たると良いですわね。[RAW:0E27-0F27]［",
+      "original": "[RAW:6D20]６等[RAW:6C20]ですわ。[RAW:2823]次はもっともっと良いものが[RAW:2823]当たると良いですわね。[RAW:0E27-0F27]［",
+      "translation": "",
+      "controls": [
+        "[RAW:6D20]",
+        "[RAW:6C20]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

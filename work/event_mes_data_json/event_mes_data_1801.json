@@ -1,0 +1,251 @@
+{
+  "source_file": "event_mes_data_1801.hav",
+  "container_index": 1801,
+  "entry_count": 20,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "[RAW:411F-A61F-481F-3621]けいじ板を見て[RAW:2823]来てくれたんだね。[RAW:2823]ありがとう！[RAW:0E27]",
+      "original": "[RAW:411F-A61F-481F-3621]けいじ板を見て[RAW:2823]来てくれたんだね。[RAW:2823]ありがとう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A61F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "[RAW:411F-A61F-491F-3621]ありがとう！[RAW:2823]さすがだね。[RAW:2823]カンペキな仕事だよ！[RAW:2B23]これであの子に[RAW:2823]誕生日プレゼントを[RAW:2823]作ってあげられるよ！[RAW:2B23-411F-A61F-481F]…え？[RAW:2823]だれにあげるのかって？[RAW:2B23-411F-A61F-491F]リコリスにあげるんだ。[RAW:2823]約束しててね。…あ、[RAW:2823]シェリルには内緒だよ。[RAW:2B23-411F-A61F-4C1F]また何かゴカイして、[RAW:2823]前みたいな騒ぎを[RAW:2823]おこしたら大変だから…。[RAW:2B23-411F-A61F-481F]ん？　何があったのかって？[RAW:2823]……[RAW:0B27-411F-A61F-4C1F]ごめん。それは[RAW:2823]オレからはとても言えないよ。[RAW:0E27]",
+      "original": "[RAW:411F-A61F-491F-3621]ありがとう！[RAW:2823]さすがだね。[RAW:2823]カンペキな仕事だよ！[RAW:2B23]これであの子に[RAW:2823]誕生日プレゼントを[RAW:2823]作ってあげられるよ！[RAW:2B23-411F-A61F-481F]…え？[RAW:2823]だれにあげるのかって？[RAW:2B23-411F-A61F-491F]リコリスにあげるんだ。[RAW:2823]約束しててね。…あ、[RAW:2823]シェリルには内緒だよ。[RAW:2B23-411F-A61F-4C1F]また何かゴカイして、[RAW:2823]前みたいな騒ぎを[RAW:2823]おこしたら大変だから…。[RAW:2B23-411F-A61F-481F]ん？　何があったのかって？[RAW:2823]……[RAW:0B27-411F-A61F-4C1F]ごめん。それは[RAW:2823]オレからはとても言えないよ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A61F-491F-3621]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-A61F-481F]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-A61F-491F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-A61F-4C1F]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:2B23-411F-A61F-481F]",
+        "[RAW:2823]",
+        "[RAW:0B27-411F-A61F-4C1F]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "[RAW:411F-A61F-481F-3621]とにかく、助かったよ。[RAW:2823]ありがとう。[RAW:0E27]",
+      "original": "[RAW:411F-A61F-481F-3621]とにかく、助かったよ。[RAW:2823]ありがとう。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A61F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "[RAW:411F-A61F-491F-3621]じゃあ、お礼を渡さないとね。[RAW:2823]受け取ってもらえるかな。[RAW:0E27]",
+      "original": "[RAW:411F-A61F-491F-3621]じゃあ、お礼を渡さないとね。[RAW:2823]受け取ってもらえるかな。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A61F-491F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "[RAW:411F-A61F-481F-3621]本当に助かったよ。[RAW:2823]また次もよろしくね。[RAW:0E27]",
+      "original": "[RAW:411F-A61F-481F-3621]本当に助かったよ。[RAW:2823]また次もよろしくね。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-A61F-481F-3621]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27-0F27]‥",
+      "original": "[RAW:411F-C61F-481F-3621-6D20]★ＥＲＲＯＲ！★[RAW:6C20-0E27-0F27]‥",
+      "translation": "",
+      "controls": [
+        "[RAW:411F-C61F-481F-3621-6D20]",
+        "[RAW:6C20-0E27-0F27]"
+      ]
+    }
+  ]
+}
