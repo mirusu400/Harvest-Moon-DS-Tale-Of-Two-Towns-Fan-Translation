@@ -14,7 +14,6 @@ base_path = os.path.join(script_dir, "..", "work", "event_mes_data_json")
 if os.path.exists(TM_FILE):
     with open(TM_FILE, "r", encoding="utf-8") as f:
         translation_memory = json.load(f)
-    print(f"✅ 번역 메모리 로드 완료: {len(translation_memory)}개")
 
 SPECIAL_TAGS = {
     "[RAW:2A23]": "\n\n",  # 문단 개행 (길이가 긴 것부터 먼저 처리해야 꼬이지 않음)
