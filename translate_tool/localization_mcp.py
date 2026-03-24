@@ -20,6 +20,12 @@ SPECIAL_TAGS = {
     "[RAW:2823]": "\n",  # 줄 개행
 }
 
+# 개행 태그 목록 (검증 시 사용)
+NEWLINE_RAW_TAGS = {"[RAW:2A23]", "[RAW:2823]"}
+
+MAX_CHARS_PER_LINE = 14
+BATCH_SIZE = 50
+
 
 def get_pure_text(text):
     if not text:
@@ -27,7 +33,6 @@ def get_pure_text(text):
     return re.sub(r"\[.*?\]", "", text).strip()
 
 
-# [중요 버그 수정] 여러 파일의 name(예: "1", "2")이 겹쳐서 태그가 박살나는 것을 방지하기 위해 file_path를 키값에 추가
 def mask_text(text, file_path, entry_id):
     masked = text
 
@@ -50,25 +55,96 @@ def unmask_text(masked_text, file_path, entry_id):
     key = f"{file_path}_{entry_id}"
     unmasked = masked_text
 
-    # 1. <0>, <1> 로 마스킹된 일반 태그들을 먼저 복구합니다.
     if key in code_map:
         codes = code_map[key]
         for i, code in enumerate(codes):
             unmasked = unmasked.replace(f"<{i}>", code)
 
-    # 2. 실제 개행 문자(\n)를 다시 게임의 원래 제어 코드로 복구합니다.
-    # [주의] 반드시 \n\n 을 \n 보다 먼저 치환해야 버그가 발생하지 않습니다!
+    # 실제 개행 문자(\n)를 다시 게임의 원래 제어 코드로 복구합니다.
+    unmasked = unmasked.replace("\\n\\n", "[RAW:2A23]")
+    unmasked = unmasked.replace("\\n", "[RAW:2823]")
     unmasked = unmasked.replace("\n\n", "[RAW:2A23]")
     unmasked = unmasked.replace("\n", "[RAW:2823]")
 
     return unmasked
 
 
+def _count_newlines_in_original(message: str) -> dict:
+    return {
+        "paragraph": message.count("[RAW:2A23]"),
+        "line": message.count("[RAW:2823]"),
+    }
+
+
+def _count_newlines_in_translation(translated: str) -> dict:
+    return {
+        "paragraph": translated.count("[RAW:2A23]"),
+        "line": translated.count("[RAW:2823]"),
+    }
+
+
+def _get_line_lengths(translated: str) -> list:
+    temp = translated.replace("[RAW:2A23]", "\n").replace("[RAW:2823]", "\n")
+    lines = temp.split("\n")
+    result = []
+    for line in lines:
+        pure = re.sub(r"\[.*?\]", "", line)
+        result.append(len(pure))
+    return result
+
+
+def _extract_non_newline_tags(message: str) -> list:
+    all_tags = re.findall(r"\[.*?\]", message)
+    return [t for t in all_tags if t not in NEWLINE_RAW_TAGS]
+
+
+def validate_translation(
+    original_message: str,
+    translated_unmasked: str,
+    entry_name: str,
+) -> list:
+    errors = []
+
+    # 1. 불법 태그 검사
+    illegal_tags = re.findall(r"<br\s*/?>", translated_unmasked, re.IGNORECASE)
+    if illegal_tags:
+        errors.append(f"[{entry_name}] 금지된 태그 발견: {illegal_tags}")
+
+    # 2. 비개행 제어코드 태그 무결성 검사
+    orig_tags = _extract_non_newline_tags(original_message)
+    trans_tags = _extract_non_newline_tags(translated_unmasked)
+    if orig_tags != trans_tags:
+        errors.append(
+            f"[{entry_name}] 제어코드 불일치 — 원본: {orig_tags}, 번역: {trans_tags}"
+        )
+
+    # 3. 개행 수 검사
+    orig_nl = _count_newlines_in_original(original_message)
+    trans_nl = _count_newlines_in_translation(translated_unmasked)
+    if orig_nl != trans_nl:
+        errors.append(
+            f"[{entry_name}] 개행 수 불일치 — "
+            f"원본(줄:{orig_nl['line']}, 문단:{orig_nl['paragraph']}), "
+            f"번역(줄:{trans_nl['line']}, 문단:{trans_nl['paragraph']})"
+        )
+
+    # 4. 줄당 글자 수 검사
+    line_lengths = _get_line_lengths(translated_unmasked)
+    for idx, length in enumerate(line_lengths):
+        if length > MAX_CHARS_PER_LINE:
+            errors.append(
+                f"[{entry_name}] {idx+1}번째 줄 글자 수 초과: {length}자 (제한: {MAX_CHARS_PER_LINE}자)"
+            )
+
+    return errors
+
+
 @mcp.tool()
 def get_next_translation_data() -> str:
     """
     번역이 안 된 첫 번째 파일을 찾고,
-    해당 파일의 모든 미번역 항목을 마스킹하여 반환합니다.
+    해당 파일의 미번역 항목을 최대 50개씩 배치로 반환합니다.
+    한 파일 내에 미번역이 50개 이상이면 여러 번 호출하여 처리합니다.
     """
     folder_path = base_path
     if not os.path.exists(folder_path):
@@ -102,21 +178,31 @@ def get_next_translation_data() -> str:
         return "🎉 모든 파일의 번역이 완료되었습니다!"
 
     target_file_path = os.path.join(folder_path, target_file)
-    slim_entries = []
 
+    # 미번역 엔트리 전체 수집
+    all_untranslated = []
     for entry in target_data.get("entries", []):
         if entry.get("translation"):
             continue
         original_msg = entry.get("message", "")
         if not original_msg.strip():
             continue
+        all_untranslated.append(entry)
 
+    # 배치 슬라이싱
+    batch = all_untranslated[:BATCH_SIZE]
+    remaining = len(all_untranslated) - len(batch)
+
+    slim_entries = []
+    for entry in batch:
         slim_entry = {
             "name": entry["name"],
-            "message": mask_text(original_msg, target_file_path, entry["name"]),
+            "message": mask_text(
+                entry.get("message", ""), target_file_path, entry["name"]
+            ),
         }
 
-        pure_jp = get_pure_text(original_msg)
+        pure_jp = get_pure_text(entry.get("message", ""))
         hints = {}
         for translation_ori_jp, translation_kr in translation_memory.items():
             if translation_ori_jp in pure_jp:
@@ -128,7 +214,8 @@ def get_next_translation_data() -> str:
 
     result = {
         "file": target_file,
-        "total_entries": len(slim_entries),
+        "batch_size": len(slim_entries),
+        "remaining_in_file": remaining,
         "entries": slim_entries,
     }
     return json.dumps(result, ensure_ascii=False, indent=2)
@@ -136,7 +223,10 @@ def get_next_translation_data() -> str:
 
 @mcp.tool()
 def save_translated_json(original_file_name: str, translated_json_str: str) -> str:
-    """클로드의 번역 결과물을 원본 파일에 안전하게 끼워넣습니다."""
+    """
+    번역 결과를 원본 파일에 안전하게 머지합니다.
+    검증 실패 엔트리는 머지하지 않고 스킵하며, 실패 내역을 리포트합니다.
+    """
     original_file_path = os.path.join(base_path, original_file_name)
     with open(original_file_path, "r", encoding="utf-8") as f:
         original_data = json.load(f)
@@ -151,25 +241,65 @@ def save_translated_json(original_file_name: str, translated_json_str: str) -> s
     except Exception as e:
         return f"데이터 파싱 에러: {e}"
 
+    original_entry_map = {}
+    for entry in original_data.get("entries", []):
+        original_entry_map[entry["name"]] = entry
+
     translation_map = {}
     for item in claude_entries:
         if isinstance(item, dict) and "name" in item and "translation" in item:
             translation_map[item["name"]] = item["translation"]
 
-    for entry in original_data.get("entries", []):
-        name_id = entry["name"]
-        if name_id in translation_map:
-            entry["translation"] = unmask_text(
-                translation_map[name_id], original_file_path, name_id
-            )
+    merged_count = 0
+    skipped_entries = []
+    all_errors = []
+
+    for name_id, raw_translation in translation_map.items():
+        orig_entry = original_entry_map.get(name_id)
+        if not orig_entry:
+            skipped_entries.append(name_id)
+            all_errors.append(f"[{name_id}] 원본에 해당 name이 없음 — 스킵")
+            continue
+
+        original_message = orig_entry.get("message", "")
+        unmasked = unmask_text(raw_translation, original_file_path, name_id)
+
+        errors = validate_translation(original_message, unmasked, name_id)
+
+        if errors:
+            skipped_entries.append(name_id)
+            all_errors.extend(errors)
+            key = f"{original_file_path}_{name_id}"
+            code_map.pop(key, None)
+            continue
+
+        orig_entry["translation"] = unmasked
+        merged_count += 1
+
+        key = f"{original_file_path}_{name_id}"
+        code_map.pop(key, None)
 
     with open(original_file_path, "w", encoding="utf-8") as f:
         json.dump(original_data, f, ensure_ascii=False, indent=2)
 
-    for name_id in translation_map:
-        key = f"{original_file_path}_{name_id}"
-        code_map.pop(key, None)
-    return f"원본 손실 없이 부분 병합(Merge) 저장되었습니다: {original_file_path}"
+    report_lines = [
+        f"✅ 머지 완료: {merged_count}건",
+        f"❌ 검증 실패 스킵: {len(skipped_entries)}건",
+    ]
+
+    if all_errors:
+        report_lines.append("")
+        report_lines.append("=== 검증 실패 상세 ===")
+        for err in all_errors:
+            report_lines.append(f"  • {err}")
+        report_lines.append("")
+        report_lines.append(
+            "⚠️ 스킵된 엔트리는 미번역 상태로 남아있으므로 "
+            "다음 get_next_translation_data 호출 시 다시 포함됩니다."
+        )
+
+    report_lines.append(f"\n저장 경로: {original_file_path}")
+    return "\n".join(report_lines)
 
 
 if __name__ == "__main__":
