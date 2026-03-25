@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -21,7 +21,7 @@
       "name": "1",
       "message": "[RAW:461F-B71F-481F-3621]昨日はみなさんの無事を、[RAW:2823]女神さまに祈っていました。[RAW:2823]何事もなくて良かったですよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]昨日はみなさんの無事を、[RAW:2823]女神さまに祈っていました。[RAW:2823]何事もなくて良かったですよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]어제는 모두의 무사함을、[RAW:2823]여신님께 기도했습니다。[RAW:2823]아무 일 없어 다행입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -34,7 +34,7 @@
       "name": "2",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -45,7 +45,7 @@
       "name": "3",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -56,7 +56,7 @@
       "name": "4",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -67,7 +67,7 @@
       "name": "5",
       "message": "[RAW:461F-B71F-491F-3621]この子は女神さまの祝福を[RAW:2823]多く受けておりますぞ。[RAW:2823]ありがたい事です。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]この子は女神さまの祝福を[RAW:2823]多く受けておりますぞ。[RAW:2823]ありがたい事です。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]이 아이는 여신님의 축복을[RAW:2823]많이 받고 있습니다。[RAW:2823]참 감사한 일입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -80,7 +80,7 @@
       "name": "6",
       "message": "[RAW:461F-B71F-4B1F-3621]………苦手なのです…。[RAW:2823]申し訳ありませんが、[RAW:2823]おろしてください。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]………苦手なのです…。[RAW:2823]申し訳ありませんが、[RAW:2823]おろしてください。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]………힘듭니다…。[RAW:2823]죄송합니다만、[RAW:2823]내려 주십시오。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -93,7 +93,7 @@
       "name": "7",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -104,7 +104,7 @@
       "name": "8",
       "message": "[RAW:461F-B71F-491F-3621]おお、神聖な青い羽根…。[RAW:2823]女神さまも喜んでいます。[RAW:2823]きっと成功するでしょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おお、神聖な青い羽根…。[RAW:2823]女神さまも喜んでいます。[RAW:2823]きっと成功するでしょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]오오、신성한 파란 깃털…。[RAW:2823]여신님도 기뻐하십니다。[RAW:2823]분명 잘될 것입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -117,7 +117,7 @@
       "name": "9",
       "message": "[RAW:461F-B71F-481F-3621]今のわたくしには、[RAW:2823]必要がありません。[RAW:2823]申し訳ございません。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]今のわたくしには、[RAW:2823]必要がありません。[RAW:2823]申し訳ございません。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]지금 제겐、[RAW:2823]필요하지 않습니다。[RAW:2823]죄송합니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -130,7 +130,7 @@
       "name": "10",
       "message": "[RAW:461F-B71F-481F-3621]今はいただけません。[RAW:2823]しまっていただけますか？[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]今はいただけません。[RAW:2823]しまっていただけますか？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]지금은 못 받습니다。[RAW:2823]넣어 두시겠습니까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -142,7 +142,7 @@
       "name": "11",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -153,7 +153,7 @@
       "name": "12",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -164,7 +164,7 @@
       "name": "13",
       "message": "[RAW:461F-B71F-481F-3621]どうしました？[RAW:2823-2A23]さん。[RAW:2823]お祈りですか？[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]どうしました？[RAW:2823-2A23]さん。[RAW:2823]お祈りですか？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]왜 그러십니까？[RAW:2823-2A23]님。[RAW:2823]기도하러 오셨습니까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -177,7 +177,7 @@
       "name": "14",
       "message": "[RAW:461F-B71F-491F-3621]おお、女神さま。[RAW:2823-2A23]さんから、[RAW:2823]プレゼントをいただきました。[RAW:2B23]それも誕生日に、[RAW:2823-6D20]フレンチトースト[RAW:6C20]なんて…。[RAW:2823]うれしすぎます！[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おお、女神さま。[RAW:2823-2A23]さんから、[RAW:2823]プレゼントをいただきました。[RAW:2B23]それも誕生日に、[RAW:2823-6D20]フレンチトースト[RAW:6C20]なんて…。[RAW:2823]うれしすぎます！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]오오、여신님。[RAW:2823-2A23]님께、[RAW:2823]선물입니다。[RAW:2B23]생일[RAW:2823-6D20]프토[RAW:6C20]군요。[RAW:2823]너무 기쁩니다！[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -194,7 +194,7 @@
       "name": "15",
       "message": "[RAW:461F-B71F-491F-3621]おお、[RAW:6D20]フレンチトースト[RAW:6C20]。[RAW:2823]夢ではないのですね。[RAW:2B23]ありがとうございます、[RAW:2823-2A23]さん。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おお、[RAW:6D20]フレンチトースト[RAW:6C20]。[RAW:2823]夢ではないのですね。[RAW:2B23]ありがとうございます、[RAW:2823-2A23]さん。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]오오、[RAW:6D20]프렌치 토스트[RAW:6C20]。[RAW:2823]꿈 아니군요。[RAW:2B23]고맙군요、[RAW:2823-2A23]님。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:6D20]",
@@ -210,7 +210,7 @@
       "name": "16",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -221,7 +221,7 @@
       "name": "17",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -232,7 +232,7 @@
       "name": "18",
       "message": "[RAW:461F-B71F-491F-3621]おお、ありがとうございます。[RAW:2823-2A23]さん。[RAW:2B23-461F-B71F-481F-3621]ああ、女神さま。[RAW:2823]この者に、女神さまの祝福を[RAW:2823]お与えください。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おお、ありがとうございます。[RAW:2823-2A23]さん。[RAW:2B23-461F-B71F-481F-3621]ああ、女神さま。[RAW:2823]この者に、女神さまの祝福を[RAW:2823]お与えください。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]감사합니다。[RAW:2823-2A23]님。[RAW:2B23-461F-B71F-481F-3621]여신님。[RAW:2823]이분께 축복을[RAW:2823]내려 주십시오。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -247,7 +247,7 @@
       "name": "19",
       "message": "[RAW:461F-B71F-491F-3621]ありがとうございます。[RAW:2823]わたくしの好みがわかるとは、[RAW:2823]女神さまのおつげですか？[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]ありがとうございます。[RAW:2823]わたくしの好みがわかるとは、[RAW:2823]女神さまのおつげですか？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]감사합니다。[RAW:2823]제 취향을 아시다니、[RAW:2823]여신님 계시입니까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -260,7 +260,7 @@
       "name": "20",
       "message": "[RAW:461F-B71F-481F-3621]誕生日を祝っていただけるとは[RAW:2823]思いませんでしたよ。[RAW:2823]女神さまに感謝いたします。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]誕生日を祝っていただけるとは[RAW:2823]思いませんでしたよ。[RAW:2823]女神さまに感謝いたします。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]생일을 축하받을 줄은[RAW:2823]생각 못 했습니다。[RAW:2823]여신님께 감사드립니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -273,7 +273,7 @@
       "name": "21",
       "message": "[RAW:461F-B71F-481F-3621]ありがとうございます。[RAW:2823]いただきます。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]ありがとうございます。[RAW:2823]いただきます。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]감사합니다。[RAW:2823]받겠습니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -285,7 +285,7 @@
       "name": "22",
       "message": "[RAW:461F-B71F-4B1F-3621]記念すべき誕生日が、[RAW:2823]こんな形になるとは…。[RAW:2823]わたくしの修行不足ですか…。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]記念すべき誕生日が、[RAW:2823]こんな形になるとは…。[RAW:2823]わたくしの修行不足ですか…。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]기념할 생일이、[RAW:2823]이런 꼴이 되다니…。[RAW:2823]제 수행이 모자랐나…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -298,7 +298,7 @@
       "name": "23",
       "message": "[RAW:461F-B71F-4B1F-3621]女神さま…。[RAW:2823]わたくしへの試練でしょうか？[RAW:2823]ううう…こまりました。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]女神さま…。[RAW:2823]わたくしへの試練でしょうか？[RAW:2823]ううう…こまりました。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]여신님…。[RAW:2823]제게 내린 시련입니까？[RAW:2823]으으…곤란합니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -311,7 +311,7 @@
       "name": "24",
       "message": "[RAW:461F-B71F-4A1F-3621]このような不じょうのもの…。[RAW:2823]これは欲望のかたまりです。[RAW:2823]わたくしが処理しておきます！[RAW:0E27]",
       "original": "[RAW:461F-B71F-4A1F-3621]このような不じょうのもの…。[RAW:2823]これは欲望のかたまりです。[RAW:2823]わたくしが処理しておきます！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4A1F-3621]이런 부정한 물건…。[RAW:2823]욕망의 덩어리입니다。[RAW:2823]제가 처리하겠습니다！[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4A1F-3621]",
         "[RAW:2823]",
@@ -324,7 +324,7 @@
       "name": "25",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -335,7 +335,7 @@
       "name": "26",
       "message": "[RAW:461F-B71F-481F-3621-2A23]さんの家で、[RAW:2823]アリエラは、どのように[RAW:2823]生活していますか？[RAW:2B23-461F-B71F-491F-3621]あの子の事、[RAW:2823]よろしくお願いしますね、[RAW:2823-2A23]さん。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621-2A23]さんの家で、[RAW:2823]アリエラは、どのように[RAW:2823]生活していますか？[RAW:2B23-461F-B71F-491F-3621]あの子の事、[RAW:2823]よろしくお願いしますね、[RAW:2823-2A23]さん。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621-2A23]님 댁에서、[RAW:2823]아리에라는 어떻게[RAW:2823]지냅니까？[RAW:2B23-461F-B71F-491F-3621]부탁합니다、[RAW:2823]님。[RAW:2823-2A23]님。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -351,7 +351,7 @@
       "name": "27",
       "message": "[RAW:461F-B71F-491F-3621]結婚されてからの、[RAW:2823-2A23]さんは、[RAW:2823]じつにいい顔をされています。[RAW:2B23]良いパートナーに[RAW:2823]めぐり合ったのですね。[RAW:2823]すばらしい事です。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]結婚されてからの、[RAW:2823-2A23]さんは、[RAW:2823]じつにいい顔をされています。[RAW:2B23]良いパートナーに[RAW:2823]めぐり合ったのですね。[RAW:2823]すばらしい事です。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]결혼 후의、[RAW:2823-2A23]님은、[RAW:2823]좋은 표정이군요。[RAW:2B23]좋은 짝을[RAW:2823]만나셨습니다。[RAW:2823]참 훌륭한 일입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -367,7 +367,7 @@
       "name": "28",
       "message": "[RAW:461F-B71F-4B1F-3621]女神さま………、[RAW:2823]この台風から、みなさんを[RAW:2823]お守りください………。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]女神さま………、[RAW:2823]この台風から、みなさんを[RAW:2823]お守りください………。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]여신님………、[RAW:2823]이 태풍에서 모두를[RAW:2823]지켜 주십시오………。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -380,7 +380,7 @@
       "name": "29",
       "message": "[RAW:461F-B71F-4B1F-3621]女神さま………、[RAW:2823]この大雪から、みなさんを[RAW:2823]お守りください………。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]女神さま………、[RAW:2823]この大雪から、みなさんを[RAW:2823]お守りください………。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]여신님………、[RAW:2823]이 폭설에서 모두를[RAW:2823]지켜 주십시오………。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -393,7 +393,7 @@
       "name": "30",
       "message": "[RAW:461F-B71F-491F-3621]あなたのような、[RAW:2823]熱心な信者はめずらしいです。[RAW:2823]きっと女神さまもお喜びです。[RAW:2B23-461F-B71F-481F-3621]ああ、女神さま。[RAW:2823]この者に祝福を！！[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]あなたのような、[RAW:2823]熱心な信者はめずらしいです。[RAW:2823]きっと女神さまもお喜びです。[RAW:2B23-461F-B71F-481F-3621]ああ、女神さま。[RAW:2823]この者に祝福を！！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]당신 같은、[RAW:2823]열성 신도는 드뭅니다。[RAW:2823]기뻐하십니다。[RAW:2B23-461F-B71F-481F-3621]여신님、[RAW:2823]축복을！！[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -408,7 +408,7 @@
       "name": "31",
       "message": "[RAW:461F-B71F-491F-3621]生きとし生けるものは、[RAW:2823]全て女神さまの信者なのです。[RAW:2823]と、わたくしは思っています。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]生きとし生けるものは、[RAW:2823]全て女神さまの信者なのです。[RAW:2823]と、わたくしは思っています。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]살아 있는 모두는、[RAW:2823]다 여신님의 신도입니다。[RAW:2823]그리 믿고 있습니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -421,7 +421,7 @@
       "name": "32",
       "message": "[RAW:461F-B71F-481F-3621]この教会が、みなさんの[RAW:2823]心のより所になれば幸いです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]この教会が、みなさんの[RAW:2823]心のより所になれば幸いです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이 교회가 모두의[RAW:2823]마음의 쉼터면 좋겠습니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -433,7 +433,7 @@
       "name": "33",
       "message": "[RAW:461F-B71F-481F-3621]この教会は、[RAW:2823]来るものをこばみません。[RAW:2823]いつでも来てください。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]この教会は、[RAW:2823]来るものをこばみません。[RAW:2823]いつでも来てください。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이 교회는、[RAW:2823]누구도 마다 않으니、[RAW:2823]언제든 오십시오。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -446,7 +446,7 @@
       "name": "34",
       "message": "[RAW:461F-B71F-481F-3621]牧場というお仕事は、[RAW:2823]命をつなぐお仕事です。[RAW:2823]すばらしい職業ですね。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]牧場というお仕事は、[RAW:2823]命をつなぐお仕事です。[RAW:2823]すばらしい職業ですね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]목장 일은、[RAW:2823]생명을 잇는 일입니다。[RAW:2823]훌륭한 직업이군요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -459,7 +459,7 @@
       "name": "35",
       "message": "[RAW:461F-B71F-481F-3621]毎日、女神さまに[RAW:2823]祈りをささげていると[RAW:2823]心がきれいになりますよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]毎日、女神さまに[RAW:2823]祈りをささげていると[RAW:2823]心がきれいになりますよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]매일 여신님께[RAW:2823]기도를 올리다 보면[RAW:2823]마음이 맑아집니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -472,7 +472,7 @@
       "name": "36",
       "message": "[RAW:461F-B71F-481F-3621]女神さまは、あなたのそばに[RAW:2823]いらっしゃいます。[RAW:2823]良い心がけを忘れずに…。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまは、あなたのそばに[RAW:2823]いらっしゃいます。[RAW:2823]良い心がけを忘れずに…。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님은 당신 곁에[RAW:2823]늘 함께하십니다。[RAW:2823]바른 뜻 잊지 마십시오…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -485,7 +485,7 @@
       "name": "37",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -496,7 +496,7 @@
       "name": "38",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -507,7 +507,7 @@
       "name": "39",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -518,7 +518,7 @@
       "name": "40",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -529,7 +529,7 @@
       "name": "41",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -540,7 +540,7 @@
       "name": "42",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -551,7 +551,7 @@
       "name": "43",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -562,7 +562,7 @@
       "name": "44",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -573,7 +573,7 @@
       "name": "45",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -584,7 +584,7 @@
       "name": "46",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -595,7 +595,7 @@
       "name": "47",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -606,7 +606,7 @@
       "name": "48",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -617,7 +617,7 @@
       "name": "49",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -628,7 +628,7 @@
       "name": "50",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -639,7 +639,7 @@
       "name": "51",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -650,7 +650,7 @@
       "name": "52",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -661,7 +661,7 @@
       "name": "53",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -672,7 +672,7 @@
       "name": "54",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -683,7 +683,7 @@
       "name": "55",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -694,7 +694,7 @@
       "name": "56",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -705,7 +705,7 @@
       "name": "57",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -716,7 +716,7 @@
       "name": "58",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -727,7 +727,7 @@
       "name": "59",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -738,7 +738,7 @@
       "name": "60",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -749,7 +749,7 @@
       "name": "61",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -760,7 +760,7 @@
       "name": "62",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -771,7 +771,7 @@
       "name": "63",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -782,7 +782,7 @@
       "name": "64",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -793,7 +793,7 @@
       "name": "65",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -804,7 +804,7 @@
       "name": "66",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -815,7 +815,7 @@
       "name": "67",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -826,7 +826,7 @@
       "name": "68",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -837,7 +837,7 @@
       "name": "69",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -848,7 +848,7 @@
       "name": "70",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -859,7 +859,7 @@
       "name": "71",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -870,7 +870,7 @@
       "name": "72",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -881,7 +881,7 @@
       "name": "73",
       "message": "[RAW:461F-B71F-481F-3621]これは、お供え物ですか？[RAW:2823]え、違う？[RAW:2823]ああ、お祭りのものですか。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]これは、お供え物ですか？[RAW:2823]え、違う？[RAW:2823]ああ、お祭りのものですか。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이것은 공물입니까？[RAW:2823]예、아니라고요？[RAW:2823]아아、축제 물건입니까。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -894,7 +894,7 @@
       "name": "74",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -905,7 +905,7 @@
       "name": "75",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -916,7 +916,7 @@
       "name": "76",
       "message": "[RAW:461F-B71F-481F-3621]この子のために、[RAW:2823]お祈りをいたしましょう。[RAW:2823]…この子に祝福を！[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]この子のために、[RAW:2823]お祈りをいたしましょう。[RAW:2823]…この子に祝福を！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이 아이를 위해、[RAW:2823]기도드리겠습니다。[RAW:2823]…이 아이에 축복을！[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -929,7 +929,7 @@
       "name": "77",
       "message": "[RAW:461F-B71F-481F-3621]この子が元気なのは、[RAW:2823]女神さまのおかげなのです。[RAW:2823]一緒に感謝をしましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]この子が元気なのは、[RAW:2823]女神さまのおかげなのです。[RAW:2823]一緒に感謝をしましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이 아이가 건강한 건、[RAW:2823]여신님 덕분입니다。[RAW:2823]함께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -942,7 +942,7 @@
       "name": "78",
       "message": "[RAW:461F-B71F-4B1F-3621]女神さま、[RAW:2823]申し訳ございません。[RAW:2B23]わたくしの心に、[RAW:2823]まだ恐れがあります。[RAW:2823]…修行不足です…。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]女神さま、[RAW:2823]申し訳ございません。[RAW:2B23]わたくしの心に、[RAW:2823]まだ恐れがあります。[RAW:2823]…修行不足です…。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]여신님、[RAW:2823]죄송합니다。[RAW:2B23]제 마음엔 아직[RAW:2823]두려움이 있습니다。[RAW:2823]…수행 부족입니다…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -957,7 +957,7 @@
       "name": "79",
       "message": "[RAW:461F-B71F-481F-3621]大丈夫ですよ。[RAW:2823]女神さまは、この子にも[RAW:2823]祝福を与えてくれます。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]大丈夫ですよ。[RAW:2823]女神さまは、この子にも[RAW:2823]祝福を与えてくれます。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]괜찮습니다。[RAW:2823]여신님은 이 아이에게도[RAW:2823]축복을 내려주십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -970,7 +970,7 @@
       "name": "80",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -981,7 +981,7 @@
       "name": "81",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -992,7 +992,7 @@
       "name": "82",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1003,7 +1003,7 @@
       "name": "83",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1014,7 +1014,7 @@
       "name": "84",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1025,7 +1025,7 @@
       "name": "85",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1036,7 +1036,7 @@
       "name": "86",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1047,7 +1047,7 @@
       "name": "87",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1058,7 +1058,7 @@
       "name": "88",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1069,7 +1069,7 @@
       "name": "89",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1080,7 +1080,7 @@
       "name": "90",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1091,7 +1091,7 @@
       "name": "91",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1102,7 +1102,7 @@
       "name": "92",
       "message": "[RAW:461F-B71F-491F-3621]わたくしにですか…。[RAW:2823]ありがとうございます！[RAW:2823]女神さまに報告しなければ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]わたくしにですか…。[RAW:2823]ありがとうございます！[RAW:2823]女神さまに報告しなければ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]제게 주시는 겁니까…。[RAW:2823]감사합니다！[RAW:2823]여신님께 알려야겠군요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -1115,7 +1115,7 @@
       "name": "93",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1126,7 +1126,7 @@
       "name": "94",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1137,7 +1137,7 @@
       "name": "95",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1148,7 +1148,7 @@
       "name": "96",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1159,7 +1159,7 @@
       "name": "97",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1170,7 +1170,7 @@
       "name": "98",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1181,7 +1181,7 @@
       "name": "99",
       "message": "[RAW:461F-B71F-481F-3621]わたくしにですか？[RAW:2823]何でしょう…？[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]わたくしにですか？[RAW:2823]何でしょう…？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]제게 주십니까？[RAW:2823]무엇일까요…？[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1193,7 +1193,7 @@
       "name": "100",
       "message": "[RAW:461F-B71F-491F-3621]あなたのような、[RAW:2823]熱心な信者はめずらしいです。[RAW:2823]きっと女神さまもお喜びです。[RAW:2B23-461F-B71F-481F-3621]ああ、女神さま。[RAW:2823]この者に祝福を！！[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]あなたのような、[RAW:2823]熱心な信者はめずらしいです。[RAW:2823]きっと女神さまもお喜びです。[RAW:2B23-461F-B71F-481F-3621]ああ、女神さま。[RAW:2823]この者に祝福を！！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]당신 같은、[RAW:2823]열성 신도는 드뭅니다。[RAW:2823]기뻐하십니다。[RAW:2B23-461F-B71F-481F-3621]여신님、[RAW:2823]축복을！！[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -1208,7 +1208,7 @@
       "name": "101",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1219,7 +1219,7 @@
       "name": "102",
       "message": "[RAW:461F-B71F-481F-3621]ここは教会。[RAW:2823]女神さまに祈りをささげる[RAW:2823]大切な場所です。[RAW:2B23]あなたも一緒にどうぞ。[RAW:2823]女神さまがお喜びになります。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]ここは教会。[RAW:2823]女神さまに祈りをささげる[RAW:2823]大切な場所です。[RAW:2B23]あなたも一緒にどうぞ。[RAW:2823]女神さまがお喜びになります。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여긴 교회입니다。[RAW:2823]여신님께 기도드리는[RAW:2823]거룩한 곳입니다。[RAW:2B23]함께요。[RAW:2823]여신님이 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1234,7 +1234,7 @@
       "name": "103",
       "message": "[RAW:461F-B71F-4B1F-3621]わたくしの仲間が来るはず…、[RAW:2823]なのですが、まだ来ません。[RAW:2823]何かあったのでしょうかねぇ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-4B1F-3621]わたくしの仲間が来るはず…、[RAW:2823]なのですが、まだ来ません。[RAW:2823]何かあったのでしょうかねぇ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-4B1F-3621]동료가 올 텐데…。[RAW:2823]아직 오지 않습니다。[RAW:2823]무슨 일 있던 걸까요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-4B1F-3621]",
         "[RAW:2823]",
@@ -1247,7 +1247,7 @@
       "name": "104",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1258,7 +1258,7 @@
       "name": "105",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1269,7 +1269,7 @@
       "name": "106",
       "message": "[RAW:461F-B71F-481F-3621]今から女神さまの泉へ、[RAW:2823]お祈りをささげに行きます。[RAW:2823]一緒にどうですか？[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]今から女神さまの泉へ、[RAW:2823]お祈りをささげに行きます。[RAW:2823]一緒にどうですか？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]지금 여신님의 샘에、[RAW:2823]기도드리러 갑니다。[RAW:2823]함께 가시겠습니까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1282,7 +1282,7 @@
       "name": "107",
       "message": "[RAW:461F-B71F-481F-3621]この村は、前に住んでいた所と[RAW:2823]似ている気がします。[RAW:2B23-2A23]さんと同じく、[RAW:2823]牧場を作った人がいました。[RAW:2823]とても元気な方でしたよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]この村は、前に住んでいた所と[RAW:2823]似ている気がします。[RAW:2B23-2A23]さんと同じく、[RAW:2823]牧場を作った人がいました。[RAW:2823]とても元気な方でしたよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이 마을은 예전 살던 곳과[RAW:2823]닮은 듯합니다。[RAW:2B23-2A23]님처럼、[RAW:2823]목장을 만든 분이[RAW:2823]계셨고 활기찼지요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1297,7 +1297,7 @@
       "name": "108",
       "message": "[RAW:461F-B71F-481F-3621]この山でも、わたくしは[RAW:2823]女神さまにお祈りを[RAW:2823]ささげているのですよ。[RAW:2B23]女神さま………。[RAW:2823]今日もみなさんに[RAW:2823]幸せと平和をお与えください。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]この山でも、わたくしは[RAW:2823]女神さまにお祈りを[RAW:2823]ささげているのですよ。[RAW:2B23]女神さま………。[RAW:2823]今日もみなさんに[RAW:2823]幸せと平和をお与えください。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이 산에서도 저는[RAW:2823]여신님께 기도를[RAW:2823]올리고 있습니다。[RAW:2B23]여신님…。[RAW:2823]오늘도 모두에게[RAW:2823]행복과 평화를 주소서。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1313,7 +1313,7 @@
       "name": "109",
       "message": "[RAW:461F-B71F-481F-3621]わたくしは、今まで様々な[RAW:2823]場所で教会を建てました。[RAW:2B23]この村にも根付いてくれれば、[RAW:2823]いいのですけれど…。[RAW:2823]頑張りますよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]わたくしは、今まで様々な[RAW:2823]場所で教会を建てました。[RAW:2B23]この村にも根付いてくれれば、[RAW:2823]いいのですけれど…。[RAW:2823]頑張りますよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]저는 여러 곳에[RAW:2823]교회를 세웠습니다。[RAW:2B23]여기도[RAW:2823]뿌리내리면 좋겠군요…。[RAW:2823]힘쓰겠습니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1328,7 +1328,7 @@
       "name": "110",
       "message": "[RAW:461F-B71F-481F-3621]やっと、もどってきました。[RAW:2823]さて、食事の準備をしないと。[RAW:2823]今日は何にしましょうか…。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]やっと、もどってきました。[RAW:2823]さて、食事の準備をしないと。[RAW:2823]今日は何にしましょうか…。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]이제야 돌아왔습니다。[RAW:2823]자、식사 준비를 해야지요。[RAW:2823]오늘은 뭘 할까요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1341,7 +1341,7 @@
       "name": "111",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1352,7 +1352,7 @@
       "name": "112",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1363,7 +1363,7 @@
       "name": "113",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1374,7 +1374,7 @@
       "name": "114",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1385,7 +1385,7 @@
       "name": "115",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1396,7 +1396,7 @@
       "name": "116",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1407,7 +1407,7 @@
       "name": "117",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1418,7 +1418,7 @@
       "name": "118",
       "message": "[RAW:461F-B71F-481F-3621]今日は確か料理大会の[RAW:2823]日でしたかなぁ…。[RAW:2823]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]今日は確か料理大会の[RAW:2823]日でしたかなぁ…。[RAW:2823]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]오늘은 요리대회[RAW:2823]날이었지요…。[RAW:2823]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1431,7 +1431,7 @@
       "name": "119",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1442,7 +1442,7 @@
       "name": "120",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1453,7 +1453,7 @@
       "name": "121",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1464,7 +1464,7 @@
       "name": "122",
       "message": "[RAW:461F-B71F-481F-3621]全て女神さまのご意思です。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]全て女神さまのご意思です。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]모두 여신님의 뜻입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1475,7 +1475,7 @@
       "name": "123",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1486,7 +1486,7 @@
       "name": "124",
       "message": "[RAW:461F-B71F-481F-3621-2A23]さん、[RAW:2823]落ちこまないでください。[RAW:2823]女神さまも心配されてます。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621-2A23]さん、[RAW:2823]落ちこまないでください。[RAW:2823]女神さまも心配されてます。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621-2A23]님、[RAW:2823]낙심하지 마십시오。[RAW:2823]여신님도 염려하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -1499,7 +1499,7 @@
       "name": "125",
       "message": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]どこの町や村でも楽しいです。[RAW:2B23-461F-B71F-491F-3621]前にいた町でも、[RAW:2823]毎年、いろいろお祭りがあり、[RAW:2823]非常に楽しめました。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]どこの町や村でも楽しいです。[RAW:2B23-461F-B71F-491F-3621]前にいた町でも、[RAW:2823]毎年、いろいろお祭りがあり、[RAW:2823]非常に楽しめました。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축제는 어디서나、[RAW:2823]즐겁지요。[RAW:2B23-461F-B71F-491F-3621]예전 곳도、[RAW:2823]매년 여러 축제가 있어、[RAW:2823]아주 즐거웠습니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1514,7 +1514,7 @@
       "name": "126",
       "message": "[RAW:461F-B71F-481F-3621]次のお祭りは、[RAW:2823]ぜひ参加してください。[RAW:2823]女神さまも期待されてます。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]次のお祭りは、[RAW:2823]ぜひ参加してください。[RAW:2823]女神さまも期待されてます。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]다음 축제는、[RAW:2823]꼭 참여하십시오。[RAW:2823]여신님도 기대하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -1527,7 +1527,7 @@
       "name": "127",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1538,7 +1538,7 @@
       "name": "128",
       "message": "[RAW:461F-B71F-481F-3621-2A23]さんは、[RAW:2823]精一杯頑張りました。[RAW:2823]女神さまも認めてますよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621-2A23]さんは、[RAW:2823]精一杯頑張りました。[RAW:2823]女神さまも認めてますよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621-2A23]님은、[RAW:2823]있는 힘 다했습니다。[RAW:2823]여신님도 아십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -1551,7 +1551,7 @@
       "name": "129",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1562,7 +1562,7 @@
       "name": "130",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1573,7 +1573,7 @@
       "name": "131",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1584,7 +1584,7 @@
       "name": "132",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1595,7 +1595,7 @@
       "name": "133",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1606,7 +1606,7 @@
       "name": "134",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1617,7 +1617,7 @@
       "name": "135",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1628,7 +1628,7 @@
       "name": "136",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1639,7 +1639,7 @@
       "name": "137",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1650,7 +1650,7 @@
       "name": "138",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1661,7 +1661,7 @@
       "name": "139",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1672,7 +1672,7 @@
       "name": "140",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1683,7 +1683,7 @@
       "name": "141",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1694,7 +1694,7 @@
       "name": "142",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1705,7 +1705,7 @@
       "name": "143",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1716,7 +1716,7 @@
       "name": "144",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1727,7 +1727,7 @@
       "name": "145",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1738,7 +1738,7 @@
       "name": "146",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1749,7 +1749,7 @@
       "name": "147",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1760,7 +1760,7 @@
       "name": "148",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1771,7 +1771,7 @@
       "name": "149",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1782,7 +1782,7 @@
       "name": "150",
       "message": "[RAW:461F-B71F-481F-3621]おや、[RAW:2A23]さん。[RAW:2823]今日は、お祭りの日です。[RAW:2823]みなさん、いそがしそうです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おや、[RAW:2A23]さん。[RAW:2823]今日は、お祭りの日です。[RAW:2823]みなさん、いそがしそうです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]어이쿠、[RAW:2A23]님。[RAW:2823]오늘은 축제 날입니다。[RAW:2823]모두 바빠 보입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2A23]",
@@ -1796,7 +1796,7 @@
       "name": "151",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1807,7 +1807,7 @@
       "name": "152",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1818,7 +1818,7 @@
       "name": "153",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1829,7 +1829,7 @@
       "name": "154",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1840,7 +1840,7 @@
       "name": "155",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1851,7 +1851,7 @@
       "name": "156",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1862,7 +1862,7 @@
       "name": "157",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1873,7 +1873,7 @@
       "name": "158",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1884,7 +1884,7 @@
       "name": "159",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1895,7 +1895,7 @@
       "name": "160",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1906,7 +1906,7 @@
       "name": "161",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1917,7 +1917,7 @@
       "name": "162",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1928,7 +1928,7 @@
       "name": "163",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1939,7 +1939,7 @@
       "name": "164",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1950,7 +1950,7 @@
       "name": "165",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1961,7 +1961,7 @@
       "name": "166",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1972,7 +1972,7 @@
       "name": "167",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1983,7 +1983,7 @@
       "name": "168",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -1994,7 +1994,7 @@
       "name": "169",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2005,7 +2005,7 @@
       "name": "170",
       "message": "[RAW:461F-B71F-481F-3621]おはようございます。[RAW:2823]教会はみなさんのために[RAW:2823]存在します。[RAW:2B23]さそい合わせて、[RAW:2823]みなさんで来てくださいね。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おはようございます。[RAW:2823]教会はみなさんのために[RAW:2823]存在します。[RAW:2B23]さそい合わせて、[RAW:2823]みなさんで来てくださいね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕하십니까。[RAW:2823]교회는 모두를 위해[RAW:2823]있습니다。[RAW:2B23]서로 불러、[RAW:2823]함께 오십시오。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2020,7 +2020,7 @@
       "name": "171",
       "message": "[RAW:461F-B71F-481F-3621]おはようございます。[RAW:2823-2A23]さんが、[RAW:2823]今日も幸せでありますように。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おはようございます。[RAW:2823-2A23]さんが、[RAW:2823]今日も幸せでありますように。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕하십니까。[RAW:2823-2A23]님이、[RAW:2823]오늘도 행복하시길。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2033,7 +2033,7 @@
       "name": "172",
       "message": "[RAW:461F-B71F-481F-3621]おはようございます。[RAW:2823]この村は、いい人ばかりで、[RAW:2823]とてもうれしいですよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おはようございます。[RAW:2823]この村は、いい人ばかりで、[RAW:2823]とてもうれしいですよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕하십니까。[RAW:2823]이 마을 분들은 참 좋아、[RAW:2823]매우 기쁩니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2046,7 +2046,7 @@
       "name": "173",
       "message": "[RAW:461F-B71F-481F-3621]こんにちは。[RAW:2B23]ああ、女神さまにお供え物を[RAW:2823]しなければ。[RAW:2823]今日は、何にしましょうか…。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]こんにちは。[RAW:2B23]ああ、女神さまにお供え物を[RAW:2823]しなければ。[RAW:2823]今日は、何にしましょうか…。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕하십니까。[RAW:2B23]아아、공물을[RAW:2823]올려야겠군요。[RAW:2823]오늘은 뭘 할까요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2B23]",
@@ -2060,7 +2060,7 @@
       "name": "174",
       "message": "[RAW:461F-B71F-481F-3621-2A23]さん、[RAW:2823]こんにちは。[RAW:2B23-461F-B71F-491F-3621]牧場の方はいかがですか？[RAW:2823]女神さまがついておられます。[RAW:2823]いいものが作れますよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621-2A23]さん、[RAW:2823]こんにちは。[RAW:2B23-461F-B71F-491F-3621]牧場の方はいかがですか？[RAW:2823]女神さまがついておられます。[RAW:2823]いいものが作れますよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621-2A23]님、[RAW:2823]안녕하십니까。[RAW:2B23-461F-B71F-491F-3621]목장은요？[RAW:2823]여신님이 함께하십니다。[RAW:2823]좋은 것 얻을 겁니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2075,7 +2075,7 @@
       "name": "175",
       "message": "[RAW:461F-B71F-481F-3621]こんにちは。[RAW:2B23]この村の豊かさは、[RAW:2823]女神さまがもたらしてます。[RAW:2823]ありがたい事です。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]こんにちは。[RAW:2B23]この村の豊かさは、[RAW:2823]女神さまがもたらしてます。[RAW:2823]ありがたい事です。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕하십니까。[RAW:2B23]풍요는、[RAW:2823]여신님이 내리십니다。[RAW:2823]감사한 일입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2B23]",
@@ -2089,7 +2089,7 @@
       "name": "176",
       "message": "[RAW:461F-B71F-481F-3621]こんばんは、[RAW:2823-2A23]さん。[RAW:2B23]今日も無事にすごせた事を、[RAW:2823]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]こんばんは、[RAW:2823-2A23]さん。[RAW:2B23]今日も無事にすごせた事を、[RAW:2823]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕하십니까、[RAW:2823-2A23]님。[RAW:2B23]무사히[RAW:2823]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2103,7 +2103,7 @@
       "name": "177",
       "message": "[RAW:461F-B71F-481F-3621-2A23]さん、[RAW:2823]こんばんは。[RAW:2B23]今日も１日が終わります。[RAW:2823]寝る前には、女神さまへの[RAW:2823]お祈りをわすれずに…。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621-2A23]さん、[RAW:2823]こんばんは。[RAW:2B23]今日も１日が終わります。[RAW:2823]寝る前には、女神さまへの[RAW:2823]お祈りをわすれずに…。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621-2A23]님、[RAW:2823]안녕합니다。[RAW:2B23]하루 끝납니다。[RAW:2823]잠들기 전엔、여신님께[RAW:2823]기도 잊지 마십시오…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2118,7 +2118,7 @@
       "name": "178",
       "message": "[RAW:461F-B71F-481F-3621]こんばんは。[RAW:2B23]外は暗いから足元には、[RAW:2823]注意しなさいね。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]こんばんは。[RAW:2B23]外は暗いから足元には、[RAW:2823]注意しなさいね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]안녕합니다。[RAW:2B23]밖 어두우니、[RAW:2823]발밑 조심하십시오。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2B23]",
@@ -2131,7 +2131,7 @@
       "name": "179",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2142,7 +2142,7 @@
       "name": "180",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2153,7 +2153,7 @@
       "name": "181",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2164,7 +2164,7 @@
       "name": "182",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2175,7 +2175,7 @@
       "name": "183",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2186,7 +2186,7 @@
       "name": "184",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2197,7 +2197,7 @@
       "name": "185",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2208,7 +2208,7 @@
       "name": "186",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2219,7 +2219,7 @@
       "name": "187",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2230,7 +2230,7 @@
       "name": "188",
       "message": "[RAW:461F-B71F-481F-3621]わたくしは、どこでも[RAW:2823]女神さまに祈りをささげて[RAW:2823]おります。[RAW:2B23]それが、[RAW:2823]わたくしの役目ですから。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]わたくしは、どこでも[RAW:2823]女神さまに祈りをささげて[RAW:2823]おります。[RAW:2B23]それが、[RAW:2823]わたくしの役目ですから。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]저는 어디서나[RAW:2823]여신님께 기도드리고[RAW:2823]있습니다。[RAW:2B23]그것이、[RAW:2823]제 역할이기 때문입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2245,7 +2245,7 @@
       "name": "189",
       "message": "[RAW:461F-B71F-481F-3621]わたくしは、どこでも[RAW:2823]女神さまに祈りをささげて[RAW:2823]おります。[RAW:2B23]それが、[RAW:2823]わたくしの役目ですから。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]わたくしは、どこでも[RAW:2823]女神さまに祈りをささげて[RAW:2823]おります。[RAW:2B23]それが、[RAW:2823]わたくしの役目ですから。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]저는 어디서나[RAW:2823]여신님께 기도드리고[RAW:2823]있습니다。[RAW:2B23]그것이、[RAW:2823]제 역할이기 때문입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2260,7 +2260,7 @@
       "name": "190",
       "message": "[RAW:461F-B71F-481F-3621]わたくしは、どこでも[RAW:2823]女神さまに祈りをささげて[RAW:2823]おります。[RAW:2B23]それが、[RAW:2823]わたくしの役目ですから。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]わたくしは、どこでも[RAW:2823]女神さまに祈りをささげて[RAW:2823]おります。[RAW:2B23]それが、[RAW:2823]わたくしの役目ですから。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]저는 어디서나[RAW:2823]여신님께 기도드리고[RAW:2823]있습니다。[RAW:2B23]그것이、[RAW:2823]제 역할이기 때문입니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2275,7 +2275,7 @@
       "name": "191",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2286,7 +2286,7 @@
       "name": "192",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2297,7 +2297,7 @@
       "name": "193",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2308,7 +2308,7 @@
       "name": "194",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2319,7 +2319,7 @@
       "name": "195",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2330,7 +2330,7 @@
       "name": "196",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2341,7 +2341,7 @@
       "name": "197",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2352,7 +2352,7 @@
       "name": "198",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2363,7 +2363,7 @@
       "name": "199",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2374,7 +2374,7 @@
       "name": "200",
       "message": "[RAW:461F-B71F-491F-3621]おめでとうございます！[RAW:2823-2A23]さん。[RAW:2B23]これも女神さまの[RAW:2823]おみちびきですよ。[RAW:2823]すばらしいです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おめでとうございます！[RAW:2823-2A23]さん。[RAW:2B23]これも女神さまの[RAW:2823]おみちびきですよ。[RAW:2823]すばらしいです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]축하드립니다！[RAW:2823-2A23]님。[RAW:2B23]여신님의[RAW:2823]인도입니다。[RAW:2823]참 훌륭합니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -2389,7 +2389,7 @@
       "name": "201",
       "message": "[RAW:461F-B71F-491F-3621]おめでとうございます。[RAW:2823]思わず、お腹がなりました。[RAW:2823]はずかしい限りです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おめでとうございます。[RAW:2823]思わず、お腹がなりました。[RAW:2823]はずかしい限りです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]축하드립니다。[RAW:2823]저도 모르게 배가 울려[RAW:2823]부끄럽기 짝없습니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -2402,7 +2402,7 @@
       "name": "202",
       "message": "[RAW:461F-B71F-491F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -2415,7 +2415,7 @@
       "name": "203",
       "message": "[RAW:461F-B71F-491F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]축제라는 것은、[RAW:2823]여신님도 보러 오셔서[RAW:2823]즐기고 계십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -2428,7 +2428,7 @@
       "name": "204",
       "message": "[RAW:461F-B71F-491F-3621]お祭りというのは、[RAW:2823]活気があっていいですね。[RAW:2823]フフフ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-491F-3621]お祭りというのは、[RAW:2823]活気があっていいですね。[RAW:2823]フフフ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-491F-3621]축제라는 것은、[RAW:2823]활기차서 좋습니다。[RAW:2823]후후후。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-491F-3621]",
         "[RAW:2823]",
@@ -2441,7 +2441,7 @@
       "name": "205",
       "message": "[RAW:461F-B71F-481F-3621]今日が晴れで良かった。これも女神さまのおかげです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]今日が晴れで良かった。これも女神さまのおかげです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]맑아 다행。여신님 은혜。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2452,7 +2452,7 @@
       "name": "206",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2463,7 +2463,7 @@
       "name": "207",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2474,7 +2474,7 @@
       "name": "208",
       "message": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]女神さまに感謝しましょう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]여신님께 감사합시다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:0E27]"
@@ -2485,7 +2485,7 @@
       "name": "209",
       "message": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축제라는 것은、[RAW:2823]여신님도 보러 오셔서[RAW:2823]즐기고 계십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2498,7 +2498,7 @@
       "name": "210",
       "message": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축제라는 것은、[RAW:2823]여신님도 보러 오셔서[RAW:2823]즐기고 계십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2511,7 +2511,7 @@
       "name": "211",
       "message": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]お祭りというのは、[RAW:2823]女神さまも見に来て[RAW:2823]楽しまれているのですよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축제라는 것은、[RAW:2823]여신님도 보러 오셔서[RAW:2823]즐기고 계십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823]",
@@ -2524,7 +2524,7 @@
       "name": "212",
       "message": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2537,7 +2537,7 @@
       "name": "213",
       "message": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2550,7 +2550,7 @@
       "name": "214",
       "message": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2563,7 +2563,7 @@
       "name": "215",
       "message": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2576,7 +2576,7 @@
       "name": "216",
       "message": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
       "original": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2589,7 +2589,7 @@
       "name": "217",
       "message": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27-0F27]り",
       "original": "[RAW:461F-B71F-481F-3621]おめでとう！[RAW:2823-2A23]さん！！[RAW:2823]女神さまもお喜びです。[RAW:0E27-0F27]り",
-      "translation": "",
+      "translation": "[RAW:461F-B71F-481F-3621]축하합니다！[RAW:2823-2A23]님！！[RAW:2823]여신님도 기뻐하십니다。[RAW:0E27-0F27]り",
       "controls": [
         "[RAW:461F-B71F-481F-3621]",
         "[RAW:2823-2A23]",
