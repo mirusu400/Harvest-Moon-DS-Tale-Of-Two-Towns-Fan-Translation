@@ -10,7 +10,7 @@
       "name": "0",
       "message": "たきのうらに何か[RAW:2823]あるようだけど[RAW:2823]何の反応もない…。[RAW:0E27]",
       "original": "たきのうらに何か[RAW:2823]あるようだけど[RAW:2823]何の反応もない…。[RAW:0E27]",
-      "translation": "",
+      "translation": "폭포 뒤에 뭔가[RAW:2823]있는 듯한데[RAW:2823]반응이 없네…。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -22,7 +22,7 @@
       "name": "1",
       "message": "あれ？[RAW:9023-0E27]",
       "original": "あれ？[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "어라？[RAW:9023-0E27]",
       "controls": [
         "[RAW:9023-0E27]"
       ]
@@ -32,7 +32,7 @@
       "name": "2",
       "message": "何か不思議な[RAW:2823]光が見える……！？[RAW:0E27]",
       "original": "何か不思議な[RAW:2823]光が見える……！？[RAW:0E27]",
-      "translation": "",
+      "translation": "뭔가 신기한[RAW:2823]빛이 보여……！？[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -43,7 +43,7 @@
       "name": "3",
       "message": "不思議なところへ来た。[RAW:2823]ここはどこ？[RAW:0E27-0F27]．",
       "original": "不思議なところへ来た。[RAW:2823]ここはどこ？[RAW:0E27-0F27]．",
-      "translation": "",
+      "translation": "이상한 곳에 왔어。[RAW:2823]여긴 어디지？[RAW:0E27-0F27]．",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27-0F27]"
