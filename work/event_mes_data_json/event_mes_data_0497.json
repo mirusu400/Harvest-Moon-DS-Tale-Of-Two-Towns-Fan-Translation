@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:401F-1320-B91F-481F-3521-1420]おはよう、[RAW:2A23]。[RAW:2823]おじゃまするよ。[RAW:0E27]",
       "original": "[RAW:401F-1320-B91F-481F-3521-1420]おはよう、[RAW:2A23]。[RAW:2823]おじゃまするよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-1320-B91F-481F-3521-1420]좋은 아침이네、[RAW:2A23]。[RAW:2823]실례하겠네。[RAW:0E27]",
       "controls": [
         "[RAW:401F-1320-B91F-481F-3521-1420]",
         "[RAW:2A23]",
@@ -23,7 +23,7 @@
       "name": "1",
       "message": "[RAW:411F-B91F-481F-3621]朝早くに、すまないな。[RAW:0E27-0F27]。",
       "original": "[RAW:411F-B91F-481F-3621]朝早くに、すまないな。[RAW:0E27-0F27]。",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-481F-3621]이른 아침부터 미안하군。[RAW:0E27-0F27]。",
       "controls": [
         "[RAW:411F-B91F-481F-3621]",
         "[RAW:0E27-0F27]"
