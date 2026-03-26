@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:461F-1320-C21F-481F-3621]おまえ、だれデスだーヨ？[RAW:2823-2A23]？[RAW:2B23-461F-C21F-481F-3621]フーは[RAW:6E20]フーチョ[RAW:6C20]デスだヨ。[RAW:2823]商売しているから、[RAW:2823]何か買ってほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-1320-C21F-481F-3621]おまえ、だれデスだーヨ？[RAW:2823-2A23]？[RAW:2B23-461F-C21F-481F-3621]フーは[RAW:6E20]フーチョ[RAW:6C20]デスだヨ。[RAW:2823]商売しているから、[RAW:2823]何か買ってほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-1320-C21F-481F-3621]너、누구심까[RAW:2823-2A23]？[RAW:2B23-461F-C21F-481F-3621]후는[RAW:6E20]후쵸[RAW:6C20]임다。[RAW:2823]장사하니까、[RAW:2823]뭐라도 사주심다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-1320-C21F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -27,7 +27,7 @@
       "name": "1",
       "message": "[RAW:461F-C21F-4A1F-3621]昨日は大変な天気デスだヨ。[RAW:2B23]うるさかったデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4A1F-3621]昨日は大変な天気デスだヨ。[RAW:2B23]うるさかったデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4A1F-3621]어제 험했슴다。[RAW:2B23]시끌했슴다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4A1F-3621]",
         "[RAW:2B23]",
@@ -39,7 +39,7 @@
       "name": "2",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -50,7 +50,7 @@
       "name": "3",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -61,7 +61,7 @@
       "name": "4",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -72,7 +72,7 @@
       "name": "5",
       "message": "[RAW:461F-C21F-491F-3621]かわいいデスだヨ！[RAW:2823]かわいいデスだヨ！[RAW:2823]すごくかわいいデスだヨ！[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]かわいいデスだヨ！[RAW:2823]かわいいデスだヨ！[RAW:2823]すごくかわいいデスだヨ！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]귀엽슴다요！[RAW:2823]귀엽슴다요！[RAW:2823]엄청 귀엽슴다요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -85,7 +85,7 @@
       "name": "6",
       "message": "[RAW:461F-C21F-4A1F-3621]ギャー、ダメデスだヨ。[RAW:2823]フーは、ムリデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4A1F-3621]ギャー、ダメデスだヨ。[RAW:2823]フーは、ムリデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4A1F-3621]꺄ー、안 됨다요。[RAW:2823]후는、무리임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4A1F-3621]",
         "[RAW:2823]",
@@ -97,7 +97,7 @@
       "name": "7",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -108,7 +108,7 @@
       "name": "8",
       "message": "[RAW:461F-C21F-491F-3621]おお～、青い羽根デスだヨ。[RAW:2823]フーもいつか使いたい…。[RAW:2823]頑張るデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]おお～、青い羽根デスだヨ。[RAW:2823]フーもいつか使いたい…。[RAW:2823]頑張るデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]오오～、파란 깃털임다。[RAW:2823]후도 언젠간 쓰고파…。[RAW:2823]열심히 할 검다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -121,7 +121,7 @@
       "name": "9",
       "message": "[RAW:461F-C21F-481F-3621]フーは、いらないデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]フーは、いらないデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]후는 필요 없슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -132,7 +132,7 @@
       "name": "10",
       "message": "[RAW:461F-C21F-481F-3621]これ以上はいらないデスだヨ。[RAW:2823]持てないデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]これ以上はいらないデスだヨ。[RAW:2823]持てないデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]더는 필요 없슴다요。[RAW:2823]못 가짐다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -144,7 +144,7 @@
       "name": "11",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -155,7 +155,7 @@
       "name": "12",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -166,7 +166,7 @@
       "name": "13",
       "message": "[RAW:461F-C21F-481F-3621]いらないデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]いらないデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]필요 없슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -177,7 +177,7 @@
       "name": "14",
       "message": "[RAW:461F-C21F-491F-3621]今日は誕生日デスだーヨ。[RAW:2823]祝ってくれて、[RAW:2823]ありがとうデスだーヨ。[RAW:2B23]プレゼントが[RAW:6D20]和風サラダ[RAW:6C20]。[RAW:2823]フーは、とても幸せデスだヨ！[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]今日は誕生日デスだーヨ。[RAW:2823]祝ってくれて、[RAW:2823]ありがとうデスだーヨ。[RAW:2B23]プレゼントが[RAW:6D20]和風サラダ[RAW:6C20]。[RAW:2823]フーは、とても幸せデスだヨ！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]오늘은 생일임다요。[RAW:2823]축하해줘서、[RAW:2823]고맙슴다。[RAW:2B23][RAW:6D20]화풍샐[RAW:6C20]！[RAW:2823]후는 정말 행복함다요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -194,7 +194,7 @@
       "name": "15",
       "message": "[RAW:461F-C21F-491F-3621-6D20]和風サラダ[RAW:6C20]デスだヨ！[RAW:2823-6D20]和風サラダ[RAW:6C20]デスだヨ！[RAW:2823-6D20]和風サラダ[RAW:6C20]デスだーヨ！[RAW:2B23]はぁはぁ…、[RAW:2823]ついコウフンしたデスだヨ。[RAW:2823]とってもうれしいデスだヨ！[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621-6D20]和風サラダ[RAW:6C20]デスだヨ！[RAW:2823-6D20]和風サラダ[RAW:6C20]デスだヨ！[RAW:2823-6D20]和風サラダ[RAW:6C20]デスだーヨ！[RAW:2B23]はぁはぁ…、[RAW:2823]ついコウフンしたデスだヨ。[RAW:2823]とってもうれしいデスだヨ！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621-6D20]화풍샐[RAW:6C20]！[RAW:2823-6D20]화풍샐[RAW:6C20]！[RAW:2823-6D20]화풍샐[RAW:6C20]！[RAW:2B23]헥、[RAW:2823]흥분했슴다。[RAW:2823]정말 기쁨다！[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621-6D20]",
         "[RAW:6C20]",
@@ -213,7 +213,7 @@
       "name": "16",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -224,7 +224,7 @@
       "name": "17",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -235,7 +235,7 @@
       "name": "18",
       "message": "[RAW:461F-C21F-491F-3621]今日は誕生日デスだーヨ。[RAW:2823]祝ってくれて、[RAW:2823]ありがとうデスだーヨ。[RAW:2B23]しかも、プレゼントに[RAW:2823]こんないいものを………。[RAW:2823]いい友達を持ったデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]今日は誕生日デスだーヨ。[RAW:2823]祝ってくれて、[RAW:2823]ありがとうデスだーヨ。[RAW:2B23]しかも、プレゼントに[RAW:2823]こんないいものを………。[RAW:2823]いい友達を持ったデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]오늘은 생일임다요。[RAW:2823]축하해줘서、[RAW:2823]고맙슴다요。[RAW:2B23]게다가、선물로[RAW:2823]이런 좋은 걸………。[RAW:2823]좋은 친구를 뒀슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -251,7 +251,7 @@
       "name": "19",
       "message": "[RAW:461F-C21F-491F-3621]おおっ！！[RAW:2823]それをフーが好きって、[RAW:2823]なぜ知ってる？[RAW:2B23]まあ、いいデスだーヨ！[RAW:2823]ありがとうデスだヨ。[RAW:2823]ヒャッホー！！[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]おおっ！！[RAW:2823]それをフーが好きって、[RAW:2823]なぜ知ってる？[RAW:2B23]まあ、いいデスだーヨ！[RAW:2823]ありがとうデスだヨ。[RAW:2823]ヒャッホー！！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]오옷！！[RAW:2823]그걸 후가 좋아하는 걸、[RAW:2823]어찌 앎까？[RAW:2B23]좋슴다！[RAW:2823]고맙슴다요。[RAW:2823]햐호ー！！[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -267,7 +267,7 @@
       "name": "20",
       "message": "[RAW:461F-C21F-481F-3621]もしかして、[RAW:2823]誕生日プレゼント？[RAW:2B23]おおー、ありがとう。[RAW:2823-2A23]。[RAW:2823]感謝するデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]もしかして、[RAW:2823]誕生日プレゼント？[RAW:2B23]おおー、ありがとう。[RAW:2823-2A23]。[RAW:2823]感謝するデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]혹시、[RAW:2823]생일선물？[RAW:2B23]오ー고맙슴다[RAW:2823-2A23]。[RAW:2823]감사함다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -282,7 +282,7 @@
       "name": "21",
       "message": "[RAW:461F-C21F-481F-3621]フーにくれるのか？[RAW:2823]フーは買収されないデスだヨ。[RAW:2823]商品は安くしないデスだヨ。[RAW:2B23]え？　違う？[RAW:2823]それじゃあ、[RAW:2823]素直にもらうデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]フーにくれるのか？[RAW:2823]フーは買収されないデスだヨ。[RAW:2823]商品は安くしないデスだヨ。[RAW:2B23]え？　違う？[RAW:2823]それじゃあ、[RAW:2823]素直にもらうデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]후에게 주는 검까？[RAW:2823]후는 매수 안 됨다요。[RAW:2823]안 깎슴다。[RAW:2B23]예？　아님까？[RAW:2823]그럼、[RAW:2823]얌전히 받겠슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -298,7 +298,7 @@
       "name": "22",
       "message": "[RAW:461F-C21F-4B1F-3621]せっかくの誕生日に…、[RAW:2823]がっかりデスだヨ、[RAW:2823-2A23]………。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4B1F-3621]せっかくの誕生日に…、[RAW:2823]がっかりデスだヨ、[RAW:2823-2A23]………。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4B1F-3621]모처럼 생일인데…、[RAW:2823]실망임다요、[RAW:2823-2A23]………。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4B1F-3621]",
         "[RAW:2823]",
@@ -311,7 +311,7 @@
       "name": "23",
       "message": "[RAW:461F-C21F-4A1F-3621]グヌヌ…、[RAW:2823]これをキライなのを知ってて、[RAW:2823]渡しているデスだヨ…。[RAW:2B23-2A23]には、[RAW:2823]がっかりデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4A1F-3621]グヌヌ…、[RAW:2823]これをキライなのを知ってて、[RAW:2823]渡しているデスだヨ…。[RAW:2B23-2A23]には、[RAW:2823]がっかりデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4A1F-3621]끄으눅…、[RAW:2823]이걸 싫어하는 걸 알고도、[RAW:2823]준 검다요…。[RAW:2B23-2A23]에는、[RAW:2823]실망임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4A1F-3621]",
         "[RAW:2823]",
@@ -326,7 +326,7 @@
       "name": "24",
       "message": "[RAW:461F-C21F-4B1F-3621]フーが苦手なものデスだヨ。[RAW:2823]昔、兄弟達に寝てる時に、[RAW:2823]ふりかけられたデスだヨ。[RAW:2B23]辛くて飛び起きたデスだヨ。[RAW:2823]それ以来、キライデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4B1F-3621]フーが苦手なものデスだヨ。[RAW:2823]昔、兄弟達に寝てる時に、[RAW:2823]ふりかけられたデスだヨ。[RAW:2B23]辛くて飛び起きたデスだヨ。[RAW:2823]それ以来、キライデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4B1F-3621]후가 질색하는 검다요。[RAW:2823]옛날에 형제들이 잘 때、[RAW:2823]뿌렸슴다。[RAW:2B23]매워 깼슴다。[RAW:2823]그 뒤로、싫어함다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4B1F-3621]",
         "[RAW:2823]",
@@ -341,7 +341,7 @@
       "name": "25",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -352,7 +352,7 @@
       "name": "26",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -363,7 +363,7 @@
       "name": "27",
       "message": "[RAW:461F-C21F-491F-3621-2A23]。[RAW:2823]結婚って、[RAW:2823]どんな感じデスだヨ？[RAW:2B23-461F-C21F-481F-3621]フーもできるだけ早く、[RAW:2823]結婚したいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621-2A23]。[RAW:2823]結婚って、[RAW:2823]どんな感じデスだヨ？[RAW:2B23-461F-C21F-481F-3621]フーもできるだけ早く、[RAW:2823]結婚したいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621-2A23]。[RAW:2823]결혼은、[RAW:2823]어떤 검까？[RAW:2B23-461F-C21F-481F-3621]후도 빨리、[RAW:2823]결혼하고 싶슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621-2A23]",
         "[RAW:2823]",
@@ -378,7 +378,7 @@
       "name": "28",
       "message": "[RAW:461F-C21F-481F-3621]今日は風がうるさいデスだヨ。[RAW:2823]早く止んでほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]今日は風がうるさいデスだヨ。[RAW:2823]早く止んでほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]오늘 바람 시끄럽슴다。[RAW:2823]빨리 그치면 좋겠슴다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -390,7 +390,7 @@
       "name": "29",
       "message": "[RAW:461F-C21F-481F-3621]今日は雪が多いデスだヨ。[RAW:2823]早く止んでほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]今日は雪が多いデスだヨ。[RAW:2823]早く止んでほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]오늘 눈이 많슴다요。[RAW:2823]빨리 그치면 좋겠슴다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -402,7 +402,7 @@
       "name": "30",
       "message": "[RAW:461F-C21F-491F-3621]いつも仲良くしてくれて、[RAW:2823]ありがとうデスだヨ。[RAW:2B23]フーはうれしいデスだヨ。[RAW:2823]と言っても、商品を[RAW:2823]安くする気はないデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]いつも仲良くしてくれて、[RAW:2823]ありがとうデスだヨ。[RAW:2B23]フーはうれしいデスだヨ。[RAW:2823]と言っても、商品を[RAW:2823]安くする気はないデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]늘 잘 지내줘서、[RAW:2823]고맙슴다요。[RAW:2B23]후는 기쁨다요。[RAW:2823]그래도 물건을[RAW:2823]깎을 맘은 없슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -417,7 +417,7 @@
       "name": "31",
       "message": "[RAW:461F-C21F-491F-3621]いつも来てくれて、[RAW:2823]うれしいデスだヨ。[RAW:2B23]何か買って行ってくれると、[RAW:2823]もっとうれしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]いつも来てくれて、[RAW:2823]うれしいデスだヨ。[RAW:2B23]何か買って行ってくれると、[RAW:2823]もっとうれしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]늘 와줘서、[RAW:2823]기쁨다。[RAW:2B23]사가주면、[RAW:2823]더 기쁠 검다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -431,7 +431,7 @@
       "name": "32",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーは、[RAW:2823]商売に対して気合が[RAW:2823]足りないデスだヨ。[RAW:2B23]フーを少しでも見習って、[RAW:2823]精進してほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーは、[RAW:2823]商売に対して気合が[RAW:2823]足りないデスだヨ。[RAW:2B23]フーを少しでも見習って、[RAW:2823]精進してほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루는、[RAW:2823]장사에 대한 기합이[RAW:2823]부족함다。[RAW:2B23]후 본받아、[RAW:2823]정진해줬음 함다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -446,7 +446,7 @@
       "name": "33",
       "message": "[RAW:461F-C21F-481F-3621]フーは３兄弟の長男デスだヨ。[RAW:2823]長男はしっかりしないと、[RAW:2823]ダメデスだヨ。[RAW:2B23]弟達が頼りないから、[RAW:2823]しょうがないデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]フーは３兄弟の長男デスだヨ。[RAW:2823]長男はしっかりしないと、[RAW:2823]ダメデスだヨ。[RAW:2B23]弟達が頼りないから、[RAW:2823]しょうがないデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]후는 삼형제 장남임다。[RAW:2823]장남은 야무져야[RAW:2823]안 됨다。[RAW:2B23]동생땜에、[RAW:2823]어쩔 수 없슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -461,7 +461,7 @@
       "name": "34",
       "message": "[RAW:461F-C21F-481F-3621]フーのお仕事は、[RAW:2823]村の役に立ってるデスだヨ。[RAW:2823]なくてはならないデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]フーのお仕事は、[RAW:2823]村の役に立ってるデスだヨ。[RAW:2823]なくてはならないデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]후의 일은、[RAW:2823]마을에 도움 됨다요。[RAW:2823]없어선 안 됨다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -474,7 +474,7 @@
       "name": "35",
       "message": "[RAW:461F-C21F-481F-3621]フーは商売が大好きデスだヨ。[RAW:2823]商売している時は、[RAW:2823]生きてる実感がするデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]フーは商売が大好きデスだヨ。[RAW:2823]商売している時は、[RAW:2823]生きてる実感がするデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]후는 장사가 좋슴다요。[RAW:2823]장사할 때는、[RAW:2823]살아있단 느낌임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -487,7 +487,7 @@
       "name": "36",
       "message": "[RAW:461F-C21F-481F-3621]商売というものは、何かと[RAW:2823]むずかしいものデスだヨ。[RAW:2823]失敗しながら覚えるデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]商売というものは、何かと[RAW:2823]むずかしいものデスだヨ。[RAW:2823]失敗しながら覚えるデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]장사라는 건、여러모로[RAW:2823]어려운 검다요。[RAW:2823]실패하며 배우는 검다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -500,7 +500,7 @@
       "name": "37",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -511,7 +511,7 @@
       "name": "38",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -522,7 +522,7 @@
       "name": "39",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -533,7 +533,7 @@
       "name": "40",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -544,7 +544,7 @@
       "name": "41",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -555,7 +555,7 @@
       "name": "42",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -566,7 +566,7 @@
       "name": "43",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -577,7 +577,7 @@
       "name": "44",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -588,7 +588,7 @@
       "name": "45",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -599,7 +599,7 @@
       "name": "46",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -610,7 +610,7 @@
       "name": "47",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -621,7 +621,7 @@
       "name": "48",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -632,7 +632,7 @@
       "name": "49",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -643,7 +643,7 @@
       "name": "50",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -654,7 +654,7 @@
       "name": "51",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -665,7 +665,7 @@
       "name": "52",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -676,7 +676,7 @@
       "name": "53",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -687,7 +687,7 @@
       "name": "54",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -698,7 +698,7 @@
       "name": "55",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -709,7 +709,7 @@
       "name": "56",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -720,7 +720,7 @@
       "name": "57",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -731,7 +731,7 @@
       "name": "58",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -742,7 +742,7 @@
       "name": "59",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -753,7 +753,7 @@
       "name": "60",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -764,7 +764,7 @@
       "name": "61",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -775,7 +775,7 @@
       "name": "62",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -786,7 +786,7 @@
       "name": "63",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -797,7 +797,7 @@
       "name": "64",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -808,7 +808,7 @@
       "name": "65",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -819,7 +819,7 @@
       "name": "66",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -830,7 +830,7 @@
       "name": "67",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -841,7 +841,7 @@
       "name": "68",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -852,7 +852,7 @@
       "name": "69",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -863,7 +863,7 @@
       "name": "70",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -874,7 +874,7 @@
       "name": "71",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -885,7 +885,7 @@
       "name": "72",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -896,7 +896,7 @@
       "name": "73",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -907,7 +907,7 @@
       "name": "74",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -918,7 +918,7 @@
       "name": "75",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -929,7 +929,7 @@
       "name": "76",
       "message": "[RAW:461F-C21F-481F-3621]商品にはならないデスだヨ。[RAW:2823]残念デスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]商品にはならないデスだヨ。[RAW:2823]残念デスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]상품 못 됨다요。[RAW:2823]아쉽슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -941,7 +941,7 @@
       "name": "77",
       "message": "[RAW:461F-C21F-491F-3621]フーが目をつけていた子ね。[RAW:2823]高く売れるデスだヨ。[RAW:2B23-461F-C21F-4B1F-3621]え？　売り物じゃない？[RAW:2823]残念デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]フーが目をつけていた子ね。[RAW:2823]高く売れるデスだヨ。[RAW:2B23-461F-C21F-4B1F-3621]え？　売り物じゃない？[RAW:2823]残念デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]후가 찍은 애임다。[RAW:2823]값나감다。[RAW:2B23-461F-C21F-4B1F-3621]예？　안 팜까？[RAW:2823]아쉽슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -955,7 +955,7 @@
       "name": "78",
       "message": "[RAW:461F-C21F-4A1F-3621]ダ…ダメデスだーヨ。[RAW:2823]近づかないでほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4A1F-3621]ダ…ダメデスだーヨ。[RAW:2823]近づかないでほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4A1F-3621]다…안 됨다요。[RAW:2823]가까이 오지 마심다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4A1F-3621]",
         "[RAW:2823]",
@@ -967,7 +967,7 @@
       "name": "79",
       "message": "[RAW:461F-C21F-481F-3621]キョウミがないデスだヨ。[RAW:2823]放してやった方が、[RAW:2823]いいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]キョウミがないデスだヨ。[RAW:2823]放してやった方が、[RAW:2823]いいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]흥미 없슴다요。[RAW:2823]놔주는 편이、[RAW:2823]좋슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -980,7 +980,7 @@
       "name": "80",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -991,7 +991,7 @@
       "name": "81",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1002,7 +1002,7 @@
       "name": "82",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1013,7 +1013,7 @@
       "name": "83",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1024,7 +1024,7 @@
       "name": "84",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1035,7 +1035,7 @@
       "name": "85",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1046,7 +1046,7 @@
       "name": "86",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1057,7 +1057,7 @@
       "name": "87",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1068,7 +1068,7 @@
       "name": "88",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1079,7 +1079,7 @@
       "name": "89",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1090,7 +1090,7 @@
       "name": "90",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1101,7 +1101,7 @@
       "name": "91",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1112,7 +1112,7 @@
       "name": "92",
       "message": "[RAW:461F-C21F-491F-3621]わぉ、フーに？[RAW:2823]ヒャッホー、うれしい！！[RAW:2823]ありがとうデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]わぉ、フーに？[RAW:2823]ヒャッホー、うれしい！！[RAW:2823]ありがとうデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]와우、후에게？[RAW:2823]햐호ー、기쁨다！！[RAW:2823]고맙슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -1125,7 +1125,7 @@
       "name": "93",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1136,7 +1136,7 @@
       "name": "94",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1147,7 +1147,7 @@
       "name": "95",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1158,7 +1158,7 @@
       "name": "96",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1169,7 +1169,7 @@
       "name": "97",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1180,7 +1180,7 @@
       "name": "98",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1191,7 +1191,7 @@
       "name": "99",
       "message": "[RAW:461F-C21F-491F-3621]フーにプレゼント？[RAW:2823]めったな事では、[RAW:2823]おどろかないデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]フーにプレゼント？[RAW:2823]めったな事では、[RAW:2823]おどろかないデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]후한테 선물？[RAW:2823]웬만한 일론、[RAW:2823]안 놀람다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -1204,7 +1204,7 @@
       "name": "100",
       "message": "[RAW:461F-C21F-491F-3621]女性とこれだけ話せるとは、[RAW:2823]思わなかったデスだーヨ。[RAW:2823]友達って、いいものデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]女性とこれだけ話せるとは、[RAW:2823]思わなかったデスだーヨ。[RAW:2823]友達って、いいものデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]여자와 이렇게 얘기할 줄、[RAW:2823]몰랐슴다요。[RAW:2823]친구는 좋은 검다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -1217,7 +1217,7 @@
       "name": "101",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1228,7 +1228,7 @@
       "name": "102",
       "message": "[RAW:461F-C21F-481F-3621-2A23]か。[RAW:2823]ムーは元気か？[RAW:2823]弟の事は気になるデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621-2A23]か。[RAW:2823]ムーは元気か？[RAW:2823]弟の事は気になるデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621-2A23]가。[RAW:2823]무는 잘 지냄까？[RAW:2823]동생 일은 신경임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -1241,7 +1241,7 @@
       "name": "103",
       "message": "[RAW:461F-C21F-481F-3621]商売は楽しいデスだヨ。[RAW:2823]お金がもうかると、[RAW:2823]もっと楽しいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]商売は楽しいデスだヨ。[RAW:2823]お金がもうかると、[RAW:2823]もっと楽しいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]장사는 재밌슴다요。[RAW:2823]돈 벌리면、[RAW:2823]더 재밌슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1254,7 +1254,7 @@
       "name": "104",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1265,7 +1265,7 @@
       "name": "105",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1276,7 +1276,7 @@
       "name": "106",
       "message": "[RAW:461F-C21F-481F-3621]今からムーの店まで、[RAW:2823]行ってくるデスだヨ。[RAW:2B23]ちゃんと働いているか、[RAW:2823]心配デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]今からムーの店まで、[RAW:2823]行ってくるデスだヨ。[RAW:2B23]ちゃんと働いているか、[RAW:2823]心配デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]지금 무 가게로、[RAW:2823]갔다옴다。[RAW:2B23]일하나、[RAW:2823]걱정임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1290,7 +1290,7 @@
       "name": "107",
       "message": "[RAW:461F-C21F-481F-3621]何か売れるものは落ちてない？[RAW:2823]落ちているのを見つけたら、[RAW:2823]教えてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か売れるものは落ちてない？[RAW:2823]落ちているのを見つけたら、[RAW:2823]教えてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]팔릴 게 안 떨어짐까？[RAW:2823]떨어진 걸 보면、[RAW:2823]알려주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1303,7 +1303,7 @@
       "name": "108",
       "message": "[RAW:461F-C21F-4B1F-3621]はぁ…はぁ…、[RAW:2823]ちょっと、休みたいデスだヨ。[RAW:2823]遠いデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4B1F-3621]はぁ…はぁ…、[RAW:2823]ちょっと、休みたいデスだヨ。[RAW:2823]遠いデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4B1F-3621]하아…하아…、[RAW:2823]좀 쉬고 싶슴다요。[RAW:2823]멀었슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4B1F-3621]",
         "[RAW:2823]",
@@ -1316,7 +1316,7 @@
       "name": "109",
       "message": "[RAW:461F-C21F-481F-3621]こちら側は、めずらしいものが[RAW:2823]多いデスだヨ。[RAW:2823]見ていて楽しいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]こちら側は、めずらしいものが[RAW:2823]多いデスだヨ。[RAW:2823]見ていて楽しいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]이쪽은、희한한 게[RAW:2823]많슴다요。[RAW:2823]보는 맛 있슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1329,7 +1329,7 @@
       "name": "110",
       "message": "[RAW:461F-C21F-481F-3621]ムーがちゃんと働いていると[RAW:2823]いいデスが…。[RAW:2823]長男は大変デスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーがちゃんと働いていると[RAW:2823]いいデスが…。[RAW:2823]長男は大変デスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무가 제대로 일하면[RAW:2823]좋겠슴다만…。[RAW:2823]장남은 힘듦다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1342,7 +1342,7 @@
       "name": "111",
       "message": "[RAW:461F-C21F-491F-3621]ムーの店が繁盛していると[RAW:2823]いいデスが…。[RAW:2823]長男は大変デスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]ムーの店が繁盛していると[RAW:2823]いいデスが…。[RAW:2823]長男は大変デスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]무 가게 번창하면[RAW:2823]좋겠슴다만…。[RAW:2823]장남은 힘듦다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823]",
@@ -1355,7 +1355,7 @@
       "name": "112",
       "message": "[RAW:461F-C21F-481F-3621]ムーがちゃんと働いていると[RAW:2823]いいデスが…。[RAW:2823]長男は大変デスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーがちゃんと働いていると[RAW:2823]いいデスが…。[RAW:2823]長男は大変デスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무가 제대로 일하면[RAW:2823]좋겠슴다만…。[RAW:2823]장남은 힘듦다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1368,7 +1368,7 @@
       "name": "113",
       "message": "[RAW:461F-C21F-481F-3621]ここの風景画を描けば、[RAW:2823]高く売れると思う…。[RAW:2823]だれか描いてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ここの風景画を描けば、[RAW:2823]高く売れると思う…。[RAW:2823]だれか描いてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]여기 풍경화 그리면、[RAW:2823]비싸게 팔릴 듯…。[RAW:2823]누가 그려줬음 함다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -1381,7 +1381,7 @@
       "name": "114",
       "message": "[RAW:461F-C21F-4B1F-3621]やっぱり、遠いデスだヨ…。[RAW:2823]疲れたデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4B1F-3621]やっぱり、遠いデスだヨ…。[RAW:2823]疲れたデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4B1F-3621]역시、멀슴다요…。[RAW:2823]지쳤슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4B1F-3621]",
         "[RAW:2823]",
@@ -1393,7 +1393,7 @@
       "name": "115",
       "message": "[RAW:461F-C21F-4B1F-3621]やっと帰ってきたデスだヨ。[RAW:2823]へとへとデスだヨ………。[RAW:0E27]",
       "original": "[RAW:461F-C21F-4B1F-3621]やっと帰ってきたデスだヨ。[RAW:2823]へとへとデスだヨ………。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-4B1F-3621]겨우 돌아왔슴다요。[RAW:2823]녹초임다요………。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-4B1F-3621]",
         "[RAW:2823]",
@@ -1405,7 +1405,7 @@
       "name": "116",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1416,7 +1416,7 @@
       "name": "117",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1427,7 +1427,7 @@
       "name": "118",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1438,7 +1438,7 @@
       "name": "119",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1449,7 +1449,7 @@
       "name": "120",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1460,7 +1460,7 @@
       "name": "121",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1471,7 +1471,7 @@
       "name": "122",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1482,7 +1482,7 @@
       "name": "123",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1493,7 +1493,7 @@
       "name": "124",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1504,7 +1504,7 @@
       "name": "125",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1515,7 +1515,7 @@
       "name": "126",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1526,7 +1526,7 @@
       "name": "127",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1537,7 +1537,7 @@
       "name": "128",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1548,7 +1548,7 @@
       "name": "129",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1559,7 +1559,7 @@
       "name": "130",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1570,7 +1570,7 @@
       "name": "131",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1581,7 +1581,7 @@
       "name": "132",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1592,7 +1592,7 @@
       "name": "133",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1603,7 +1603,7 @@
       "name": "134",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1614,7 +1614,7 @@
       "name": "135",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1625,7 +1625,7 @@
       "name": "136",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1636,7 +1636,7 @@
       "name": "137",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1647,7 +1647,7 @@
       "name": "138",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1658,7 +1658,7 @@
       "name": "139",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1669,7 +1669,7 @@
       "name": "140",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1680,7 +1680,7 @@
       "name": "141",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1691,7 +1691,7 @@
       "name": "142",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1702,7 +1702,7 @@
       "name": "143",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1713,7 +1713,7 @@
       "name": "144",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1724,7 +1724,7 @@
       "name": "145",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1735,7 +1735,7 @@
       "name": "146",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1746,7 +1746,7 @@
       "name": "147",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1757,7 +1757,7 @@
       "name": "148",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1768,7 +1768,7 @@
       "name": "149",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1779,7 +1779,7 @@
       "name": "150",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1790,7 +1790,7 @@
       "name": "151",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1801,7 +1801,7 @@
       "name": "152",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1812,7 +1812,7 @@
       "name": "153",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1823,7 +1823,7 @@
       "name": "154",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1834,7 +1834,7 @@
       "name": "155",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1845,7 +1845,7 @@
       "name": "156",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1856,7 +1856,7 @@
       "name": "157",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1867,7 +1867,7 @@
       "name": "158",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1878,7 +1878,7 @@
       "name": "159",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1889,7 +1889,7 @@
       "name": "160",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1900,7 +1900,7 @@
       "name": "161",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1911,7 +1911,7 @@
       "name": "162",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1922,7 +1922,7 @@
       "name": "163",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1933,7 +1933,7 @@
       "name": "164",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1944,7 +1944,7 @@
       "name": "165",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1955,7 +1955,7 @@
       "name": "166",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1966,7 +1966,7 @@
       "name": "167",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1977,7 +1977,7 @@
       "name": "168",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1988,7 +1988,7 @@
       "name": "169",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -1999,7 +1999,7 @@
       "name": "170",
       "message": "[RAW:461F-C21F-481F-3621]おはようデスだーヨ。[RAW:2823]今日も元気そうデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]おはようデスだーヨ。[RAW:2823]今日も元気そうデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좋은 아침임다요。[RAW:2823]오늘도 멀쩡해 보임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2011,7 +2011,7 @@
       "name": "171",
       "message": "[RAW:461F-C21F-491F-3621-2A23]、[RAW:2823]おはようデスだーヨ。[RAW:2B23]もうけ話があったら、[RAW:2823]教えてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621-2A23]、[RAW:2823]おはようデスだーヨ。[RAW:2B23]もうけ話があったら、[RAW:2823]教えてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621-2A23]、[RAW:2823]좋은아침임다。[RAW:2B23]돈얘기、[RAW:2823]알려주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621-2A23]",
         "[RAW:2823]",
@@ -2025,7 +2025,7 @@
       "name": "172",
       "message": "[RAW:461F-C21F-481F-3621]おはようデスだヨ、[RAW:2823-2A23]。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]おはようデスだヨ、[RAW:2823-2A23]。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좋은아침임다、[RAW:2823-2A23]。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2037,7 +2037,7 @@
       "name": "173",
       "message": "[RAW:461F-C21F-481F-3621]こんにちはデスだーヨ。[RAW:2B23]フーの店で買い物をすると、[RAW:2823]いい事があるデスだヨ。[RAW:2823]………たぶん。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]こんにちはデスだーヨ。[RAW:2B23]フーの店で買い物をすると、[RAW:2823]いい事があるデスだヨ。[RAW:2823]………たぶん。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]안녕임다。[RAW:2B23]후집서 사면、[RAW:2823]좋은 일 있슴다요。[RAW:2823]………아마。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2B23]",
@@ -2051,7 +2051,7 @@
       "name": "174",
       "message": "[RAW:461F-C21F-491F-3621-2A23]、[RAW:2823]こんにちはデスだーヨ。[RAW:2B23]商売人はあいさつが[RAW:2823]基本デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621-2A23]、[RAW:2823]こんにちはデスだーヨ。[RAW:2B23]商売人はあいさつが[RAW:2823]基本デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621-2A23]、[RAW:2823]안녕임다。[RAW:2B23]장삿꾼 인사、[RAW:2823]기본임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621-2A23]",
         "[RAW:2823]",
@@ -2065,7 +2065,7 @@
       "name": "175",
       "message": "[RAW:461F-C21F-491F-3621]こんにちはデスだーヨ。[RAW:2823-2A23]。[RAW:2B23]フーと仲良くすると、[RAW:2823]ラッキーな事があるデスだヨ。[RAW:2823]………たぶん。[RAW:0E27]",
       "original": "[RAW:461F-C21F-491F-3621]こんにちはデスだーヨ。[RAW:2823-2A23]。[RAW:2B23]フーと仲良くすると、[RAW:2823]ラッキーな事があるデスだヨ。[RAW:2823]………たぶん。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-491F-3621]안녕임다。[RAW:2823-2A23]。[RAW:2B23]후랑 친하면、[RAW:2823]행운 있슴다요。[RAW:2823]………아마。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -2080,7 +2080,7 @@
       "name": "176",
       "message": "[RAW:461F-C21F-481F-3621]こんばんはデスだーヨ。[RAW:2823]今日１日、フーは[RAW:2823]頑張ったデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]こんばんはデスだーヨ。[RAW:2823]今日１日、フーは[RAW:2823]頑張ったデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좋은 저녁임다요。[RAW:2823]오늘 하루、후는[RAW:2823]열심였슴다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2093,7 +2093,7 @@
       "name": "177",
       "message": "[RAW:461F-C21F-481F-3621-2A23]、[RAW:2823]こんばんはデスだーヨ。[RAW:2B23]今日はちょっと、[RAW:2823]頑張りすぎたデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621-2A23]、[RAW:2823]こんばんはデスだーヨ。[RAW:2B23]今日はちょっと、[RAW:2823]頑張りすぎたデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621-2A23]、[RAW:2823]좋은 저녁임다。[RAW:2B23]오늘 좀、[RAW:2823]너무 열심였슴다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2107,7 +2107,7 @@
       "name": "178",
       "message": "[RAW:461F-C21F-481F-3621]こんばんはデスだヨ、[RAW:2823-2A23]。[RAW:2B23]牧場でいりそうなものは[RAW:2823]フーの店で買ってほしい[RAW:2823]デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]こんばんはデスだヨ、[RAW:2823-2A23]。[RAW:2B23]牧場でいりそうなものは[RAW:2823]フーの店で買ってほしい[RAW:2823]デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좋은저녁임다、[RAW:2823-2A23]。[RAW:2B23]목장 물건은[RAW:2823]후 가게서[RAW:2823]사심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2122,7 +2122,7 @@
       "name": "179",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2133,7 +2133,7 @@
       "name": "180",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2144,7 +2144,7 @@
       "name": "181",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2155,7 +2155,7 @@
       "name": "182",
       "message": "[RAW:461F-C21F-481F-3621]買いたかったら、[RAW:2823]カウンター越しに[RAW:2823]お願いするデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]買いたかったら、[RAW:2823]カウンター越しに[RAW:2823]お願いするデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]사고프면、[RAW:2823]카운터 너머서[RAW:2823]말해주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2168,7 +2168,7 @@
       "name": "183",
       "message": "[RAW:461F-C21F-481F-3621]はぁ、いそがしいデスだヨ。[RAW:2823]何を仕入れないといけないか、[RAW:2823]チェック中デスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]はぁ、いそがしいデスだヨ。[RAW:2823]何を仕入れないといけないか、[RAW:2823]チェック中デスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]하아、바쁨다요。[RAW:2823]뭘 들여와야 할지、[RAW:2823]확인 중임다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2181,7 +2181,7 @@
       "name": "184",
       "message": "[RAW:461F-C21F-481F-3621]今は営業中デスだヨ。[RAW:2823]話しがあるなら、[RAW:2823]後にするデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]今は営業中デスだヨ。[RAW:2823]話しがあるなら、[RAW:2823]後にするデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]지금 영업 중임다요。[RAW:2823]할 말 있으면、[RAW:2823]나중에 하심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2194,7 +2194,7 @@
       "name": "185",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2205,7 +2205,7 @@
       "name": "186",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2216,7 +2216,7 @@
       "name": "187",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2227,7 +2227,7 @@
       "name": "188",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2239,7 +2239,7 @@
       "name": "189",
       "message": "[RAW:461F-C21F-481F-3621]弟達の成長を見守る兄…。[RAW:2823]かっこいいデスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]弟達の成長を見守る兄…。[RAW:2823]かっこいいデスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]동생들 크는 형…。[RAW:2823]멋짐다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2251,7 +2251,7 @@
       "name": "190",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2264,7 +2264,7 @@
       "name": "191",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2275,7 +2275,7 @@
       "name": "192",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2286,7 +2286,7 @@
       "name": "193",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2297,7 +2297,7 @@
       "name": "194",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2308,7 +2308,7 @@
       "name": "195",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2319,7 +2319,7 @@
       "name": "196",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2330,7 +2330,7 @@
       "name": "197",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2341,7 +2341,7 @@
       "name": "198",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2352,7 +2352,7 @@
       "name": "199",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2363,7 +2363,7 @@
       "name": "200",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2375,7 +2375,7 @@
       "name": "201",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2388,7 +2388,7 @@
       "name": "202",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2399,7 +2399,7 @@
       "name": "203",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2411,7 +2411,7 @@
       "name": "204",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2424,7 +2424,7 @@
       "name": "205",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2435,7 +2435,7 @@
       "name": "206",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2447,7 +2447,7 @@
       "name": "207",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2460,7 +2460,7 @@
       "name": "208",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2471,7 +2471,7 @@
       "name": "209",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2483,7 +2483,7 @@
       "name": "210",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2496,7 +2496,7 @@
       "name": "211",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2507,7 +2507,7 @@
       "name": "212",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2519,7 +2519,7 @@
       "name": "213",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2532,7 +2532,7 @@
       "name": "214",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27]"
@@ -2543,7 +2543,7 @@
       "name": "215",
       "message": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ちょっと、疲れたデスだヨ。[RAW:2823]後にしてほしいデスだヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]좀 피곤함다요。[RAW:2823]나중에 와주심다요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2555,7 +2555,7 @@
       "name": "216",
       "message": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
       "original": "[RAW:461F-C21F-481F-3621]ムーやルーを[RAW:2823]立派な商売人にするのが[RAW:2823]兄の役目デスだーヨ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무와 루를[RAW:2823]훌륭한 장사꾼으로[RAW:2823]키우는 게 형 몫임다。[RAW:0E27]",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:2823]",
@@ -2568,7 +2568,7 @@
       "name": "217",
       "message": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27-0F27]り",
       "original": "[RAW:461F-C21F-481F-3621]何か用デスだヨ？[RAW:0E27-0F27]り",
-      "translation": "",
+      "translation": "[RAW:461F-C21F-481F-3621]무슨 일임까？[RAW:0E27-0F27]り",
       "controls": [
         "[RAW:461F-C21F-481F-3621]",
         "[RAW:0E27-0F27]"
