@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:401F-1320-B01F-481F-3521-1420]おはよう、[RAW:2A23]くん。[RAW:2823]おじゃまするぞ。[RAW:0E27]",
       "original": "[RAW:401F-1320-B01F-481F-3521-1420]おはよう、[RAW:2A23]くん。[RAW:2823]おじゃまするぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-1320-B01F-481F-3521-1420]좋은 아침이구먼、[RAW:2A23]군。[RAW:2823]실례하겠네。[RAW:0E27]",
       "controls": [
         "[RAW:401F-1320-B01F-481F-3521-1420]",
         "[RAW:2A23]",
@@ -23,7 +23,7 @@
       "name": "1",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -33,7 +33,7 @@
       "name": "2",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -43,7 +43,7 @@
       "name": "3",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -53,7 +53,7 @@
       "name": "4",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -63,7 +63,7 @@
       "name": "5",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -73,7 +73,7 @@
       "name": "6",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -83,7 +83,7 @@
       "name": "7",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -93,7 +93,7 @@
       "name": "8",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -103,7 +103,7 @@
       "name": "9",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -113,7 +113,7 @@
       "name": "10",
       "message": "[RAW:411F-B01F-481F-3621]今日は、今月の祭のことで[RAW:2823]知らせに来たんじゃ。[RAW:0E27]",
       "original": "[RAW:411F-B01F-481F-3621]今日は、今月の祭のことで[RAW:2823]知らせに来たんじゃ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B01F-481F-3621]오늘은 이번 달 축제를[RAW:2823]알리러 왔네。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B01F-481F-3621]",
         "[RAW:2823]",
@@ -125,7 +125,7 @@
       "name": "11",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -135,7 +135,7 @@
       "name": "12",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -145,7 +145,7 @@
       "name": "13",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -155,7 +155,7 @@
       "name": "14",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -165,7 +165,7 @@
       "name": "15",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -175,7 +175,7 @@
       "name": "16",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -185,7 +185,7 @@
       "name": "17",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -195,7 +195,7 @@
       "name": "18",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -205,7 +205,7 @@
       "name": "19",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -215,7 +215,7 @@
       "name": "20",
       "message": "[RAW:411F-B01F-491F-3621]今月は、２６日に[RAW:2823-6D20]動物祭[RAW:6C20]があるんじゃ。[RAW:2B23-411F-B01F-481F-3621]今回は[RAW:6D20]イヌ祭[RAW:6C20]じゃ。[RAW:2823]出場したいなら、[RAW:2823]しっかり育てておくことじゃ。[RAW:0E27]",
       "original": "[RAW:411F-B01F-491F-3621]今月は、２６日に[RAW:2823-6D20]動物祭[RAW:6C20]があるんじゃ。[RAW:2B23-411F-B01F-481F-3621]今回は[RAW:6D20]イヌ祭[RAW:6C20]じゃ。[RAW:2823]出場したいなら、[RAW:2823]しっかり育てておくことじゃ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B01F-491F-3621]이번 달은 ２６일에[RAW:2823-6D20]동물 축제[RAW:6C20]가 열리네。[RAW:2B23-411F-B01F-481F-3621]이번엔 [RAW:6D20]개 축제[RAW:6C20]라네。[RAW:2823]나가고 싶다면、[RAW:2823]잘 키워 두게나。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B01F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -233,7 +233,7 @@
       "name": "21",
       "message": "[RAW:411F-B01F-491F-3621]今月は、２６日に[RAW:2823-6D20]動物祭[RAW:6C20]があるんじゃ。[RAW:2B23-411F-B01F-481F-3621]今回は[RAW:6D20]ネコ祭[RAW:6C20]じゃ。[RAW:2823]出場したいなら、[RAW:2823]しっかり育てておくことじゃ。[RAW:0E27]",
       "original": "[RAW:411F-B01F-491F-3621]今月は、２６日に[RAW:2823-6D20]動物祭[RAW:6C20]があるんじゃ。[RAW:2B23-411F-B01F-481F-3621]今回は[RAW:6D20]ネコ祭[RAW:6C20]じゃ。[RAW:2823]出場したいなら、[RAW:2823]しっかり育てておくことじゃ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B01F-491F-3621]이번 달은 ２６일에[RAW:2823-6D20]동물 축제[RAW:6C20]가 열리네。[RAW:2B23-411F-B01F-481F-3621]이번엔 [RAW:6D20]고양이 축제[RAW:6C20]라네。[RAW:2823]나가고 싶다면、[RAW:2823]잘 키워 두게나。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B01F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -251,7 +251,7 @@
       "name": "22",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -261,7 +261,7 @@
       "name": "23",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -271,7 +271,7 @@
       "name": "24",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -281,7 +281,7 @@
       "name": "25",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -291,7 +291,7 @@
       "name": "26",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -301,7 +301,7 @@
       "name": "27",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -311,7 +311,7 @@
       "name": "28",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -321,7 +321,7 @@
       "name": "29",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -331,7 +331,7 @@
       "name": "30",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -341,7 +341,7 @@
       "name": "31",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -351,7 +351,7 @@
       "name": "32",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -361,7 +361,7 @@
       "name": "33",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -371,7 +371,7 @@
       "name": "34",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -381,7 +381,7 @@
       "name": "35",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -391,7 +391,7 @@
       "name": "36",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -401,7 +401,7 @@
       "name": "37",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -411,7 +411,7 @@
       "name": "38",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -421,7 +421,7 @@
       "name": "39",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -431,7 +431,7 @@
       "name": "40",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -441,7 +441,7 @@
       "name": "41",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -451,7 +451,7 @@
       "name": "42",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -461,7 +461,7 @@
       "name": "43",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -471,7 +471,7 @@
       "name": "44",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -481,7 +481,7 @@
       "name": "45",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -491,7 +491,7 @@
       "name": "46",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -501,7 +501,7 @@
       "name": "47",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -511,7 +511,7 @@
       "name": "48",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -521,7 +521,7 @@
       "name": "49",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -531,7 +531,7 @@
       "name": "50",
       "message": "[RAW:411F-B01F-481F-3621]どうじゃ？[RAW:2823]全部覚えたか？[RAW:2B23-411F-B01F-491F-3621]忘れてしまったときは、[RAW:2823-6D20]カレンダー[RAW:6C20]を見るんじゃぞ。[RAW:2B23-411F-B01F-481F-3621]それじゃあ、これで帰る。[RAW:2823]仕事、頑張るんじゃぞ！[RAW:0E27]",
       "original": "[RAW:411F-B01F-481F-3621]どうじゃ？[RAW:2823]全部覚えたか？[RAW:2B23-411F-B01F-491F-3621]忘れてしまったときは、[RAW:2823-6D20]カレンダー[RAW:6C20]を見るんじゃぞ。[RAW:2B23-411F-B01F-481F-3621]それじゃあ、これで帰る。[RAW:2823]仕事、頑張るんじゃぞ！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B01F-481F-3621]어떤가？[RAW:2823]다 외웠느냐？[RAW:2B23-411F-B01F-491F-3621]잊어버렸을 때는、[RAW:2823-6D20]달력[RAW:6C20]을 보게나。[RAW:2B23-411F-B01F-481F-3621]그럼 이만 가겠네。[RAW:2823]일、열심히 하게나！[RAW:0E27]",
       "controls": [
         "[RAW:411F-B01F-481F-3621]",
         "[RAW:2823]",
@@ -548,7 +548,7 @@
       "name": "51",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -558,7 +558,7 @@
       "name": "52",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -568,7 +568,7 @@
       "name": "53",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -578,7 +578,7 @@
       "name": "54",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -588,7 +588,7 @@
       "name": "55",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -598,7 +598,7 @@
       "name": "56",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -608,7 +608,7 @@
       "name": "57",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -618,7 +618,7 @@
       "name": "58",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -628,7 +628,7 @@
       "name": "59",
       "message": "ダミー[RAW:0E27-0F27]☆",
       "original": "ダミー[RAW:0E27-0F27]☆",
-      "translation": "",
+      "translation": "더미[RAW:0E27-0F27]☆",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

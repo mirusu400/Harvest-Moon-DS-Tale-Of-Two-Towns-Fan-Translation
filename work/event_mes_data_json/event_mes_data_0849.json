@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:401F-1320-B91F-481F-3521-1420]おはよう、[RAW:2A23]。[RAW:2823]おじゃまするよ。[RAW:0E27]",
       "original": "[RAW:401F-1320-B91F-481F-3521-1420]おはよう、[RAW:2A23]。[RAW:2823]おじゃまするよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-1320-B91F-481F-3521-1420]좋은 아침、[RAW:2A23]。[RAW:2823]실례할게。[RAW:0E27]",
       "controls": [
         "[RAW:401F-1320-B91F-481F-3521-1420]",
         "[RAW:2A23]",
@@ -23,7 +23,7 @@
       "name": "1",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -33,7 +33,7 @@
       "name": "2",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -43,7 +43,7 @@
       "name": "3",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -53,7 +53,7 @@
       "name": "4",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -63,7 +63,7 @@
       "name": "5",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -73,7 +73,7 @@
       "name": "6",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -83,7 +83,7 @@
       "name": "7",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -93,7 +93,7 @@
       "name": "8",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -103,7 +103,7 @@
       "name": "9",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -113,7 +113,7 @@
       "name": "10",
       "message": "[RAW:411F-B91F-481F-3621]今朝は、今月行われる[RAW:2823]祭のことで来たんだ。[RAW:0E27]",
       "original": "[RAW:411F-B91F-481F-3621]今朝は、今月行われる[RAW:2823]祭のことで来たんだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-481F-3621]오늘은 이번 달 열릴[RAW:2823]축제 얘기로 왔어。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-481F-3621]",
         "[RAW:2823]",
@@ -125,7 +125,7 @@
       "name": "11",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -135,7 +135,7 @@
       "name": "12",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -145,7 +145,7 @@
       "name": "13",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -155,7 +155,7 @@
       "name": "14",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -165,7 +165,7 @@
       "name": "15",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -175,7 +175,7 @@
       "name": "16",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -185,7 +185,7 @@
       "name": "17",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -195,7 +195,7 @@
       "name": "18",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -205,7 +205,7 @@
       "name": "19",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -215,7 +215,7 @@
       "name": "20",
       "message": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]かぶ[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]かぶ[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]이번달 ２５일엔[RAW:2823-6D20]작물축제[RAW:6C20]를 열어。[RAW:2B23-411F-B91F-481F-3621]이번 주제는[RAW:2823-6D20]순무[RAW:6C20]야。[RAW:2B23]나갈 생각이면、[RAW:2823]미리 준비해 둬。[RAW:2B23]단、[RAW:6D20]상한[RAW:6C20] 작물은[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -239,7 +239,7 @@
       "name": "21",
       "message": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]じゃがいも[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]じゃがいも[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]이번달 ２５일엔[RAW:2823-6D20]작물축제[RAW:6C20]를 열어。[RAW:2B23-411F-B91F-481F-3621]이번 주제는[RAW:2823-6D20]감자[RAW:6C20]야。[RAW:2B23]나갈 생각이면、[RAW:2823]미리 준비해 둬。[RAW:2B23]단、[RAW:6D20]상한[RAW:6C20] 작물은[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -263,7 +263,7 @@
       "name": "22",
       "message": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]きゅうり[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]きゅうり[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]이번달 ２５일엔[RAW:2823-6D20]작물축제[RAW:6C20]를 열어。[RAW:2B23-411F-B91F-481F-3621]이번 주제는[RAW:2823-6D20]오이[RAW:6C20]야。[RAW:2B23]나갈 생각이면、[RAW:2823]미리 준비해 둬。[RAW:2B23]단、[RAW:6D20]상한[RAW:6C20] 작물은[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -287,7 +287,7 @@
       "name": "23",
       "message": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]きゃべつ[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]きゃべつ[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]이번달 ２５일엔[RAW:2823-6D20]작물축제[RAW:6C20]를 열어。[RAW:2B23-411F-B91F-481F-3621]이번 주제는[RAW:2823-6D20]양배추[RAW:6C20]야。[RAW:2B23]나갈 생각이면、[RAW:2823]미리 준비해 둬。[RAW:2B23]단、[RAW:6D20]상한[RAW:6C20] 작물은[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -311,7 +311,7 @@
       "name": "24",
       "message": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]いちご[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]今月は、２５日に[RAW:2823-6D20]作物祭[RAW:6C20]を行うよ。[RAW:2B23-411F-B91F-481F-3621]今回のお題は[RAW:2823-6D20]いちご[RAW:6C20]だ。[RAW:2B23]出場するつもりなら、[RAW:2823]前もって準備しておくんだね。[RAW:2B23]ただし、[RAW:6D20]いたんでいる[RAW:6C20]作物は[RAW:2823-6D20]出品できない[RAW:6C20]よ！[RAW:2823]気をつけるんだね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]이번달 ２５일엔[RAW:2823-6D20]작물축제[RAW:6C20]를 열어。[RAW:2B23-411F-B91F-481F-3621]이번 주제는[RAW:2823-6D20]딸기[RAW:6C20]야。[RAW:2B23]나갈 생각이면、[RAW:2823]미리 준비해 둬。[RAW:2B23]단、[RAW:6D20]상한[RAW:6C20] 작물은[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -335,7 +335,7 @@
       "name": "25",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -345,7 +345,7 @@
       "name": "26",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -355,7 +355,7 @@
       "name": "27",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -365,7 +365,7 @@
       "name": "28",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -375,7 +375,7 @@
       "name": "29",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -385,7 +385,7 @@
       "name": "30",
       "message": "[RAW:411F-B91F-491F-3621]あぁ、そうだ。[RAW:2823-6D20]料理大会[RAW:6C20]についても[RAW:2823]説明しておかないとな！[RAW:2B23-411F-B91F-481F-3621]このはな村とブルーベル村では[RAW:2823]月に４回、村同士で料理の腕を[RAW:2823]競う料理大会が行われる。[RAW:2B23]各村代表３人がテーマにそった[RAW:2823]料理を持ちより、どちらの村の[RAW:2823]料理がおいしいかを競うんだ。[RAW:2B23-411F-B91F-491F-3621]このはな村がブルーベル村より[RAW:2823]すばらしい村だと言う事を[RAW:2823]証明する良い機会でもある！[RAW:2B23]キミも、都合が合うなら[RAW:2823]村の代表の１人として[RAW:2823]ぜひとも参加してほしい。[RAW:2B23-411F-B91F-481F-3621]ちなみに、次のテーマは[RAW:2823-6D20]サラダ[RAW:6C20]だ。[RAW:2B23-411F-B91F-491F-3621]評価の高い料理を作るには[RAW:2823]材料を[RAW:6D20]たくさん[RAW:6C20]使い、[RAW:6D20]質の高い[RAW:6C20-2823]料理を作るのが良いだろう！[RAW:2B23-411F-B91F-481F-3621]ただし、[RAW:6D20]いたんでいる[RAW:6C20]料理は[RAW:2823-6D20]出品できない[RAW:6C20]からね！[RAW:2823]そこは気をつけるんだよ。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]あぁ、そうだ。[RAW:2823-6D20]料理大会[RAW:6C20]についても[RAW:2823]説明しておかないとな！[RAW:2B23-411F-B91F-481F-3621]このはな村とブルーベル村では[RAW:2823]月に４回、村同士で料理の腕を[RAW:2823]競う料理大会が行われる。[RAW:2B23]各村代表３人がテーマにそった[RAW:2823]料理を持ちより、どちらの村の[RAW:2823]料理がおいしいかを競うんだ。[RAW:2B23-411F-B91F-491F-3621]このはな村がブルーベル村より[RAW:2823]すばらしい村だと言う事を[RAW:2823]証明する良い機会でもある！[RAW:2B23]キミも、都合が合うなら[RAW:2823]村の代表の１人として[RAW:2823]ぜひとも参加してほしい。[RAW:2B23-411F-B91F-481F-3621]ちなみに、次のテーマは[RAW:2823-6D20]サラダ[RAW:6C20]だ。[RAW:2B23-411F-B91F-491F-3621]評価の高い料理を作るには[RAW:2823]材料を[RAW:6D20]たくさん[RAW:6C20]使い、[RAW:6D20]質の高い[RAW:6C20-2823]料理を作るのが良いだろう！[RAW:2B23-411F-B91F-481F-3621]ただし、[RAW:6D20]いたんでいる[RAW:6C20]料理は[RAW:2823-6D20]出品できない[RAW:6C20]からね！[RAW:2823]そこは気をつけるんだよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]아、맞다。[RAW:2823-6D20]요리 대회[RAW:6C20] 얘기도[RAW:2823]해 둬야겠군！[RAW:2B23-411F-B91F-481F-3621]코노하나와 블루벨은[RAW:2823]매달 ４번、마을끼리[RAW:2823]요리 대결을 해。[RAW:2B23]각 마을 대표 ３명이[RAW:2823]주제에 맞는 요리를[RAW:2823]가져와 겨루는 거야。[RAW:2B23-411F-B91F-491F-3621]코노하나가 블루벨보다[RAW:2823]더 훌륭하단 걸[RAW:2823]증명할 기회이기도 해！[RAW:2B23]자네도 시간 되면[RAW:2823]마을 대표 한 명으로[RAW:2823]꼭 참가해 줬으면 해。[RAW:2B23-411F-B91F-481F-3621]참고로 다음 주제는[RAW:2823-6D20]샐러드[RAW:6C20]야。[RAW:2B23-411F-B91F-491F-3621]높은 평가를 받으려면[RAW:2823]재료를 [RAW:6D20]많이[RAW:6C20] 쓰고、[RAW:6D20]좋은[RAW:6C20-2823]요리를 만드는 게 좋아！[RAW:2B23-411F-B91F-481F-3621]단、[RAW:6D20]상한[RAW:6C20] 요리는[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]그건 조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -426,7 +426,7 @@
       "name": "31",
       "message": "[RAW:411F-B91F-491F-3621]さらに今月は、２９日に[RAW:2823-6D20]料理大会[RAW:6C20]が行われるよ。[RAW:2B23-411F-B91F-481F-3621]今回のテーマは[RAW:2823-6D20]メインディッシュ[RAW:6C20]だ。[RAW:2B23]村の代表として出場するなら、[RAW:2823]こちらも準備を忘れるなよ。[RAW:2B23-6D20]いたんでいる[RAW:6C20]料理は[RAW:2823-6D20]出品できない[RAW:6C20]からね！[RAW:2823]気をつけるんだよ。[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]さらに今月は、２９日に[RAW:2823-6D20]料理大会[RAW:6C20]が行われるよ。[RAW:2B23-411F-B91F-481F-3621]今回のテーマは[RAW:2823-6D20]メインディッシュ[RAW:6C20]だ。[RAW:2B23]村の代表として出場するなら、[RAW:2823]こちらも準備を忘れるなよ。[RAW:2B23-6D20]いたんでいる[RAW:6C20]料理は[RAW:2823-6D20]出品できない[RAW:6C20]からね！[RAW:2823]気をつけるんだよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]또 이번달 ２９일엔[RAW:2823-6D20]요리 대회[RAW:6C20]가 열려。[RAW:2B23-411F-B91F-481F-3621]이번 주제는[RAW:2823-6D20]메인 디시[RAW:6C20]야。[RAW:2B23]마을 대표로 나간다면、[RAW:2823]이쪽도 준비를 잊지 마。[RAW:2B23-6D20]상한[RAW:6C20] 요리는[RAW:2823-6D20]출품 못 해[RAW:6C20]！[RAW:2823]조심해 둬。[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823-6D20]",
@@ -449,7 +449,7 @@
       "name": "32",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -459,7 +459,7 @@
       "name": "33",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -469,7 +469,7 @@
       "name": "34",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -479,7 +479,7 @@
       "name": "35",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -489,7 +489,7 @@
       "name": "36",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -499,7 +499,7 @@
       "name": "37",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -509,7 +509,7 @@
       "name": "38",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -519,7 +519,7 @@
       "name": "39",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -529,7 +529,7 @@
       "name": "40",
       "message": "[RAW:411F-B91F-491F-3621]料理大会は我々にとって、[RAW:2823]とても大事な勝負の場だ。[RAW:2B23]出るつもりがあるなら、[RAW:2823]１つアドバイスをしておこう。[RAW:2B23-411F-B91F-481F-3621]材料を[RAW:6D20]たくさん[RAW:6C20]使い、[RAW:2823-6D20]質の高い[RAW:6C20]料理を作るんだ！[RAW:2B23-411F-B91F-491F-3621]わかったか？[RAW:2823]キミには期待してるんだ。[RAW:2823]頑張ってくれよ！[RAW:0E27]",
       "original": "[RAW:411F-B91F-491F-3621]料理大会は我々にとって、[RAW:2823]とても大事な勝負の場だ。[RAW:2B23]出るつもりがあるなら、[RAW:2823]１つアドバイスをしておこう。[RAW:2B23-411F-B91F-481F-3621]材料を[RAW:6D20]たくさん[RAW:6C20]使い、[RAW:2823-6D20]質の高い[RAW:6C20]料理を作るんだ！[RAW:2B23-411F-B91F-491F-3621]わかったか？[RAW:2823]キミには期待してるんだ。[RAW:2823]頑張ってくれよ！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-491F-3621]요리 대회는 우리에게[RAW:2823]매우 중요한 승부처야。[RAW:2B23]나갈 생각이 있다면、[RAW:2823]한 가지 조언하지。[RAW:2B23-411F-B91F-481F-3621]재료를 [RAW:6D20]많이[RAW:6C20] 쓰고、[RAW:2823-6D20]좋은[RAW:6C20] 요릴 만드는 거야！[RAW:2B23-411F-B91F-491F-3621]알겠지？[RAW:2823]자네에게 기대하고 있어。[RAW:2823]힘내 줘！[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-491F-3621]",
         "[RAW:2823]",
@@ -551,7 +551,7 @@
       "name": "41",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -561,7 +561,7 @@
       "name": "42",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -571,7 +571,7 @@
       "name": "43",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -581,7 +581,7 @@
       "name": "44",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -591,7 +591,7 @@
       "name": "45",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -601,7 +601,7 @@
       "name": "46",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -611,7 +611,7 @@
       "name": "47",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -621,7 +621,7 @@
       "name": "48",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -631,7 +631,7 @@
       "name": "49",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -641,7 +641,7 @@
       "name": "50",
       "message": "[RAW:411F-B91F-481F-3621]話は以上だが、[RAW:2823]覚えられたかい？[RAW:2B23-411F-B91F-491F-3621]忘れてしまったときは、[RAW:2823-6D20]カレンダー[RAW:6C20]を見るといい。[RAW:2B23-411F-B91F-481F-3621]それでは、あたしは帰るよ。[RAW:2823]また会おう！[RAW:0E27]",
       "original": "[RAW:411F-B91F-481F-3621]話は以上だが、[RAW:2823]覚えられたかい？[RAW:2B23-411F-B91F-491F-3621]忘れてしまったときは、[RAW:2823-6D20]カレンダー[RAW:6C20]を見るといい。[RAW:2B23-411F-B91F-481F-3621]それでは、あたしは帰るよ。[RAW:2823]また会おう！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-B91F-481F-3621]얘긴 여기까지야、[RAW:2823]다 기억했어？[RAW:2B23-411F-B91F-491F-3621]잊어버렸을 때는、[RAW:2823-6D20]달력[RAW:6C20]을 보면 돼。[RAW:2B23-411F-B91F-481F-3621]그럼 난 이만 갈게。[RAW:2823]또 보자！[RAW:0E27]",
       "controls": [
         "[RAW:411F-B91F-481F-3621]",
         "[RAW:2823]",
@@ -658,7 +658,7 @@
       "name": "51",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -668,7 +668,7 @@
       "name": "52",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -678,7 +678,7 @@
       "name": "53",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -688,7 +688,7 @@
       "name": "54",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -698,7 +698,7 @@
       "name": "55",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -708,7 +708,7 @@
       "name": "56",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -718,7 +718,7 @@
       "name": "57",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -728,7 +728,7 @@
       "name": "58",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -738,7 +738,7 @@
       "name": "59",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -748,7 +748,7 @@
       "name": "60",
       "message": "[RAW:401F-1320-BA1F-481F-3521-1420-2A23]さん、[RAW:2823]ちょっといいですか…？[RAW:0E27]",
       "original": "[RAW:401F-1320-BA1F-481F-3521-1420-2A23]さん、[RAW:2823]ちょっといいですか…？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-1320-BA1F-481F-3521-1420-2A23]씨、[RAW:2823]잠깐 괜찮으신가요…？[RAW:0E27]",
       "controls": [
         "[RAW:401F-1320-BA1F-481F-3521-1420-2A23]",
         "[RAW:2823]",
@@ -760,7 +760,7 @@
       "name": "61",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -770,7 +770,7 @@
       "name": "62",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -780,7 +780,7 @@
       "name": "63",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -790,7 +790,7 @@
       "name": "64",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -800,7 +800,7 @@
       "name": "65",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -810,7 +810,7 @@
       "name": "66",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -820,7 +820,7 @@
       "name": "67",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -830,7 +830,7 @@
       "name": "68",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -840,7 +840,7 @@
       "name": "69",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -850,7 +850,7 @@
       "name": "70",
       "message": "[RAW:411F-BA1F-481F-3621]今、ボクの母さんから[RAW:2823]聞いたと思いますけど…、[RAW:2B23-6D20]料理大会[RAW:6C20]は、ブルーベル村と[RAW:2823]このはな村…２つの村にとって[RAW:2823]とても大切な行事なんです。[RAW:2B23]もちろん、村同士の[RAW:2823]料理のうでをきそうのが[RAW:2823]本当の目的なんですけど…。[RAW:2B23]じつは、ボクたちは料理大会を[RAW:2823]きっかけに村同士が仲良く[RAW:2823]できればと思っているんです。[RAW:0E27]",
       "original": "[RAW:411F-BA1F-481F-3621]今、ボクの母さんから[RAW:2823]聞いたと思いますけど…、[RAW:2B23-6D20]料理大会[RAW:6C20]は、ブルーベル村と[RAW:2823]このはな村…２つの村にとって[RAW:2823]とても大切な行事なんです。[RAW:2B23]もちろん、村同士の[RAW:2823]料理のうでをきそうのが[RAW:2823]本当の目的なんですけど…。[RAW:2B23]じつは、ボクたちは料理大会を[RAW:2823]きっかけに村同士が仲良く[RAW:2823]できればと思っているんです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BA1F-481F-3621]방금 어머니께서[RAW:2823]들으셨겠지만…、[RAW:2B23-6D20]요리 대회[RAW:6C20]는 블루벨과[RAW:2823]코노하나…두 마을에[RAW:2823]아주 중요한 행사예요。[RAW:2B23]물론 마을끼리[RAW:2823]요리 실력을 겨루는 게[RAW:2823]본래 목적이지만…。[RAW:2B23]사실 저희는 요리 대회로[RAW:2823]마을끼리 더 사이좋게[RAW:2823]지내길 바라고 있어요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -872,7 +872,7 @@
       "name": "71",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -882,7 +882,7 @@
       "name": "72",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -892,7 +892,7 @@
       "name": "73",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -902,7 +902,7 @@
       "name": "74",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -912,7 +912,7 @@
       "name": "75",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -922,7 +922,7 @@
       "name": "76",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -932,7 +932,7 @@
       "name": "77",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -942,7 +942,7 @@
       "name": "78",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -952,7 +952,7 @@
       "name": "79",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -962,7 +962,7 @@
       "name": "80",
       "message": "[RAW:411F-BA1F-481F-3621]新しく来てくれた[RAW:2823-2A23]さんが[RAW:2823]料理大会に出てくれれば…、[RAW:2B23-411F-BA1F-491F-3621]何かが変わるかも[RAW:2823]しれないと思って[RAW:2823]今日は話しに来たんです。[RAW:2B23-411F-BA1F-4B1F-3621-2A23]さん…、どうか[RAW:2823]協力していただけませんか？[RAW:0E27]",
       "original": "[RAW:411F-BA1F-481F-3621]新しく来てくれた[RAW:2823-2A23]さんが[RAW:2823]料理大会に出てくれれば…、[RAW:2B23-411F-BA1F-491F-3621]何かが変わるかも[RAW:2823]しれないと思って[RAW:2823]今日は話しに来たんです。[RAW:2B23-411F-BA1F-4B1F-3621-2A23]さん…、どうか[RAW:2823]協力していただけませんか？[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BA1F-481F-3621]새로 와 주신[RAW:2B23]씨가[RAW:2823]요리 대회에[RAW:2823]나가면…、[RAW:2B23-411F-BA1F-491F-3621]뭔가 바뀔지도[RAW:2823]모른다고 생각해서[RAW:2823]오늘 말씀드리러 왔어요。[RAW:2A23-411F-BA1F-4B1F-3621-2A23]씨…、부디[RAW:2823]도와주시지 않겠어요？[RAW:0E27]",
       "controls": [
         "[RAW:411F-BA1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -980,7 +980,7 @@
       "name": "81",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -990,7 +990,7 @@
       "name": "82",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1000,7 +1000,7 @@
       "name": "83",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1010,7 +1010,7 @@
       "name": "84",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1020,7 +1020,7 @@
       "name": "85",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1030,7 +1030,7 @@
       "name": "86",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1040,7 +1040,7 @@
       "name": "87",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1050,7 +1050,7 @@
       "name": "88",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1060,7 +1060,7 @@
       "name": "89",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1070,7 +1070,7 @@
       "name": "90",
       "message": "[RAW:411F-BA1F-491F-3621]ありがとうございます…！[RAW:0A27-0A27-2823]そういってくれると[RAW:2823]信じていました！[RAW:2B23-411F-BA1F-481F-3621]それじゃあ、[RAW:2A23]さん[RAW:2823]よろしくおねがいします。[RAW:0E27]",
       "original": "[RAW:411F-BA1F-491F-3621]ありがとうございます…！[RAW:0A27-0A27-2823]そういってくれると[RAW:2823]信じていました！[RAW:2B23-411F-BA1F-481F-3621]それじゃあ、[RAW:2A23]さん[RAW:2823]よろしくおねがいします。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BA1F-491F-3621]감사합니다…！[RAW:0A27-0A27-2823]그리 말해 주실 줄[RAW:2823]믿고 있었어요！[RAW:2B23-411F-BA1F-481F-3621]그럼、[RAW:2A23]씨。[RAW:2823]잘 부탁드릴게요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BA1F-491F-3621]",
         "[RAW:0A27-0A27-2823]",
@@ -1086,7 +1086,7 @@
       "name": "91",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1096,7 +1096,7 @@
       "name": "92",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1106,7 +1106,7 @@
       "name": "93",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1116,7 +1116,7 @@
       "name": "94",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1126,7 +1126,7 @@
       "name": "95",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1136,7 +1136,7 @@
       "name": "96",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1146,7 +1146,7 @@
       "name": "97",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1156,7 +1156,7 @@
       "name": "98",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1166,7 +1166,7 @@
       "name": "99",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1176,7 +1176,7 @@
       "name": "100",
       "message": "[RAW:411F-BA1F-481F-3621]いきなり来て、すみません。[RAW:2823]ボクはイルサの息子の[RAW:2823-6E20]リュイ[RAW:6C20]といいます。[RAW:0E27]",
       "original": "[RAW:411F-BA1F-481F-3621]いきなり来て、すみません。[RAW:2823]ボクはイルサの息子の[RAW:2823-6E20]リュイ[RAW:6C20]といいます。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BA1F-481F-3621]갑자기 와서 죄송해요。[RAW:2823]전 일루사의 아들[RAW:2823-6E20]류이[RAW:6C20]예요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1190,7 +1190,7 @@
       "name": "101",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1200,7 +1200,7 @@
       "name": "102",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1210,7 +1210,7 @@
       "name": "103",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1220,7 +1220,7 @@
       "name": "104",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1230,7 +1230,7 @@
       "name": "105",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1240,7 +1240,7 @@
       "name": "106",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1250,7 +1250,7 @@
       "name": "107",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1260,7 +1260,7 @@
       "name": "108",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1270,7 +1270,7 @@
       "name": "109",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1280,7 +1280,7 @@
       "name": "110",
       "message": "[RAW:411F-BA1F-481F-3621]知っていると思いますが[RAW:2823]母さんとルドガーさん…[RAW:2823]すごく仲がわるいでしょう？[RAW:2B23]大昔からそういうものなんだと[RAW:2823]聞いていて、ボクも頭では[RAW:2823]わかっているんですが。[RAW:2B23]ボクが母さんをわるく思わない[RAW:2823]ようにルドガーさんもきっと[RAW:2823]本当はいい人だと思うんです。[RAW:2B23-411F-BA1F-4B1F-3621]…ボクがこどもだから[RAW:2823]ちゃんとわかっていないだけ[RAW:2823]かもしれません。…でも。[RAW:2B23]村の人たちもみんな[RAW:2823]このままじゃダメだと[RAW:2823]言ってます。[RAW:0E27]",
       "original": "[RAW:411F-BA1F-481F-3621]知っていると思いますが[RAW:2823]母さんとルドガーさん…[RAW:2823]すごく仲がわるいでしょう？[RAW:2B23]大昔からそういうものなんだと[RAW:2823]聞いていて、ボクも頭では[RAW:2823]わかっているんですが。[RAW:2B23]ボクが母さんをわるく思わない[RAW:2823]ようにルドガーさんもきっと[RAW:2823]本当はいい人だと思うんです。[RAW:2B23-411F-BA1F-4B1F-3621]…ボクがこどもだから[RAW:2823]ちゃんとわかっていないだけ[RAW:2823]かもしれません。…でも。[RAW:2B23]村の人たちもみんな[RAW:2823]このままじゃダメだと[RAW:2823]言ってます。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BA1F-481F-3621]아시겠지만[RAW:2823]엄마와 루드거 씨는[RAW:2823]정말 사이가 안 좋죠？[RAW:2B23]아주 옛날부터 그랬다고[RAW:2823]들었고、저도 머리론[RAW:2823]알고는 있지만。[RAW:2B23]제가 엄마를 나쁘게[RAW:2823]생각 안 하듯、루드거 씨도[RAW:2823]분명 좋은 분 같아요。[RAW:2B23-411F-BA1F-4B1F-3621]…제가 아이라서[RAW:2823]제대로 모르는 걸[RAW:2823]수도 있어요。…그래도。[RAW:2B23]마을 사람들도 모두[RAW:2823]이대로는 안 된다고[RAW:2823]말하고 있어요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1305,7 +1305,7 @@
       "name": "111",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1315,7 +1315,7 @@
       "name": "112",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1325,7 +1325,7 @@
       "name": "113",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1335,7 +1335,7 @@
       "name": "114",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1345,7 +1345,7 @@
       "name": "115",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1355,7 +1355,7 @@
       "name": "116",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1365,7 +1365,7 @@
       "name": "117",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1375,7 +1375,7 @@
       "name": "118",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1385,7 +1385,7 @@
       "name": "119",
       "message": "ダミー[RAW:0E27-0F27]ｂ",
       "original": "ダミー[RAW:0E27-0F27]ｂ",
-      "translation": "",
+      "translation": "더미[RAW:0E27-0F27]ｂ",
       "controls": [
         "[RAW:0E27-0F27]"
       ]
