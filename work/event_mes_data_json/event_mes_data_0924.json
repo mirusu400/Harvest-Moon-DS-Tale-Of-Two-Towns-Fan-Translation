@@ -10,7 +10,7 @@
       "name": "0",
       "message": "今日は[RAW:6D20]料理大会[RAW:6C20]！[RAW:2823]テーマは[RAW:0410]。[RAW:2823]お昼になったら山頂に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]料理大会[RAW:6C20]！[RAW:2823]テーマは[RAW:0410]。[RAW:2823]お昼になったら山頂に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]요리 대회[RAW:6C20]！[RAW:2823]주제는 [RAW:0410]。[RAW:2823]낮이 되면 산정에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -25,7 +25,7 @@
       "name": "1",
       "message": "今日は[RAW:6D20]お花見[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823]おいしい料理を持って行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]お花見[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823]おいしい料理を持って行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]꽃놀이[RAW:6C20]！[RAW:2823]낮이 되면 마을회관에[RAW:2823]맛난 요릴 가져가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -39,7 +39,7 @@
       "name": "2",
       "message": "今日は[RAW:6D20]魚つかみ大会[RAW:6C20]！[RAW:2823]いっぱいお魚を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]魚つかみ大会[RAW:6C20]！[RAW:2823]いっぱいお魚を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]맨손 물고기 대회[RAW:6C20]！[RAW:2823]잔뜩 잡아 보자！[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -53,7 +53,7 @@
       "name": "3",
       "message": "今日は[RAW:6D20]天体観賞[RAW:6C20]！[RAW:2823]星がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]天体観賞[RAW:6C20]！[RAW:2823]星がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]천체 관상[RAW:6C20]！[RAW:2823]별이 곱게 보이면 좋겠다。[RAW:2823]밤엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -67,7 +67,7 @@
       "name": "4",
       "message": "今日は[RAW:6D20]音楽祭[RAW:6C20]！[RAW:2823]どんな曲がきけるのかな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]音楽祭[RAW:6C20]！[RAW:2823]どんな曲がきけるのかな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]음악제[RAW:6C20]！[RAW:2823]어떤 곡을 들을까？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -81,7 +81,7 @@
       "name": "5",
       "message": "今日は[RAW:6D20]かぼちゃ祭[RAW:6C20]！[RAW:2823]おいしいお菓子を[RAW:2823]用意しておこう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]かぼちゃ祭[RAW:6C20]！[RAW:2823]おいしいお菓子を[RAW:2823]用意しておこう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]호박 축제[RAW:6C20]！[RAW:2823]맛있는 과자를[RAW:2823]준비해 두자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -95,7 +95,7 @@
       "name": "6",
       "message": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]日頃の感謝をこめて[RAW:2823]チョコを使った料理を渡そう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]日頃の感謝をこめて[RAW:2823]チョコを使った料理を渡そう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]감사제[RAW:6C20]！[RAW:2823]평소 고마움을 담아[RAW:2823]초코 요릴 건네자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -109,7 +109,7 @@
       "name": "7",
       "message": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]プレゼントをもらえると[RAW:2823]うれしいな。[RAW:0E27]",
       "original": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]プレゼントをもらえると[RAW:2823]うれしいな。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]감사제[RAW:6C20]！[RAW:2823]선물을 받으면[RAW:2823]좋을 텐데。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -123,7 +123,7 @@
       "name": "8",
       "message": "明日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]一緒に過ごしてくれる人、[RAW:2823]見つかるといいな。[RAW:0E27]",
       "original": "明日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]一緒に過ごしてくれる人、[RAW:2823]見つかるといいな。[RAW:0E27]",
-      "translation": "",
+      "translation": "내일은 [RAW:6D20]성야제[RAW:6C20]！[RAW:2823]함께 있어 줄 사람、[RAW:2823]찾으면 좋겠다。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -137,7 +137,7 @@
       "name": "9",
       "message": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823-6D20-0010-6C20]と約束してるよ。[RAW:2823]２０時に[RAW:6D20-0110-6C20]に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823-6D20-0010-6C20]と約束してるよ。[RAW:2823]２０時に[RAW:6D20-0110-6C20]に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]성야제[RAW:6C20]！[RAW:2823-6D20-0010-6C20]와 약속했어。[RAW:2823]２０시에 [RAW:6D20-0110-6C20]에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -152,7 +152,7 @@
       "name": "10",
       "message": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]今夜は家族と楽しく[RAW:2823]お祝いしよう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]今夜は家族と楽しく[RAW:2823]お祝いしよう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]성야제[RAW:6C20]！[RAW:2823]오늘 밤은 가족과[RAW:2823]즐겁게 축하하자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -166,7 +166,7 @@
       "name": "11",
       "message": "今日は[RAW:6D20]カウントダウン[RAW:6C20]！[RAW:2823]村のみんなと新年のお祝いだ！[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]カウントダウン[RAW:6C20]！[RAW:2823]村のみんなと新年のお祝いだ！[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]카운트다운[RAW:6C20]！[RAW:2823]다 같이 새해를 축하하자！[RAW:2823]밤엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -180,7 +180,7 @@
       "name": "12",
       "message": "今日は[RAW:6D20]春の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]春の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]봄 작물제[RAW:6C20]！[RAW:2823]낮이 되면 마을회관에[RAW:2823-0310]를 가져가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -194,7 +194,7 @@
       "name": "13",
       "message": "今日は[RAW:6D20]夏の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]夏の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]여름 작물제[RAW:6C20]！[RAW:2823]낮이 되면 마을회관에[RAW:2823-0310]를 가져가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -208,7 +208,7 @@
       "name": "14",
       "message": "今日は[RAW:6D20]秋の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]秋の作物祭[RAW:6C20]！[RAW:2823]お昼になったら役場まで[RAW:2823-0310]を持って行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]가을 작물제[RAW:6C20]！[RAW:2823]낮이 되면 마을회관에[RAW:2823-0310]를 가져가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -222,7 +222,7 @@
       "name": "15",
       "message": "今日は[RAW:6D20]こどもの日[RAW:6C20]！[RAW:2823]おいしいデザートを持って[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]こどもの日[RAW:6C20]！[RAW:2823]おいしいデザートを持って[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]어린이날[RAW:6C20]！[RAW:2823]맛난 디저트를 들고[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -236,7 +236,7 @@
       "name": "16",
       "message": "今日は[RAW:6D20]虫とり大会[RAW:6C20]！[RAW:2823]たくさん虫を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]虫とり大会[RAW:6C20]！[RAW:2823]たくさん虫を捕まえるぞ！[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]곤충 잡기 대회[RAW:6C20]！[RAW:2823]벌레를 많이 잡자！[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -250,7 +250,7 @@
       "name": "17",
       "message": "今日は[RAW:6D20]魚釣り大会[RAW:6C20]！[RAW:2823]使いたい釣り竿をそうびして[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]魚釣り大会[RAW:6C20]！[RAW:2823]使いたい釣り竿をそうびして[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]낚시 대회[RAW:6C20]！[RAW:2823]쓸 낚싯대를 장비하고[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -264,7 +264,7 @@
       "name": "18",
       "message": "今日は[RAW:6D20]お月見[RAW:6C20]！[RAW:2823]月がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]お月見[RAW:6C20]！[RAW:2823]月がきれいに見えるといいな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]달맞이[RAW:6C20]！[RAW:2823]달이 곱게 보이면 좋겠다。[RAW:2823]밤엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -278,7 +278,7 @@
       "name": "19",
       "message": "今日は[RAW:6D20]雪祭[RAW:6C20]！[RAW:2823]今年はどんな雪像だろう？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]雪祭[RAW:6C20]！[RAW:2823]今年はどんな雪像だろう？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]눈 축제[RAW:6C20]！[RAW:2823]올해는 어떤 눈상일까？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -292,7 +292,7 @@
       "name": "20",
       "message": "今日は[RAW:6D20]年越し祭[RAW:6C20]！[RAW:2823]おいしいおそば、楽しみだな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]年越し祭[RAW:6C20]！[RAW:2823]おいしいおそば、楽しみだな。[RAW:2823]夜になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]송년 축제[RAW:6C20]！[RAW:2823]맛난 메밀국수 기대돼。[RAW:2823]밤엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -306,7 +306,7 @@
       "name": "21",
       "message": "今月も今日で終わり。[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
       "original": "今月も今日で終わり。[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "이번 달도 오늘 끝。[RAW:2823]작물을 거둬 두지 않으면[RAW:2823]말라 버릴 거야。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -318,7 +318,7 @@
       "name": "22",
       "message": "今月も今日で終わりだから[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
       "original": "今月も今日で終わりだから[RAW:2823]作物を収穫しておかないと[RAW:2823]枯れちゃうよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘로 이번 달 끝이라[RAW:2823]작물을 거둬 두지 않으면[RAW:2823]말라 버릴 거야。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -330,7 +330,7 @@
       "name": "23",
       "message": "今日は[RAW:6D20]ニワトリ祭[RAW:6C20]！[RAW:2823]ニワトリは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]ニワトリ祭[RAW:6C20]！[RAW:2823]ニワトリは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]닭 축제[RAW:6C20]！[RAW:2823]닭은 잘 지내나？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -344,7 +344,7 @@
       "name": "24",
       "message": "今日は[RAW:6D20]ウシ祭[RAW:6C20]！[RAW:2823]ウシは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]ウシ祭[RAW:6C20]！[RAW:2823]ウシは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]소 축제[RAW:6C20]！[RAW:2823]소는 잘 지내나？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -358,7 +358,7 @@
       "name": "25",
       "message": "今日は[RAW:6D20]イヌ祭[RAW:6C20]！[RAW:2823]イヌは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]イヌ祭[RAW:6C20]！[RAW:2823]イヌは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]개 축제[RAW:6C20]！[RAW:2823]개는 잘 지내나？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -372,7 +372,7 @@
       "name": "26",
       "message": "今日は[RAW:6D20]ネコ祭[RAW:6C20]！[RAW:2823]ネコは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]ネコ祭[RAW:6C20]！[RAW:2823]ネコは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]고양이 축제[RAW:6C20]！[RAW:2823]고양이는 잘 지내나？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -386,7 +386,7 @@
       "name": "27",
       "message": "今日は[RAW:6D20]ヒツジ祭[RAW:6C20]！[RAW:2823]ヒツジは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]ヒツジ祭[RAW:6C20]！[RAW:2823]ヒツジは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]양 축제[RAW:6C20]！[RAW:2823]양은 잘 지내나？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -400,7 +400,7 @@
       "name": "28",
       "message": "今日は[RAW:6D20]アルパカ祭[RAW:6C20]！[RAW:2823]アルパカは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]アルパカ祭[RAW:6C20]！[RAW:2823]アルパカは元気かな？[RAW:2823]お昼になったら役場に行こう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]알파카 축제[RAW:6C20]！[RAW:2823]알파카는 잘 지내나？[RAW:2823]낮엔 마을회관에 가자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -414,7 +414,7 @@
       "name": "29",
       "message": "アーシュ[RAW:0E27]",
       "original": "アーシュ[RAW:0E27]",
-      "translation": "",
+      "translation": "아슈[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -424,7 +424,7 @@
       "name": "30",
       "message": "カミル[RAW:0E27]",
       "original": "カミル[RAW:0E27]",
-      "translation": "",
+      "translation": "카밀[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -434,7 +434,7 @@
       "name": "31",
       "message": "リア[RAW:0E27]",
       "original": "リア[RAW:0E27]",
-      "translation": "",
+      "translation": "리아[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -444,7 +444,7 @@
       "name": "32",
       "message": "ラズベリー[RAW:0E27]",
       "original": "ラズベリー[RAW:0E27]",
-      "translation": "",
+      "translation": "라즈베리[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -454,7 +454,7 @@
       "name": "33",
       "message": "役場[RAW:0E27]",
       "original": "役場[RAW:0E27]",
-      "translation": "",
+      "translation": "마을회관[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -464,7 +464,7 @@
       "name": "34",
       "message": "カフェ[RAW:0E27]",
       "original": "カフェ[RAW:0E27]",
-      "translation": "",
+      "translation": "카페[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -474,7 +474,7 @@
       "name": "35",
       "message": "かぶ[RAW:0E27]",
       "original": "かぶ[RAW:0E27]",
-      "translation": "",
+      "translation": "순무[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -484,7 +484,7 @@
       "name": "36",
       "message": "じゃがいも[RAW:0E27]",
       "original": "じゃがいも[RAW:0E27]",
-      "translation": "",
+      "translation": "감자[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -494,7 +494,7 @@
       "name": "37",
       "message": "きゅうり[RAW:0E27]",
       "original": "きゅうり[RAW:0E27]",
-      "translation": "",
+      "translation": "오이[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -504,7 +504,7 @@
       "name": "38",
       "message": "きゃべつ[RAW:0E27]",
       "original": "きゃべつ[RAW:0E27]",
-      "translation": "",
+      "translation": "양배추[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -514,7 +514,7 @@
       "name": "39",
       "message": "いちご[RAW:0E27]",
       "original": "いちご[RAW:0E27]",
-      "translation": "",
+      "translation": "딸기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -524,7 +524,7 @@
       "name": "40",
       "message": "ラディッシュ[RAW:0E27]",
       "original": "ラディッシュ[RAW:0E27]",
-      "translation": "",
+      "translation": "래디시[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -534,7 +534,7 @@
       "name": "41",
       "message": "たまねぎ[RAW:0E27]",
       "original": "たまねぎ[RAW:0E27]",
-      "translation": "",
+      "translation": "양파[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -544,7 +544,7 @@
       "name": "42",
       "message": "トマト[RAW:0E27]",
       "original": "トマト[RAW:0E27]",
-      "translation": "",
+      "translation": "토마토[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -554,7 +554,7 @@
       "name": "43",
       "message": "とうもろこし[RAW:0E27]",
       "original": "とうもろこし[RAW:0E27]",
-      "translation": "",
+      "translation": "옥수수[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -564,7 +564,7 @@
       "name": "44",
       "message": "すいか[RAW:0E27]",
       "original": "すいか[RAW:0E27]",
-      "translation": "",
+      "translation": "수박[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -574,7 +574,7 @@
       "name": "45",
       "message": "にんじん[RAW:0E27]",
       "original": "にんじん[RAW:0E27]",
-      "translation": "",
+      "translation": "당근[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -584,7 +584,7 @@
       "name": "46",
       "message": "さつまいも[RAW:0E27]",
       "original": "さつまいも[RAW:0E27]",
-      "translation": "",
+      "translation": "고구마[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -594,7 +594,7 @@
       "name": "47",
       "message": "ほうれん草[RAW:0E27]",
       "original": "ほうれん草[RAW:0E27]",
-      "translation": "",
+      "translation": "시금치[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -604,7 +604,7 @@
       "name": "48",
       "message": "なす[RAW:0E27]",
       "original": "なす[RAW:0E27]",
-      "translation": "",
+      "translation": "가지[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -614,7 +614,7 @@
       "name": "49",
       "message": "ピーマン[RAW:0E27]",
       "original": "ピーマン[RAW:0E27]",
-      "translation": "",
+      "translation": "피망[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -624,7 +624,7 @@
       "name": "50",
       "message": "今日は[RAW:6D20]花の日[RAW:6C20]！[RAW:2823]村のみんなにお花をおくって[RAW:2823]今までよりも仲良くなろう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]花の日[RAW:6C20]！[RAW:2823]村のみんなにお花をおくって[RAW:2823]今までよりも仲良くなろう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]꽃의 날[RAW:6C20]！[RAW:2823]마을 모두에게 꽃을 주고[RAW:2823]더 친해지자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -638,7 +638,7 @@
       "name": "51",
       "message": "サラダ[RAW:0E27]",
       "original": "サラダ[RAW:0E27]",
-      "translation": "",
+      "translation": "샐러드[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -648,7 +648,7 @@
       "name": "52",
       "message": "スープ[RAW:0E27]",
       "original": "スープ[RAW:0E27]",
-      "translation": "",
+      "translation": "수프[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -658,7 +658,7 @@
       "name": "53",
       "message": "メイン[RAW:0E27]",
       "original": "メイン[RAW:0E27]",
-      "translation": "",
+      "translation": "메인[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -668,7 +668,7 @@
       "name": "54",
       "message": "デザート[RAW:0E27-0F27]＃",
       "original": "デザート[RAW:0E27-0F27]＃",
-      "translation": "",
+      "translation": "디저트[RAW:0E27-0F27]＃",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

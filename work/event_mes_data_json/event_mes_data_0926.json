@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:401F-B91F-481F]今夜は雲もなくて[RAW:2823]お月見にはもってこいだな。[RAW:2B23-401F-B91F-491F]みんな、今だけは仕事を忘れて[RAW:2823]ゆっくりと月を[RAW:2823]愛でようじゃないか！[RAW:0E27]",
       "original": "[RAW:401F-B91F-481F]今夜は雲もなくて[RAW:2823]お月見にはもってこいだな。[RAW:2B23-401F-B91F-491F]みんな、今だけは仕事を忘れて[RAW:2823]ゆっくりと月を[RAW:2823]愛でようじゃないか！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-B91F-481F]오늘 밤은 구름도 없어[RAW:2823]달맞이에 딱 좋구먼。[RAW:2B23-401F-B91F-491F]다들、지금만은 일을 잊고[RAW:2823]천천히 달을[RAW:2823]감상해 보자꾸나！[RAW:0E27]",
       "controls": [
         "[RAW:401F-B91F-481F]",
         "[RAW:2823]",
@@ -25,7 +25,7 @@
       "name": "1",
       "message": "[RAW:401F-AE1F-491F]きれいなお月さま。[RAW:2823]銀色にかがやいて[RAW:2823]まるで宝石のようだわ。[RAW:0E27]",
       "original": "[RAW:401F-AE1F-491F]きれいなお月さま。[RAW:2823]銀色にかがやいて[RAW:2823]まるで宝石のようだわ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-AE1F-491F]참 고운 달님。[RAW:2823]은빛으로 반짝여서[RAW:2823]마치 보석 같아。[RAW:0E27]",
       "controls": [
         "[RAW:401F-AE1F-491F]",
         "[RAW:2823]",
@@ -38,7 +38,7 @@
       "name": "2",
       "message": "[RAW:401F-A71F-491F]本当ですね。[RAW:2823]とても大きくて[RAW:2823]手をのばせば届きそうです。[RAW:0E27]",
       "original": "[RAW:401F-A71F-491F]本当ですね。[RAW:2823]とても大きくて[RAW:2823]手をのばせば届きそうです。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-A71F-491F]정말 그러네요。[RAW:2823]아주 커서[RAW:2823]손 뻗으면 닿겠어요。[RAW:0E27]",
       "controls": [
         "[RAW:401F-A71F-491F]",
         "[RAW:2823]",
@@ -51,7 +51,7 @@
       "name": "3",
       "message": "[RAW:401F-BD1F-491F]ふふ、たまにはこうして[RAW:2823]のんびりした時間を過ごすのも[RAW:2823]いいものね。[RAW:0E27]",
       "original": "[RAW:401F-BD1F-491F]ふふ、たまにはこうして[RAW:2823]のんびりした時間を過ごすのも[RAW:2823]いいものね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-BD1F-491F]후후、가끔은 이렇게[RAW:2823]느긋한 시간을 보내는 것도[RAW:2823]좋네요。[RAW:0E27]",
       "controls": [
         "[RAW:401F-BD1F-491F]",
         "[RAW:2823]",
@@ -64,7 +64,7 @@
       "name": "4",
       "message": "[RAW:401F-AD1F-491F]きれい♪[RAW:2823]じっと見つめていると[RAW:2823]心が吸い込まれてしまいそう。[RAW:0E27]",
       "original": "[RAW:401F-AD1F-491F]きれい♪[RAW:2823]じっと見つめていると[RAW:2823]心が吸い込まれてしまいそう。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-AD1F-491F]예뻐♪[RAW:2823]가만히 보고 있으면[RAW:2823]마음이 빨려들 것 같아。[RAW:0E27]",
       "controls": [
         "[RAW:401F-AD1F-491F]",
         "[RAW:2823]",
@@ -77,7 +77,7 @@
       "name": "5",
       "message": "[RAW:401F-A91F-491F]月はきれいだし[RAW:2823]月見だんごはうまいし[RAW:2823]言うことなしだな！[RAW:0E27]",
       "original": "[RAW:401F-A91F-491F]月はきれいだし[RAW:2823]月見だんごはうまいし[RAW:2823]言うことなしだな！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-A91F-491F]달도 예쁘고[RAW:2823]달맞이 경단도 맛있고[RAW:2823]더 바랄 게 없네！[RAW:0E27]",
       "controls": [
         "[RAW:401F-A91F-491F]",
         "[RAW:2823]",
@@ -90,7 +90,7 @@
       "name": "6",
       "message": "[RAW:401F-BE1F-491F]あらあら、うれしいわー。[RAW:2823]おだんごはたくさんあるから[RAW:2823]どんどん食べてね。[RAW:0E27]",
       "original": "[RAW:401F-BE1F-491F]あらあら、うれしいわー。[RAW:2823]おだんごはたくさんあるから[RAW:2823]どんどん食べてね。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-BE1F-491F]어머나、기쁘구나ー。[RAW:2823]경단은 많으니까[RAW:2823]마음껏 먹어렴。[RAW:0E27]",
       "controls": [
         "[RAW:401F-BE1F-491F]",
         "[RAW:2823]",
@@ -103,7 +103,7 @@
       "name": "7",
       "message": "[RAW:401F-B91F-491F]風流だな。[RAW:2823]風も涼しくて[RAW:2823]とても心地いい。[RAW:0E27]",
       "original": "[RAW:401F-B91F-491F]風流だな。[RAW:2823]風も涼しくて[RAW:2823]とても心地いい。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-B91F-491F]풍류롭군。[RAW:2823]바람도 시원해서[RAW:2823]참 기분 좋군。[RAW:0E27]",
       "controls": [
         "[RAW:401F-B91F-491F]",
         "[RAW:2823]",
@@ -116,7 +116,7 @@
       "name": "8",
       "message": "[RAW:401F-C11F-491F]ふん。[RAW:2823]虫たちも気持ちよさそうに[RAW:2823]ないておるわ。[RAW:0E27]",
       "original": "[RAW:401F-C11F-491F]ふん。[RAW:2823]虫たちも気持ちよさそうに[RAW:2823]ないておるわ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-C11F-491F]흥。[RAW:2823]벌레들도 기분 좋게[RAW:2823]울고 있구나。[RAW:0E27]",
       "controls": [
         "[RAW:401F-C11F-491F]",
         "[RAW:2823]",
@@ -129,7 +129,7 @@
       "name": "9",
       "message": "[RAW:401F-BB1F-491F]心が落ち着くのう。[RAW:2823]いつの間にか[RAW:2823]眠ってしまいそうじゃ。[RAW:0E27]",
       "original": "[RAW:401F-BB1F-491F]心が落ち着くのう。[RAW:2823]いつの間にか[RAW:2823]眠ってしまいそうじゃ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:401F-BB1F-491F]마음이 편해지는구먼。[RAW:2823]어느샌가[RAW:2823]잠들 것 같구나。[RAW:0E27]",
       "controls": [
         "[RAW:401F-BB1F-491F]",
         "[RAW:2823]",
@@ -142,7 +142,7 @@
       "name": "10",
       "message": "[RAW:401F-B91F-481F]もう夜も遅いな。[RAW:2823]そろそろ村に戻ろうか。[RAW:0E27-0F27]゜",
       "original": "[RAW:401F-B91F-481F]もう夜も遅いな。[RAW:2823]そろそろ村に戻ろうか。[RAW:0E27-0F27]゜",
-      "translation": "",
+      "translation": "[RAW:401F-B91F-481F]벌써 늦은 밤이네。[RAW:2823]슬슬 마을로 돌아갈까。[RAW:0E27-0F27]゜",
       "controls": [
         "[RAW:401F-B91F-481F]",
         "[RAW:2823]",
