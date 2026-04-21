@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:3721]おつかいの事を話しますか？[RAW:2823-3223-0008]はい[RAW:2823-0008]いいえ[RAW:0E27]",
       "original": "[RAW:3721]おつかいの事を話しますか？[RAW:2823-3223-0008]はい[RAW:2823-0008]いいえ[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:3721]부탁 얘길 할까？[RAW:2823-3223-0008]예[RAW:2823-0008]아니오[RAW:0E27]",
       "controls": [
         "[RAW:3721]",
         "[RAW:2823-3223-0008]",
@@ -23,7 +23,7 @@
       "name": "1",
       "message": "[RAW:411F-BC1F-4A1F-3621]だが、しかし、[RAW:2823]たりんではないか！[RAW:2B23]牧場主たるもの、[RAW:2823]そんな事ではいかんぞ？[RAW:2B23]そろえてから、出直すがよい。[RAW:0E27]",
       "original": "[RAW:411F-BC1F-4A1F-3621]だが、しかし、[RAW:2823]たりんではないか！[RAW:2B23]牧場主たるもの、[RAW:2823]そんな事ではいかんぞ？[RAW:2B23]そろえてから、出直すがよい。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-4A1F-3621]하지만、그래도[RAW:2823]모자라지 않느냐！[RAW:2B23]목장주라면、[RAW:2823]그래선 안 된다？[RAW:2B23]다 갖춰 다시 오너라。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-4A1F-3621]",
         "[RAW:2823]",
@@ -38,7 +38,7 @@
       "name": "2",
       "message": "[RAW:411F-BC1F-4A1F-3621]ぬう………、[RAW:2823]とちゅうでなげだすとは…[RAW:2823]何か用事でもあるのか？[RAW:2B23]牧場主たるもの、[RAW:2823]用事を先にすませてから[RAW:2823]次の仕事にとりかかる事だ。[RAW:2B23]そっちの用が終わってから、[RAW:2823]出直すがよい。[RAW:0E27]",
       "original": "[RAW:411F-BC1F-4A1F-3621]ぬう………、[RAW:2823]とちゅうでなげだすとは…[RAW:2823]何か用事でもあるのか？[RAW:2B23]牧場主たるもの、[RAW:2823]用事を先にすませてから[RAW:2823]次の仕事にとりかかる事だ。[RAW:2B23]そっちの用が終わってから、[RAW:2823]出直すがよい。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-4A1F-3621]음………、[RAW:2823]중간에 내던지다니…[RAW:2823]무슨 볼일이라도 있나？[RAW:2B23]목장주라면、[RAW:2823]볼일을 먼저 끝내고[RAW:2823]다음 일을 시작해야지。[RAW:2B23]그쪽 일이 끝나면、[RAW:2823]다시 오너라。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-4A1F-3621]",
         "[RAW:2823]",
@@ -56,7 +56,7 @@
       "name": "3",
       "message": "[RAW:411F-BC1F-481F-3621]後はお金だな。[RAW:2823-0010]Ｇ[RAW:2823]確かに受け取った！[RAW:0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]後はお金だな。[RAW:2823-0010]Ｇ[RAW:2823]確かに受け取った！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]이젠 돈이군。[RAW:2823-0010]Ｇ[RAW:2823]확실히 받았다！[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-0010]",
@@ -69,7 +69,7 @@
       "name": "4",
       "message": "[RAW:411F-BC1F-481F-3621]うむ。話しは聞いてる。[RAW:2823]ありがとう。待っていたんだ。[RAW:0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]うむ。話しは聞いてる。[RAW:2823]ありがとう。待っていたんだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]음。얘긴 들었다。[RAW:2823]고맙다。기다리고 있었다。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823]",
@@ -81,7 +81,7 @@
       "name": "5",
       "message": "[RAW:411F-BC1F-481F-3621]うむ。[RAW:2823]確かに受け取った！[RAW:0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]うむ。[RAW:2823]確かに受け取った！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]음。[RAW:2823]확실히 받았다！[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823]",
@@ -93,7 +93,7 @@
       "name": "6",
       "message": "[RAW:411F-BC1F-491F-3621]それではな。[RAW:2823]助かったと伝えてくれ。[RAW:0E27]",
       "original": "[RAW:411F-BC1F-491F-3621]それではな。[RAW:2823]助かったと伝えてくれ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-491F-3621]그럼 이만。[RAW:2823]도움됐다고 전해 다오。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-491F-3621]",
         "[RAW:2823]",
@@ -105,7 +105,7 @@
       "name": "7",
       "message": "[RAW:411F-BC1F-481F-3621]何か用か？[RAW:2823]お仕事が終わったのでなければ[RAW:2823]後にしてくれないか。[RAW:0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]何か用か？[RAW:2823]お仕事が終わったのでなければ[RAW:2823]後にしてくれないか。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]무슨 용건인가？[RAW:2823]일이 끝난 게 아니라면[RAW:2823]나중에 해 주겠나。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823]",
@@ -118,7 +118,7 @@
       "name": "8",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -130,7 +130,7 @@
       "name": "9",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -142,7 +142,7 @@
       "name": "10",
       "message": "[RAW:3721]おつかいの事を話しますか？[RAW:2823-3223-0008]はい[RAW:2823-0008]いいえ[RAW:0E27]",
       "original": "[RAW:3721]おつかいの事を話しますか？[RAW:2823-3223-0008]はい[RAW:2823-0008]いいえ[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:3721]부탁 얘길 할까？[RAW:2823-3223-0008]예[RAW:2823-0008]아니오[RAW:0E27]",
       "controls": [
         "[RAW:3721]",
         "[RAW:2823-3223-0008]",
@@ -155,7 +155,7 @@
       "name": "11",
       "message": "[RAW:3721]お礼はじゅうぶん受け取った？[RAW:2823-3223-0008]はい[RAW:2823-0008]いいえ[RAW:0E27]",
       "original": "[RAW:3721]お礼はじゅうぶん受け取った？[RAW:2823-3223-0008]はい[RAW:2823-0008]いいえ[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:3721]보상은 충분히 받았나？[RAW:2823-3223-0008]예[RAW:2823-0008]아니오[RAW:0E27]",
       "controls": [
         "[RAW:3721]",
         "[RAW:2823-3223-0008]",
@@ -168,7 +168,7 @@
       "name": "12",
       "message": "[RAW:3721]お礼の[RAW:2823-0010]Ｇを[RAW:2823]受け取った！[RAW:0E27]",
       "original": "[RAW:3721]お礼の[RAW:2823-0010]Ｇを[RAW:2823]受け取った！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:3721]보상의[RAW:2823-0010]Ｇ를[RAW:2823]받았다！[RAW:0E27]",
       "controls": [
         "[RAW:3721]",
         "[RAW:2823-0010]",
@@ -181,7 +181,7 @@
       "name": "13",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -193,7 +193,7 @@
       "name": "14",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -205,7 +205,7 @@
       "name": "15",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -217,7 +217,7 @@
       "name": "16",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -229,7 +229,7 @@
       "name": "17",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -241,7 +241,7 @@
       "name": "18",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27]",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",
@@ -253,7 +253,7 @@
       "name": "19",
       "message": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27-0F27]‥",
       "original": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27-0F27]‥",
-      "translation": "",
+      "translation": "[RAW:411F-BC1F-481F-3621]　[RAW:2823-D020-6D20]　　　　★ＤＵＭＭＹ★[RAW:6C20-0E27-0F27]‥",
       "controls": [
         "[RAW:411F-BC1F-481F-3621]",
         "[RAW:2823-D020-6D20]",

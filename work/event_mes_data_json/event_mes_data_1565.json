@@ -10,7 +10,7 @@
       "name": "0",
       "message": "＜いらっしゃいませ＞[RAW:0E27]",
       "original": "＜いらっしゃいませ＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜어서 오세요＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "[RAW:411F-A41F-481F-3323]　＜買う＞[RAW:2823]　＜買わない＞[RAW:2823]　＜説明を聞く＞[RAW:0E27]",
       "original": "[RAW:411F-A41F-481F-3323]　＜買う＞[RAW:2823]　＜買わない＞[RAW:2823]　＜説明を聞く＞[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-3323]　＜산다＞[RAW:2823]　＜안 산다＞[RAW:2823]　＜설명을 듣기＞[RAW:0E27]",
       "controls": [
         "[RAW:411F-A41F-481F-3323]",
         "[RAW:2823]",
@@ -33,7 +33,7 @@
       "name": "2",
       "message": "＜買わない選択時＞[RAW:0E27]",
       "original": "＜買わない選択時＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜안 살 때＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -43,7 +43,7 @@
       "name": "3",
       "message": "＜お金たりないよ＞[RAW:0E27]",
       "original": "＜お金たりないよ＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜금이 부족해＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -53,7 +53,7 @@
       "name": "4",
       "message": "＜お礼＞[RAW:0E27]",
       "original": "＜お礼＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜답례＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -63,7 +63,7 @@
       "name": "5",
       "message": "＜説明＞[RAW:0E27]",
       "original": "＜説明＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜설명＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -73,7 +73,7 @@
       "name": "6",
       "message": "＜アイテムを選んでね＞[RAW:0E27]",
       "original": "＜アイテムを選んでね＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜아이템 골라 줘＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -83,7 +83,7 @@
       "name": "7",
       "message": "＜結果はどうかな＞[RAW:0E27]",
       "original": "＜結果はどうかな＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과는 어떨까＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -93,7 +93,7 @@
       "name": "8",
       "message": "＜結果１＞[RAW:0E27]",
       "original": "＜結果１＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과１＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -103,7 +103,7 @@
       "name": "9",
       "message": "＜結果２＞[RAW:0E27]",
       "original": "＜結果２＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과２＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -113,7 +113,7 @@
       "name": "10",
       "message": "＜結果３＞[RAW:0E27]",
       "original": "＜結果３＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과３＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -123,7 +123,7 @@
       "name": "11",
       "message": "＜結果４＞[RAW:0E27]",
       "original": "＜結果４＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과４＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -133,7 +133,7 @@
       "name": "12",
       "message": "＜結果５＞[RAW:0E27-0F27]｀",
       "original": "＜結果５＞[RAW:0E27-0F27]｀",
-      "translation": "",
+      "translation": "＜결과５＞[RAW:0E27-0F27]｀",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

@@ -10,7 +10,7 @@
       "name": "0",
       "message": "私はこのＭＳＧはありません。[RAW:0E27]",
       "original": "私はこのＭＳＧはありません。[RAW:0E27]",
-      "translation": "",
+      "translation": "이 메시지는 없습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "クジ引き屋ロットに[RAW:2823]ようこそ。[RAW:2823]ここではクジが引けますよ。[RAW:9023-0E27]",
       "original": "クジ引き屋ロットに[RAW:2823]ようこそ。[RAW:2823]ここではクジが引けますよ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "복권집 로트에[RAW:2823]어서 오세요。[RAW:2823]여기선 복권을 뽑아요。[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -32,7 +32,7 @@
       "name": "2",
       "message": "[RAW:411F-A41F-481F]１回[RAW:6D20-0010-2708-6C20]です。どうですか？[RAW:2823-3223-0008]クジを引く[RAW:2823-0008]やめる[RAW:9023-0E27]",
       "original": "[RAW:411F-A41F-481F]１回[RAW:6D20-0010-2708-6C20]です。どうですか？[RAW:2823-3223-0008]クジを引く[RAW:2823-0008]やめる[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F]１회[RAW:6D20-0010-2708-6C20]입니다。어떠세요？[RAW:2823-3223-0008]복권을 뽑는다[RAW:2823-0008]그만둔다[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-A41F-481F]",
         "[RAW:6D20-0010-2708-6C20]",
@@ -46,7 +46,7 @@
       "name": "3",
       "message": "[RAW:431F]クジで試されるのは[RAW:2823]今のあなた自身。[RAW:2823]またいつでもおいでください。[RAW:0E27]",
       "original": "[RAW:431F]クジで試されるのは[RAW:2823]今のあなた自身。[RAW:2823]またいつでもおいでください。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:431F]복권이 시험하는 건[RAW:2823]지금의 당신 자신。[RAW:2823]또 언제든 오세요。[RAW:0E27]",
       "controls": [
         "[RAW:431F]",
         "[RAW:2823]",
@@ -59,7 +59,7 @@
       "name": "4",
       "message": "[RAW:431F]あら、残念ですが[RAW:2823]お金が足りないようです。[RAW:9023-0E27]",
       "original": "[RAW:431F]あら、残念ですが[RAW:2823]お金が足りないようです。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:431F]아쉽지만、[RAW:2823]금이 모자라네요。[RAW:9023-0E27]",
       "controls": [
         "[RAW:431F]",
         "[RAW:2823]",
@@ -71,7 +71,7 @@
       "name": "5",
       "message": "[RAW:431F]それでは、[RAW:2823]あなたの今を[RAW:2823]試してみましょう…。[RAW:2B23-2D23]…………！[RAW:9023-0E27]",
       "original": "[RAW:431F]それでは、[RAW:2823]あなたの今を[RAW:2823]試してみましょう…。[RAW:2B23-2D23]…………！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:431F]그럼、[RAW:2823]당신의 지금을[RAW:2823]시험해 볼게요…。[RAW:2B23-2D23]…………！[RAW:9023-0E27]",
       "controls": [
         "[RAW:431F]",
         "[RAW:2823]",
@@ -85,7 +85,7 @@
       "name": "6",
       "message": "こちらが賞品の[RAW:2823-6D20-0110-6C20]です。[RAW:2823]どうぞお受け取り下さい。[RAW:9023-0E27]",
       "original": "こちらが賞品の[RAW:2823-6D20-0110-6C20]です。[RAW:2823]どうぞお受け取り下さい。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "여기 경품[RAW:2823-6D20-0110-6C20]입니다。[RAW:2823]받아 주세요。[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823-6D20-0110-6C20]",
         "[RAW:2823]",
@@ -97,7 +97,7 @@
       "name": "7",
       "message": "クジはあなたの運を映し出す[RAW:2823]貴重なかがみ。[RAW:2823]またいつでもおいでください。[RAW:0E27]",
       "original": "クジはあなたの運を映し出す[RAW:2823]貴重なかがみ。[RAW:2823]またいつでもおいでください。[RAW:0E27]",
-      "translation": "",
+      "translation": "복권은 당신의 운을 비추는[RAW:2823]귀한 거울。[RAW:2823]또 언제든 오세요。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -109,7 +109,7 @@
       "name": "8",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -119,7 +119,7 @@
       "name": "9",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -129,7 +129,7 @@
       "name": "10",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -139,7 +139,7 @@
       "name": "11",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -149,7 +149,7 @@
       "name": "12",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -159,7 +159,7 @@
       "name": "13",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -169,7 +169,7 @@
       "name": "14",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -179,7 +179,7 @@
       "name": "15",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -189,7 +189,7 @@
       "name": "16",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -199,7 +199,7 @@
       "name": "17",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -209,7 +209,7 @@
       "name": "18",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -219,7 +219,7 @@
       "name": "19",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -229,7 +229,7 @@
       "name": "20",
       "message": "＜結果はどうかな＞[RAW:0E27]",
       "original": "＜結果はどうかな＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과는 어떨까＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -239,7 +239,7 @@
       "name": "21",
       "message": "[RAW:6D20]特賞[RAW:6C20]です！[RAW:2823-6D20]特賞[RAW:6C20]で～す！　[RAW:2823]超大当たりです！[RAW:9023-0E27]",
       "original": "[RAW:6D20]特賞[RAW:6C20]です！[RAW:2823-6D20]特賞[RAW:6C20]で～す！　[RAW:2823]超大当たりです！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]특등[RAW:6C20]입니다！[RAW:2823-6D20]특등[RAW:6C20]이에요～！　[RAW:2823]초대박이에요！[RAW:9023-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -254,7 +254,7 @@
       "name": "22",
       "message": "[RAW:6D20]１等[RAW:6C20]です！[RAW:2823]大当たりです！おめでとうございます！[RAW:2823-9023-0E27]",
       "original": "[RAW:6D20]１等[RAW:6C20]です！[RAW:2823]大当たりです！おめでとうございます！[RAW:2823-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]１등[RAW:6C20]입니다！[RAW:2823]대당첨！축하드려요！[RAW:2823-9023-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -267,7 +267,7 @@
       "name": "23",
       "message": "[RAW:6D20]２等[RAW:6C20]です！　[RAW:2823]当たりで～す！　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
       "original": "[RAW:6D20]２等[RAW:6C20]です！　[RAW:2823]当たりで～す！　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]２등[RAW:6C20]입니다！　[RAW:2823]당첨입니다～！　[RAW:2823]축하드려요！[RAW:9023-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -281,7 +281,7 @@
       "name": "24",
       "message": "[RAW:6D20]３等[RAW:6C20]です！　[RAW:2823]当たりです。　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
       "original": "[RAW:6D20]３等[RAW:6C20]です！　[RAW:2823]当たりです。　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]３등[RAW:6C20]입니다！　[RAW:2823]당첨입니다。　[RAW:2823]축하드려요！[RAW:9023-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -295,7 +295,7 @@
       "name": "25",
       "message": "[RAW:6D20]４等[RAW:6C20]です！[RAW:2823]プチ当たりです！　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
       "original": "[RAW:6D20]４等[RAW:6C20]です！[RAW:2823]プチ当たりです！　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]４등[RAW:6C20]입니다！[RAW:2823]작게 당첨！　[RAW:2823]축하드려요！[RAW:9023-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -309,7 +309,7 @@
       "name": "26",
       "message": "[RAW:6D20]５等[RAW:6C20]です！　[RAW:2823]ミニ当たりです！　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
       "original": "[RAW:6D20]５等[RAW:6C20]です！　[RAW:2823]ミニ当たりです！　[RAW:2823]おめでとうございます！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]５등[RAW:6C20]입니다！　[RAW:2823]미니 당첨！　[RAW:2823]축하드려요！[RAW:9023-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -323,7 +323,7 @@
       "name": "27",
       "message": "うっ、残念。[RAW:2823-2D23]ハズレでしたー。[RAW:9023-0E27-0F27]〕",
       "original": "うっ、残念。[RAW:2823-2D23]ハズレでしたー。[RAW:9023-0E27-0F27]〕",
-      "translation": "",
+      "translation": "앗、아쉽네요。[RAW:2823-2D23]꽝이었어요ー。[RAW:9023-0E27-0F27]〕",
       "controls": [
         "[RAW:2823-2D23]",
         "[RAW:9023-0E27-0F27]"

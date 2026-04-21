@@ -10,7 +10,7 @@
       "name": "0",
       "message": "＜また次回来てね＞[RAW:0E27]",
       "original": "＜また次回来てね＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜다음에 또 와＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "ここは占い屋カネヨシじゃ。[RAW:2823]ほらおぬし。これからの[RAW:2823]運勢を知りたくはないか？[RAW:9023-0E27]",
       "original": "ここは占い屋カネヨシじゃ。[RAW:2823]ほらおぬし。これからの[RAW:2823]運勢を知りたくはないか？[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "여긴 카네요시 점집이네。[RAW:2823]자네、앞날의[RAW:2823]운세가 궁금치 않나？[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -32,7 +32,7 @@
       "name": "2",
       "message": "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]で占うぞ。[RAW:2823-3223-0008]占う[RAW:2823-0008]やめる[RAW:0E27]",
       "original": "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]で占うぞ。[RAW:2823-3223-0008]占う[RAW:2823-0008]やめる[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]그럼 점치지。[RAW:2823-3223-0008]점친다[RAW:2823-0008]그만둔다[RAW:0E27]",
       "controls": [
         "[RAW:411F-A41F-481F-6D20-0010-2708-6C20]",
         "[RAW:2823-3223-0008]",
@@ -45,7 +45,7 @@
       "name": "3",
       "message": "[RAW:431F]ま、知らずに生きていくのも[RAW:2823]また１つの生き方じゃろうて。[RAW:2823]気が向いたら来るといい。[RAW:0E27]",
       "original": "[RAW:431F]ま、知らずに生きていくのも[RAW:2823]また１つの生き方じゃろうて。[RAW:2823]気が向いたら来るといい。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:431F]뭐、모르고 사는 것도[RAW:2823]또 하나의 삶이겠지。[RAW:2823]내키면 오면 되네。[RAW:0E27]",
       "controls": [
         "[RAW:431F]",
         "[RAW:2823]",
@@ -58,7 +58,7 @@
       "name": "4",
       "message": "[RAW:431F]おぬし、お金が足りんぞ。[RAW:2823]残念じゃが、[RAW:2823]出なおしてきてくれるかの。[RAW:0E27]",
       "original": "[RAW:431F]おぬし、お金が足りんぞ。[RAW:2823]残念じゃが、[RAW:2823]出なおしてきてくれるかの。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:431F]자네、금이 모자라네。[RAW:2823]아쉽지만、[RAW:2823]다시 와주겠나。[RAW:0E27]",
       "controls": [
         "[RAW:431F]",
         "[RAW:2823]",
@@ -71,7 +71,7 @@
       "name": "5",
       "message": "[RAW:431F-2D23]あぶらかたぶら…。[RAW:2C23-2823]おぬしの運命は[RAW:2823]どこへ向かうのか…ッ！[RAW:0E27]",
       "original": "[RAW:431F-2D23]あぶらかたぶら…。[RAW:2C23-2823]おぬしの運命は[RAW:2823]どこへ向かうのか…ッ！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:431F-2D23]아브라카타브라…。[RAW:2C23-2823]자네의 운명은[RAW:2823]어디로 향할 것인가…！[RAW:0E27]",
       "controls": [
         "[RAW:431F-2D23]",
         "[RAW:2C23-2823]",
@@ -84,7 +84,7 @@
       "name": "6",
       "message": "どうじゃった？[RAW:2823]ためになったかの？[RAW:2823]また、いつでも聞きにこい。[RAW:0E27]",
       "original": "どうじゃった？[RAW:2823]ためになったかの？[RAW:2823]また、いつでも聞きにこい。[RAW:0E27]",
-      "translation": "",
+      "translation": "어땠나？[RAW:2823]도움이 됐나？[RAW:2823]또 언제든 들으러 오게。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -96,7 +96,7 @@
       "name": "7",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -106,7 +106,7 @@
       "name": "8",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -116,7 +116,7 @@
       "name": "9",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -126,7 +126,7 @@
       "name": "10",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -136,7 +136,7 @@
       "name": "11",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -146,7 +146,7 @@
       "name": "12",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -156,7 +156,7 @@
       "name": "13",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -166,7 +166,7 @@
       "name": "14",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -176,7 +176,7 @@
       "name": "15",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -186,7 +186,7 @@
       "name": "16",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -196,7 +196,7 @@
       "name": "17",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -206,7 +206,7 @@
       "name": "18",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -216,7 +216,7 @@
       "name": "19",
       "message": "ダミー[RAW:0E27]",
       "original": "ダミー[RAW:0E27]",
-      "translation": "",
+      "translation": "더미[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -226,7 +226,7 @@
       "name": "20",
       "message": "＜結果はどうかな＞[RAW:0E27]",
       "original": "＜結果はどうかな＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜결과는 어떨까＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -236,7 +236,7 @@
       "name": "21",
       "message": "ラッキーカラーは赤。[RAW:2823]アクティブな行動が[RAW:2823]幸運をもたらすぞ。[RAW:0E27]",
       "original": "ラッキーカラーは赤。[RAW:2823]アクティブな行動が[RAW:2823]幸運をもたらすぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 빨강。[RAW:2823]활발히 움직이면[RAW:2823]행운을 부르네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -248,7 +248,7 @@
       "name": "22",
       "message": "ラッキーカラーはオレンジ。[RAW:2823]周囲からも愛され、[RAW:2823]親しまれるぞ。[RAW:0E27]",
       "original": "ラッキーカラーはオレンジ。[RAW:2823]周囲からも愛され、[RAW:2823]親しまれるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 오렌지。[RAW:2823]주위의 사랑도 받고、[RAW:2823]친근해질 게야。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -260,7 +260,7 @@
       "name": "23",
       "message": "ラッキーカラーは黄色。[RAW:2823]ものごとを前向きに考えれば、[RAW:2823]いいことが近づいてくるぞ。[RAW:0E27]",
       "original": "ラッキーカラーは黄色。[RAW:2823]ものごとを前向きに考えれば、[RAW:2823]いいことが近づいてくるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 노랑。[RAW:2823]긍정적으로 생각하면、[RAW:2823]좋은 일 다가오네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -272,7 +272,7 @@
       "name": "24",
       "message": "ラッキーカラーは緑。[RAW:2823]温和で調和を心がけると、[RAW:2823]静かな生活になるだろう。[RAW:0E27]",
       "original": "ラッキーカラーは緑。[RAW:2823]温和で調和を心がけると、[RAW:2823]静かな生活になるだろう。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 초록。[RAW:2823]온화히 조화 힘쓰면、[RAW:2823]잔잔히 살겠구나。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -284,7 +284,7 @@
       "name": "25",
       "message": "ラッキーカラーは青。[RAW:2823]冷静に周囲を見てみると、[RAW:2823]自分がさらによく見えるぞ。[RAW:0E27]",
       "original": "ラッキーカラーは青。[RAW:2823]冷静に周囲を見てみると、[RAW:2823]自分がさらによく見えるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 파랑。[RAW:2823]차분히 둘러보면、[RAW:2823]자신도 잘 보이네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -296,7 +296,7 @@
       "name": "26",
       "message": "ラッキーカラーは視。[RAW:2823]新しいさわやかな出会いが[RAW:2823]おこる、かも、しれんぞ！[RAW:0E27]",
       "original": "ラッキーカラーは視。[RAW:2823]新しいさわやかな出会いが[RAW:2823]おこる、かも、しれんぞ！[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 시。[RAW:2823]새 상쾌한 만남이[RAW:2823]올지도 모르네！[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -308,7 +308,7 @@
       "name": "27",
       "message": "ラッキーカラーは黒。[RAW:2823]独立心を強くもつと[RAW:2823]なおいいかもしれないぞ。[RAW:0E27]",
       "original": "ラッキーカラーは黒。[RAW:2823]独立心を強くもつと[RAW:2823]なおいいかもしれないぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 검정。[RAW:2823]독립심을 강하게 두면[RAW:2823]더 좋을 게야。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -320,7 +320,7 @@
       "name": "28",
       "message": "ラッキーカラーは白。[RAW:2823]すなおな気持ちが幸せを[RAW:2823]もたらせてくれるぞ。[RAW:0E27]",
       "original": "ラッキーカラーは白。[RAW:2823]すなおな気持ちが幸せを[RAW:2823]もたらせてくれるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "행운 색은 하양。[RAW:2823]순수한 마음이 복을[RAW:2823]가져다줄 게야。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -332,7 +332,7 @@
       "name": "29",
       "message": "やる前からあきらめないこと。[RAW:2823]スタートしたほうが、[RAW:2823]うまくいくこともあるのだ。[RAW:0E27]",
       "original": "やる前からあきらめないこと。[RAW:2823]スタートしたほうが、[RAW:2823]うまくいくこともあるのだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "하기 전엔 포기 말게。[RAW:2823]시작하는 편이、[RAW:2823]잘될 때도 있네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -344,7 +344,7 @@
       "name": "30",
       "message": "お気にいりの場所で、[RAW:2823]ラッキーなハプニングが[RAW:2823]ある予感。[RAW:0E27]",
       "original": "お気にいりの場所で、[RAW:2823]ラッキーなハプニングが[RAW:2823]ある予感。[RAW:0E27]",
-      "translation": "",
+      "translation": "좋아하는 곳에서、[RAW:2823]행운의 해프닝이[RAW:2823]생길 예감이네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -356,7 +356,7 @@
       "name": "31",
       "message": "大切な人との信頼が、[RAW:2823]さらに深まる出来事が[RAW:2823]ありそうだ…。[RAW:0E27]",
       "original": "大切な人との信頼が、[RAW:2823]さらに深まる出来事が[RAW:2823]ありそうだ…。[RAW:0E27]",
-      "translation": "",
+      "translation": "소중한 이와 신뢰가、[RAW:2823]더 깊어질 일이[RAW:2823]있을 듯하네…。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -368,7 +368,7 @@
       "name": "32",
       "message": "目標達成まで、あと少し。[RAW:2823]立ち止まっている時間は[RAW:2823]なさそうだ。[RAW:0E27]",
       "original": "目標達成まで、あと少し。[RAW:2823]立ち止まっている時間は[RAW:2823]なさそうだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "목표까진 얼마 안 남았네。[RAW:2823]멈춰 설 시간은[RAW:2823]없을 듯하네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -380,7 +380,7 @@
       "name": "33",
       "message": "金運がひくい予感。[RAW:2823]買う物を決めてからの[RAW:2823]お出かけがいいらしい。[RAW:0E27]",
       "original": "金運がひくい予感。[RAW:2823]買う物を決めてからの[RAW:2823]お出かけがいいらしい。[RAW:0E27]",
-      "translation": "",
+      "translation": "금운이 낮을 예감。[RAW:2823]살 건 정하고서[RAW:2823]나서는 게 좋대。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -392,7 +392,7 @@
       "name": "34",
       "message": "気付かぬうちに、[RAW:2823]ワガママやっているぞ。[RAW:2823]思いやりを忘れずにな。[RAW:0E27]",
       "original": "気付かぬうちに、[RAW:2823]ワガママやっているぞ。[RAW:2823]思いやりを忘れずにな。[RAW:0E27]",
-      "translation": "",
+      "translation": "모르는 새에、[RAW:2823]제멋대로 굴고 있네。[RAW:2823]배려를 잊지 말게。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -404,7 +404,7 @@
       "name": "35",
       "message": "あせり気味な毎日か。[RAW:2823]ゆったりとひとりの時間を[RAW:2823]過ごしてみるのもいいぞ。[RAW:0E27]",
       "original": "あせり気味な毎日か。[RAW:2823]ゆったりとひとりの時間を[RAW:2823]過ごしてみるのもいいぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "조급한 나날인가。[RAW:2823]느긋이 혼자 시간을[RAW:2823]보내보는 것도 좋네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -416,7 +416,7 @@
       "name": "36",
       "message": "変化にまどわされず、[RAW:2823]自分を信じて動こうぞ。[RAW:2823]ツキはやってくるぞ。[RAW:0E27]",
       "original": "変化にまどわされず、[RAW:2823]自分を信じて動こうぞ。[RAW:2823]ツキはやってくるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "변화에 흔들리지 말고、[RAW:2823]자길 믿고 움직이게。[RAW:2823]운은 찾아오네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -428,7 +428,7 @@
       "name": "37",
       "message": "年上の意見を大切にしてみろ。[RAW:2823]確実にまえにすすむぞ。[RAW:0E27]",
       "original": "年上の意見を大切にしてみろ。[RAW:2823]確実にまえにすすむぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "윗사람 말 귀히 보게。[RAW:2823]확실히 앞으로 가네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -439,7 +439,7 @@
       "name": "38",
       "message": "友情がふかまりそうだ。[RAW:2823]あいてをおもいやると、[RAW:2823]さらに仲良くなれるぞ。[RAW:0E27]",
       "original": "友情がふかまりそうだ。[RAW:2823]あいてをおもいやると、[RAW:2823]さらに仲良くなれるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "우정이 깊어지겠네。[RAW:2823]상대를 배려하면、[RAW:2823]더 친해질 수 있네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -451,7 +451,7 @@
       "name": "39",
       "message": "とりあえず、[RAW:2823]どんな人とも話してみる。[RAW:2823]運が開けるぞ。[RAW:0E27]",
       "original": "とりあえず、[RAW:2823]どんな人とも話してみる。[RAW:2823]運が開けるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "우선은、[RAW:2823]누구와도 말해 보게。[RAW:2823]운이 트이네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -463,7 +463,7 @@
       "name": "40",
       "message": "自分のイイトコロを[RAW:2823]みつめなおすといいらしいぞ。[RAW:2823-0E27]",
       "original": "自分のイイトコロを[RAW:2823]みつめなおすといいらしいぞ。[RAW:2823-0E27]",
-      "translation": "",
+      "translation": "자기 좋은 점을[RAW:2823]다시 보면 좋다네。[RAW:2823-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823-0E27]"
@@ -474,7 +474,7 @@
       "name": "41",
       "message": "いつものそなたでいると、[RAW:2823]よいイメージを[RAW:2823]あいてにあたえるぞ。[RAW:0E27]",
       "original": "いつものそなたでいると、[RAW:2823]よいイメージを[RAW:2823]あいてにあたえるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "평소의 자네면、[RAW:2823]좋은 인상을[RAW:2823]상대에 남기네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -486,7 +486,7 @@
       "name": "42",
       "message": "道を歩いていると、[RAW:2823]ヨイモノが[RAW:2823]みつかるかもしれんの。[RAW:0E27]",
       "original": "道を歩いていると、[RAW:2823]ヨイモノが[RAW:2823]みつかるかもしれんの。[RAW:0E27]",
-      "translation": "",
+      "translation": "길을 걷다 보면、[RAW:2823]좋은 걸[RAW:2823]찾을지 모르네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -498,7 +498,7 @@
       "name": "43",
       "message": "勝負事は、さけたほうが[RAW:2823]良いかもしれんのぉ。[RAW:0E27]",
       "original": "勝負事は、さけたほうが[RAW:2823]良いかもしれんのぉ。[RAW:0E27]",
-      "translation": "",
+      "translation": "승부는 피하는 게[RAW:2823]좋을지 모르겠구먼。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -509,7 +509,7 @@
       "name": "44",
       "message": "モテモテオーラがみえる。[RAW:2823]モテモテでいけ。[RAW:2823]モテモテで！[RAW:0E27]",
       "original": "モテモテオーラがみえる。[RAW:2823]モテモテでいけ。[RAW:2823]モテモテで！[RAW:0E27]",
-      "translation": "",
+      "translation": "인기 오라가 보이는군。[RAW:2823]인기쟁이로 가게。[RAW:2823]인기쟁이로！[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -521,7 +521,7 @@
       "name": "45",
       "message": "ふだんは行かない場所に[RAW:2823]行ってみよう。[RAW:2823]新しい発見があるぞ。[RAW:0E27]",
       "original": "ふだんは行かない場所に[RAW:2823]行ってみよう。[RAW:2823]新しい発見があるぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "평소 안 가는 곳에[RAW:2823]가 보게。[RAW:2823]새 발견이 있네。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -533,7 +533,7 @@
       "name": "46",
       "message": "からだが一番大事。[RAW:2823]からだが一番大事。[RAW:2823]からだが一番大事なのじゃー。[RAW:0E27]",
       "original": "からだが一番大事。[RAW:2823]からだが一番大事。[RAW:2823]からだが一番大事なのじゃー。[RAW:0E27]",
-      "translation": "",
+      "translation": "몸이 제일 중요해。[RAW:2823]몸이 제일 중요해。[RAW:2823]몸이 제일 중요한 게야ー[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -545,7 +545,7 @@
       "name": "47",
       "message": "グーでいけ。[RAW:2823]グーでいけば[RAW:2823]チョキに勝てるぞ！[RAW:0E27]",
       "original": "グーでいけ。[RAW:2823]グーでいけば[RAW:2823]チョキに勝てるぞ！[RAW:0E27]",
-      "translation": "",
+      "translation": "주먹으로 가게。[RAW:2823]주먹으로 가면[RAW:2823]가위는 이기네！[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -557,7 +557,7 @@
       "name": "48",
       "message": "のんびりもいいが、[RAW:2823]新テーマはスパイシー！[RAW:2823]シゲキを楽しむがいいぞ。[RAW:0E27]",
       "original": "のんびりもいいが、[RAW:2823]新テーマはスパイシー！[RAW:2823]シゲキを楽しむがいいぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "느긋함도 좋지만、[RAW:2823]새 테마는 스파이시！[RAW:2823]자극을 즐기게나。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -569,7 +569,7 @@
       "name": "49",
       "message": "しあわせのじゅもんは、[RAW:2823]大きな声で、[RAW:2823]リラックスぅぅぅ～。[RAW:0E27]",
       "original": "しあわせのじゅもんは、[RAW:2823]大きな声で、[RAW:2823]リラックスぅぅぅ～。[RAW:0E27]",
-      "translation": "",
+      "translation": "행복 주문은、[RAW:2823]큰 소리로、[RAW:2823]릴랙스으으으～。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -581,7 +581,7 @@
       "name": "50",
       "message": "ジャンプが[RAW:2823]ハッピーをよびこむぞ。[RAW:2823]ほら、ジャーンプ！[RAW:0E27-0F27]°",
       "original": "ジャンプが[RAW:2823]ハッピーをよびこむぞ。[RAW:2823]ほら、ジャーンプ！[RAW:0E27-0F27]°",
-      "translation": "",
+      "translation": "점프가[RAW:2823]행복을 불러오네。[RAW:2823]자、점프！[RAW:0E27-0F27]°",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",

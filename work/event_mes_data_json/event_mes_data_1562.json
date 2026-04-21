@@ -10,7 +10,7 @@
       "name": "0",
       "message": "また今度も、[RAW:2823]ウチで遊んでくれな。[RAW:0E27]",
       "original": "また今度も、[RAW:2823]ウチで遊んでくれな。[RAW:0E27]",
-      "translation": "",
+      "translation": "다음에도、[RAW:2823]우리 가게서 놀아 줘。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -21,7 +21,7 @@
       "name": "1",
       "message": "いらっしゃい！[RAW:2823]ここはクイズ屋だ。[RAW:2823]１回１００Ｇで遊んでいくか？[RAW:0E27]",
       "original": "いらっしゃい！[RAW:2823]ここはクイズ屋だ。[RAW:2823]１回１００Ｇで遊んでいくか？[RAW:0E27]",
-      "translation": "",
+      "translation": "어서 와！[RAW:2823]여긴 퀴즈 가게야。[RAW:2823]１번 １００Ｇ로 할래？[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -33,7 +33,7 @@
       "name": "2",
       "message": "[RAW:411F-A41F-481F-3323]　遊んでいく[RAW:2823]　遊ばない[RAW:2823]　説明を聞く[RAW:0E27]",
       "original": "[RAW:411F-A41F-481F-3323]　遊んでいく[RAW:2823]　遊ばない[RAW:2823]　説明を聞く[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-3323]　하고 간다[RAW:2823]　안 한다[RAW:2823]　설명을 듣기[RAW:0E27]",
       "controls": [
         "[RAW:411F-A41F-481F-3323]",
         "[RAW:2823]",
@@ -46,7 +46,7 @@
       "name": "3",
       "message": "そうか。[RAW:2823]じゃあ、また気が向いたら[RAW:2823]来てくれよな。[RAW:0E27]",
       "original": "そうか。[RAW:2823]じゃあ、また気が向いたら[RAW:2823]来てくれよな。[RAW:0E27]",
-      "translation": "",
+      "translation": "그런가。[RAW:2823]그럼 또 내키면[RAW:2823]와 줘。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -58,7 +58,7 @@
       "name": "4",
       "message": "お金が足りないみたいだぞ。[RAW:0E27]",
       "original": "お金が足りないみたいだぞ。[RAW:0E27]",
-      "translation": "",
+      "translation": "금이 모자란가 보네。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -68,7 +68,7 @@
       "name": "5",
       "message": "これは全問正解者への賞品だ。[RAW:2823]ほら、受け取ってくれ。[RAW:9023-0E27]",
       "original": "これは全問正解者への賞品だ。[RAW:2823]ほら、受け取ってくれ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "이건 전부 맞힌 사람의[RAW:2823]상품이야。받아 줘。[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -79,7 +79,7 @@
       "name": "6",
       "message": "また挑戦してくれよな。[RAW:0E27]",
       "original": "また挑戦してくれよな。[RAW:0E27]",
-      "translation": "",
+      "translation": "또 도전해 줘。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -89,7 +89,7 @@
       "name": "7",
       "message": "今から出題するクイズ５問全て[RAW:2823]正解することができれば、[RAW:2823]賞品をゲットできるぞ。[RAW:2B23]ただし、まちがえたらその時点[RAW:2823]で失敗となり、次の問題には[RAW:2823]進めないから注意してくれよ。[RAW:2B23]さあ、[RAW:2823]１回１００Ｇで遊んでいくか？[RAW:0E27]",
       "original": "今から出題するクイズ５問全て[RAW:2823]正解することができれば、[RAW:2823]賞品をゲットできるぞ。[RAW:2B23]ただし、まちがえたらその時点[RAW:2823]で失敗となり、次の問題には[RAW:2823]進めないから注意してくれよ。[RAW:2B23]さあ、[RAW:2823]１回１００Ｇで遊んでいくか？[RAW:0E27]",
-      "translation": "",
+      "translation": "지금부터 내는 퀴즈[RAW:2823]５문제를 전부 맞히면、[RAW:2823]상품을 받을 수 있어。[RAW:2B23]단、틀리면 그 시점에[RAW:2823]실패가 돼서 다음 문제로[RAW:2823]못 가니 주의해 줘。[RAW:2B23]자、[RAW:2823]１번 １００Ｇ로 할래？[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -106,7 +106,7 @@
       "name": "8",
       "message": "よし！[RAW:2823]それじゃあ、出題するぞ。[RAW:9023-0E27]",
       "original": "よし！[RAW:2823]それじゃあ、出題するぞ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "좋아！[RAW:2823]그럼 문제 낼게。[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -117,7 +117,7 @@
       "name": "9",
       "message": "　[RAW:2823]　　　　　第１問！　　　　　[RAW:9023-0E27]",
       "original": "　[RAW:2823]　　　　　第１問！　　　　　[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "　[RAW:2823]　　　　　제１문！　　　　　[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -128,7 +128,7 @@
       "name": "10",
       "message": "　[RAW:2823]　　　　　第２問！　　　　　[RAW:9023-0E27]",
       "original": "　[RAW:2823]　　　　　第２問！　　　　　[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "　[RAW:2823]　　　　　제２문！　　　　　[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -139,7 +139,7 @@
       "name": "11",
       "message": "　[RAW:2823]　　　　　第３問！　　　　　[RAW:9023-0E27]",
       "original": "　[RAW:2823]　　　　　第３問！　　　　　[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "　[RAW:2823]　　　　　제３문！　　　　　[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -150,7 +150,7 @@
       "name": "12",
       "message": "　[RAW:2823]　　　　　第４問！　　　　　[RAW:9023-0E27]",
       "original": "　[RAW:2823]　　　　　第４問！　　　　　[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "　[RAW:2823]　　　　　제４문！　　　　　[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -161,7 +161,7 @@
       "name": "13",
       "message": "　[RAW:2823]　　　　　第５問！　　　　　[RAW:9023-0E27]",
       "original": "　[RAW:2823]　　　　　第５問！　　　　　[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "　[RAW:2823]　　　　　제５문！　　　　　[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:9023-0E27]"
@@ -172,7 +172,7 @@
       "name": "14",
       "message": "不正解！[RAW:2823]残念だったな。[RAW:2823]また次回チャレンジしてくれ。[RAW:0E27]",
       "original": "不正解！[RAW:2823]残念だったな。[RAW:2823]また次回チャレンジしてくれ。[RAW:0E27]",
-      "translation": "",
+      "translation": "오답！[RAW:2823]아쉬웠네。[RAW:2823]다음에 또 도전해 줘。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -184,7 +184,7 @@
       "name": "15",
       "message": "正解！[RAW:2823]さすがだな。[RAW:2823]それじゃあ、次の問題だ。[RAW:9023-0E27]",
       "original": "正解！[RAW:2823]さすがだな。[RAW:2823]それじゃあ、次の問題だ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "정답！[RAW:2823]역시 대단하네。[RAW:2823]그럼 다음 문제다。[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -196,7 +196,7 @@
       "name": "16",
       "message": "正解！[RAW:2823]さすがだな。[RAW:2823]いよいよ最後の問題だ。[RAW:9023-0E27]",
       "original": "正解！[RAW:2823]さすがだな。[RAW:2823]いよいよ最後の問題だ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "정답！[RAW:2823]역시 대단하네。[RAW:2823]이제 마지막 문제야。[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -208,7 +208,7 @@
       "name": "17",
       "message": "正解！[RAW:2823]おめでとう！[RAW:2823]全問正解だ！！！[RAW:9023-0E27]",
       "original": "正解！[RAW:2823]おめでとう！[RAW:2823]全問正解だ！！！[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "정답！[RAW:2823]축하해！[RAW:2823]전부 정답이야！！！[RAW:9023-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -220,7 +220,7 @@
       "name": "18",
       "message": "＜問題文＞[RAW:0E27]",
       "original": "＜問題文＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜문제문＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -230,7 +230,7 @@
       "name": "19",
       "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
       "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-3323]　＜답변문１＞[RAW:2823]　＜답변문２＞[RAW:2823]　＜답변문３＞[RAW:0E27]",
       "controls": [
         "[RAW:411F-A41F-481F-3323]",
         "[RAW:2823]",
@@ -243,7 +243,7 @@
       "name": "20",
       "message": "＜問題文＞[RAW:0E27]",
       "original": "＜問題文＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜문제문＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -253,7 +253,7 @@
       "name": "21",
       "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
       "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-3323]　＜답변문１＞[RAW:2823]　＜답변문２＞[RAW:2823]　＜답변문３＞[RAW:0E27]",
       "controls": [
         "[RAW:411F-A41F-481F-3323]",
         "[RAW:2823]",
@@ -266,7 +266,7 @@
       "name": "22",
       "message": "＜問題文＞[RAW:0E27]",
       "original": "＜問題文＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜문제문＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -276,7 +276,7 @@
       "name": "23",
       "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
       "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-3323]　＜답변문１＞[RAW:2823]　＜답변문２＞[RAW:2823]　＜답변문３＞[RAW:0E27]",
       "controls": [
         "[RAW:411F-A41F-481F-3323]",
         "[RAW:2823]",
@@ -289,7 +289,7 @@
       "name": "24",
       "message": "＜問題文＞[RAW:0E27]",
       "original": "＜問題文＞[RAW:0E27]",
-      "translation": "",
+      "translation": "＜문제문＞[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -299,7 +299,7 @@
       "name": "25",
       "message": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27-0F27]）",
       "original": "[RAW:411F-A41F-481F-3323]　＜回答文１＞[RAW:2823]　＜回答文２＞[RAW:2823]　＜回答文３＞[RAW:0E27-0F27]）",
-      "translation": "",
+      "translation": "[RAW:411F-A41F-481F-3323]　＜답변문１＞[RAW:2823]　＜답변문２＞[RAW:2823]　＜답변문３＞[RAW:0E27-0F27]）",
       "controls": [
         "[RAW:411F-A41F-481F-3323]",
         "[RAW:2823]",

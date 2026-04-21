@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:411F-BE1F-481F]いらっしゃいませぇ。[RAW:2823]食事処ソナへようこそぉ。[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-481F]いらっしゃいませぇ。[RAW:2823]食事処ソナへようこそぉ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F]어서 와요。[RAW:2823]식당 소나예요ぉ。[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-481F]",
         "[RAW:2823]",
@@ -22,7 +22,7 @@
       "name": "1",
       "message": "[RAW:411F-BE1F-481F-3223-0008]メニューを見たい[RAW:2823-0008]なんでもない[RAW:0E27]",
       "original": "[RAW:411F-BE1F-481F-3223-0008]メニューを見たい[RAW:2823-0008]なんでもない[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F-3223-0008]메뉴를 본다[RAW:2823-0008]아무것도 아냐[RAW:0E27]",
       "controls": [
         "[RAW:411F-BE1F-481F-3223-0008]",
         "[RAW:2823-0008]",
@@ -34,7 +34,7 @@
       "name": "2",
       "message": "[RAW:411F-BE1F-481F]そうなのねぇ。[RAW:2823]また、きてくださいねぇ。[RAW:0E27]",
       "original": "[RAW:411F-BE1F-481F]そうなのねぇ。[RAW:2823]また、きてくださいねぇ。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F]그러시구나。[RAW:2823]또 와 주렴。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BE1F-481F]",
         "[RAW:2823]",
@@ -46,7 +46,7 @@
       "name": "3",
       "message": "[RAW:411F-BE1F-4B1F]…お金がたりないわぁ。[RAW:2823]残念ねぇ。[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-4B1F]…お金がたりないわぁ。[RAW:2823]残念ねぇ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-4B1F]…금이 모자라네ぇ。[RAW:2823]아쉽구나。[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-4B1F]",
         "[RAW:2823]",
@@ -58,7 +58,7 @@
       "name": "4",
       "message": "[RAW:411F-BE1F-491F]ありがとう。[RAW:2823]役に立てておくれよぉ。[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-491F]ありがとう。[RAW:2823]役に立てておくれよぉ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-491F]고마워。[RAW:2823]도움 되면 좋겠네ぇ。[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-491F]",
         "[RAW:2823]",
@@ -70,7 +70,7 @@
       "name": "5",
       "message": "[RAW:411F-BE1F-4B1F]あらぁ？[RAW:2823]カバンに空きがないわねぇ。[RAW:2823]何も入らないわよぉ。[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-4B1F]あらぁ？[RAW:2823]カバンに空きがないわねぇ。[RAW:2823]何も入らないわよぉ。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-4B1F]어머나？[RAW:2823]가방에 빈칸이 없네ぇ。[RAW:2823]아무것도 안 들어가。[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-4B1F]",
         "[RAW:2823]",
@@ -83,7 +83,7 @@
       "name": "6",
       "message": "[RAW:411F-BE1F-481F]あらぁ？[RAW:2823]やめるのぉ？[RAW:2823]ほかに何かあるかしらぁ？[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-481F]あらぁ？[RAW:2823]やめるのぉ？[RAW:2823]ほかに何かあるかしらぁ？[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F]어머나？[RAW:2823]그만둘 거니？[RAW:2823]다른 건 없으려나ぁ？[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-481F]",
         "[RAW:2823]",
@@ -96,7 +96,7 @@
       "name": "7",
       "message": "[RAW:411F-BE1F-481F-6D20-0010-2708-6C20]でいい？[RAW:2823-3223-0008]買う[RAW:2823-0008]やめる[RAW:0E27]",
       "original": "[RAW:411F-BE1F-481F-6D20-0010-2708-6C20]でいい？[RAW:2823-3223-0008]買う[RAW:2823-0008]やめる[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F-6D20-0010-2708-6C20]로 괜찮니？[RAW:2823-3223-0008]산다[RAW:2823-0008]그만둔다[RAW:0E27]",
       "controls": [
         "[RAW:411F-BE1F-481F-6D20-0010-2708-6C20]",
         "[RAW:2823-3223-0008]",
@@ -109,7 +109,7 @@
       "name": "8",
       "message": "[RAW:411F-BE1F-481F-0010]は、[RAW:2823]１個[RAW:6D20-0110-2708-6C20]よ。[RAW:2823]いくつ買う？[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-481F-0010]は、[RAW:2823]１個[RAW:6D20-0110-2708-6C20]よ。[RAW:2823]いくつ買う？[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F-0010]는、[RAW:2823]１개[RAW:6D20-0110-2708-6C20]야。[RAW:2823]몇 개 살래？[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-481F-0010]",
         "[RAW:2823]",
@@ -123,7 +123,7 @@
       "name": "9",
       "message": "[RAW:411F-BE1F-4B1F]ごめんなさいねぇ。[RAW:2823]これは１つしか売って[RAW:2823]あげられないわぁ…。[RAW:9023-0E27]",
       "original": "[RAW:411F-BE1F-4B1F]ごめんなさいねぇ。[RAW:2823]これは１つしか売って[RAW:2823]あげられないわぁ…。[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-4B1F]미안하구나ぁ。[RAW:2823]이건 하나만 팔[RAW:2823]수 있단다…。[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-BE1F-4B1F]",
         "[RAW:2823]",
@@ -136,7 +136,7 @@
       "name": "10",
       "message": "[RAW:411F-BE1F-481F]アイテムが残っていないＭＳＧ[RAW:0E27-0F27]゜",
       "original": "[RAW:411F-BE1F-481F]アイテムが残っていないＭＳＧ[RAW:0E27-0F27]゜",
-      "translation": "",
+      "translation": "[RAW:411F-BE1F-481F]아이템이 안 남은 메시지[RAW:0E27-0F27]゜",
       "controls": [
         "[RAW:411F-BE1F-481F]",
         "[RAW:0E27-0F27]"
