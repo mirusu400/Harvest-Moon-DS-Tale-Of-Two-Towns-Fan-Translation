@@ -274,8 +274,17 @@ def _count_newlines_in_message(message: str) -> dict:
             r"\[RAW:([0-9A-Fa-f]+(?:-[0-9A-Fa-f]+)*)\]", message
         ):
             parts = tag_match.group(1).split("-")
-            count += parts.count(code)
+            new_code = code
+            new_code = (
+                new_code.replace("2B23", "\n\n\n")
+                .replace("2A23", "\n\n")
+                .replace("2823", "\n")
+            )
+
+            count += parts.count(new_code)
+
         counts[code] = count
+
     return counts
 
 
