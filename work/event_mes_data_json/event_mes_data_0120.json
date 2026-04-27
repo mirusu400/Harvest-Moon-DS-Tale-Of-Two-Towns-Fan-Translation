@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:461F-1320-BA1F-481F-3621]え…、だれ？[RAW:2823-2A23]さん…？[RAW:2B23-461F-BA1F-491F-3621]ああ、母さんから聞きました。[RAW:2823]ボクは[RAW:6E20]リュイ[RAW:6C20]といいます。[RAW:2823]あ、母さんですか？[RAW:2B23]母さんはイルサっていいます。[RAW:2823]これから、[RAW:2823]よろしくおねがいします。[RAW:0E27]",
       "original": "[RAW:461F-1320-BA1F-481F-3621]え…、だれ？[RAW:2823-2A23]さん…？[RAW:2B23-461F-BA1F-491F-3621]ああ、母さんから聞きました。[RAW:2823]ボクは[RAW:6E20]リュイ[RAW:6C20]といいます。[RAW:2823]あ、母さんですか？[RAW:2B23]母さんはイルサっていいます。[RAW:2823]これから、[RAW:2823]よろしくおねがいします。[RAW:0E27]",
-      "translation": "[RAW:461F-1320-BA1F-481F-3621]어…누구？[RAW:2823-2A23]님？[RAW:2B23-461F-BA1F-491F-3621]들었어요。[RAW:2823]전[RAW:6E20]류이[RAW:6C20]예요。[RAW:2823]아、엄마요？[RAW:2B23]일루사예요。[RAW:2823]앞으로、[RAW:2823]잘 부탁해요。[RAW:0E27]",
+      "translation": "[RAW:461F-1320-BA1F-481F-3621]어…누구？[RAW:2823-2A23]님？[RAW:2B23-461F-BA1F-491F-3621]들었어요。[RAW:2823]전[RAW:6E20]류이[RAW:6C20]예요。[RAW:2823]아、엄마요？[RAW:2B23]일루사예요。[RAW:2823]앞으로、[RAW:2823]잘　부탁해요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-1320-BA1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -30,7 +30,7 @@
       "name": "1",
       "message": "[RAW:461F-BA1F-481F-3621]昨日はすごい天気でしたね。[RAW:2823]あんな日は外に出ないのが、[RAW:2823]１番ですよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]昨日はすごい天気でしたね。[RAW:2823]あんな日は外に出ないのが、[RAW:2823]１番ですよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]어제 날씨 심했죠。[RAW:2823]그럴 땐 안 나가는 게[RAW:2823]최고예요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]어제　날씨　심했죠。[RAW:2823]그럴　땐　안　나가는　게[RAW:2823]최고예요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -43,7 +43,7 @@
       "name": "2",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -54,7 +54,7 @@
       "name": "3",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -65,7 +65,7 @@
       "name": "4",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -76,7 +76,7 @@
       "name": "5",
       "message": "[RAW:461F-BA1F-491F-3621]わっ、いいな、いいな。[RAW:2823]かわいいなぁ！[RAW:2B23]はっ………………………。[RAW:2B23-461F-BA1F-481F-3621]ふ…ふーん、[RAW:2823]な…なかなか、いいですね。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]わっ、いいな、いいな。[RAW:2823]かわいいなぁ！[RAW:2B23]はっ………………………。[RAW:2B23-461F-BA1F-481F-3621]ふ…ふーん、[RAW:2823]な…なかなか、いいですね。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]와、좋겠다。[RAW:2823]귀엽다！[RAW:2B23]핫………。[RAW:2B23-461F-BA1F-481F-3621]흐…흠、[RAW:2823]제…제법 좋네요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]와、좋겠다。[RAW:2823]귀엽다！[RAW:2B23]핫………。[RAW:2B23-461F-BA1F-481F-3621]흐…흠、[RAW:2823]제…제법　좋네요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -91,7 +91,7 @@
       "name": "6",
       "message": "[RAW:461F-BA1F-4A1F-3621]な…なんだよ…。[RAW:2823]あっち、行ってよ！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-4A1F-3621]な…なんだよ…。[RAW:2823]あっち、行ってよ！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-4A1F-3621]뭐…뭔데…。[RAW:2823]저리 가요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-4A1F-3621]뭐…뭔데…。[RAW:2823]저리　가요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-4A1F-3621]",
         "[RAW:2823]",
@@ -103,7 +103,7 @@
       "name": "7",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -114,7 +114,7 @@
       "name": "8",
       "message": "[RAW:461F-BA1F-491F-3621]青い羽根じゃないですか。[RAW:2823]だれかにあげるんですか？[RAW:2B23-461F-BA1F-481F-3621]え～っと、この場合、[RAW:2823]おめでとうございますで、[RAW:2823]いいのでしょうか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]青い羽根じゃないですか。[RAW:2823]だれかにあげるんですか？[RAW:2B23-461F-BA1F-481F-3621]え～っと、この場合、[RAW:2823]おめでとうございますで、[RAW:2823]いいのでしょうか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]파란 깃털이네요。[RAW:2823]누굴 주는 건가요？[RAW:2B23-461F-BA1F-481F-3621]음…그럼[RAW:2823]축하드려요、[RAW:2823]하면 되나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]파란　깃털이네요。[RAW:2823]누굴　주는　건가요？[RAW:2B23-461F-BA1F-481F-3621]음…그럼[RAW:2823]축하드려요、[RAW:2823]하면　되나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -129,7 +129,7 @@
       "name": "9",
       "message": "[RAW:461F-BA1F-481F-3621]ボクにですか？[RAW:2823]これはいらないですよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]ボクにですか？[RAW:2823]これはいらないですよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]저한테요？[RAW:2823]이건 필요 없어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]저한테요？[RAW:2823]이건　필요　없어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -141,7 +141,7 @@
       "name": "10",
       "message": "[RAW:461F-BA1F-481F-3621]今はいいです。[RAW:2823]これは、しまってください。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]今はいいです。[RAW:2823]これは、しまってください。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]지금은 됐어요。[RAW:2823]이건 넣어주세요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]지금은　됐어요。[RAW:2823]이건　넣어주세요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -153,7 +153,7 @@
       "name": "11",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -164,7 +164,7 @@
       "name": "12",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -175,7 +175,7 @@
       "name": "13",
       "message": "[RAW:461F-BA1F-481F-3621]どうしたんですか？[RAW:2823]ボーっとボクを見て…。[RAW:2823]何かありましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうしたんですか？[RAW:2823]ボーっとボクを見て…。[RAW:2823]何かありましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]왜 그러세요？[RAW:2823]멍하니 절 보고…。[RAW:2823]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]왜　그러세요？[RAW:2823]멍하니　절　보고…。[RAW:2823]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -188,7 +188,7 @@
       "name": "14",
       "message": "[RAW:461F-BA1F-491F-3621]誕生日に、[RAW:6D20]ミックス・オ・レ[RAW:6C20]？[RAW:2823]あは、ありがとうございます。[RAW:2B23]いや～、[RAW:2823]ボクの大好物なんです。[RAW:2823]母さんと飲みますね。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]誕生日に、[RAW:6D20]ミックス・オ・レ[RAW:6C20]？[RAW:2823]あは、ありがとうございます。[RAW:2B23]いや～、[RAW:2823]ボクの大好物なんです。[RAW:2823]母さんと飲みますね。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]생일에、[RAW:6D20]복합 우유[RAW:6C20]？[RAW:2823]아하、고마워요。[RAW:2B23]와아、[RAW:2823]제가 정말 좋아해요。[RAW:2823]엄마랑 마실게요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]생일에、[RAW:6D20]복합　우유[RAW:6C20]？[RAW:2823]아하、고마워요。[RAW:2B23]와아、[RAW:2823]제가　정말　좋아해요。[RAW:2823]엄마랑　마실게요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:6D20]",
@@ -205,7 +205,7 @@
       "name": "15",
       "message": "[RAW:461F-BA1F-491F-3621]おいしそう…。[RAW:2823]え、ボクにですか？[RAW:2B23]わぁ、ありがとうございます。[RAW:2823]うん、とってもおいしいです！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]おいしそう…。[RAW:2823]え、ボクにですか？[RAW:2B23]わぁ、ありがとうございます。[RAW:2823]うん、とってもおいしいです！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]맛있겠네요…。[RAW:2823]에、절요？[RAW:2B23]와아、고마워요。[RAW:2823]네、정말 맛있어요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]맛있겠네요…。[RAW:2823]에、절요？[RAW:2B23]와아、고마워요。[RAW:2823]네、정말　맛있어요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -219,7 +219,7 @@
       "name": "16",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -230,7 +230,7 @@
       "name": "17",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -241,7 +241,7 @@
       "name": "18",
       "message": "[RAW:461F-BA1F-491F-3621]うわぁ～～～！[RAW:2823]もしかして、これ、[RAW:2823]誕生日プレゼントですか？[RAW:2B23]ありがとうございます！[RAW:2823-2A23]さんが、[RAW:2823]知っててくれてうれしいです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]うわぁ～～～！[RAW:2823]もしかして、これ、[RAW:2823]誕生日プレゼントですか？[RAW:2B23]ありがとうございます！[RAW:2823-2A23]さんが、[RAW:2823]知っててくれてうれしいです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]우와～～～！[RAW:2823]혹시[RAW:2823]선물요？[RAW:2B23]고마워요！[RAW:2823-2A23]님이、[RAW:2823]알아줘서 기뻐요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]우와～～～！[RAW:2823]혹시[RAW:2823]선물요？[RAW:2B23]고마워요！[RAW:2823-2A23]님이、[RAW:2823]알아줘서　기뻐요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -257,7 +257,7 @@
       "name": "19",
       "message": "[RAW:461F-BA1F-491F-3621]ありがとうございます！[RAW:2823]これ、好きなんです。[RAW:2823]やったー！！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]ありがとうございます！[RAW:2823]これ、好きなんです。[RAW:2823]やったー！！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]고마워요！[RAW:2823]이거 좋아해요。[RAW:2823]야호！！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]고마워요！[RAW:2823]이거　좋아해요。[RAW:2823]야호！！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -270,7 +270,7 @@
       "name": "20",
       "message": "[RAW:461F-BA1F-481F-3621]今日が誕生日って、[RAW:2823]知っててくれたのですか？[RAW:2823]ありがとうございます。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]今日が誕生日って、[RAW:2823]知っててくれたのですか？[RAW:2823]ありがとうございます。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]오늘 생일인 걸[RAW:2823]알아주셨어요？[RAW:2823]고마워요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]오늘　생일인　걸[RAW:2823]알아주셨어요？[RAW:2823]고마워요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -309,7 +309,7 @@
       "name": "23",
       "message": "[RAW:461F-BA1F-4B1F-3621]こんなの…ヤダよ…。[RAW:2823]……………………。[RAW:2B23]い…一応、もらっておきます。[RAW:2823]次からはいりませんよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-4B1F-3621]こんなの…ヤダよ…。[RAW:2823]……………………。[RAW:2B23]い…一応、もらっておきます。[RAW:2823]次からはいりませんよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-4B1F-3621]이런 건…싫어요…。[RAW:2823]……………………。[RAW:2B23]네。[RAW:2823]다음부턴 싫어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-4B1F-3621]이런　건…싫어요…。[RAW:2823]……………………。[RAW:2B23]네。[RAW:2823]다음부턴　싫어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-4B1F-3621]",
         "[RAW:2823]",
@@ -323,7 +323,7 @@
       "name": "24",
       "message": "[RAW:461F-BA1F-4B1F-3621]これを食べろって、母さんに[RAW:2823]いつも言われるんです。[RAW:2B23]でも、どうしても、[RAW:2823]ボクには、ムリなんです。[RAW:2823]母さんに渡しておきます。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-4B1F-3621]これを食べろって、母さんに[RAW:2823]いつも言われるんです。[RAW:2B23]でも、どうしても、[RAW:2823]ボクには、ムリなんです。[RAW:2823]母さんに渡しておきます。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-4B1F-3621]이걸 먹으라고[RAW:2823]늘 엄마가 그래요。[RAW:2B23]그래도[RAW:2823]전 정말 무리예요。[RAW:2823]엄마 드릴게요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-4B1F-3621]이걸　먹으라고[RAW:2823]늘　엄마가　그래요。[RAW:2B23]그래도[RAW:2823]전　정말　무리예요。[RAW:2823]엄마　드릴게요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-4B1F-3621]",
         "[RAW:2823]",
@@ -338,7 +338,7 @@
       "name": "25",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -349,7 +349,7 @@
       "name": "26",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -360,7 +360,7 @@
       "name": "27",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]今度…、デートのさそい方とか[RAW:2823]教えてもらっていいですか？[RAW:2B23-2A23]さんしか、[RAW:2823]相談できる人がいなくて…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]今度…、デートのさそい方とか[RAW:2823]教えてもらっていいですか？[RAW:2B23-2A23]さんしか、[RAW:2823]相談できる人がいなくて…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]다음에…데이트 신청법[RAW:2823]가르쳐줄래요？[RAW:2B23-2A23]님밖에、[RAW:2823]상의할 사람이 없어서…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]다음에…데이트　신청법[RAW:2823]가르쳐줄래요？[RAW:2B23-2A23]님밖에、[RAW:2823]상의할　사람이　없어서…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -375,7 +375,7 @@
       "name": "28",
       "message": "[RAW:461F-BA1F-481F-3621]え、こんな風の中、[RAW:2823]ここまで来たのですか？[RAW:2823]あ…あぶないですよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]え、こんな風の中、[RAW:2823]ここまで来たのですか？[RAW:2823]あ…あぶないですよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]에、이 바람에[RAW:2823]여기까지 왔어요？[RAW:2823]위험해요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]에、이　바람에[RAW:2823]여기까지　왔어요？[RAW:2823]위험해요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -388,7 +388,7 @@
       "name": "29",
       "message": "[RAW:461F-BA1F-481F-3621]すごい雪ですね。[RAW:2823]窓から外を見ても、[RAW:2823]雪で何も見えませんよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]すごい雪ですね。[RAW:2823]窓から外を見ても、[RAW:2823]雪で何も見えませんよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]눈이 엄청 와요。[RAW:2823]창밖을 봐도、[RAW:2823]눈뿐이라 안 보여요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]눈이　엄청　와요。[RAW:2823]창밖을　봐도、[RAW:2823]눈뿐이라　안　보여요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -401,7 +401,7 @@
       "name": "30",
       "message": "[RAW:461F-BA1F-491F-3621]ボク、[RAW:2A23]さんの事、[RAW:2823]とってもソンケイしてます！[RAW:2B23]これからも、[RAW:2823]いろいろ教えてください、[RAW:2823]よろしくおねがいします。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]ボク、[RAW:2A23]さんの事、[RAW:2823]とってもソンケイしてます！[RAW:2B23]これからも、[RAW:2823]いろいろ教えてください、[RAW:2823]よろしくおねがいします。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]전、[RAW:2A23]님을、[RAW:2823]정말 존경해요！[RAW:2B23]앞으로도、[RAW:2823]여러모로 가르쳐[RAW:2823]주세요。부탁해요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]전、[RAW:2A23]님을、[RAW:2823]정말　존경해요！[RAW:2B23]앞으로도、[RAW:2823]여러모로　가르쳐[RAW:2823]주세요。부탁해요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2A23]",
@@ -417,7 +417,7 @@
       "name": "31",
       "message": "[RAW:461F-BA1F-481F-3621]母さんと、[RAW:2823]遊んだりしないのかって？[RAW:2B23]う～～～ん………。[RAW:2823]父さんが生きていたころ、[RAW:2823]よく遊んだ気がします。[RAW:2B23]昔の事なので、[RAW:2823]あまり、おぼえてないです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]母さんと、[RAW:2823]遊んだりしないのかって？[RAW:2B23]う～～～ん………。[RAW:2823]父さんが生きていたころ、[RAW:2823]よく遊んだ気がします。[RAW:2B23]昔の事なので、[RAW:2823]あまり、おぼえてないです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]엄마랑、[RAW:2823]안 노냐고요？[RAW:2B23]으～～～음…。[RAW:2823]아빠가 계실 땐[RAW:2823]놀았던 듯해요。[RAW:2B23]옛날이라、[RAW:2823]잘 기억 안 나요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]엄마랑、[RAW:2823]안　노냐고요？[RAW:2B23]으～～～음…。[RAW:2823]아빠가　계실　땐[RAW:2823]놀았던　듯해요。[RAW:2B23]옛날이라、[RAW:2823]잘　기억　안　나요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -434,7 +434,7 @@
       "name": "32",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]この村の事、好きですか？[RAW:2B23-461F-BA1F-491F-3621]好きって聞けて、よかった。[RAW:2823]ありがとうございます。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]この村の事、好きですか？[RAW:2B23-461F-BA1F-491F-3621]好きって聞けて、よかった。[RAW:2823]ありがとうございます。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]마을 좋아해요？[RAW:2B23-461F-BA1F-491F-3621]다행이네요。[RAW:2823]고마워요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]마을　좋아해요？[RAW:2B23-461F-BA1F-491F-3621]다행이네요。[RAW:2823]고마워요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -448,7 +448,7 @@
       "name": "33",
       "message": "[RAW:461F-BA1F-481F-3621]ボクの一族は、[RAW:2823]代々村長をしているんです。[RAW:2B23]ボクは母さんのように、[RAW:2823]立派な村長になれるのかな…？[RAW:2823]ちょっと心配です。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]ボクの一族は、[RAW:2823]代々村長をしているんです。[RAW:2B23]ボクは母さんのように、[RAW:2823]立派な村長になれるのかな…？[RAW:2823]ちょっと心配です。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]저희 집안은、[RAW:2823]대대로 촌장이에요。[RAW:2B23]저도[RAW:2823]엄마처럼 될까요…？[RAW:2823]좀 걱정돼요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]저희　집안은、[RAW:2823]대대로　촌장이에요。[RAW:2B23]저도[RAW:2823]엄마처럼　될까요…？[RAW:2823]좀　걱정돼요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -463,7 +463,7 @@
       "name": "34",
       "message": "[RAW:461F-BA1F-481F-3621]母さんはこわそうに見えますが[RAW:2823]とってもやさしいですよ。[RAW:2823]たまにきびしいですけど。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]母さんはこわそうに見えますが[RAW:2823]とってもやさしいですよ。[RAW:2823]たまにきびしいですけど。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]엄마는 무서워 보여도[RAW:2823]정말 다정해요。[RAW:2823]가끔 엄하긴 해요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]엄마는　무서워　보여도[RAW:2823]정말　다정해요。[RAW:2823]가끔　엄하긴　해요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -476,7 +476,7 @@
       "name": "35",
       "message": "[RAW:461F-BA1F-481F-3621]役場は、人の出入りが多いので[RAW:2823]意外とたいへんなんです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]役場は、人の出入りが多いので[RAW:2823]意外とたいへんなんです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]관청은 드나드는 이가[RAW:2823]많아 의외로 힘들어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]관청은　드나드는　이가[RAW:2823]많아　의외로　힘들어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -488,7 +488,7 @@
       "name": "36",
       "message": "[RAW:461F-BA1F-481F-3621]何をしているかですって？[RAW:2B23]母さんのお手伝いです。[RAW:2823]ちょっとでも母さんの役に[RAW:2823]立ちたいです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]何をしているかですって？[RAW:2B23]母さんのお手伝いです。[RAW:2823]ちょっとでも母さんの役に[RAW:2823]立ちたいです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]뭐 하냐고요？[RAW:2B23]엄마 도와요。[RAW:2823]조금이라도 엄마께[RAW:2823]도움 되고 싶어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]뭐　하냐고요？[RAW:2B23]엄마　도와요。[RAW:2823]조금이라도　엄마께[RAW:2823]도움　되고　싶어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2B23]",
@@ -502,7 +502,7 @@
       "name": "37",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -513,7 +513,7 @@
       "name": "38",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -524,7 +524,7 @@
       "name": "39",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -535,7 +535,7 @@
       "name": "40",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -546,7 +546,7 @@
       "name": "41",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -557,7 +557,7 @@
       "name": "42",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -568,7 +568,7 @@
       "name": "43",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -579,7 +579,7 @@
       "name": "44",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -590,7 +590,7 @@
       "name": "45",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -601,7 +601,7 @@
       "name": "46",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -612,7 +612,7 @@
       "name": "47",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -623,7 +623,7 @@
       "name": "48",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -634,7 +634,7 @@
       "name": "49",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -645,7 +645,7 @@
       "name": "50",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -656,7 +656,7 @@
       "name": "51",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -667,7 +667,7 @@
       "name": "52",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -678,7 +678,7 @@
       "name": "53",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -689,7 +689,7 @@
       "name": "54",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -700,7 +700,7 @@
       "name": "55",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -711,7 +711,7 @@
       "name": "56",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -722,7 +722,7 @@
       "name": "57",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -733,7 +733,7 @@
       "name": "58",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -744,7 +744,7 @@
       "name": "59",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -755,7 +755,7 @@
       "name": "60",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -766,7 +766,7 @@
       "name": "61",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -777,7 +777,7 @@
       "name": "62",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -788,7 +788,7 @@
       "name": "63",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -799,7 +799,7 @@
       "name": "64",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -810,7 +810,7 @@
       "name": "65",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -821,7 +821,7 @@
       "name": "66",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -832,7 +832,7 @@
       "name": "67",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -843,7 +843,7 @@
       "name": "68",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -854,7 +854,7 @@
       "name": "69",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -865,7 +865,7 @@
       "name": "70",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -876,7 +876,7 @@
       "name": "71",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -887,7 +887,7 @@
       "name": "72",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -898,7 +898,7 @@
       "name": "73",
       "message": "[RAW:461F-BA1F-481F-3621]今日のお祭りは、[RAW:2823]それで参加されるのですか？[RAW:2823]たのしみにしています。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]今日のお祭りは、[RAW:2823]それで参加されるのですか？[RAW:2823]たのしみにしています。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]오늘 축제는、[RAW:2823]그걸로 참가해요？[RAW:2823]기대할게요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]오늘　축제는、[RAW:2823]그걸로　참가해요？[RAW:2823]기대할게요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -911,7 +911,7 @@
       "name": "74",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -922,7 +922,7 @@
       "name": "75",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -933,7 +933,7 @@
       "name": "76",
       "message": "[RAW:461F-BA1F-481F-3621]ありがとうございます。[RAW:2823]見せに来てくれたのですね。[RAW:2823]おとなしい子ですね。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]ありがとうございます。[RAW:2823]見せに来てくれたのですね。[RAW:2823]おとなしい子ですね。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]고마워요。[RAW:2823]보여주러 왔군요。[RAW:2823]얌전한 애네요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]고마워요。[RAW:2823]보여주러　왔군요。[RAW:2823]얌전한　애네요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -946,7 +946,7 @@
       "name": "77",
       "message": "[RAW:461F-BA1F-491F-3621]こんなに近くで見れるとは、[RAW:2823]思いませんでした。[RAW:2823]ありがとうございます。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]こんなに近くで見れるとは、[RAW:2823]思いませんでした。[RAW:2823]ありがとうございます。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]이렇게 가까이서[RAW:2823]볼 줄 몰랐어요。[RAW:2823]고마워요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]이렇게　가까이서[RAW:2823]볼　줄　몰랐어요。[RAW:2823]고마워요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -959,7 +959,7 @@
       "name": "78",
       "message": "[RAW:461F-BA1F-4B1F-3621]うわぁ、[RAW:2823]こっち来ないでください…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-4B1F-3621]うわぁ、[RAW:2823]こっち来ないでください…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-4B1F-3621]우와、[RAW:2823]이리 오지 마세요…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-4B1F-3621]우와、[RAW:2823]이리　오지　마세요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-4B1F-3621]",
         "[RAW:2823]",
@@ -971,7 +971,7 @@
       "name": "79",
       "message": "[RAW:461F-BA1F-481F-3621]よく見かけますよね。[RAW:2823]捕まえたのですか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]よく見かけますよね。[RAW:2823]捕まえたのですか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]자주 보이네요。[RAW:2823]잡은 건가요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]자주　보이네요。[RAW:2823]잡은　건가요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -983,7 +983,7 @@
       "name": "80",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -994,7 +994,7 @@
       "name": "81",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1005,7 +1005,7 @@
       "name": "82",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1016,7 +1016,7 @@
       "name": "83",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1027,7 +1027,7 @@
       "name": "84",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1038,7 +1038,7 @@
       "name": "85",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1049,7 +1049,7 @@
       "name": "86",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1060,7 +1060,7 @@
       "name": "87",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1071,7 +1071,7 @@
       "name": "88",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1082,7 +1082,7 @@
       "name": "89",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1093,7 +1093,7 @@
       "name": "90",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1104,7 +1104,7 @@
       "name": "91",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1115,7 +1115,7 @@
       "name": "92",
       "message": "[RAW:461F-BA1F-491F-3621]ボ…ボクにですか？[RAW:2823]ありがとうございます。[RAW:2823]大事にします！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]ボ…ボクにですか？[RAW:2823]ありがとうございます。[RAW:2823]大事にします！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]저…저한테요？[RAW:2823]고마워요。[RAW:2823]소중히 할게요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]저…저한테요？[RAW:2823]고마워요。[RAW:2823]소중히　할게요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -1128,7 +1128,7 @@
       "name": "93",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1139,7 +1139,7 @@
       "name": "94",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1150,7 +1150,7 @@
       "name": "95",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1161,7 +1161,7 @@
       "name": "96",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1172,7 +1172,7 @@
       "name": "97",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1183,7 +1183,7 @@
       "name": "98",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1194,7 +1194,7 @@
       "name": "99",
       "message": "[RAW:461F-BA1F-491F-3621]わわっ、なんだろう？[RAW:2823]開けていいですか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]わわっ、なんだろう？[RAW:2823]開けていいですか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]와왓、뭐죠？[RAW:2823]열어봐도 돼요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]와왓、뭐죠？[RAW:2823]열어봐도　돼요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -1206,7 +1206,7 @@
       "name": "100",
       "message": "[RAW:461F-BA1F-491F-3621-2A23]さんって、[RAW:2823]女らしくってきれいです。[RAW:2B23]マオも、大きくなったら[RAW:2823]こんな感じになるかな…？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621-2A23]さんって、[RAW:2823]女らしくってきれいです。[RAW:2B23]マオも、大きくなったら[RAW:2823]こんな感じになるかな…？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621-2A23]님은、[RAW:2823]여자답고 예뻐요。[RAW:2B23]마오 크면[RAW:2823]이럴까요…？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621-2A23]님은、[RAW:2823]여자답고　예뻐요。[RAW:2B23]마오　크면[RAW:2823]이럴까요…？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621-2A23]",
         "[RAW:2823]",
@@ -1220,7 +1220,7 @@
       "name": "101",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1231,7 +1231,7 @@
       "name": "102",
       "message": "[RAW:461F-BA1F-481F-3621]このはな村は、[RAW:2823]とてもいいところですよ。[RAW:2823]そう思いませんか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]このはな村は、[RAW:2823]とてもいいところですよ。[RAW:2823]そう思いませんか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]코노하나는、[RAW:2823]아주 좋은 곳이에요。[RAW:2823]그렇지 않나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]코노하나는、[RAW:2823]아주　좋은　곳이에요。[RAW:2823]그렇지　않나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1244,7 +1244,7 @@
       "name": "103",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1255,7 +1255,7 @@
       "name": "104",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1266,7 +1266,7 @@
       "name": "105",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1277,7 +1277,7 @@
       "name": "106",
       "message": "[RAW:461F-BA1F-481F-3621]な…なんですか？[RAW:2823]ボクはいつもマオに村の事を[RAW:2823]いろいろ教えているのです。[RAW:2B23-461F-BA1F-4A1F-3621]なんで笑っているんですか？[RAW:2823]し…、しつれいですよ！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]な…なんですか？[RAW:2823]ボクはいつもマオに村の事を[RAW:2823]いろいろ教えているのです。[RAW:2B23-461F-BA1F-4A1F-3621]なんで笑っているんですか？[RAW:2823]し…、しつれいですよ！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]뭐…뭔가요？저는[RAW:2823]언제나 마오에게 마을에[RAW:2823]대해 알려주고 있어요。[RAW:2B23-461F-BA1F-4A1F-3621]왜 비ㅅ는 거에요？[RAW:2823]시…、실례라고요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]뭐…뭔가요？저는[RAW:2823]언제나　마오에게　마을에[RAW:2823]대해　알려주고　있어요。[RAW:2B23-461F-BA1F-4A1F-3621]왜　비ㅅ는　거에요？[RAW:2823]시…、실례라고요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1292,7 +1292,7 @@
       "name": "107",
       "message": "[RAW:461F-BA1F-481F-3621]ボクが着ている服は、[RAW:2823]代々、受けつがれてきたもの[RAW:2823]なんですよ。[RAW:2B23]けっこう、かっこいいと、[RAW:2823]思いませんか？[RAW:2823]ボク、気にいってるんです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]ボクが着ている服は、[RAW:2823]代々、受けつがれてきたもの[RAW:2823]なんですよ。[RAW:2B23]けっこう、かっこいいと、[RAW:2823]思いませんか？[RAW:2823]ボク、気にいってるんです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]제가 입은 옷은、[RAW:2823]대대로 내려온[RAW:2823]거예요。[RAW:2B23]꽤 멋지지[RAW:2823]않아요？[RAW:2823]전 마음에 들어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]제가　입은　옷은、[RAW:2823]대대로　내려온[RAW:2823]거예요。[RAW:2B23]꽤　멋지지[RAW:2823]않아요？[RAW:2823]전　마음에　들어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1308,7 +1308,7 @@
       "name": "108",
       "message": "[RAW:461F-BA1F-481F-3621]ディルカさんって、[RAW:2823]他の国の人なんですって。[RAW:2B23]おもしろい話を、[RAW:2823]いっぱいしてくれるんですよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]ディルカさんって、[RAW:2823]他の国の人なんですって。[RAW:2B23]おもしろい話を、[RAW:2823]いっぱいしてくれるんですよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]디루카 씨는、[RAW:2823]외국 분이래요。[RAW:2B23]재밌는 얘길[RAW:2823]많이 해줘요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]디루카　씨는、[RAW:2823]외국　분이래요。[RAW:2B23]재밌는　얘길[RAW:2823]많이　해줘요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1322,7 +1322,7 @@
       "name": "109",
       "message": "[RAW:461F-BA1F-481F-3621]この村って、代々、ボクの[RAW:2823]一族が村長をしているんです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]この村って、代々、ボクの[RAW:2823]一族が村長をしているんです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]이 마을은 대대로[RAW:2823]저희 집안이 촌장이에요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]이　마을은　대대로[RAW:2823]저희　집안이　촌장이에요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1334,7 +1334,7 @@
       "name": "110",
       "message": "[RAW:461F-BA1F-481F-3621]降ってきましたね。[RAW:2823]せっかく遊ぼうと思って、[RAW:2823]外に出てみたのですが…。[RAW:2B23]早く止んでくれないかなぁ…。[RAW:2823]マオとも遊びたいのに…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]降ってきましたね。[RAW:2823]せっかく遊ぼうと思って、[RAW:2823]外に出てみたのですが…。[RAW:2B23]早く止んでくれないかなぁ…。[RAW:2823]マオとも遊びたいのに…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]비 오네요。[RAW:2823]모처럼 놀려고[RAW:2823]나와봤는데…。[RAW:2B23]그쳤음…[RAW:2823]마오랑 놀고픈데…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]비　오네요。[RAW:2823]모처럼　놀려고[RAW:2823]나와봤는데…。[RAW:2B23]그쳤음…[RAW:2823]마오랑　놀고픈데…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1349,7 +1349,7 @@
       "name": "111",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1360,7 +1360,7 @@
       "name": "112",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1371,7 +1371,7 @@
       "name": "113",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1382,7 +1382,7 @@
       "name": "114",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1393,7 +1393,7 @@
       "name": "115",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1404,7 +1404,7 @@
       "name": "116",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1415,7 +1415,7 @@
       "name": "117",
       "message": "[RAW:461F-BA1F-491F-3621]勝ちましたよ！[RAW:2823-2A23]さん！！[RAW:2B23]これも、[RAW:2A23]さんの[RAW:2823]応援のおかげです！！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]勝ちましたよ！[RAW:2823-2A23]さん！！[RAW:2B23]これも、[RAW:2A23]さんの[RAW:2823]応援のおかげです！！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]이겼어요！[RAW:2823-2A23]님！！[RAW:2B23]전부、[RAW:2A23]님 덕에[RAW:2823]응원 덕분이에요！！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]이겼어요！[RAW:2823-2A23]님！！[RAW:2B23]전부、[RAW:2A23]님　덕에[RAW:2823]응원　덕분이에요！！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -1430,7 +1430,7 @@
       "name": "118",
       "message": "[RAW:461F-BA1F-4B1F-3621]負けましたね…。[RAW:2823]次はがんばりましょう、[RAW:2823-2A23]さん。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-4B1F-3621]負けましたね…。[RAW:2823]次はがんばりましょう、[RAW:2823-2A23]さん。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-4B1F-3621]졌네요…。[RAW:2823]다음엔 힘내요、[RAW:2823-2A23]님。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-4B1F-3621]졌네요…。[RAW:2823]다음엔　힘내요、[RAW:2823-2A23]님。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-4B1F-3621]",
         "[RAW:2823]",
@@ -1443,7 +1443,7 @@
       "name": "119",
       "message": "[RAW:461F-BA1F-481F-3621]次の料理大会は、[RAW:2823]いっしょにできると、[RAW:2823]いいですね。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]次の料理大会は、[RAW:2823]いっしょにできると、[RAW:2823]いいですね。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]다음 요리대회는、[RAW:2823]같이 하면[RAW:2823]좋겠네요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]다음　요리대회는、[RAW:2823]같이　하면[RAW:2823]좋겠네요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1456,7 +1456,7 @@
       "name": "120",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1467,7 +1467,7 @@
       "name": "121",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1478,7 +1478,7 @@
       "name": "122",
       "message": "[RAW:461F-BA1F-4B1F-3621]うちの村が負けるなんて…。[RAW:2823]母さんもがっかりしてます…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-4B1F-3621]うちの村が負けるなんて…。[RAW:2823]母さんもがっかりしてます…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-4B1F-3621]우리 마을이 지다니…。[RAW:2823]엄마도 실망했어요…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-4B1F-3621]우리　마을이　지다니…。[RAW:2823]엄마도　실망했어요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-4B1F-3621]",
         "[RAW:2823]",
@@ -1490,7 +1490,7 @@
       "name": "123",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1501,7 +1501,7 @@
       "name": "124",
       "message": "[RAW:461F-BA1F-481F-3621]わわっ、おしかったですね。[RAW:2823]もうちょっとだったのに…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]わわっ、おしかったですね。[RAW:2823]もうちょっとだったのに…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]와왓、아까웠어요。[RAW:2823]조금만 더였는데…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]와왓、아까웠어요。[RAW:2823]조금만　더였는데…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1513,7 +1513,7 @@
       "name": "125",
       "message": "[RAW:461F-BA1F-491F-3621]村でのお祭り、[RAW:2823]すごくたのしみです。[RAW:2823]早くはじまらないかなぁ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]村でのお祭り、[RAW:2823]すごくたのしみです。[RAW:2823]早くはじまらないかなぁ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]마을 축제、[RAW:2823]정말 기대돼요。[RAW:2823]빨리 안 시작하나…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]마을　축제、[RAW:2823]정말　기대돼요。[RAW:2823]빨리　안　시작하나…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -1526,7 +1526,7 @@
       "name": "126",
       "message": "[RAW:461F-BA1F-481F-3621]村のためにも、[RAW:2823]次は出てくださいね。[RAW:2823]盛り上がりますから。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]村のためにも、[RAW:2823]次は出てくださいね。[RAW:2823]盛り上がりますから。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]마을을 위해서도、[RAW:2823]다음엔 나와 주세요。[RAW:2823]더 신날 테니까요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]마을을　위해서도、[RAW:2823]다음엔　나와　주세요。[RAW:2823]더　신날　테니까요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -1539,7 +1539,7 @@
       "name": "127",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1550,7 +1550,7 @@
       "name": "128",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]次はがんばりましょう！[RAW:2823]応援してますから。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]次はがんばりましょう！[RAW:2823]応援してますから。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]다음엔 힘내요！[RAW:2823]응원할게요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]다음엔　힘내요！[RAW:2823]응원할게요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -1563,7 +1563,7 @@
       "name": "129",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1574,7 +1574,7 @@
       "name": "130",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1585,7 +1585,7 @@
       "name": "131",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1596,7 +1596,7 @@
       "name": "132",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1607,7 +1607,7 @@
       "name": "133",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1618,7 +1618,7 @@
       "name": "134",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1629,7 +1629,7 @@
       "name": "135",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1640,7 +1640,7 @@
       "name": "136",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1651,7 +1651,7 @@
       "name": "137",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1662,7 +1662,7 @@
       "name": "138",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1673,7 +1673,7 @@
       "name": "139",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1684,7 +1684,7 @@
       "name": "140",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1695,7 +1695,7 @@
       "name": "141",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1706,7 +1706,7 @@
       "name": "142",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1717,7 +1717,7 @@
       "name": "143",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1728,7 +1728,7 @@
       "name": "144",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1739,7 +1739,7 @@
       "name": "145",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1750,7 +1750,7 @@
       "name": "146",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1761,7 +1761,7 @@
       "name": "147",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1772,7 +1772,7 @@
       "name": "148",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1783,7 +1783,7 @@
       "name": "149",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1794,7 +1794,7 @@
       "name": "150",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]あまりジャマにならないように[RAW:2823]見学してくださいね。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]あまりジャマにならないように[RAW:2823]見学してくださいね。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]방해 안 되게[RAW:2823]구경해 주세요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]방해　안　되게[RAW:2823]구경해　주세요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -1807,7 +1807,7 @@
       "name": "151",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1818,7 +1818,7 @@
       "name": "152",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1829,7 +1829,7 @@
       "name": "153",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1840,7 +1840,7 @@
       "name": "154",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1851,7 +1851,7 @@
       "name": "155",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1862,7 +1862,7 @@
       "name": "156",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1873,7 +1873,7 @@
       "name": "157",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1884,7 +1884,7 @@
       "name": "158",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1895,7 +1895,7 @@
       "name": "159",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1906,7 +1906,7 @@
       "name": "160",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1917,7 +1917,7 @@
       "name": "161",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1928,7 +1928,7 @@
       "name": "162",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1939,7 +1939,7 @@
       "name": "163",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1950,7 +1950,7 @@
       "name": "164",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1961,7 +1961,7 @@
       "name": "165",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1972,7 +1972,7 @@
       "name": "166",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1983,7 +1983,7 @@
       "name": "167",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -1994,7 +1994,7 @@
       "name": "168",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2005,7 +2005,7 @@
       "name": "169",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2030,7 +2030,7 @@
       "name": "171",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]おはようございます。[RAW:2B23]母さんから、朝はからだを[RAW:2823]きたえろと言われてるんです。[RAW:2823]さぁ、がんばらなきゃ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]おはようございます。[RAW:2B23]母さんから、朝はからだを[RAW:2823]きたえろと言われてるんです。[RAW:2823]さぁ、がんばらなきゃ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]안녕하세요。[RAW:2B23]아침훈련해요[RAW:2823]엄마가 그러셨어요。[RAW:2823]자、힘내야죠。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]안녕하세요。[RAW:2B23]아침훈련해요[RAW:2823]엄마가　그러셨어요。[RAW:2823]자、힘내야죠。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2045,7 +2045,7 @@
       "name": "172",
       "message": "[RAW:461F-BA1F-491F-3621]おはようございます。[RAW:2823-2A23]さんは、[RAW:2823]夢を見たりしますか？[RAW:2B23]ボクは、空を飛ぶ夢を[RAW:2823]よく見るんです。[RAW:2823]いつか、飛んでみたいなぁ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]おはようございます。[RAW:2823-2A23]さんは、[RAW:2823]夢を見たりしますか？[RAW:2B23]ボクは、空を飛ぶ夢を[RAW:2823]よく見るんです。[RAW:2823]いつか、飛んでみたいなぁ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]안녕하세요。[RAW:2823-2A23]님은、[RAW:2823]꿈 꾸세요？[RAW:2B23]전 하늘 나는[RAW:2823]꿈을 자주 꿔요。[RAW:2823]언젠가 날고 싶어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]안녕하세요。[RAW:2823-2A23]님은、[RAW:2823]꿈　꾸세요？[RAW:2B23]전　하늘　나는[RAW:2823]꿈을　자주　꿔요。[RAW:2823]언젠가　날고　싶어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -2061,7 +2061,7 @@
       "name": "173",
       "message": "[RAW:461F-BA1F-481F-3621]あっ、こんにちは、[RAW:2823-2A23]さん。[RAW:2823]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]あっ、こんにちは、[RAW:2823-2A23]さん。[RAW:2823]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]앗、안녕하세요、[RAW:2823-2A23]님。[RAW:2823]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]앗、안녕하세요、[RAW:2823-2A23]님。[RAW:2823]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -2074,7 +2074,7 @@
       "name": "174",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]こんにちは。[RAW:2B23]ボクに子供らしくした方が[RAW:2823]いいって、みんなが言いますが[RAW:2823]どういう事でしょうか…？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]こんにちは。[RAW:2B23]ボクに子供らしくした方が[RAW:2823]いいって、みんなが言いますが[RAW:2823]どういう事でしょうか…？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]안녕하세요。[RAW:2B23]애답게 하래요[RAW:2823]다들 그러던데、[RAW:2823]무슨 뜻일까요…？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]안녕하세요。[RAW:2B23]애답게　하래요[RAW:2823]다들　그러던데、[RAW:2823]무슨　뜻일까요…？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2089,7 +2089,7 @@
       "name": "175",
       "message": "[RAW:461F-BA1F-481F-3621]こんにちは。[RAW:2B23]母さんが、お昼は勉強を[RAW:2823]しなさいって言ってました。[RAW:2823]よーし、やるぞ！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]こんにちは。[RAW:2B23]母さんが、お昼は勉強を[RAW:2823]しなさいって言ってました。[RAW:2823]よーし、やるぞ！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]안녕하세요。[RAW:2B23]점심엔 공부래요[RAW:2823]엄마가 그러셨어요。[RAW:2823]좋아、할래요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]안녕하세요。[RAW:2B23]점심엔　공부래요[RAW:2823]엄마가　그러셨어요。[RAW:2823]좋아、할래요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2B23]",
@@ -2103,7 +2103,7 @@
       "name": "176",
       "message": "[RAW:461F-BA1F-481F-3621]こんばんは。[RAW:2823]もう、こんな時間ですよ。[RAW:2823]ボクは眠くなってきました。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]こんばんは。[RAW:2823]もう、こんな時間ですよ。[RAW:2823]ボクは眠くなってきました。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]안녕하세요。[RAW:2823]벌써 이런 시간이에요。[RAW:2823]전 졸려졌어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]안녕하세요。[RAW:2823]벌써　이런　시간이에요。[RAW:2823]전　졸려졌어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2116,7 +2116,7 @@
       "name": "177",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]こんばんは。[RAW:2B23]大人って、[RAW:2823]夜でも眠くないんですか？[RAW:2823]早く大人になりたいなぁ…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]こんばんは。[RAW:2B23]大人って、[RAW:2823]夜でも眠くないんですか？[RAW:2823]早く大人になりたいなぁ…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]안녕하세요。[RAW:2B23]어른은[RAW:2823]밤에도 안 졸려요？[RAW:2823]빨리 어른 되고 싶어요…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]안녕하세요。[RAW:2B23]어른은[RAW:2823]밤에도　안　졸려요？[RAW:2823]빨리　어른　되고　싶어요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2131,7 +2131,7 @@
       "name": "178",
       "message": "[RAW:461F-BA1F-481F-3621]こんばんは。[RAW:2B23]あ、早く寝ないと、[RAW:2823]母さんに怒られます…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]こんばんは。[RAW:2B23]あ、早く寝ないと、[RAW:2823]母さんに怒られます…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]안녕하세요。[RAW:2B23]안 자면[RAW:2823]엄마한테 혼나요…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]안녕하세요。[RAW:2B23]안　자면[RAW:2823]엄마한테　혼나요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2B23]",
@@ -2144,7 +2144,7 @@
       "name": "179",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2155,7 +2155,7 @@
       "name": "180",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2166,7 +2166,7 @@
       "name": "181",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2177,7 +2177,7 @@
       "name": "182",
       "message": "[RAW:461F-BA1F-481F-3621]役場にご用の場合は、[RAW:2823]カウンター越しに、[RAW:2823]母さんへ話しかけてください。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]役場にご用の場合は、[RAW:2823]カウンター越しに、[RAW:2823]母さんへ話しかけてください。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]관청 볼일이면、[RAW:2823]카운터 너머로、[RAW:2823]엄마께 말해 주세요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]관청　볼일이면、[RAW:2823]카운터　너머로、[RAW:2823]엄마께　말해　주세요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2190,7 +2190,7 @@
       "name": "183",
       "message": "[RAW:461F-BA1F-481F-3621]役場にご用の場合は、[RAW:2823]カウンター越しに、[RAW:2823]母さんへ話しかけてください。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]役場にご用の場合は、[RAW:2823]カウンター越しに、[RAW:2823]母さんへ話しかけてください。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]관청 볼일이면、[RAW:2823]카운터 너머로、[RAW:2823]엄마께 말해 주세요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]관청　볼일이면、[RAW:2823]카운터　너머로、[RAW:2823]엄마께　말해　주세요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2203,7 +2203,7 @@
       "name": "184",
       "message": "[RAW:461F-BA1F-481F-3621]役場にご用の場合は、[RAW:2823]カウンター越しに、[RAW:2823]母さんへ話しかけてください。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]役場にご用の場合は、[RAW:2823]カウンター越しに、[RAW:2823]母さんへ話しかけてください。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]관청 볼일이면、[RAW:2823]카운터 너머로、[RAW:2823]엄마께 말해 주세요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]관청　볼일이면、[RAW:2823]카운터　너머로、[RAW:2823]엄마께　말해　주세요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2216,7 +2216,7 @@
       "name": "185",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さんも、[RAW:2823]お食事ですか？[RAW:2B23-461F-BA1F-491F-3621]ここって、おいしいですよね。[RAW:2823]母さんの料理と、[RAW:2823]同じぐらいおいしいですよ！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さんも、[RAW:2823]お食事ですか？[RAW:2B23-461F-BA1F-491F-3621]ここって、おいしいですよね。[RAW:2823]母さんの料理と、[RAW:2823]同じぐらいおいしいですよ！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님도、[RAW:2823]식사해요？[RAW:2B23-461F-BA1F-491F-3621]여긴 맛있죠。[RAW:2823]엄마 요리만큼[RAW:2823]맛있어요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님도、[RAW:2823]식사해요？[RAW:2B23-461F-BA1F-491F-3621]여긴　맛있죠。[RAW:2823]엄마　요리만큼[RAW:2823]맛있어요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2231,7 +2231,7 @@
       "name": "186",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さんも、[RAW:2823]お食事ですか？[RAW:2B23-461F-BA1F-491F-3621]マオもお手伝いしてるんです。[RAW:2823]エライと思いません？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さんも、[RAW:2823]お食事ですか？[RAW:2B23-461F-BA1F-491F-3621]マオもお手伝いしてるんです。[RAW:2823]エライと思いません？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님도、[RAW:2823]식사해요？[RAW:2B23-461F-BA1F-491F-3621]마오도 도와요。[RAW:2823]대단하죠？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님도、[RAW:2823]식사해요？[RAW:2B23-461F-BA1F-491F-3621]마오도　도와요。[RAW:2823]대단하죠？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2245,7 +2245,7 @@
       "name": "187",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さんも、[RAW:2823]お食事ですか？[RAW:2B23-461F-BA1F-491F-3621]ソナさんの料理って、[RAW:2823]おいしいですよね。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さんも、[RAW:2823]お食事ですか？[RAW:2B23-461F-BA1F-491F-3621]ソナさんの料理って、[RAW:2823]おいしいですよね。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님도、[RAW:2823]식사해요？[RAW:2B23-461F-BA1F-491F-3621]소나 씨 요리는[RAW:2823]맛있어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님도、[RAW:2823]식사해요？[RAW:2B23-461F-BA1F-491F-3621]소나　씨　요리는[RAW:2823]맛있어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2259,7 +2259,7 @@
       "name": "188",
       "message": "[RAW:461F-BA1F-481F-3621]人の家っておもしろいですね。[RAW:2823]部屋を見ると、その人の個性が[RAW:2823]すごくわかりますよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]人の家っておもしろいですね。[RAW:2823]部屋を見ると、その人の個性が[RAW:2823]すごくわかりますよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]남의 집은 재밌네요。[RAW:2823]방을 보면 그 사람 개성이[RAW:2823]잘 보여요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]남의　집은　재밌네요。[RAW:2823]방을　보면　그　사람　개성이[RAW:2823]잘　보여요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2272,7 +2272,7 @@
       "name": "189",
       "message": "[RAW:461F-BA1F-481F-3621]人の家っておもしろいですね。[RAW:2823]部屋を見ると、その人の個性が[RAW:2823]すごくわかりますよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]人の家っておもしろいですね。[RAW:2823]部屋を見ると、その人の個性が[RAW:2823]すごくわかりますよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]남의 집은 재밌네요。[RAW:2823]방을 보면 개성이[RAW:2823]잘 보여요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]남의　집은　재밌네요。[RAW:2823]방을　보면　개성이[RAW:2823]잘　보여요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2285,7 +2285,7 @@
       "name": "190",
       "message": "[RAW:461F-BA1F-481F-3621]人の家っておもしろいですね。[RAW:2823]部屋を見ると、その人の個性が[RAW:2823]すごくわかりますよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]人の家っておもしろいですね。[RAW:2823]部屋を見ると、その人の個性が[RAW:2823]すごくわかりますよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]남의 집은 재밌네요。[RAW:2823]방을 보면 개성이[RAW:2823]잘 보여요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]남의　집은　재밌네요。[RAW:2823]방을　보면　개성이[RAW:2823]잘　보여요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2298,7 +2298,7 @@
       "name": "191",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2309,7 +2309,7 @@
       "name": "192",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2320,7 +2320,7 @@
       "name": "193",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2331,7 +2331,7 @@
       "name": "194",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2342,7 +2342,7 @@
       "name": "195",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2353,7 +2353,7 @@
       "name": "196",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2364,7 +2364,7 @@
       "name": "197",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2375,7 +2375,7 @@
       "name": "198",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2386,7 +2386,7 @@
       "name": "199",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2397,7 +2397,7 @@
       "name": "200",
       "message": "[RAW:461F-BA1F-491F-3621]優勝おめでとうございます！[RAW:2823]料理大会で優勝するなんて、[RAW:2823]村のほこりです！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]優勝おめでとうございます！[RAW:2823]料理大会で優勝するなんて、[RAW:2823]村のほこりです！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]우승 축하해요！[RAW:2823]요리대회 우승이라니、[RAW:2823]마을의 자랑이에요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]우승　축하해요！[RAW:2823]요리대회　우승이라니、[RAW:2823]마을의　자랑이에요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -2410,7 +2410,7 @@
       "name": "201",
       "message": "[RAW:461F-BA1F-491F-3621]おめでとうございます！[RAW:2823]母さんがとっても、[RAW:2823]よろこんでました！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]おめでとうございます！[RAW:2823]母さんがとっても、[RAW:2823]よろこんでました！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]축하드려요！[RAW:2823]엄마가 무척[RAW:2823]좋아했어요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]축하드려요！[RAW:2823]엄마가　무척[RAW:2823]좋아했어요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -2423,7 +2423,7 @@
       "name": "202",
       "message": "[RAW:461F-BA1F-491F-3621-2A23]さん、[RAW:2823]すごいですね！！[RAW:2823]優勝おめでとうございます！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621-2A23]さん、[RAW:2823]すごいですね！！[RAW:2823]優勝おめでとうございます！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621-2A23]님、[RAW:2823]대단해요！！[RAW:2823]우승 축하드려요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621-2A23]님、[RAW:2823]대단해요！！[RAW:2823]우승　축하드려요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621-2A23]",
         "[RAW:2823]",
@@ -2436,7 +2436,7 @@
       "name": "203",
       "message": "[RAW:461F-BA1F-491F-3621]終わっちゃいましたね。[RAW:2823]今日はたのしかったです。[RAW:2823]母さんも満足そうでしたよ。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]終わっちゃいましたね。[RAW:2823]今日はたのしかったです。[RAW:2823]母さんも満足そうでしたよ。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]끝났네요。[RAW:2823]오늘 즐거웠어요。[RAW:2823]엄마도 만족해 보여요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]끝났네요。[RAW:2823]오늘　즐거웠어요。[RAW:2823]엄마도　만족해　보여요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -2449,7 +2449,7 @@
       "name": "204",
       "message": "[RAW:461F-BA1F-491F-3621]今日のお祭りは、[RAW:2823]いい思い出になりそうです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]今日のお祭りは、[RAW:2823]いい思い出になりそうです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]오늘 축제는、[RAW:2823]좋은 추억 될 듯해요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]오늘　축제는、[RAW:2823]좋은　추억　될　듯해요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823]",
@@ -2461,7 +2461,7 @@
       "name": "205",
       "message": "[RAW:461F-BA1F-481F-3621]さぁ、後かたづけしないと…。[RAW:2823]がんばろうっと。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]さぁ、後かたづけしないと…。[RAW:2823]がんばろうっと。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]자、정리해야죠…。[RAW:2823]열심히 해야지。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]자、정리해야죠…。[RAW:2823]열심히　해야지。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2473,7 +2473,7 @@
       "name": "206",
       "message": "[RAW:461F-BA1F-491F-3621]優勝おめでとうございます、[RAW:2823-2A23]さん。[RAW:2B23]作物の勝ち負けって、[RAW:2823]判断がむずかしいですが、[RAW:2823]見ていて、すぐわかりました。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-491F-3621]優勝おめでとうございます、[RAW:2823-2A23]さん。[RAW:2B23]作物の勝ち負けって、[RAW:2823]判断がむずかしいですが、[RAW:2823]見ていて、すぐわかりました。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-491F-3621]우승 축하해요、[RAW:2823-2A23]님。[RAW:2B23]작물은[RAW:2823]판단 어렵지만、[RAW:2823]봐도 바로 알겠어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-491F-3621]우승　축하해요、[RAW:2823-2A23]님。[RAW:2B23]작물은[RAW:2823]판단　어렵지만、[RAW:2823]봐도　바로　알겠어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-491F-3621]",
         "[RAW:2823-2A23]",
@@ -2488,7 +2488,7 @@
       "name": "207",
       "message": "[RAW:461F-BA1F-481F-3621]作物の作り方って、[RAW:2823]むずかしいですよね。[RAW:2823]教えてもらっていいですか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]作物の作り方って、[RAW:2823]むずかしいですよね。[RAW:2823]教えてもらっていいですか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]작물 키우는 건、[RAW:2823]어렵죠。[RAW:2823]가르쳐주실래요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]작물　키우는　건、[RAW:2823]어렵죠。[RAW:2823]가르쳐주실래요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2501,7 +2501,7 @@
       "name": "208",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さんの作物は、[RAW:2823]かがやいてますよね。[RAW:2823]優勝もナットクです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さんの作物は、[RAW:2823]かがやいてますよね。[RAW:2823]優勝もナットクです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님 작물은、[RAW:2823]반짝여요。[RAW:2823]우승도 납득돼요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님　작물은、[RAW:2823]반짝여요。[RAW:2823]우승도　납득돼요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2514,7 +2514,7 @@
       "name": "209",
       "message": "[RAW:461F-BA1F-481F-3621]今日のお祭り、[RAW:2823]マオと二人で………、[RAW:2823]あ、何でもないです！[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]今日のお祭り、[RAW:2823]マオと二人で………、[RAW:2823]あ、何でもないです！[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]오늘 축제、[RAW:2823]마오랑 둘이………、[RAW:2823]아、아무것도 아녜요！[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]오늘　축제、[RAW:2823]마오랑　둘이………、[RAW:2823]아、아무것도　아녜요！[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2527,7 +2527,7 @@
       "name": "210",
       "message": "[RAW:461F-BA1F-481F-3621]みなさん、お祭りを[RAW:2823]たのしまれてましたね。[RAW:2823]母さんもうれしそうでした。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]みなさん、お祭りを[RAW:2823]たのしまれてましたね。[RAW:2823]母さんもうれしそうでした。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]다들 축제를[RAW:2823]즐기셨어요。[RAW:2823]엄마도 기뻐 보였어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]다들　축제를[RAW:2823]즐기셨어요。[RAW:2823]엄마도　기뻐　보였어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2540,7 +2540,7 @@
       "name": "211",
       "message": "[RAW:461F-BA1F-481F-3621]ボク、[RAW:2823]今日はカンゲキしました。[RAW:2823]すばらしかったです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]ボク、[RAW:2823]今日はカンゲキしました。[RAW:2823]すばらしかったです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]저、[RAW:2823]오늘 감동했어요。[RAW:2823]정말 대단했어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]저、[RAW:2823]오늘　감동했어요。[RAW:2823]정말　대단했어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2553,7 +2553,7 @@
       "name": "212",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]今日はすごかったですね！[RAW:2823]ボクも見習わなきゃ…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さん、[RAW:2823]今日はすごかったですね！[RAW:2823]ボクも見習わなきゃ…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]오늘 대단했어요！[RAW:2823]저도 본받아야…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님、[RAW:2823]오늘　대단했어요！[RAW:2823]저도　본받아야…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2566,7 +2566,7 @@
       "name": "213",
       "message": "[RAW:461F-BA1F-481F-3621-2A23]さんみたいに、[RAW:2823]がんばらないと、[RAW:2823]母さんに怒られます…。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621-2A23]さんみたいに、[RAW:2823]がんばらないと、[RAW:2823]母さんに怒られます…。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님처럼[RAW:2823]열심히 안 하면、[RAW:2823]엄마한테 혼나요…。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621-2A23]님처럼[RAW:2823]열심히　안　하면、[RAW:2823]엄마한테　혼나요…。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621-2A23]",
         "[RAW:2823]",
@@ -2579,7 +2579,7 @@
       "name": "214",
       "message": "[RAW:461F-BA1F-481F-3621]今度、ボクにとり方を[RAW:2823]教えてください！！[RAW:2823]マオに見せたいんです。[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]今度、ボクにとり方を[RAW:2823]教えてください！！[RAW:2823]マオに見せたいんです。[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]다음엔 저한테[RAW:2823]잡는 법 알려주세요！！[RAW:2823]마오에게 보여주고 싶어요。[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]다음엔　저한테[RAW:2823]잡는　법　알려주세요！！[RAW:2823]마오에게　보여주고　싶어요。[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:2823]",
@@ -2592,7 +2592,7 @@
       "name": "215",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2603,7 +2603,7 @@
       "name": "216",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27]",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27]",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27]",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27]"
@@ -2614,7 +2614,7 @@
       "name": "217",
       "message": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27-0F27]り",
       "original": "[RAW:461F-BA1F-481F-3621]どうかしましたか？[RAW:0E27-0F27]り",
-      "translation": "[RAW:461F-BA1F-481F-3621]무슨 일 있나요？[RAW:0E27-0F27]り",
+      "translation": "[RAW:461F-BA1F-481F-3621]무슨　일　있나요？[RAW:0E27-0F27]り",
       "controls": [
         "[RAW:461F-BA1F-481F-3621]",
         "[RAW:0E27-0F27]"

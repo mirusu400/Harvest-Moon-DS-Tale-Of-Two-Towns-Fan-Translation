@@ -20,7 +20,7 @@
       "name": "1",
       "message": "料理大会[RAW:0E27]",
       "original": "料理大会[RAW:0E27]",
-      "translation": "요리 대회[RAW:0E27]",
+      "translation": "요리　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "料理大会[RAW:0E27]",
       "original": "料理大会[RAW:0E27]",
-      "translation": "요리 대회[RAW:0E27]",
+      "translation": "요리　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "料理大会[RAW:0E27]",
       "original": "料理大会[RAW:0E27]",
-      "translation": "요리 대회[RAW:0E27]",
+      "translation": "요리　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "料理大会[RAW:0E27]",
       "original": "料理大会[RAW:0E27]",
-      "translation": "요리 대회[RAW:0E27]",
+      "translation": "요리　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "虫とり大会[RAW:0E27]",
       "original": "虫とり大会[RAW:0E27]",
-      "translation": "벌레 잡기 대회[RAW:0E27]",
+      "translation": "벌레　잡기　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "魚釣り大会[RAW:0E27]",
       "original": "魚釣り大会[RAW:0E27]",
-      "translation": "물고기 낚시 대회[RAW:0E27]",
+      "translation": "물고기　낚시　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "雪祭[RAW:0E27]",
       "original": "雪祭[RAW:0E27]",
-      "translation": "눈 축제[RAW:0E27]",
+      "translation": "눈　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "春の作物祭[RAW:0E27]",
       "original": "春の作物祭[RAW:0E27]",
-      "translation": "봄 작물 축제[RAW:0E27]",
+      "translation": "봄　작물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "夏の作物祭[RAW:0E27]",
       "original": "夏の作物祭[RAW:0E27]",
-      "translation": "여름 작물 축제[RAW:0E27]",
+      "translation": "여름　작물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "秋の作物祭[RAW:0E27]",
       "original": "秋の作物祭[RAW:0E27]",
-      "translation": "가을 작물 축제[RAW:0E27]",
+      "translation": "가을　작물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "春の動物祭[RAW:0E27]",
       "original": "春の動物祭[RAW:0E27]",
-      "translation": "봄 동물 축제[RAW:0E27]",
+      "translation": "봄　동물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -170,7 +170,7 @@
       "name": "16",
       "message": "春の動物祭[RAW:0E27]",
       "original": "春の動物祭[RAW:0E27]",
-      "translation": "봄 동물 축제[RAW:0E27]",
+      "translation": "봄　동물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -180,7 +180,7 @@
       "name": "17",
       "message": "魚つかみ大会[RAW:0E27]",
       "original": "魚つかみ大会[RAW:0E27]",
-      "translation": "물고기 잡기 대회[RAW:0E27]",
+      "translation": "물고기　잡기　대회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -190,7 +190,7 @@
       "name": "18",
       "message": "天体観賞[RAW:0E27]",
       "original": "天体観賞[RAW:0E27]",
-      "translation": "천체 관측[RAW:0E27]",
+      "translation": "천체　관측[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -200,7 +200,7 @@
       "name": "19",
       "message": "夏の動物祭[RAW:0E27]",
       "original": "夏の動物祭[RAW:0E27]",
-      "translation": "여름 동물 축제[RAW:0E27]",
+      "translation": "여름　동물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -210,7 +210,7 @@
       "name": "20",
       "message": "夏の動物祭[RAW:0E27]",
       "original": "夏の動物祭[RAW:0E27]",
-      "translation": "여름 동물 축제[RAW:0E27]",
+      "translation": "여름　동물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -220,7 +220,7 @@
       "name": "21",
       "message": "秋の動物祭[RAW:0E27]",
       "original": "秋の動物祭[RAW:0E27]",
-      "translation": "가을 동물 축제[RAW:0E27]",
+      "translation": "가을　동물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -230,7 +230,7 @@
       "name": "22",
       "message": "秋の動物祭[RAW:0E27]",
       "original": "秋の動物祭[RAW:0E27]",
-      "translation": "가을 동물 축제[RAW:0E27]",
+      "translation": "가을　동물　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -250,7 +250,7 @@
       "name": "24",
       "message": "かぼちゃ祭[RAW:0E27]",
       "original": "かぼちゃ祭[RAW:0E27]",
-      "translation": "호박 축제[RAW:0E27]",
+      "translation": "호박　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -260,7 +260,7 @@
       "name": "25",
       "message": "春の感謝祭[RAW:0E27]",
       "original": "春の感謝祭[RAW:0E27]",
-      "translation": "봄 감사제[RAW:0E27]",
+      "translation": "봄　감사제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -270,7 +270,7 @@
       "name": "26",
       "message": "冬の感謝祭[RAW:0E27]",
       "original": "冬の感謝祭[RAW:0E27]",
-      "translation": "겨울 감사제[RAW:0E27]",
+      "translation": "겨울　감사제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -280,7 +280,7 @@
       "name": "27",
       "message": "星夜祭[RAW:0E27]",
       "original": "星夜祭[RAW:0E27]",
-      "translation": "별밤 축제[RAW:0E27]",
+      "translation": "별밤　축제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -330,7 +330,7 @@
       "name": "32",
       "message": "このはな村[RAW:0E27]",
       "original": "このはな村[RAW:0E27]",
-      "translation": "코노하나 마을[RAW:0E27]",
+      "translation": "코노하나　마을[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -340,7 +340,7 @@
       "name": "33",
       "message": "ブルーベル村[RAW:0E27]",
       "original": "ブルーベル村[RAW:0E27]",
-      "translation": "블루벨 마을[RAW:0E27]",
+      "translation": "블루벨　마을[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]

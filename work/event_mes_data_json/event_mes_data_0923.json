@@ -10,7 +10,7 @@
       "name": "0",
       "message": "みこし荷馬車[RAW:0E27]",
       "original": "みこし荷馬車[RAW:0E27]",
-      "translation": "가마 짐마차[RAW:0E27]",
+      "translation": "가마　짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "ゆうびん荷馬車[RAW:0E27]",
       "original": "ゆうびん荷馬車[RAW:0E27]",
-      "translation": "우편 짐마차[RAW:0E27]",
+      "translation": "우편　짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "極バター[RAW:0E27]",
       "original": "極バター[RAW:0E27]",
-      "translation": "최상급 버터[RAW:0E27]",
+      "translation": "최상급　버터[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "きゃべつの種[RAW:0E27]",
       "original": "きゃべつの種[RAW:0E27]",
-      "translation": "양배추 씨앗[RAW:0E27]",
+      "translation": "양배추　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -170,7 +170,7 @@
       "name": "16",
       "message": "きゅうりの種[RAW:0E27]",
       "original": "きゅうりの種[RAW:0E27]",
-      "translation": "오이 씨앗[RAW:0E27]",
+      "translation": "오이　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -180,7 +180,7 @@
       "name": "17",
       "message": "トマトの種[RAW:0E27]",
       "original": "トマトの種[RAW:0E27]",
-      "translation": "토마토 씨앗[RAW:0E27]",
+      "translation": "토마토　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -190,7 +190,7 @@
       "name": "18",
       "message": "たまねぎの種[RAW:0E27]",
       "original": "たまねぎの種[RAW:0E27]",
-      "translation": "양파 씨앗[RAW:0E27]",
+      "translation": "양파　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -200,7 +200,7 @@
       "name": "19",
       "message": "さつまいもの種[RAW:0E27]",
       "original": "さつまいもの種[RAW:0E27]",
-      "translation": "고구마 씨앗[RAW:0E27]",
+      "translation": "고구마　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -210,7 +210,7 @@
       "name": "20",
       "message": "ほうれんそうの種[RAW:0E27]",
       "original": "ほうれんそうの種[RAW:0E27]",
-      "translation": "시금치 씨앗[RAW:0E27]",
+      "translation": "시금치　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -220,7 +220,7 @@
       "name": "21",
       "message": "白菜の種[RAW:0E27-0F27]’",
       "original": "白菜の種[RAW:0E27-0F27]’",
-      "translation": "배추 씨앗[RAW:0E27-0F27]’",
+      "translation": "배추　씨앗[RAW:0E27-0F27]’",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

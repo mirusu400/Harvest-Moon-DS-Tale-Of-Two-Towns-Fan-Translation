@@ -90,7 +90,7 @@
       "name": "8",
       "message": "カーネーションの種[RAW:0E27]",
       "original": "カーネーションの種[RAW:0E27]",
-      "translation": "카네이션 씨앗[RAW:0E27]",
+      "translation": "카네이션　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "ひまわりの種[RAW:0E27]",
       "original": "ひまわりの種[RAW:0E27]",
-      "translation": "해바라기 씨앗[RAW:0E27]",
+      "translation": "해바라기　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "ホワイトローズの種[RAW:0E27]",
       "original": "ホワイトローズの種[RAW:0E27]",
-      "translation": "화이트 로즈 씨앗[RAW:0E27]",
+      "translation": "화이트　로즈　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "りんどうの種[RAW:0E27]",
       "original": "りんどうの種[RAW:0E27]",
-      "translation": "린도우 씨앗[RAW:0E27]",
+      "translation": "린도우　씨앗[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "極ヨーグルト[RAW:0E27]",
       "original": "極ヨーグルト[RAW:0E27]",
-      "translation": "최고급 요거트[RAW:0E27]",
+      "translation": "최고급　요거트[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -140,7 +140,7 @@
       "name": "13",
       "message": "極ハーブマヨネーズ[RAW:0E27]",
       "original": "極ハーブマヨネーズ[RAW:0E27]",
-      "translation": "최고급 허브 마요네즈[RAW:0E27]",
+      "translation": "최고급　허브　마요네즈[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -150,7 +150,7 @@
       "name": "14",
       "message": "極ハーブバター[RAW:0E27]",
       "original": "極ハーブバター[RAW:0E27]",
-      "translation": "최고급 허브 버터[RAW:0E27]",
+      "translation": "최고급　허브　버터[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "極果実ヨーグルト[RAW:0E27]",
       "original": "極果実ヨーグルト[RAW:0E27]",
-      "translation": "최고급 과일 요거트[RAW:0E27]",
+      "translation": "최고급　과일　요거트[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -250,7 +250,7 @@
       "name": "24",
       "message": "フライドポテト[RAW:0E27]",
       "original": "フライドポテト[RAW:0E27]",
-      "translation": "프라이드 포테이토[RAW:0E27]",
+      "translation": "프라이드　포테이토[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -260,7 +260,7 @@
       "name": "25",
       "message": "たまねぎピクルス[RAW:0E27]",
       "original": "たまねぎピクルス[RAW:0E27]",
-      "translation": "양파 피클[RAW:0E27]",
+      "translation": "양파　피클[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -270,7 +270,7 @@
       "name": "26",
       "message": "にんじんピクルス[RAW:0E27]",
       "original": "にんじんピクルス[RAW:0E27]",
-      "translation": "당근 피클[RAW:0E27]",
+      "translation": "당근　피클[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -280,7 +280,7 @@
       "name": "27",
       "message": "はくさいのキムチ[RAW:0E27]",
       "original": "はくさいのキムチ[RAW:0E27]",
-      "translation": "배추 김치[RAW:0E27]",
+      "translation": "배추　김치[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -360,7 +360,7 @@
       "name": "35",
       "message": "みかん[RAW:0E27-0F27]」",
       "original": "みかん[RAW:0E27-0F27]」",
-      "translation": "귤[RAW:0E27-0F27]」\"",
+      "translation": "귤[RAW:0E27-0F27]」",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

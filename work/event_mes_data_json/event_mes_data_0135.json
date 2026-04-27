@@ -1070,7 +1070,7 @@
       "name": "106",
       "message": "ここを掘ろうってのかい？[RAW:2823]そりゃあ、大仕事だぜ！[RAW:0E27]",
       "original": "ここを掘ろうってのかい？[RAW:2823]そりゃあ、大仕事だぜ！[RAW:0E27]",
-      "translation": "여길 판다고？[RAW:2823]그건 큰일인데！[RAW:0E27]",
+      "translation": "여길　판다고？[RAW:2823]그건　큰일인데！[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -1081,7 +1081,7 @@
       "name": "107",
       "message": "見事な仕事だね～。[RAW:2823]さすがアイリンさんだ。[RAW:0E27]",
       "original": "見事な仕事だね～。[RAW:2823]さすがアイリンさんだ。[RAW:0E27]",
-      "translation": "멋진 솜씨네～。[RAW:2823]역시 아이린 씨야。[RAW:0E27]",
+      "translation": "멋진　솜씨네～。[RAW:2823]역시　아이린　씨야。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -2182,7 +2182,7 @@
       "name": "217",
       "message": "どうでぇ！[RAW:0E27-0F27]り",
       "original": "どうでぇ！[RAW:0E27-0F27]り",
-      "translation": "어떠냐！[RAW:0E27-0F27]리",
+      "translation": "어떠냐！[RAW:0E27-0F27]り",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

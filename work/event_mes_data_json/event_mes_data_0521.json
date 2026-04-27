@@ -50,7 +50,7 @@
       "name": "4",
       "message": "[RAW:411F-B91F-481F]だれの家が知りたいんだ？[RAW:9023-0E27]",
       "original": "[RAW:411F-B91F-481F]だれの家が知りたいんだ？[RAW:9023-0E27]",
-      "translation": "[RAW:411F-B91F-481F]누구 집이 궁금해？[RAW:9023-0E27]",
+      "translation": "[RAW:411F-B91F-481F]누구　집이　궁금해？[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-B91F-481F]",
         "[RAW:9023-0E27]"
@@ -61,7 +61,7 @@
       "name": "5",
       "message": "[RAW:411F-B01F-481F]だれの家が知りたいのじゃ？[RAW:9023-0E27-0F27]：",
       "original": "[RAW:411F-B01F-481F]だれの家が知りたいのじゃ？[RAW:9023-0E27-0F27]：",
-      "translation": "[RAW:411F-B01F-481F]누구 집이 궁금하냐？[RAW:9023-0E27-0F27]：",
+      "translation": "[RAW:411F-B01F-481F]누구　집이　궁금하냐？[RAW:9023-0E27-0F27]：",
       "controls": [
         "[RAW:411F-B01F-481F]",
         "[RAW:9023-0E27-0F27]"

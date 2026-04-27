@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:411F-AF1F-481F]む、なんじゃ。[RAW:2823]わしに何か用か？[RAW:9023-0E27]",
       "original": "[RAW:411F-AF1F-481F]む、なんじゃ。[RAW:2823]わしに何か用か？[RAW:9023-0E27]",
-      "translation": "[RAW:411F-AF1F-481F]음、뭐냐。[RAW:2823]나한테 무슨 용건이냐？[RAW:9023-0E27]",
+      "translation": "[RAW:411F-AF1F-481F]음、뭐냐。[RAW:2823]나한테　무슨　용건이냐？[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-AF1F-481F]",
         "[RAW:2823]",
@@ -22,7 +22,7 @@
       "name": "1",
       "message": "[RAW:411F-AF1F-481F-3223-0008]何か作る[RAW:2823-0008]なんでもない[RAW:0E27]",
       "original": "[RAW:411F-AF1F-481F-3223-0008]何か作る[RAW:2823-0008]なんでもない[RAW:0E27]",
-      "translation": "[RAW:411F-AF1F-481F-3223-0008]뭔가 만든다[RAW:2823-0008]아무것도 아냐[RAW:0E27]",
+      "translation": "[RAW:411F-AF1F-481F-3223-0008]뭔가　만든다[RAW:2823-0008]아무것도　아냐[RAW:0E27]",
       "controls": [
         "[RAW:411F-AF1F-481F-3223-0008]",
         "[RAW:2823-0008]",
@@ -34,7 +34,7 @@
       "name": "2",
       "message": "[RAW:411F-AF1F-481F]作る？[RAW:2823]はて…おぬしにはもう、[RAW:2823]作ってやったはずじゃが？[RAW:0E27]",
       "original": "[RAW:411F-AF1F-481F]作る？[RAW:2823]はて…おぬしにはもう、[RAW:2823]作ってやったはずじゃが？[RAW:0E27]",
-      "translation": "[RAW:411F-AF1F-481F]만든다고？[RAW:2823]흠…네겐 이미、[RAW:2823]만들어 줬을 텐데？[RAW:0E27]",
+      "translation": "[RAW:411F-AF1F-481F]만든다고？[RAW:2823]흠…네겐　이미、[RAW:2823]만들어　줬을　텐데？[RAW:0E27]",
       "controls": [
         "[RAW:411F-AF1F-481F]",
         "[RAW:2823]",
@@ -47,7 +47,7 @@
       "name": "3",
       "message": "[RAW:411F-AF1F-481F]そうか。[RAW:2823]また来るとよいぞ！[RAW:0E27]",
       "original": "[RAW:411F-AF1F-481F]そうか。[RAW:2823]また来るとよいぞ！[RAW:0E27]",
-      "translation": "[RAW:411F-AF1F-481F]그래。[RAW:2823]또 오면 되느니라！[RAW:0E27]",
+      "translation": "[RAW:411F-AF1F-481F]그래。[RAW:2823]또　오면　되느니라！[RAW:0E27]",
       "controls": [
         "[RAW:411F-AF1F-481F]",
         "[RAW:2823]",
@@ -59,7 +59,7 @@
       "name": "4",
       "message": "[RAW:411F-AF1F-4B1F]なんじゃ？[RAW:2823]やめるのか…[RAW:2823]では何の用があるのじゃ？[RAW:9023-0E27]",
       "original": "[RAW:411F-AF1F-4B1F]なんじゃ？[RAW:2823]やめるのか…[RAW:2823]では何の用があるのじゃ？[RAW:9023-0E27]",
-      "translation": "[RAW:411F-AF1F-4B1F]뭐냐？[RAW:2823]그만두는 게냐…[RAW:2823]그럼 무슨 용건이냐？[RAW:9023-0E27]",
+      "translation": "[RAW:411F-AF1F-4B1F]뭐냐？[RAW:2823]그만두는　게냐…[RAW:2823]그럼　무슨　용건이냐？[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-AF1F-4B1F]",
         "[RAW:2823]",
@@ -72,7 +72,7 @@
       "name": "5",
       "message": "[RAW:411F-AF1F-491F-6D20-0010-2708-6C20]なのじゃ！[RAW:2823-3223-0008]お願いします！[RAW:2823-0008]ダメ！[RAW:0E27]",
       "original": "[RAW:411F-AF1F-491F-6D20-0010-2708-6C20]なのじゃ！[RAW:2823-3223-0008]お願いします！[RAW:2823-0008]ダメ！[RAW:0E27]",
-      "translation": "[RAW:411F-AF1F-491F-6D20-0010-2708-6C20]인 게다！[RAW:2823-3223-0008]부탁합니다！[RAW:2823-0008]안 돼！[RAW:0E27]",
+      "translation": "[RAW:411F-AF1F-491F-6D20-0010-2708-6C20]인　게다！[RAW:2823-3223-0008]부탁합니다！[RAW:2823-0008]안　돼！[RAW:0E27]",
       "controls": [
         "[RAW:411F-AF1F-491F-6D20-0010-2708-6C20]",
         "[RAW:2823-3223-0008]",
@@ -85,7 +85,7 @@
       "name": "6",
       "message": "[RAW:411F-AF1F-4B1F]なんじゃ…[RAW:2823]お金が足りんではないか。[RAW:2823]全く、何しに来たのじゃ…[RAW:9023-0E27]",
       "original": "[RAW:411F-AF1F-4B1F]なんじゃ…[RAW:2823]お金が足りんではないか。[RAW:2823]全く、何しに来たのじゃ…[RAW:9023-0E27]",
-      "translation": "[RAW:411F-AF1F-4B1F]뭐냐…[RAW:2823]돈이 모자라잖느냐。[RAW:2823]대체 뭐 하러 온 게냐…[RAW:9023-0E27]",
+      "translation": "[RAW:411F-AF1F-4B1F]뭐냐…[RAW:2823]돈이　모자라잖느냐。[RAW:2823]대체　뭐　하러　온　게냐…[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-AF1F-4B1F]",
         "[RAW:2823]",
@@ -98,7 +98,7 @@
       "name": "7",
       "message": "[RAW:411F-AF1F-4B1F]カバンがいっぱいじゃ。[RAW:2823]もう、入らんぞ。[RAW:9023-0E27]",
       "original": "[RAW:411F-AF1F-4B1F]カバンがいっぱいじゃ。[RAW:2823]もう、入らんぞ。[RAW:9023-0E27]",
-      "translation": "[RAW:411F-AF1F-4B1F]가방이 가득 찼다。[RAW:2823]더는 안 들어간다。[RAW:9023-0E27]",
+      "translation": "[RAW:411F-AF1F-4B1F]가방이　가득　찼다。[RAW:2823]더는　안　들어간다。[RAW:9023-0E27]",
       "controls": [
         "[RAW:411F-AF1F-4B1F]",
         "[RAW:2823]",
@@ -110,7 +110,7 @@
       "name": "8",
       "message": "[RAW:411F-AF1F-491F]れんきんちゅう…なのじゃ！！[RAW:0E27]",
       "original": "[RAW:411F-AF1F-491F]れんきんちゅう…なのじゃ！！[RAW:0E27]",
-      "translation": "[RAW:411F-AF1F-491F]연금 중…인 게다！！[RAW:0E27]",
+      "translation": "[RAW:411F-AF1F-491F]연금　중…인　게다！！[RAW:0E27]",
       "controls": [
         "[RAW:411F-AF1F-491F]",
         "[RAW:0E27]"
@@ -121,7 +121,7 @@
       "name": "9",
       "message": "[RAW:411F-AF1F-491F]どうじゃ？[RAW:2823]すごいじゃろ！？[RAW:2823]遠慮なく、ほめるがいい！！[RAW:0E27]",
       "original": "[RAW:411F-AF1F-491F]どうじゃ？[RAW:2823]すごいじゃろ！？[RAW:2823]遠慮なく、ほめるがいい！！[RAW:0E27]",
-      "translation": "[RAW:411F-AF1F-491F]어떠냐？[RAW:2823]대단하지！？[RAW:2823]사양 말고 칭찬하거라！！[RAW:0E27]",
+      "translation": "[RAW:411F-AF1F-491F]어떠냐？[RAW:2823]대단하지！？[RAW:2823]사양　말고　칭찬하거라！！[RAW:0E27]",
       "controls": [
         "[RAW:411F-AF1F-491F]",
         "[RAW:2823]",

@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:401F-A81F-481F-3521]むらはずれー[RAW:0E27]",
       "original": "[RAW:401F-A81F-481F-3521]むらはずれー[RAW:0E27]",
-      "translation": "[RAW:401F-A81F-481F-3521]마을 외곽ー[RAW:0E27]",
+      "translation": "[RAW:401F-A81F-481F-3521]마을　외곽ー[RAW:0E27]",
       "controls": [
         "[RAW:401F-A81F-481F-3521]",
         "[RAW:0E27]"
@@ -21,7 +21,7 @@
       "name": "1",
       "message": "[RAW:401F-A81F-481F]かなり遠くまで来てしまった。[RAW:0E27-0F27]。",
       "original": "[RAW:401F-A81F-481F]かなり遠くまで来てしまった。[RAW:0E27-0F27]。",
-      "translation": "[RAW:401F-A81F-481F]꽤 멀리 와 버렸네。[RAW:0E27-0F27]。",
+      "translation": "[RAW:401F-A81F-481F]꽤　멀리　와　버렸네。[RAW:0E27-0F27]。",
       "controls": [
         "[RAW:401F-A81F-481F]",
         "[RAW:0E27-0F27]"

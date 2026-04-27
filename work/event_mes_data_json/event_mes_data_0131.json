@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:411F-C51F-481F]あら、初めての方ですね。[RAW:2823]わたしはピエールといいます。[RAW:2B23]よろしくおねがいします。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]あら、初めての方ですね。[RAW:2823]わたしはピエールといいます。[RAW:2B23]よろしくおねがいします。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]어라，처음 보네。[RAW:2823]나는 피에르라고[RAW:2B23]해。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]어라，처음　보네。[RAW:2823]나는　피에르라고[RAW:2B23]해。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -23,7 +23,7 @@
       "name": "1",
       "message": "[RAW:411F-C51F-481F]昨日、牧場は大丈夫だった？[RAW:2B23]すごい天気だったわね。[RAW:2823]外がすごく暗かったもの。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]昨日、牧場は大丈夫だった？[RAW:2B23]すごい天気だったわね。[RAW:2823]外がすごく暗かったもの。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]어제 목장은 괜찮았니？[RAW:2B23]날씨가 참 심했지。[RAW:2823]밖이 너무 어두웠어。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]어제　목장은　괜찮았니？[RAW:2B23]날씨가　참　심했지。[RAW:2823]밖이　너무　어두웠어。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2B23]",
@@ -66,7 +66,7 @@
       "name": "5",
       "message": "[RAW:411F-C51F-491F]ウフフッ、よしよし。[RAW:2823]いい子ねぇ。[RAW:2823]うちでも飼いたいぐらいだわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]ウフフッ、よしよし。[RAW:2823]いい子ねぇ。[RAW:2823]うちでも飼いたいぐらいだわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]우후훗，옳지。[RAW:2823]착하구나。[RAW:2823]우리 집도 키우고파。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]우후훗，옳지。[RAW:2823]착하구나。[RAW:2823]우리　집도　키우고파。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -79,7 +79,7 @@
       "name": "6",
       "message": "[RAW:411F-C51F-481F]ちょっと、この子は苦手なの。[RAW:2823]ごめんなさいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]ちょっと、この子は苦手なの。[RAW:2823]ごめんなさいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]이 애는 좀 어려워。[RAW:2823]미안하구나。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]이　애는　좀　어려워。[RAW:2823]미안하구나。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -101,7 +101,7 @@
       "name": "8",
       "message": "[RAW:411F-C51F-491F]わぁ、おめでたいこと！[RAW:2823-2A23]さん、[RAW:2823]お相手はどなたかしら？[RAW:2B23]お相手がだれであっても、[RAW:2823-2A23]さんだったら、[RAW:2823]ぜったい[RAW:2F08-2B08]のはずよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]わぁ、おめでたいこと！[RAW:2823-2A23]さん、[RAW:2823]お相手はどなたかしら？[RAW:2B23]お相手がだれであっても、[RAW:2823-2A23]さんだったら、[RAW:2823]ぜったい[RAW:2F08-2B08]のはずよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]와아，경사네！[RAW:2A23]님，[RAW:2823]상대는 누구일까？[RAW:2B23-2823]누구든 간에，[RAW:2A23]님이라면，[RAW:2823]분명[RAW:2F08-2B08]일 거야。[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-491F]와아，경사네！[RAW:2A23]님，[RAW:2823]상대는　누구일까？[RAW:2B23-2823]누구든　간에，[RAW:2A23]님이라면，[RAW:2823]분명[RAW:2F08-2B08]일　거야。[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823-2A23]",
@@ -118,7 +118,7 @@
       "name": "9",
       "message": "[RAW:411F-C51F-481F]あら、わたしに？[RAW:2823]気を使わなくても、いいのよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]あら、わたしに？[RAW:2823]気を使わなくても、いいのよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]어라，나한테？[RAW:2823]신경 안 써도 돼。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]어라，나한테？[RAW:2823]신경　안　써도　돼。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -130,7 +130,7 @@
       "name": "10",
       "message": "[RAW:411F-C51F-481F]今もらっても、持てないの。[RAW:2823]ごめんなさい。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]今もらっても、持てないの。[RAW:2823]ごめんなさい。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]지금은 못 받아。[RAW:2823]미안해요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]지금은　못　받아。[RAW:2823]미안해요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -162,7 +162,7 @@
       "name": "13",
       "message": "[RAW:411F-C51F-481F]申し訳ないけど、[RAW:2823]今は間に合ってるの。[RAW:2B23]本当にごめんなさいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]申し訳ないけど、[RAW:2823]今は間に合ってるの。[RAW:2B23]本当にごめんなさいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]미안하지만，[RAW:2823]지금은 괜찮아。[RAW:2B23]정말 미안하구나。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]미안하지만，[RAW:2823]지금은　괜찮아。[RAW:2B23]정말　미안하구나。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -175,7 +175,7 @@
       "name": "14",
       "message": "[RAW:411F-C51F-491F]一番好きメッセージ（誕生日）[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]一番好きメッセージ（誕生日）[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]가장 좋아함（생일）[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]가장　좋아함（생일）[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:0E27]"
@@ -186,7 +186,7 @@
       "name": "15",
       "message": "[RAW:411F-C51F-491F]一番好きメッセージ[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]一番好きメッセージ[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]가장 좋아함[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]가장　좋아함[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:0E27]"
@@ -283,7 +283,7 @@
       "name": "24",
       "message": "[RAW:411F-C51F-481F]一番嫌いメッセージ[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]一番嫌いメッセージ[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]제일 싫어함[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]제일　싫어함[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:0E27]"
@@ -314,7 +314,7 @@
       "name": "27",
       "message": "[RAW:411F-C51F-491F-2A23]さん、[RAW:2823]結婚生活は楽しんでます？[RAW:2B23]若いご夫婦をみると、[RAW:2823]昔のことを思い出しますわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F-2A23]さん、[RAW:2823]結婚生活は楽しんでます？[RAW:2B23]若いご夫婦をみると、[RAW:2823]昔のことを思い出しますわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F-2A23]님，[RAW:2823]결혼 생활은 즐거워？[RAW:2B23]젊은 부부를 보면，[RAW:2823]옛날이 떠올라。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F-2A23]님，[RAW:2823]결혼　생활은　즐거워？[RAW:2B23]젊은　부부를　보면，[RAW:2823]옛날이　떠올라。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F-2A23]",
         "[RAW:2823]",
@@ -328,7 +328,7 @@
       "name": "28",
       "message": "[RAW:411F-C51F-481F]あれだけ風が強いと、[RAW:2823]みんな寝不足じゃないかしら？[RAW:2B23]わたしは、風の音がすごくて、[RAW:2823]寝られなかったもの。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]あれだけ風が強いと、[RAW:2823]みんな寝不足じゃないかしら？[RAW:2B23]わたしは、風の音がすごくて、[RAW:2823]寝られなかったもの。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]그렇게 바람이 세면，[RAW:2823]다들 못 잤겠지？[RAW:2B23]난 바람 소리가[RAW:2823]너무 커서 못 잤어。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]그렇게　바람이　세면，[RAW:2823]다들　못　잤겠지？[RAW:2B23]난　바람　소리가[RAW:2823]너무　커서　못　잤어。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -342,7 +342,7 @@
       "name": "29",
       "message": "[RAW:411F-C51F-491F]小さいころは、昨日みたいな[RAW:2823]大雪が降ると喜んだものよ。[RAW:2B23-411F-C51F-481F]でも、大人になってみると、[RAW:2823]雪かきの大変さに[RAW:2823]目が回りそうよね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]小さいころは、昨日みたいな[RAW:2823]大雪が降ると喜んだものよ。[RAW:2B23-411F-C51F-481F]でも、大人になってみると、[RAW:2823]雪かきの大変さに[RAW:2823]目が回りそうよね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]어릴 땐 어제 같은[RAW:2823]폭설도 반가웠지。[RAW:2B23-411F-C51F-481F]하지만 어른 되면，[RAW:2823]눈 치우기가 힘들어[RAW:2823]정신이 없잖아。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]어릴　땐　어제　같은[RAW:2823]폭설도　반가웠지。[RAW:2B23-411F-C51F-481F]하지만　어른　되면，[RAW:2823]눈　치우기가　힘들어[RAW:2823]정신이　없잖아。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -357,7 +357,7 @@
       "name": "30",
       "message": "[RAW:411F-C51F-491F]いつも、ルドガーと[RAW:2823]話すんですよ。[RAW:2B23-2A23]さんが、[RAW:2823]村にいてくれてよかったって。[RAW:2B23]てれなくてもいいですよ。[RAW:2823]本当のことですから。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]いつも、ルドガーと[RAW:2823]話すんですよ。[RAW:2B23-2A23]さんが、[RAW:2823]村にいてくれてよかったって。[RAW:2B23]てれなくてもいいですよ。[RAW:2823]本当のことですから。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]늘 루드거랑[RAW:2823]이 얘길 해요。[RAW:2B23-2A23]님이，[RAW:2823]마을에 있어줘서 좋대요。[RAW:2B23]쑥스러워 말아요。[RAW:2823]사실이니까요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]늘　루드거랑[RAW:2823]이　얘길　해요。[RAW:2B23-2A23]님이，[RAW:2823]마을에　있어줘서　좋대요。[RAW:2B23]쑥스러워　말아요。[RAW:2823]사실이니까요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -373,7 +373,7 @@
       "name": "31",
       "message": "[RAW:411F-C51F-491F]うちの人ったら、[RAW:2823-2A23]さんのこと、[RAW:2823]すごく気に入ってるみたいよ。[RAW:2B23]家でも、[RAW:2823-2A23]さんの話で、[RAW:2823]持ちきりよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]うちの人ったら、[RAW:2823-2A23]さんのこと、[RAW:2823]すごく気に入ってるみたいよ。[RAW:2B23]家でも、[RAW:2823-2A23]さんの話で、[RAW:2823]持ちきりよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]우리 영감이 말야，[RAW:2A23]님을，[RAW:2823]아주 맘에 든대。[RAW:2B23-2823]집에서도，[RAW:2A23]님 얘기로，[RAW:2823]온통 떠들썩해。[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-491F]우리　영감이　말야，[RAW:2A23]님을，[RAW:2823]아주　맘에　든대。[RAW:2B23-2823]집에서도，[RAW:2A23]님　얘기로，[RAW:2823]온통　떠들썩해。[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823-2A23]",
@@ -389,7 +389,7 @@
       "name": "32",
       "message": "[RAW:411F-C51F-481F-2A23]さんと[RAW:2823]会話をすると楽しいわ。[RAW:2B23]牧場の話をしてもらうのを[RAW:2823]いつも楽しみにしてるのよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F-2A23]さんと[RAW:2823]会話をすると楽しいわ。[RAW:2B23]牧場の話をしてもらうのを[RAW:2823]いつも楽しみにしてるのよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F-2A23]님과[RAW:2823]얘기하면 즐거워。[RAW:2B23]목장 얘기 들려주는 걸[RAW:2823]늘 기대하고 있어。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F-2A23]님과[RAW:2823]얘기하면　즐거워。[RAW:2B23]목장　얘기　들려주는　걸[RAW:2823]늘　기대하고　있어。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F-2A23]",
         "[RAW:2823]",
@@ -403,7 +403,7 @@
       "name": "33",
       "message": "[RAW:411F-C51F-481F-2A23]さんは、[RAW:2823]人当たりがやわらかいって、[RAW:2823]ご近所でも評判よ。[RAW:2B23-411F-C51F-491F-2A23]さんの[RAW:2823]いい評判を聞くと[RAW:2823]わたしもうれしくなりますわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F-2A23]さんは、[RAW:2823]人当たりがやわらかいって、[RAW:2823]ご近所でも評判よ。[RAW:2B23-411F-C51F-491F-2A23]さんの[RAW:2823]いい評判を聞くと[RAW:2823]わたしもうれしくなりますわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F-2A23]님은，[RAW:2823]성품이 참 부드럽다고，[RAW:2823]이웃 평이 좋아。[RAW:2B23-411F-C51F-491F-2A23]님의[RAW:2823]좋은 소문을 들으면[RAW:2823]나도 기쁘답니다。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F-2A23]님은，[RAW:2823]성품이　참　부드럽다고，[RAW:2823]이웃　평이　좋아。[RAW:2B23-411F-C51F-491F-2A23]님의[RAW:2823]좋은　소문을　들으면[RAW:2823]나도　기쁘답니다。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F-2A23]",
         "[RAW:2823]",
@@ -419,7 +419,7 @@
       "name": "34",
       "message": "[RAW:411F-C51F-481F]ここの生活は順調？[RAW:2823]何かあったら、[RAW:2823]いつでも相談にいらっしゃい。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]ここの生活は順調？[RAW:2823]何かあったら、[RAW:2823]いつでも相談にいらっしゃい。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]여기 생활은 어때？[RAW:2823]무슨 일 있으면，[RAW:2823]언제든 오렴。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]여기　생활은　어때？[RAW:2823]무슨　일　있으면，[RAW:2823]언제든　오렴。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -432,7 +432,7 @@
       "name": "35",
       "message": "[RAW:411F-C51F-481F]元気そうで何よりです。[RAW:2823]何事も元気が一番ですものね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]元気そうで何よりです。[RAW:2823]何事も元気が一番ですものね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]건강해 보여 다행。[RAW:2823]뭐든 건강이 최고죠。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]건강해　보여　다행。[RAW:2823]뭐든　건강이　최고죠。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -444,7 +444,7 @@
       "name": "36",
       "message": "[RAW:411F-C51F-481F]役場のお仕事って、[RAW:2823]地味な仕事に見えるけど、[RAW:2823]けっこう楽しいものよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]役場のお仕事って、[RAW:2823]地味な仕事に見えるけど、[RAW:2823]けっこう楽しいものよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]관청 일은 말이지，[RAW:2823]수수해 보여도，[RAW:2823]꽤 재밌단다。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]관청　일은　말이지，[RAW:2823]수수해　보여도，[RAW:2823]꽤　재밌단다。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -817,7 +817,7 @@
       "name": "73",
       "message": "[RAW:411F-C51F-481F]おやおや、[RAW:2823]これは、今日のお祭りのもの？[RAW:2823]頑張ってきなさいな。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]おやおや、[RAW:2823]これは、今日のお祭りのもの？[RAW:2823]頑張ってきなさいな。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]어머나，[RAW:2823]오늘 축제 물건이니？[RAW:2823]열심히 하고 오렴。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]어머나，[RAW:2823]오늘　축제　물건이니？[RAW:2823]열심히　하고　오렴。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -850,7 +850,7 @@
       "name": "76",
       "message": "[RAW:411F-C51F-481F]普通のペットメッセージ[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]普通のペットメッセージ[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]보통 펫 메시지[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]보통　펫　메시지[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:0E27]"
@@ -861,7 +861,7 @@
       "name": "77",
       "message": "[RAW:411F-C51F-481F]好きな野生動物メッセージ[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]好きな野生動物メッセージ[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]좋아하는 야생동물 대사[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]좋아하는　야생동물　대사[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:0E27]"
@@ -872,7 +872,7 @@
       "name": "78",
       "message": "[RAW:411F-C51F-481F]嫌いな野生動物メッセージ[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]嫌いな野生動物メッセージ[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]싫어하는 야생동물 대사[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]싫어하는　야생동물　대사[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:0E27]"
@@ -883,7 +883,7 @@
       "name": "79",
       "message": "[RAW:411F-C51F-481F]普通の野生動物メッセージ[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]普通の野生動物メッセージ[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]보통 야생동물 대사[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]보통　야생동물　대사[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:0E27]"
@@ -1014,7 +1014,7 @@
       "name": "92",
       "message": "[RAW:411F-C51F-491F]こんなステキな花を[RAW:2823]もらえるなんて…[RAW:2823]本当にありがとう。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]こんなステキな花を[RAW:2823]もらえるなんて…[RAW:2823]本当にありがとう。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]이런 멋진 꽃을[RAW:2823]받을 줄은…[RAW:2823]정말 고마워요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]이런　멋진　꽃을[RAW:2823]받을　줄은…[RAW:2823]정말　고마워요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -1087,7 +1087,7 @@
       "name": "99",
       "message": "[RAW:411F-C51F-491F]まぁまぁ、[RAW:2823]何かしら…？[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]まぁまぁ、[RAW:2823]何かしら…？[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]어머나，[RAW:2823]무슨 일이니…？[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]어머나，[RAW:2823]무슨　일이니…？[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -1099,7 +1099,7 @@
       "name": "100",
       "message": "[RAW:411F-C51F-491F]これからも、[RAW:2823-0008]ずっと仲のいい話し相手で[RAW:2823]いてくださいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]これからも、[RAW:2823-0008]ずっと仲のいい話し相手で[RAW:2823]いてくださいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]앞으로도，[RAW:2823-0008]계속 다정한 말벗이[RAW:2823]되어 주세요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]앞으로도，[RAW:2823-0008]계속　다정한　말벗이[RAW:2823]되어　주세요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823-0008]",
@@ -1122,7 +1122,7 @@
       "name": "102",
       "message": "[RAW:411F-C51F-481F]ここにいる時は、[RAW:2823]気分が安らぐの。[RAW:2B23]役場といっても、[RAW:2823]自分の家ですものね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]ここにいる時は、[RAW:2823]気分が安らぐの。[RAW:2B23]役場といっても、[RAW:2823]自分の家ですものね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]여기 있으면，[RAW:2823]마음이 편안해。[RAW:2B23]관청이라 해도，[RAW:2823]내 집이나 같아。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]여기　있으면，[RAW:2823]마음이　편안해。[RAW:2B23]관청이라　해도，[RAW:2823]내　집이나　같아。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1136,7 +1136,7 @@
       "name": "103",
       "message": "[RAW:411F-C51F-481F]わたし、うちの人の[RAW:2823]お手伝いをやってるの。[RAW:2823]けっこう楽しいわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]わたし、うちの人の[RAW:2823]お手伝いをやってるの。[RAW:2823]けっこう楽しいわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]난 우리 영감[RAW:2823]일을 돕고 있어。[RAW:2823]꽤 즐겁단다。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]난　우리　영감[RAW:2823]일을　돕고　있어。[RAW:2823]꽤　즐겁단다。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1149,7 +1149,7 @@
       "name": "104",
       "message": "[RAW:411F-C51F-481F]あら、何かしら？[RAW:2823]エドガーにご用かしら？[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]あら、何かしら？[RAW:2823]エドガーにご用かしら？[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]어머，무슨 일이니？[RAW:2823]에드거 볼일 있니？[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]어머，무슨　일이니？[RAW:2823]에드거　볼일　있니？[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1161,7 +1161,7 @@
       "name": "105",
       "message": "[RAW:411F-C51F-481F]あわただしいけれど、[RAW:2823]ゆっくりしていってね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]あわただしいけれど、[RAW:2823]ゆっくりしていってね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]좀 분주하지만，[RAW:2823]쉬었다 가렴。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]좀　분주하지만，[RAW:2823]쉬었다　가렴。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1173,7 +1173,7 @@
       "name": "106",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その１[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その１[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 １[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　１[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1185,7 +1185,7 @@
       "name": "107",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その２[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その２[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ２[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　２[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1197,7 +1197,7 @@
       "name": "108",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その３[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その３[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ３[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　３[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1209,7 +1209,7 @@
       "name": "109",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その４[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その４[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ４[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　４[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1221,7 +1221,7 @@
       "name": "110",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その５[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その５[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ５[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　５[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1233,7 +1233,7 @@
       "name": "111",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その６[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その６[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ６[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　６[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1245,7 +1245,7 @@
       "name": "112",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その７[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その７[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ７[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　７[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1257,7 +1257,7 @@
       "name": "113",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その８[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その８[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ８[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　８[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1269,7 +1269,7 @@
       "name": "114",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その９[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その９[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 ９[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　９[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1281,7 +1281,7 @@
       "name": "115",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その１０[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その１０[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 １０[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　１０[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1293,7 +1293,7 @@
       "name": "116",
       "message": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その１１[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]屋外エリア用メッセージ[RAW:2823]その１１[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]야외 구역용 대사[RAW:2823]그 １１[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]야외　구역용　대사[RAW:2823]그　１１[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1305,7 +1305,7 @@
       "name": "117",
       "message": "[RAW:411F-C51F-481F]個別２メッセージ[RAW:2823]その１[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]個別２メッセージ[RAW:2823]その１[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]개별２ 대사[RAW:2823]그 １[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]개별２　대사[RAW:2823]그　１[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1317,7 +1317,7 @@
       "name": "118",
       "message": "[RAW:411F-C51F-481F]個別２メッセージ[RAW:2823]その２[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]個別２メッセージ[RAW:2823]その２[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]개별２ 대사[RAW:2823]그 ２[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]개별２　대사[RAW:2823]그　２[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1329,7 +1329,7 @@
       "name": "119",
       "message": "[RAW:411F-C51F-481F]個別２メッセージ[RAW:2823]その３[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]個別２メッセージ[RAW:2823]その３[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]개별２ 대사[RAW:2823]그 ３[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]개별２　대사[RAW:2823]그　３[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1381,7 +1381,7 @@
       "name": "124",
       "message": "[RAW:411F-C51F-481F]残念だったみたいね。[RAW:2823]来年、頑張ればいいのよ。[RAW:2823]ほら、わらってわらって。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]残念だったみたいね。[RAW:2823]来年、頑張ればいいのよ。[RAW:2823]ほら、わらってわらって。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]아쉬웠던 모양이네。[RAW:2823]내년엔 힘내면 돼。[RAW:2823]자，웃어 봐，웃어。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]아쉬웠던　모양이네。[RAW:2823]내년엔　힘내면　돼。[RAW:2823]자，웃어　봐，웃어。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1394,7 +1394,7 @@
       "name": "125",
       "message": "[RAW:411F-C51F-491F]毎年、この時期になると[RAW:2823]楽しみでしょうがないの。[RAW:2B23]今年は、どんな内容に[RAW:2823]なるのかしら？[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]毎年、この時期になると[RAW:2823]楽しみでしょうがないの。[RAW:2B23]今年は、どんな内容に[RAW:2823]なるのかしら？[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]해마다 이맘때면[RAW:2823]너무 기대돼。[RAW:2B23]올해는 어떤 내용일지[RAW:2823]궁금하구나？[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]해마다　이맘때면[RAW:2823]너무　기대돼。[RAW:2B23]올해는　어떤　내용일지[RAW:2823]궁금하구나？[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -1408,7 +1408,7 @@
       "name": "126",
       "message": "[RAW:411F-C51F-491F]あら、出なかったの？[RAW:2B23]残念ねぇ。[RAW:2823]次は参加してくださいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]あら、出なかったの？[RAW:2B23]残念ねぇ。[RAW:2823]次は参加してくださいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]어머，안 나갔니？[RAW:2B23]아쉽구나。[RAW:2823]다음엔 나가 줘요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]어머，안　나갔니？[RAW:2B23]아쉽구나。[RAW:2823]다음엔　나가　줘요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2B23]",
@@ -1431,7 +1431,7 @@
       "name": "128",
       "message": "[RAW:411F-C51F-481F-2A23]さんが、[RAW:2823]一番だと思ったのに・・・[RAW:2B23]今回は運が悪かっただけよ。[RAW:2823]次は必ず優勝できるわよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F-2A23]さんが、[RAW:2823]一番だと思ったのに・・・[RAW:2B23]今回は運が悪かっただけよ。[RAW:2823]次は必ず優勝できるわよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F-2A23]님이，[RAW:2823]제일일 줄 알았는데…[RAW:2B23]이번엔 운이 없었을 뿐。[RAW:2823]다음엔 꼭 우승해。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F-2A23]님이，[RAW:2823]제일일　줄　알았는데…[RAW:2B23]이번엔　운이　없었을　뿐。[RAW:2823]다음엔　꼭　우승해。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F-2A23]",
         "[RAW:2823]",
@@ -1655,7 +1655,7 @@
       "name": "150",
       "message": "[RAW:411F-C51F-481F]さぁ、[RAW:2A23]さん。[RAW:2823]今日は、頑張りましょうね。[RAW:2823]うちの村は負けませんよ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]さぁ、[RAW:2A23]さん。[RAW:2823]今日は、頑張りましょうね。[RAW:2823]うちの村は負けませんよ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]자，[RAW:2A23]님。[RAW:2823]오늘은 힘내 봐요。[RAW:2823]우리 마을 안 져요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]자，[RAW:2A23]님。[RAW:2823]오늘은　힘내　봐요。[RAW:2823]우리　마을　안　져요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2A23]",
@@ -1859,7 +1859,7 @@
       "name": "170",
       "message": "[RAW:411F-C51F-481F]おはようございます。[RAW:2823-2A23]さん。[RAW:2B23]朝から仕事？[RAW:2823]頑張ってくださいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]おはようございます。[RAW:2823-2A23]さん。[RAW:2B23]朝から仕事？[RAW:2823]頑張ってくださいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]좋은 아침이에요。[RAW:2B23]님。[RAW:2A23]아침부터 일이니？[RAW:2823]힘내 주세요。[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-481F]좋은　아침이에요。[RAW:2B23]님。[RAW:2A23]아침부터　일이니？[RAW:2823]힘내　주세요。[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823-2A23]",
@@ -1873,7 +1873,7 @@
       "name": "171",
       "message": "[RAW:411F-C51F-481F-2A23]さん、[RAW:2823]おはようございます。[RAW:2B23]今日は、どうしたのかしら？[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F-2A23]さん、[RAW:2823]おはようございます。[RAW:2B23]今日は、どうしたのかしら？[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F-2A23]님，[RAW:2823]좋은 아침이에요。[RAW:2B23]오늘은 무슨 일이니？[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F-2A23]님，[RAW:2823]좋은　아침이에요。[RAW:2B23]오늘은　무슨　일이니？[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F-2A23]",
         "[RAW:2823]",
@@ -1886,7 +1886,7 @@
       "name": "172",
       "message": "[RAW:411F-C51F-481F]おはようございます。[RAW:2823]朝からおいそがしそうですね。[RAW:2B23]ご無理をせず、[RAW:2823]頑張ってくださいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]おはようございます。[RAW:2823]朝からおいそがしそうですね。[RAW:2B23]ご無理をせず、[RAW:2823]頑張ってくださいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]좋은 아침이에요。[RAW:2823]아침부터 바쁘겠네요。[RAW:2B23]무리하지 말고，[RAW:2823]힘내 주세요。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]좋은　아침이에요。[RAW:2823]아침부터　바쁘겠네요。[RAW:2B23]무리하지　말고，[RAW:2823]힘내　주세요。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -1900,7 +1900,7 @@
       "name": "173",
       "message": "[RAW:411F-C51F-481F]こんにちは。[RAW:2823-2A23]さん。[RAW:2B23]今日も元気そうね。[RAW:2823]頑張ってくださいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]こんにちは。[RAW:2823-2A23]さん。[RAW:2B23]今日も元気そうね。[RAW:2823]頑張ってくださいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]안녕하세요。[RAW:2B23]님。[RAW:2A23]오늘도 건강해 보여。[RAW:2823]힘내 주세요。[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-481F]안녕하세요。[RAW:2B23]님。[RAW:2A23]오늘도　건강해　보여。[RAW:2823]힘내　주세요。[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823-2A23]",
@@ -1914,7 +1914,7 @@
       "name": "174",
       "message": "[RAW:411F-C51F-491F-2A23]さん、[RAW:2823]こんにちは。[RAW:2B23]ご飯は食べたかしら？[RAW:2823-0008]牧場で食べるご飯は、[RAW:2823]すごくおいしいのでしょうね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F-2A23]さん、[RAW:2823]こんにちは。[RAW:2B23]ご飯は食べたかしら？[RAW:2823-0008]牧場で食べるご飯は、[RAW:2823]すごくおいしいのでしょうね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F-2A23]님，[RAW:2823]안녕하세요。[RAW:2B23]밥은 먹었니？[RAW:2823-0008]목장에서 먹는 밥은，[RAW:2823]무척 맛있겠지。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F-2A23]님，[RAW:2823]안녕하세요。[RAW:2B23]밥은　먹었니？[RAW:2823-0008]목장에서　먹는　밥은，[RAW:2823]무척　맛있겠지。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F-2A23]",
         "[RAW:2823]",
@@ -1929,7 +1929,7 @@
       "name": "175",
       "message": "[RAW:411F-C51F-491F]こんにちは。[RAW:2B23]今度、牧場へ遊びに[RAW:2823]いかせていただくわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]こんにちは。[RAW:2B23]今度、牧場へ遊びに[RAW:2823]いかせていただくわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]안녕하세요。[RAW:2B23]다음에 목장에 놀러[RAW:2823]가 보도록 할게。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]안녕하세요。[RAW:2B23]다음에　목장에　놀러[RAW:2823]가　보도록　할게。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2B23]",
@@ -1942,7 +1942,7 @@
       "name": "176",
       "message": "[RAW:411F-C51F-481F]こんばんは。[RAW:2823-2A23]さん。[RAW:2B23]もう、こんな時間？[RAW:2823]年をとると時間がたつのが[RAW:2823]早いわぁ…[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]こんばんは。[RAW:2823-2A23]さん。[RAW:2B23]もう、こんな時間？[RAW:2823]年をとると時間がたつのが[RAW:2823]早いわぁ…[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]좋은 저녁이야。[RAW:2B23]님。[RAW:2A23]벌써 이 시간이니？[RAW:2823]나이 들면 시간이[RAW:2823]참 빠르구나…[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-481F]좋은　저녁이야。[RAW:2B23]님。[RAW:2A23]벌써　이　시간이니？[RAW:2823]나이　들면　시간이[RAW:2823]참　빠르구나…[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823-2A23]",
@@ -1957,7 +1957,7 @@
       "name": "177",
       "message": "[RAW:411F-C51F-481F-2A23]さん、[RAW:2823]こんばんは。[RAW:2B23]こんな時間に、[RAW:2823]何かご用かしら？[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F-2A23]さん、[RAW:2823]こんばんは。[RAW:2B23]こんな時間に、[RAW:2823]何かご用かしら？[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F-2A23]님，[RAW:2823]좋은 저녁이야。[RAW:2B23]이 시간에，[RAW:2823]무슨 볼일이니？[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F-2A23]님，[RAW:2823]좋은　저녁이야。[RAW:2B23]이　시간에，[RAW:2823]무슨　볼일이니？[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F-2A23]",
         "[RAW:2823]",
@@ -1971,7 +1971,7 @@
       "name": "178",
       "message": "[RAW:411F-C51F-481F]こんばんは。[RAW:2B23]外は暗いから足元には、[RAW:2823]注意しなさいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]こんばんは。[RAW:2B23]外は暗いから足元には、[RAW:2823]注意しなさいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]좋은 저녁이야。[RAW:2B23]밖이 어두우니 발밑[RAW:2823]조심하렴。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]좋은　저녁이야。[RAW:2B23]밖이　어두우니　발밑[RAW:2823]조심하렴。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2B23]",
@@ -2014,7 +2014,7 @@
       "name": "182",
       "message": "[RAW:411F-C51F-481F]店営業中のメッセージ[RAW:2823]その１[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]店営業中のメッセージ[RAW:2823]その１[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]영업 중 대사[RAW:2823]그 １[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]영업　중　대사[RAW:2823]그　１[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2026,7 +2026,7 @@
       "name": "183",
       "message": "[RAW:411F-C51F-481F]店営業中のメッセージ[RAW:2823]その２[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]店営業中のメッセージ[RAW:2823]その２[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]영업 중 대사[RAW:2823]그 ２[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]영업　중　대사[RAW:2823]그　２[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2038,7 +2038,7 @@
       "name": "184",
       "message": "[RAW:411F-C51F-481F]店営業中のメッセージ[RAW:2823]その３[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]店営業中のメッセージ[RAW:2823]その３[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]영업 중 대사[RAW:2823]그 ３[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]영업　중　대사[RAW:2823]그　３[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2050,7 +2050,7 @@
       "name": "185",
       "message": "[RAW:411F-C51F-481F]カフェ・食事所にいる時の[RAW:2823]メッセージその１[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]カフェ・食事所にいる時の[RAW:2823]メッセージその１[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]카페・식당에 있을 때[RAW:2823]대사 １[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]카페・식당에　있을　때[RAW:2823]대사　１[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2062,7 +2062,7 @@
       "name": "186",
       "message": "[RAW:411F-C51F-481F]カフェ・食事所にいる時の[RAW:2823]メッセージその２[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]カフェ・食事所にいる時の[RAW:2823]メッセージその２[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]카페・식당에 있을 때[RAW:2823]대사 ２[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]카페・식당에　있을　때[RAW:2823]대사　２[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2074,7 +2074,7 @@
       "name": "187",
       "message": "[RAW:411F-C51F-481F]カフェ・食事所にいる時の[RAW:2823]メッセージその３[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]カフェ・食事所にいる時の[RAW:2823]メッセージその３[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]카페・식당에 있을 때[RAW:2823]대사 ３[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]카페・식당에　있을　때[RAW:2823]대사　３[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2086,7 +2086,7 @@
       "name": "188",
       "message": "[RAW:411F-C51F-481F]その他室内在住用の[RAW:2823]メッセージその１[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]その他室内在住用の[RAW:2823]メッセージその１[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]기타 실내용[RAW:2823]대사 １[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]기타　실내용[RAW:2823]대사　１[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2098,7 +2098,7 @@
       "name": "189",
       "message": "[RAW:411F-C51F-481F]その他室内在住用の[RAW:2823]メッセージその２[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]その他室内在住用の[RAW:2823]メッセージその２[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]기타 실내용[RAW:2823]대사 ２[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]기타　실내용[RAW:2823]대사　２[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2110,7 +2110,7 @@
       "name": "190",
       "message": "[RAW:411F-C51F-481F]その他室内在住用の[RAW:2823]メッセージその３[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]その他室内在住用の[RAW:2823]メッセージその３[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]기타 실내용[RAW:2823]대사 ３[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]기타　실내용[RAW:2823]대사　３[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",
@@ -2212,7 +2212,7 @@
       "name": "200",
       "message": "[RAW:411F-C51F-491F]おめでとう！[RAW:2823-2A23]さん！！[RAW:2B23]あなたの料理が、[RAW:2823]一番おいしそうだったわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]おめでとう！[RAW:2823-2A23]さん！！[RAW:2B23]あなたの料理が、[RAW:2823]一番おいしそうだったわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]축하해！[RAW:2B23]님！！[RAW:2A23]네 요리가[RAW:2823]제일 맛있어 보여。[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-491F]축하해！[RAW:2B23]님！！[RAW:2A23]네　요리가[RAW:2823]제일　맛있어　보여。[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823-2A23]",
@@ -2226,7 +2226,7 @@
       "name": "201",
       "message": "[RAW:411F-C51F-491F]おめでとう！[RAW:2B23]今度、お料理を[RAW:2823]教えてもらおうかしら？[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]おめでとう！[RAW:2B23]今度、お料理を[RAW:2823]教えてもらおうかしら？[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]축하해！[RAW:2B23]다음엔 요리를[RAW:2823]가르쳐 줄래？[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]축하해！[RAW:2B23]다음엔　요리를[RAW:2823]가르쳐　줄래？[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2B23]",
@@ -2239,7 +2239,7 @@
       "name": "202",
       "message": "[RAW:411F-C51F-491F]おめでとう！[RAW:2823-2A23]さん！！[RAW:2B23]やっぱり、牧場だから[RAW:2823]食材がいいの？[RAW:2823]今度、食べさせてくださいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]おめでとう！[RAW:2823-2A23]さん！！[RAW:2B23]やっぱり、牧場だから[RAW:2823]食材がいいの？[RAW:2823]今度、食べさせてくださいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]축하해！[RAW:2B23]님！！[RAW:2A23]역시 목장이니까[RAW:2823]재료가 좋은 거니？[RAW:2823]다음에 먹여 줘요。[RAW:2823-0E27]",
+      "translation": "[RAW:411F-C51F-491F]축하해！[RAW:2B23]님！！[RAW:2A23]역시　목장이니까[RAW:2823]재료가　좋은　거니？[RAW:2823]다음에　먹여　줘요。[RAW:2823-0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823-2A23]",
@@ -2254,7 +2254,7 @@
       "name": "203",
       "message": "[RAW:411F-C51F-491F]今日は、[RAW:2823]お祭り日和だったわね。[RAW:2823]ポカポカしていい気持ちだわ。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]今日は、[RAW:2823]お祭り日和だったわね。[RAW:2823]ポカポカしていい気持ちだわ。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]오늘은，[RAW:2823]축제 날씨였네。[RAW:2823]포근해서 좋았어。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]오늘은，[RAW:2823]축제　날씨였네。[RAW:2823]포근해서　좋았어。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -2267,7 +2267,7 @@
       "name": "204",
       "message": "[RAW:411F-C51F-491F]今日は楽しめたかしら？[RAW:2823]その顔を見ると[RAW:2823]楽しめたみたいね。[RAW:0E27]",
       "original": "[RAW:411F-C51F-491F]今日は楽しめたかしら？[RAW:2823]その顔を見ると[RAW:2823]楽しめたみたいね。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-491F]오늘은 즐거웠니？[RAW:2823]그 얼굴을 보니[RAW:2823]즐거웠던 모양이네。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-491F]오늘은　즐거웠니？[RAW:2823]그　얼굴을　보니[RAW:2823]즐거웠던　모양이네。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-491F]",
         "[RAW:2823]",
@@ -2280,7 +2280,7 @@
       "name": "205",
       "message": "[RAW:411F-C51F-481F]お祭りの後って、[RAW:2823]何だか少しさみしいわ…[RAW:2823]ルドガーもさみしそう。[RAW:0E27]",
       "original": "[RAW:411F-C51F-481F]お祭りの後って、[RAW:2823]何だか少しさみしいわ…[RAW:2823]ルドガーもさみしそう。[RAW:0E27]",
-      "translation": "[RAW:411F-C51F-481F]축제 뒤에는，[RAW:2823]왠지 좀 쓸쓸해…[RAW:2823]루드거도 그래 보여。[RAW:0E27]",
+      "translation": "[RAW:411F-C51F-481F]축제　뒤에는，[RAW:2823]왠지　좀　쓸쓸해…[RAW:2823]루드거도　그래　보여。[RAW:0E27]",
       "controls": [
         "[RAW:411F-C51F-481F]",
         "[RAW:2823]",

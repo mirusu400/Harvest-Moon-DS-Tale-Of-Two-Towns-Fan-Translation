@@ -10,7 +10,7 @@
       "name": "0",
       "message": "[RAW:461F-AA1F-491F-3621]じゃあ、どこへ行こうか？[RAW:0E27]",
       "original": "[RAW:461F-AA1F-491F-3621]じゃあ、どこへ行こうか？[RAW:0E27]",
-      "translation": "[RAW:461F-AA1F-491F-3621]그럼、어디로 갈까？[RAW:0E27]",
+      "translation": "[RAW:461F-AA1F-491F-3621]그럼、어디로　갈까？[RAW:0E27]",
       "controls": [
         "[RAW:461F-AA1F-491F-3621]",
         "[RAW:0E27]"
