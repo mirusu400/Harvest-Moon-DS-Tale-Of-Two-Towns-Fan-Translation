@@ -1,0 +1,433 @@
+{
+  "source_file": "mes_data_0040.hav",
+  "container_index": 40,
+  "entry_count": 42,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "画面をタッチしてください[RAW:0E27]",
+      "original": "画面をタッチしてください[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "はじめから[RAW:0E27]",
+      "original": "はじめから[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "つづきから[RAW:0E27]",
+      "original": "つづきから[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "通信[RAW:0E27]",
+      "original": "通信[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "データがありません[RAW:0E27]",
+      "original": "データがありません[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "[RAW:2A23-0E27]",
+      "original": "[RAW:2A23-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2A23-0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "[RAW:3023-0E27]",
+      "original": "[RAW:3023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:3023-0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "どこを使ってゲームを始める？[RAW:0E27]",
+      "original": "どこを使ってゲームを始める？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "ここに上書きしますか？[RAW:0E27]",
+      "original": "ここに上書きしますか？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "はい[RAW:0E27]",
+      "original": "はい[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "いいえ[RAW:0E27]",
+      "original": "いいえ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "どれをロードするかえらんでね[RAW:0E27]",
+      "original": "どれをロードするかえらんでね[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "これをロードしますか？[RAW:0E27]",
+      "original": "これをロードしますか？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "ロード中です。[RAW:0E27]",
+      "original": "ロード中です。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "電源を切ったり、[RAW:2408-3308]カードを[RAW:0E27]",
+      "original": "電源を切ったり、[RAW:2408-3308]カードを[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2408-3308]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "抜き差ししないでください。[RAW:0E27]",
+      "original": "抜き差ししないでください。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "セーブ中です。[RAW:0E27]",
+      "original": "セーブ中です。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "セーブしました。[RAW:0E27]",
+      "original": "セーブしました。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "データを読めませんでした。[RAW:0E27]",
+      "original": "データを読めませんでした。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "電源を切って、[RAW:2408-3308]カードを[RAW:0E27]",
+      "original": "電源を切って、[RAW:2408-3308]カードを[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2408-3308]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "差込なおしてください。[RAW:0E27]",
+      "original": "差込なおしてください。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "セーブデータ１は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
+      "original": "セーブデータ１は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823-0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "セーブデータ１を消します。[RAW:0E27]",
+      "original": "セーブデータ１を消します。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "セーブデータ２は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
+      "original": "セーブデータ２は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823-0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "セーブデータ２を消します。[RAW:0E27]",
+      "original": "セーブデータ２を消します。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "データを書込めませんでした。[RAW:0E27]",
+      "original": "データを書込めませんでした。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "セーブデータ１は壊れているか[RAW:0E27]",
+      "original": "セーブデータ１は壊れているか[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "読込めませんでした。[RAW:0E27]",
+      "original": "読込めませんでした。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "セーブデータ１を消します。[RAW:0E27]",
+      "original": "セーブデータ１を消します。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "セーブデータ２は壊れているか[RAW:0E27]",
+      "original": "セーブデータ２は壊れているか[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "読込めませんでした。[RAW:0E27]",
+      "original": "読込めませんでした。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "36",
+      "message": "セーブデータ２を消します。[RAW:0E27]",
+      "original": "セーブデータ２を消します。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "37",
+      "message": "まだ通信できないファイルだ…[RAW:0E27]",
+      "original": "まだ通信できないファイルだ…[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "38",
+      "message": "　データのないファイルです　[RAW:0E27]",
+      "original": "　データのないファイルです　[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "39",
+      "message": "最新のセーブデータが破損して[RAW:0E27]",
+      "original": "最新のセーブデータが破損して[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "40",
+      "message": "います。バックアップがある[RAW:0E27]",
+      "original": "います。バックアップがある[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "41",
+      "message": "場合は復元します。[RAW:0E27-0F27]－",
+      "original": "場合は復元します。[RAW:0E27-0F27]－",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

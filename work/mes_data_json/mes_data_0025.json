@@ -1,0 +1,229 @@
+{
+  "source_file": "mes_data_0025.hav",
+  "container_index": 25,
+  "entry_count": 22,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "改造うけたまわる！[RAW:0E27]",
+      "original": "改造うけたまわる！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "限界突破！クワ[RAW:0E27]",
+      "original": "限界突破！クワ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "限界突破！じょうろ[RAW:0E27]",
+      "original": "限界突破！じょうろ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "限界突破！カマ[RAW:0E27]",
+      "original": "限界突破！カマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "クワＬｖ２[RAW:0E27]",
+      "original": "クワＬｖ２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "クワＬｖ３[RAW:0E27]",
+      "original": "クワＬｖ３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "クワＬｖ４[RAW:0E27]",
+      "original": "クワＬｖ４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "クワＬｖ５[RAW:0E27]",
+      "original": "クワＬｖ５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "クワＬｖ６[RAW:0E27]",
+      "original": "クワＬｖ６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "最強のクワ！[RAW:0E27]",
+      "original": "最強のクワ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "じょうろＬｖ２[RAW:0E27]",
+      "original": "じょうろＬｖ２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "じょうろＬｖ３[RAW:0E27]",
+      "original": "じょうろＬｖ３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "じょうろＬｖ４[RAW:0E27]",
+      "original": "じょうろＬｖ４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "じょうろＬｖ５[RAW:0E27]",
+      "original": "じょうろＬｖ５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "じょうろＬｖ６[RAW:0E27]",
+      "original": "じょうろＬｖ６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "最強のじょうろ！[RAW:0E27]",
+      "original": "最強のじょうろ！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "カマＬｖ２[RAW:0E27]",
+      "original": "カマＬｖ２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "カマＬｖ３[RAW:0E27]",
+      "original": "カマＬｖ３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "カマＬｖ４[RAW:0E27]",
+      "original": "カマＬｖ４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "カマＬｖ５[RAW:0E27]",
+      "original": "カマＬｖ５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "カマＬｖ６[RAW:0E27]",
+      "original": "カマＬｖ６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "最強のカマ！[RAW:0E27-0F27]’",
+      "original": "最強のカマ！[RAW:0E27-0F27]’",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

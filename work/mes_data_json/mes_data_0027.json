@@ -1,0 +1,329 @@
+{
+  "source_file": "mes_data_0027.hav",
+  "container_index": 27,
+  "entry_count": 32,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "増築する～？[RAW:0E27]",
+      "original": "増築する～？[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "リフォ～ム[RAW:0E27]",
+      "original": "リフォ～ム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "畑を広くします～[RAW:0E27]",
+      "original": "畑を広くします～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "畑を広くします～[RAW:0E27]",
+      "original": "畑を広くします～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "畑を広くします～[RAW:0E27]",
+      "original": "畑を広くします～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "畑を広くします～[RAW:0E27]",
+      "original": "畑を広くします～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "畑を広くします～[RAW:0E27]",
+      "original": "畑を広くします～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "池を作るわ～[RAW:0E27]",
+      "original": "池を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "水田を作ります～[RAW:0E27]",
+      "original": "水田を作ります～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "つけものメーカー[RAW:0E27]",
+      "original": "つけものメーカー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "水田を作ります～[RAW:0E27]",
+      "original": "水田を作ります～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "水田を作ります～[RAW:0E27]",
+      "original": "水田を作ります～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "水田を作ります～[RAW:0E27]",
+      "original": "水田を作ります～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "リフォ～ム[RAW:0E27]",
+      "original": "リフォ～ム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "放牧地を広げます～[RAW:0E27]",
+      "original": "放牧地を広げます～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "放牧地を広げます～[RAW:0E27]",
+      "original": "放牧地を広げます～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "ペットのあそび場[RAW:0E27]",
+      "original": "ペットのあそび場[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "メーカー小屋[RAW:0E27]",
+      "original": "メーカー小屋[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "ドリンクメーカー[RAW:0E27]",
+      "original": "ドリンクメーカー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "畑を広くします～[RAW:0E27]",
+      "original": "畑を広くします～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "ハチの箱を作るわ～[RAW:0E27]",
+      "original": "ハチの箱を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "ハチの箱を作るわ～[RAW:0E27]",
+      "original": "ハチの箱を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "ハチの箱を作るわ～[RAW:0E27]",
+      "original": "ハチの箱を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "ハチの箱を作るわ～[RAW:0E27]",
+      "original": "ハチの箱を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "ハチの箱を作るわ～[RAW:0E27]",
+      "original": "ハチの箱を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "ハチの箱を作るわ～[RAW:0E27]",
+      "original": "ハチの箱を作るわ～[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "ろてんぶろ作ります[RAW:0E27]",
+      "original": "ろてんぶろ作ります[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "トンネルの向こう[RAW:0E27]",
+      "original": "トンネルの向こう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "トンネルの向こう[RAW:0E27]",
+      "original": "トンネルの向こう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "トンネルの向こう[RAW:0E27]",
+      "original": "トンネルの向こう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "トンネルの向こう[RAW:0E27]",
+      "original": "トンネルの向こう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "トンネルの向こう[RAW:0E27-0F27]｝",
+      "original": "トンネルの向こう[RAW:0E27-0F27]｝",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

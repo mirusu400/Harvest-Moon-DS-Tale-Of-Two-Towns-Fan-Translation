@@ -1,0 +1,8949 @@
+{
+  "source_file": "mes_data_0013.hav",
+  "container_index": 13,
+  "entry_count": 894,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "　[RAW:0E27]",
+      "original": "　[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "青い羽根[RAW:0E27]",
+      "original": "青い羽根[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "プレゼントの箱・赤[RAW:0E27]",
+      "original": "プレゼントの箱・赤[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "プレゼントの箱・青[RAW:0E27]",
+      "original": "プレゼントの箱・青[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "プレゼントの箱・黄[RAW:0E27]",
+      "original": "プレゼントの箱・黄[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "このはな村の服[RAW:0E27]",
+      "original": "このはな村の服[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "ブルーベル村の服[RAW:0E27]",
+      "original": "ブルーベル村の服[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "ワーキングボーイ[RAW:0E27]",
+      "original": "ワーキングボーイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "カジュアルボーイ[RAW:0E27]",
+      "original": "カジュアルボーイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "シティワイルド[RAW:0E27]",
+      "original": "シティワイルド[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "ダンディースタイル[RAW:0E27]",
+      "original": "ダンディースタイル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "ファンシードリーム[RAW:0E27]",
+      "original": "ファンシードリーム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "このはな村の服[RAW:0E27]",
+      "original": "このはな村の服[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "ブルーベル村の服[RAW:0E27]",
+      "original": "ブルーベル村の服[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "ワーキングガール[RAW:0E27]",
+      "original": "ワーキングガール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "カジュアルガール[RAW:0E27]",
+      "original": "カジュアルガール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "クールビューティー[RAW:0E27]",
+      "original": "クールビューティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "エンジェルキュート[RAW:0E27]",
+      "original": "エンジェルキュート[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "マツリバヤシ[RAW:0E27]",
+      "original": "マツリバヤシ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "依頼用ダンボール[RAW:0E27]",
+      "original": "依頼用ダンボール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "ずかん１[RAW:0E27]",
+      "original": "ずかん１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "ずかん２[RAW:0E27]",
+      "original": "ずかん２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "ずかん３[RAW:0E27]",
+      "original": "ずかん３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "ダミー５[RAW:0E27]",
+      "original": "ダミー５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "失敗作[RAW:0E27]",
+      "original": "失敗作[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "かぶのサラダ[RAW:0E27]",
+      "original": "かぶのサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "トマトサラダ[RAW:0E27]",
+      "original": "トマトサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "オニオンサラダ[RAW:0E27]",
+      "original": "オニオンサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "マッシュポテト[RAW:0E27]",
+      "original": "マッシュポテト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "ハーブサラダ[RAW:0E27]",
+      "original": "ハーブサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "カプレーゼ[RAW:0E27]",
+      "original": "カプレーゼ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "ミモザサラダ[RAW:0E27]",
+      "original": "ミモザサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "おひたし[RAW:0E27]",
+      "original": "おひたし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "浅づけ[RAW:0E27]",
+      "original": "浅づけ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "きゅうりのナムル[RAW:0E27]",
+      "original": "きゅうりのナムル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "豆腐のサラダ[RAW:0E27]",
+      "original": "豆腐のサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "36",
+      "message": "サラダパスタ[RAW:0E27]",
+      "original": "サラダパスタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "37",
+      "message": "和風サラダ[RAW:0E27]",
+      "original": "和風サラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "38",
+      "message": "ミックスサラダ[RAW:0E27]",
+      "original": "ミックスサラダ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "39",
+      "message": "ダミー６[RAW:0E27]",
+      "original": "ダミー６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "40",
+      "message": "ダミー７[RAW:0E27]",
+      "original": "ダミー７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "41",
+      "message": "ダミー８[RAW:0E27]",
+      "original": "ダミー８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "42",
+      "message": "ダミー９[RAW:0E27]",
+      "original": "ダミー９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "43",
+      "message": "ダミー１０[RAW:0E27]",
+      "original": "ダミー１０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "44",
+      "message": "ヴィシソワーズ[RAW:0E27]",
+      "original": "ヴィシソワーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "45",
+      "message": "ガスパチョ[RAW:0E27]",
+      "original": "ガスパチョ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "46",
+      "message": "ブイヤベース[RAW:0E27]",
+      "original": "ブイヤベース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "47",
+      "message": "コーンスープ[RAW:0E27]",
+      "original": "コーンスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "48",
+      "message": "オニオンスープ[RAW:0E27]",
+      "original": "オニオンスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "49",
+      "message": "かぼちゃスープ[RAW:0E27]",
+      "original": "かぼちゃスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "50",
+      "message": "豆乳[RAW:0E27]",
+      "original": "豆乳[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "51",
+      "message": "みそ汁[RAW:0E27]",
+      "original": "みそ汁[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "52",
+      "message": "ハーブスープ[RAW:0E27]",
+      "original": "ハーブスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "53",
+      "message": "アスパラのスープ[RAW:0E27]",
+      "original": "アスパラのスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "54",
+      "message": "ラディッシュスープ[RAW:0E27]",
+      "original": "ラディッシュスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "55",
+      "message": "卵スープ[RAW:0E27]",
+      "original": "卵スープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "56",
+      "message": "ソイビーンスープ[RAW:0E27]",
+      "original": "ソイビーンスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "57",
+      "message": "フカヒレスープ[RAW:0E27]",
+      "original": "フカヒレスープ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "58",
+      "message": "トムヤンクン[RAW:0E27]",
+      "original": "トムヤンクン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "59",
+      "message": "フォー[RAW:0E27]",
+      "original": "フォー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "60",
+      "message": "ダミー１１[RAW:0E27]",
+      "original": "ダミー１１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "61",
+      "message": "ダミー１２[RAW:0E27]",
+      "original": "ダミー１２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "62",
+      "message": "ダミー１３[RAW:0E27]",
+      "original": "ダミー１３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "63",
+      "message": "ダミー１４[RAW:0E27]",
+      "original": "ダミー１４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "64",
+      "message": "ダミー１５[RAW:0E27]",
+      "original": "ダミー１５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "65",
+      "message": "かぶのバターいため[RAW:0E27]",
+      "original": "かぶのバターいため[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "66",
+      "message": "フライドポテト[RAW:0E27]",
+      "original": "フライドポテト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "67",
+      "message": "ポテトのパンケーキ[RAW:0E27]",
+      "original": "ポテトのパンケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "68",
+      "message": "ハッシュドポテト[RAW:0E27]",
+      "original": "ハッシュドポテト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "69",
+      "message": "じゃがバター[RAW:0E27]",
+      "original": "じゃがバター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "70",
+      "message": "ロールキャベツ[RAW:0E27]",
+      "original": "ロールキャベツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "71",
+      "message": "ポップコーン[RAW:0E27]",
+      "original": "ポップコーン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "72",
+      "message": "コーンフレーク[RAW:0E27]",
+      "original": "コーンフレーク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "73",
+      "message": "ゆで卵[RAW:0E27]",
+      "original": "ゆで卵[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "74",
+      "message": "目玉焼き[RAW:0E27]",
+      "original": "目玉焼き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "75",
+      "message": "焼ききのこ[RAW:0E27]",
+      "original": "焼ききのこ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "76",
+      "message": "きのこのホイルむし[RAW:0E27]",
+      "original": "きのこのホイルむし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "77",
+      "message": "サンドイッチ[RAW:0E27]",
+      "original": "サンドイッチ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "78",
+      "message": "ハーブサンド[RAW:0E27]",
+      "original": "ハーブサンド[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "79",
+      "message": "フルーツサンド[RAW:0E27]",
+      "original": "フルーツサンド[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "80",
+      "message": "ぶどうパン[RAW:0E27]",
+      "original": "ぶどうパン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "81",
+      "message": "ジャムパン[RAW:0E27]",
+      "original": "ジャムパン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "82",
+      "message": "カレーパン[RAW:0E27]",
+      "original": "カレーパン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "83",
+      "message": "トースト[RAW:0E27]",
+      "original": "トースト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "84",
+      "message": "フレンチトースト[RAW:0E27]",
+      "original": "フレンチトースト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "85",
+      "message": "バターロール[RAW:0E27]",
+      "original": "バターロール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "86",
+      "message": "コロッケ[RAW:0E27]",
+      "original": "コロッケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "87",
+      "message": "クリームコロッケ[RAW:0E27]",
+      "original": "クリームコロッケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "88",
+      "message": "チーズコロッケ[RAW:0E27]",
+      "original": "チーズコロッケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "89",
+      "message": "フォカッチャ[RAW:0E27]",
+      "original": "フォカッチャ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "90",
+      "message": "キッシュ[RAW:0E27]",
+      "original": "キッシュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "91",
+      "message": "ガレット[RAW:0E27]",
+      "original": "ガレット[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "92",
+      "message": "フィッシュ＆チップ[RAW:0E27]",
+      "original": "フィッシュ＆チップ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "93",
+      "message": "ハニートースト[RAW:0E27]",
+      "original": "ハニートースト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "94",
+      "message": "カナッペ[RAW:0E27]",
+      "original": "カナッペ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "95",
+      "message": "アランチーニ[RAW:0E27]",
+      "original": "アランチーニ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "96",
+      "message": "ドルマ[RAW:0E27]",
+      "original": "ドルマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "97",
+      "message": "焼きとうもろこし[RAW:0E27]",
+      "original": "焼きとうもろこし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "98",
+      "message": "なす田楽[RAW:0E27]",
+      "original": "なす田楽[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "99",
+      "message": "焼きなす[RAW:0E27]",
+      "original": "焼きなす[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "100",
+      "message": "焼きいも[RAW:0E27]",
+      "original": "焼きいも[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "101",
+      "message": "茶碗むし[RAW:0E27]",
+      "original": "茶碗むし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "102",
+      "message": "刺身[RAW:0E27]",
+      "original": "刺身[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "103",
+      "message": "かまぼこ[RAW:0E27]",
+      "original": "かまぼこ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "104",
+      "message": "野菜いため[RAW:0E27]",
+      "original": "野菜いため[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "105",
+      "message": "八宝菜[RAW:0E27]",
+      "original": "八宝菜[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "106",
+      "message": "しゅうまい[RAW:0E27]",
+      "original": "しゅうまい[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "107",
+      "message": "ぎょうざ[RAW:0E27]",
+      "original": "ぎょうざ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "108",
+      "message": "ちゅうかまん[RAW:0E27]",
+      "original": "ちゅうかまん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "109",
+      "message": "カレーまん[RAW:0E27]",
+      "original": "カレーまん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "110",
+      "message": "チーズまん[RAW:0E27]",
+      "original": "チーズまん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "111",
+      "message": "天ぷら[RAW:0E27]",
+      "original": "天ぷら[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "112",
+      "message": "春巻[RAW:0E27]",
+      "original": "春巻[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "113",
+      "message": "豆腐[RAW:0E27]",
+      "original": "豆腐[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "114",
+      "message": "おから[RAW:0E27]",
+      "original": "おから[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "115",
+      "message": "あげだし豆腐[RAW:0E27]",
+      "original": "あげだし豆腐[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "116",
+      "message": "油あげ[RAW:0E27]",
+      "original": "油あげ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "117",
+      "message": "こうや豆腐[RAW:0E27]",
+      "original": "こうや豆腐[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "118",
+      "message": "湯豆腐[RAW:0E27]",
+      "original": "湯豆腐[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "119",
+      "message": "冷奴[RAW:0E27]",
+      "original": "冷奴[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "120",
+      "message": "ゆば[RAW:0E27]",
+      "original": "ゆば[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "121",
+      "message": "だしまき[RAW:0E27]",
+      "original": "だしまき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "122",
+      "message": "いもの煮っ転がし[RAW:0E27]",
+      "original": "いもの煮っ転がし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "123",
+      "message": "かぼちゃの煮つけ[RAW:0E27]",
+      "original": "かぼちゃの煮つけ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "124",
+      "message": "がんもどき[RAW:0E27]",
+      "original": "がんもどき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "125",
+      "message": "ふろふき大根[RAW:0E27]",
+      "original": "ふろふき大根[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "126",
+      "message": "きりぼし大根[RAW:0E27]",
+      "original": "きりぼし大根[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "127",
+      "message": "まぐろのユッケ[RAW:0E27]",
+      "original": "まぐろのユッケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "128",
+      "message": "トッポギ[RAW:0E27]",
+      "original": "トッポギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "129",
+      "message": "ダミー１６[RAW:0E27]",
+      "original": "ダミー１６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "130",
+      "message": "ダミー１７[RAW:0E27]",
+      "original": "ダミー１７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "131",
+      "message": "ダミー１８[RAW:0E27]",
+      "original": "ダミー１８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "132",
+      "message": "ダミー１９[RAW:0E27]",
+      "original": "ダミー１９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "133",
+      "message": "ダミー２０[RAW:0E27]",
+      "original": "ダミー２０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "134",
+      "message": "オムレツ[RAW:0E27]",
+      "original": "オムレツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "135",
+      "message": "オムライス[RAW:0E27]",
+      "original": "オムライス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "136",
+      "message": "チーズフォンデュ[RAW:0E27]",
+      "original": "チーズフォンデュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "137",
+      "message": "トマトフォンデュ[RAW:0E27]",
+      "original": "トマトフォンデュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "138",
+      "message": "ピンクフォンデュ[RAW:0E27]",
+      "original": "ピンクフォンデュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "139",
+      "message": "ラクレット[RAW:0E27]",
+      "original": "ラクレット[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "140",
+      "message": "グラタン[RAW:0E27]",
+      "original": "グラタン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "141",
+      "message": "ピザ[RAW:0E27]",
+      "original": "ピザ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "142",
+      "message": "ムニエル[RAW:0E27]",
+      "original": "ムニエル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "143",
+      "message": "お魚のマリネ[RAW:0E27]",
+      "original": "お魚のマリネ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 144,
+      "name": "144",
+      "message": "リゾット[RAW:0E27]",
+      "original": "リゾット[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 145,
+      "name": "145",
+      "message": "ドリア[RAW:0E27]",
+      "original": "ドリア[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 146,
+      "name": "146",
+      "message": "農夫の朝食[RAW:0E27]",
+      "original": "農夫の朝食[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 147,
+      "name": "147",
+      "message": "マカロニ＆チーズ[RAW:0E27]",
+      "original": "マカロニ＆チーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 148,
+      "name": "148",
+      "message": "ペンネパスタ[RAW:0E27]",
+      "original": "ペンネパスタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 149,
+      "name": "149",
+      "message": "ドライカレー[RAW:0E27]",
+      "original": "ドライカレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 150,
+      "name": "150",
+      "message": "カレーライス[RAW:0E27]",
+      "original": "カレーライス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 151,
+      "name": "151",
+      "message": "野菜カレー[RAW:0E27]",
+      "original": "野菜カレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 152,
+      "name": "152",
+      "message": "辛口カレー[RAW:0E27]",
+      "original": "辛口カレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 153,
+      "name": "153",
+      "message": "のりカレー[RAW:0E27]",
+      "original": "のりカレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 154,
+      "name": "154",
+      "message": "牛乳カレー[RAW:0E27]",
+      "original": "牛乳カレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 155,
+      "name": "155",
+      "message": "虹カレー[RAW:0E27]",
+      "original": "虹カレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 156,
+      "name": "156",
+      "message": "究極のカレー[RAW:0E27]",
+      "original": "究極のカレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 157,
+      "name": "157",
+      "message": "至高のカレー[RAW:0E27]",
+      "original": "至高のカレー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 158,
+      "name": "158",
+      "message": "パスタ[RAW:0E27]",
+      "original": "パスタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 159,
+      "name": "159",
+      "message": "きのこパスタ[RAW:0E27]",
+      "original": "きのこパスタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 160,
+      "name": "160",
+      "message": "パエリャ[RAW:0E27]",
+      "original": "パエリャ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 161,
+      "name": "161",
+      "message": "シチュー[RAW:0E27]",
+      "original": "シチュー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 162,
+      "name": "162",
+      "message": "ハーブパスタ[RAW:0E27]",
+      "original": "ハーブパスタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 163,
+      "name": "163",
+      "message": "スープスパゲッティ[RAW:0E27]",
+      "original": "スープスパゲッティ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 164,
+      "name": "164",
+      "message": "ラザニア[RAW:0E27]",
+      "original": "ラザニア[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 165,
+      "name": "165",
+      "message": "ピッツォッケリ[RAW:0E27]",
+      "original": "ピッツォッケリ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 166,
+      "name": "166",
+      "message": "ムサカ[RAW:0E27]",
+      "original": "ムサカ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 167,
+      "name": "167",
+      "message": "豆腐バーガー[RAW:0E27]",
+      "original": "豆腐バーガー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 168,
+      "name": "168",
+      "message": "卵かけご飯[RAW:0E27]",
+      "original": "卵かけご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 169,
+      "name": "169",
+      "message": "卵丼[RAW:0E27]",
+      "original": "卵丼[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 170,
+      "name": "170",
+      "message": "おすし[RAW:0E27]",
+      "original": "おすし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 171,
+      "name": "171",
+      "message": "ちらしずし[RAW:0E27]",
+      "original": "ちらしずし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 172,
+      "name": "172",
+      "message": "焼き魚[RAW:0E27]",
+      "original": "焼き魚[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 173,
+      "name": "173",
+      "message": "魚の煮付け[RAW:0E27]",
+      "original": "魚の煮付け[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 174,
+      "name": "174",
+      "message": "おにぎり[RAW:0E27]",
+      "original": "おにぎり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 175,
+      "name": "175",
+      "message": "焼きおにぎり[RAW:0E27]",
+      "original": "焼きおにぎり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 176,
+      "name": "176",
+      "message": "おかゆ[RAW:0E27]",
+      "original": "おかゆ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 177,
+      "name": "177",
+      "message": "チャーハン[RAW:0E27]",
+      "original": "チャーハン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 178,
+      "name": "178",
+      "message": "たき込みご飯[RAW:0E27]",
+      "original": "たき込みご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 179,
+      "name": "179",
+      "message": "きのこご飯[RAW:0E27]",
+      "original": "きのこご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 180,
+      "name": "180",
+      "message": "しめじご飯[RAW:0E27]",
+      "original": "しめじご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 181,
+      "name": "181",
+      "message": "天ぷら丼[RAW:0E27]",
+      "original": "天ぷら丼[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 182,
+      "name": "182",
+      "message": "いなりずし[RAW:0E27]",
+      "original": "いなりずし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 183,
+      "name": "183",
+      "message": "お好み焼き[RAW:0E27]",
+      "original": "お好み焼き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 184,
+      "name": "184",
+      "message": "うどん[RAW:0E27]",
+      "original": "うどん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 185,
+      "name": "185",
+      "message": "きつねうどん[RAW:0E27]",
+      "original": "きつねうどん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 186,
+      "name": "186",
+      "message": "天ぷらうどん[RAW:0E27]",
+      "original": "天ぷらうどん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 187,
+      "name": "187",
+      "message": "焼きうどん[RAW:0E27]",
+      "original": "焼きうどん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 188,
+      "name": "188",
+      "message": "ざるそば[RAW:0E27]",
+      "original": "ざるそば[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 189,
+      "name": "189",
+      "message": "天ぷらそば[RAW:0E27]",
+      "original": "天ぷらそば[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 190,
+      "name": "190",
+      "message": "焼きそば[RAW:0E27]",
+      "original": "焼きそば[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 191,
+      "name": "191",
+      "message": "豆腐ステーキ[RAW:0E27]",
+      "original": "豆腐ステーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 192,
+      "name": "192",
+      "message": "焼きビーフン[RAW:0E27]",
+      "original": "焼きビーフン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 193,
+      "name": "193",
+      "message": "くりご飯[RAW:0E27]",
+      "original": "くりご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 194,
+      "name": "194",
+      "message": "納豆ご飯[RAW:0E27]",
+      "original": "納豆ご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 195,
+      "name": "195",
+      "message": "たけのこご飯[RAW:0E27]",
+      "original": "たけのこご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 196,
+      "name": "196",
+      "message": "牛乳なべ[RAW:0E27]",
+      "original": "牛乳なべ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 197,
+      "name": "197",
+      "message": "納豆巻き[RAW:0E27]",
+      "original": "納豆巻き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 198,
+      "name": "198",
+      "message": "かっぱ巻き[RAW:0E27]",
+      "original": "かっぱ巻き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 199,
+      "name": "199",
+      "message": "てっか巻き[RAW:0E27]",
+      "original": "てっか巻き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 200,
+      "name": "200",
+      "message": "お新香巻き[RAW:0E27]",
+      "original": "お新香巻き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 201,
+      "name": "201",
+      "message": "豆乳鍋[RAW:0E27]",
+      "original": "豆乳鍋[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 202,
+      "name": "202",
+      "message": "キムチチゲ[RAW:0E27]",
+      "original": "キムチチゲ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 203,
+      "name": "203",
+      "message": "かになべ[RAW:0E27]",
+      "original": "かになべ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 204,
+      "name": "204",
+      "message": "かに玉[RAW:0E27]",
+      "original": "かに玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 205,
+      "name": "205",
+      "message": "おでん[RAW:0E27]",
+      "original": "おでん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 206,
+      "name": "206",
+      "message": "ビビンバ[RAW:0E27]",
+      "original": "ビビンバ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 207,
+      "name": "207",
+      "message": "ダミー２１[RAW:0E27]",
+      "original": "ダミー２１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 208,
+      "name": "208",
+      "message": "ダミー２２[RAW:0E27]",
+      "original": "ダミー２２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 209,
+      "name": "209",
+      "message": "ダミー２３[RAW:0E27]",
+      "original": "ダミー２３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 210,
+      "name": "210",
+      "message": "ダミー２４[RAW:0E27]",
+      "original": "ダミー２４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 211,
+      "name": "211",
+      "message": "ダミー２５[RAW:0E27]",
+      "original": "ダミー２５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 212,
+      "name": "212",
+      "message": "スイートポテト[RAW:0E27]",
+      "original": "スイートポテト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 213,
+      "name": "213",
+      "message": "かぼちゃプリン[RAW:0E27]",
+      "original": "かぼちゃプリン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 214,
+      "name": "214",
+      "message": "チョコバナナ[RAW:0E27]",
+      "original": "チョコバナナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 215,
+      "name": "215",
+      "message": "焼きりんご[RAW:0E27]",
+      "original": "焼きりんご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 216,
+      "name": "216",
+      "message": "アップルパイ[RAW:0E27]",
+      "original": "アップルパイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 217,
+      "name": "217",
+      "message": "パイナップルパイ[RAW:0E27]",
+      "original": "パイナップルパイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 218,
+      "name": "218",
+      "message": "ストロベリーパイ[RAW:0E27]",
+      "original": "ストロベリーパイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 219,
+      "name": "219",
+      "message": "カステラ[RAW:0E27]",
+      "original": "カステラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 220,
+      "name": "220",
+      "message": "プリン[RAW:0E27]",
+      "original": "プリン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 221,
+      "name": "221",
+      "message": "チーズケーキ[RAW:0E27]",
+      "original": "チーズケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 222,
+      "name": "222",
+      "message": "ホットケーキ[RAW:0E27]",
+      "original": "ホットケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 223,
+      "name": "223",
+      "message": "ドーナツ[RAW:0E27]",
+      "original": "ドーナツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 224,
+      "name": "224",
+      "message": "クッキー[RAW:0E27]",
+      "original": "クッキー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 225,
+      "name": "225",
+      "message": "チョコクッキー[RAW:0E27]",
+      "original": "チョコクッキー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 226,
+      "name": "226",
+      "message": "アイスクリーム[RAW:0E27]",
+      "original": "アイスクリーム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 227,
+      "name": "227",
+      "message": "ケーキ[RAW:0E27]",
+      "original": "ケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 228,
+      "name": "228",
+      "message": "ハチミツケーキ[RAW:0E27]",
+      "original": "ハチミツケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 229,
+      "name": "229",
+      "message": "チョコレートケーキ[RAW:0E27]",
+      "original": "チョコレートケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 230,
+      "name": "230",
+      "message": "ホールケーキ[RAW:0E27]",
+      "original": "ホールケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 231,
+      "name": "231",
+      "message": "チョコホールケーキ[RAW:0E27]",
+      "original": "チョコホールケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 232,
+      "name": "232",
+      "message": "チーズホールケーキ[RAW:0E27]",
+      "original": "チーズホールケーキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 233,
+      "name": "233",
+      "message": "チョコフォンデュ[RAW:0E27]",
+      "original": "チョコフォンデュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 234,
+      "name": "234",
+      "message": "トライフル[RAW:0E27]",
+      "original": "トライフル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 235,
+      "name": "235",
+      "message": "バウムクーヘン[RAW:0E27]",
+      "original": "バウムクーヘン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 236,
+      "name": "236",
+      "message": "チュロス[RAW:0E27]",
+      "original": "チュロス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 237,
+      "name": "237",
+      "message": "モンブラン[RAW:0E27]",
+      "original": "モンブラン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 238,
+      "name": "238",
+      "message": "スコーン[RAW:0E27]",
+      "original": "スコーン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 239,
+      "name": "239",
+      "message": "チョコアイス[RAW:0E27]",
+      "original": "チョコアイス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 240,
+      "name": "240",
+      "message": "いちごアイス[RAW:0E27]",
+      "original": "いちごアイス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 241,
+      "name": "241",
+      "message": "まっ茶アイス[RAW:0E27]",
+      "original": "まっ茶アイス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 242,
+      "name": "242",
+      "message": "チョコカステラ[RAW:0E27]",
+      "original": "チョコカステラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 243,
+      "name": "243",
+      "message": "チョコドーナッツ[RAW:0E27]",
+      "original": "チョコドーナッツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 244,
+      "name": "244",
+      "message": "チョコプリン[RAW:0E27]",
+      "original": "チョコプリン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 245,
+      "name": "245",
+      "message": "フォンダンショコラ[RAW:0E27]",
+      "original": "フォンダンショコラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 246,
+      "name": "246",
+      "message": "フルーツパフェ[RAW:0E27]",
+      "original": "フルーツパフェ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 247,
+      "name": "247",
+      "message": "生チョコ[RAW:0E27]",
+      "original": "生チョコ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 248,
+      "name": "248",
+      "message": "いちご生チョコ[RAW:0E27]",
+      "original": "いちご生チョコ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 249,
+      "name": "249",
+      "message": "まっ茶生チョコ[RAW:0E27]",
+      "original": "まっ茶生チョコ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 250,
+      "name": "250",
+      "message": "ティラミス[RAW:0E27]",
+      "original": "ティラミス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 251,
+      "name": "251",
+      "message": "ライスプディング[RAW:0E27]",
+      "original": "ライスプディング[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 252,
+      "name": "252",
+      "message": "はちみつプリン[RAW:0E27]",
+      "original": "はちみつプリン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 253,
+      "name": "253",
+      "message": "豆乳プリン[RAW:0E27]",
+      "original": "豆乳プリン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 254,
+      "name": "254",
+      "message": "エッグタルト[RAW:0E27]",
+      "original": "エッグタルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 255,
+      "name": "255",
+      "message": "いちご大福[RAW:0E27]",
+      "original": "いちご大福[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 256,
+      "name": "256",
+      "message": "月見だんご[RAW:0E27]",
+      "original": "月見だんご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 257,
+      "name": "257",
+      "message": "ちまき[RAW:0E27]",
+      "original": "ちまき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 258,
+      "name": "258",
+      "message": "フルーツ白玉[RAW:0E27]",
+      "original": "フルーツ白玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 259,
+      "name": "259",
+      "message": "くりまんじゅう[RAW:0E27]",
+      "original": "くりまんじゅう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 260,
+      "name": "260",
+      "message": "草もち[RAW:0E27]",
+      "original": "草もち[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 261,
+      "name": "261",
+      "message": "そばだんご[RAW:0E27]",
+      "original": "そばだんご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 262,
+      "name": "262",
+      "message": "あべかわもち[RAW:0E27]",
+      "original": "あべかわもち[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 263,
+      "name": "263",
+      "message": "あんにん豆腐[RAW:0E27]",
+      "original": "あんにん豆腐[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 264,
+      "name": "264",
+      "message": "さくらんぼパイ[RAW:0E27]",
+      "original": "さくらんぼパイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 265,
+      "name": "265",
+      "message": "三色だんご[RAW:0E27]",
+      "original": "三色だんご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 266,
+      "name": "266",
+      "message": "ダミー２６[RAW:0E27]",
+      "original": "ダミー２６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 267,
+      "name": "267",
+      "message": "ダミー２７[RAW:0E27]",
+      "original": "ダミー２７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 268,
+      "name": "268",
+      "message": "ダミー２８[RAW:0E27]",
+      "original": "ダミー２８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 269,
+      "name": "269",
+      "message": "ダミー２９[RAW:0E27]",
+      "original": "ダミー２９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 270,
+      "name": "270",
+      "message": "ダミー３０[RAW:0E27]",
+      "original": "ダミー３０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 271,
+      "name": "271",
+      "message": "ご飯[RAW:0E27]",
+      "original": "ご飯[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 272,
+      "name": "272",
+      "message": "パン[RAW:0E27]",
+      "original": "パン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 273,
+      "name": "273",
+      "message": "りんごジャム[RAW:0E27]",
+      "original": "りんごジャム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 274,
+      "name": "274",
+      "message": "いちごジャム[RAW:0E27]",
+      "original": "いちごジャム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 275,
+      "name": "275",
+      "message": "ぶどうジャム[RAW:0E27]",
+      "original": "ぶどうジャム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 276,
+      "name": "276",
+      "message": "ブルーベリージャム[RAW:0E27]",
+      "original": "ブルーベリージャム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 277,
+      "name": "277",
+      "message": "ストレートティー[RAW:0E27]",
+      "original": "ストレートティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 278,
+      "name": "278",
+      "message": "ハーブティー[RAW:0E27]",
+      "original": "ハーブティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 279,
+      "name": "279",
+      "message": "はちみつティー[RAW:0E27]",
+      "original": "はちみつティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 280,
+      "name": "280",
+      "message": "ローズティー[RAW:0E27]",
+      "original": "ローズティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 281,
+      "name": "281",
+      "message": "ミルクティー[RAW:0E27]",
+      "original": "ミルクティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 282,
+      "name": "282",
+      "message": "王様ミルクティー[RAW:0E27]",
+      "original": "王様ミルクティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 283,
+      "name": "283",
+      "message": "ロシアンティー[RAW:0E27]",
+      "original": "ロシアンティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 284,
+      "name": "284",
+      "message": "春色ブレンドティー[RAW:0E27]",
+      "original": "春色ブレンドティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 285,
+      "name": "285",
+      "message": "夏色ブレンドティー[RAW:0E27]",
+      "original": "夏色ブレンドティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 286,
+      "name": "286",
+      "message": "秋色ブレンドティー[RAW:0E27]",
+      "original": "秋色ブレンドティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 287,
+      "name": "287",
+      "message": "金色ブレンドティー[RAW:0E27]",
+      "original": "金色ブレンドティー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 288,
+      "name": "288",
+      "message": "ホットコーヒー[RAW:0E27]",
+      "original": "ホットコーヒー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 289,
+      "name": "289",
+      "message": "カフェオレ[RAW:0E27]",
+      "original": "カフェオレ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 290,
+      "name": "290",
+      "message": "カプチーノ[RAW:0E27]",
+      "original": "カプチーノ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 291,
+      "name": "291",
+      "message": "ホットミルク[RAW:0E27]",
+      "original": "ホットミルク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 292,
+      "name": "292",
+      "message": "ココア[RAW:0E27]",
+      "original": "ココア[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 293,
+      "name": "293",
+      "message": "はちみつシェイク[RAW:0E27]",
+      "original": "はちみつシェイク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 294,
+      "name": "294",
+      "message": "ヨーグルトシェイク[RAW:0E27]",
+      "original": "ヨーグルトシェイク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 295,
+      "name": "295",
+      "message": "緑茶[RAW:0E27]",
+      "original": "緑茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 296,
+      "name": "296",
+      "message": "まっ茶[RAW:0E27]",
+      "original": "まっ茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 297,
+      "name": "297",
+      "message": "せん茶[RAW:0E27]",
+      "original": "せん茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 298,
+      "name": "298",
+      "message": "プーアル茶[RAW:0E27]",
+      "original": "プーアル茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 299,
+      "name": "299",
+      "message": "ウーロン茶[RAW:0E27]",
+      "original": "ウーロン茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 300,
+      "name": "300",
+      "message": "そば茶[RAW:0E27]",
+      "original": "そば茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 301,
+      "name": "301",
+      "message": "にんじん茶[RAW:0E27]",
+      "original": "にんじん茶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 302,
+      "name": "302",
+      "message": "ももジュース[RAW:0E27]",
+      "original": "ももジュース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 303,
+      "name": "303",
+      "message": "バナナジュース[RAW:0E27]",
+      "original": "バナナジュース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 304,
+      "name": "304",
+      "message": "りんごジュース[RAW:0E27]",
+      "original": "りんごジュース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 305,
+      "name": "305",
+      "message": "みかんジュース[RAW:0E27]",
+      "original": "みかんジュース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 306,
+      "name": "306",
+      "message": "ミックスジュース[RAW:0E27]",
+      "original": "ミックスジュース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 307,
+      "name": "307",
+      "message": "ミックス・オ・レ[RAW:0E27]",
+      "original": "ミックス・オ・レ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 308,
+      "name": "308",
+      "message": "うめジュース[RAW:0E27]",
+      "original": "うめジュース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 309,
+      "name": "309",
+      "message": "グラスうめ酒[RAW:0E27]",
+      "original": "グラスうめ酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 310,
+      "name": "310",
+      "message": "グラスあんず酒[RAW:0E27]",
+      "original": "グラスあんず酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 311,
+      "name": "311",
+      "message": "サングリア[RAW:0E27]",
+      "original": "サングリア[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 312,
+      "name": "312",
+      "message": "グラスワイン赤[RAW:0E27]",
+      "original": "グラスワイン赤[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 313,
+      "name": "313",
+      "message": "グラスチチャ[RAW:0E27]",
+      "original": "グラスチチャ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 314,
+      "name": "314",
+      "message": "グラスビール[RAW:0E27]",
+      "original": "グラスビール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 315,
+      "name": "315",
+      "message": "グラスハチミツ酒[RAW:0E27]",
+      "original": "グラスハチミツ酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 316,
+      "name": "316",
+      "message": "グラスくり酒[RAW:0E27]",
+      "original": "グラスくり酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 317,
+      "name": "317",
+      "message": "グラスワイン春風[RAW:0E27]",
+      "original": "グラスワイン春風[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 318,
+      "name": "318",
+      "message": "グラスワイン夏風[RAW:0E27]",
+      "original": "グラスワイン夏風[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 319,
+      "name": "319",
+      "message": "グラスワイン秋風[RAW:0E27]",
+      "original": "グラスワイン秋風[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 320,
+      "name": "320",
+      "message": "グラスワイン四季[RAW:0E27]",
+      "original": "グラスワイン四季[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 321,
+      "name": "321",
+      "message": "グラス果実酒[RAW:0E27]",
+      "original": "グラス果実酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 322,
+      "name": "322",
+      "message": "グラスローズワイン[RAW:0E27]",
+      "original": "グラスローズワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 323,
+      "name": "323",
+      "message": "ダミー３３[RAW:0E27]",
+      "original": "ダミー３３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 324,
+      "name": "324",
+      "message": "ダミー３４[RAW:0E27]",
+      "original": "ダミー３４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 325,
+      "name": "325",
+      "message": "ダミー３５[RAW:0E27]",
+      "original": "ダミー３５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 326,
+      "name": "326",
+      "message": "チーズ[RAW:0E27]",
+      "original": "チーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 327,
+      "name": "327",
+      "message": "上チーズ[RAW:0E27]",
+      "original": "上チーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 328,
+      "name": "328",
+      "message": "極チーズ[RAW:0E27]",
+      "original": "極チーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 329,
+      "name": "329",
+      "message": "ハーブチーズ[RAW:0E27]",
+      "original": "ハーブチーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 330,
+      "name": "330",
+      "message": "上ハーブチーズ[RAW:0E27]",
+      "original": "上ハーブチーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 331,
+      "name": "331",
+      "message": "極ハーブチーズ[RAW:0E27]",
+      "original": "極ハーブチーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 332,
+      "name": "332",
+      "message": "ヨーグルト[RAW:0E27]",
+      "original": "ヨーグルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 333,
+      "name": "333",
+      "message": "上ヨーグルト[RAW:0E27]",
+      "original": "上ヨーグルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 334,
+      "name": "334",
+      "message": "極ヨーグルト[RAW:0E27]",
+      "original": "極ヨーグルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 335,
+      "name": "335",
+      "message": "果実ヨーグルト[RAW:0E27]",
+      "original": "果実ヨーグルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 336,
+      "name": "336",
+      "message": "上果実ヨーグルト[RAW:0E27]",
+      "original": "上果実ヨーグルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 337,
+      "name": "337",
+      "message": "極果実ヨーグルト[RAW:0E27]",
+      "original": "極果実ヨーグルト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 338,
+      "name": "338",
+      "message": "バター[RAW:0E27]",
+      "original": "バター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 339,
+      "name": "339",
+      "message": "上バター[RAW:0E27]",
+      "original": "上バター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 340,
+      "name": "340",
+      "message": "極バター[RAW:0E27]",
+      "original": "極バター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 341,
+      "name": "341",
+      "message": "ハーブバター[RAW:0E27]",
+      "original": "ハーブバター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 342,
+      "name": "342",
+      "message": "上ハーブバター[RAW:0E27]",
+      "original": "上ハーブバター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 343,
+      "name": "343",
+      "message": "極ハーブバター[RAW:0E27]",
+      "original": "極ハーブバター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 344,
+      "name": "344",
+      "message": "マヨネーズ[RAW:0E27]",
+      "original": "マヨネーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 345,
+      "name": "345",
+      "message": "上マヨネーズ[RAW:0E27]",
+      "original": "上マヨネーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 346,
+      "name": "346",
+      "message": "極マヨネーズ[RAW:0E27]",
+      "original": "極マヨネーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 347,
+      "name": "347",
+      "message": "ハーブマヨネーズ[RAW:0E27]",
+      "original": "ハーブマヨネーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 348,
+      "name": "348",
+      "message": "上ハーブマヨネーズ[RAW:0E27]",
+      "original": "上ハーブマヨネーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 349,
+      "name": "349",
+      "message": "極ハーブマヨネーズ[RAW:0E27]",
+      "original": "極ハーブマヨネーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 350,
+      "name": "350",
+      "message": "チョコレートパック[RAW:0E27]",
+      "original": "チョコレートパック[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 351,
+      "name": "351",
+      "message": "みそ[RAW:0E27]",
+      "original": "みそ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 352,
+      "name": "352",
+      "message": "納豆[RAW:0E27]",
+      "original": "納豆[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 353,
+      "name": "353",
+      "message": "ダミー３６[RAW:0E27]",
+      "original": "ダミー３６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 354,
+      "name": "354",
+      "message": "ダミー３７[RAW:0E27]",
+      "original": "ダミー３７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 355,
+      "name": "355",
+      "message": "ダミー３８[RAW:0E27]",
+      "original": "ダミー３８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 356,
+      "name": "356",
+      "message": "ダミー３９[RAW:0E27]",
+      "original": "ダミー３９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 357,
+      "name": "357",
+      "message": "ダミー４０[RAW:0E27]",
+      "original": "ダミー４０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 358,
+      "name": "358",
+      "message": "ワイン[RAW:0E27]",
+      "original": "ワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 359,
+      "name": "359",
+      "message": "チチャ[RAW:0E27]",
+      "original": "チチャ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 360,
+      "name": "360",
+      "message": "ハチミツ酒[RAW:0E27]",
+      "original": "ハチミツ酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 361,
+      "name": "361",
+      "message": "くり酒[RAW:0E27]",
+      "original": "くり酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 362,
+      "name": "362",
+      "message": "うめ酒[RAW:0E27]",
+      "original": "うめ酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 363,
+      "name": "363",
+      "message": "あんず酒[RAW:0E27]",
+      "original": "あんず酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 364,
+      "name": "364",
+      "message": "果実酒[RAW:0E27]",
+      "original": "果実酒[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 365,
+      "name": "365",
+      "message": "ローズワイン[RAW:0E27]",
+      "original": "ローズワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 366,
+      "name": "366",
+      "message": "春風のワイン[RAW:0E27]",
+      "original": "春風のワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 367,
+      "name": "367",
+      "message": "夏風のワイン[RAW:0E27]",
+      "original": "夏風のワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 368,
+      "name": "368",
+      "message": "秋風のワイン[RAW:0E27]",
+      "original": "秋風のワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 369,
+      "name": "369",
+      "message": "四季のワイン[RAW:0E27]",
+      "original": "四季のワイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 370,
+      "name": "370",
+      "message": "ビール[RAW:0E27]",
+      "original": "ビール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 371,
+      "name": "371",
+      "message": "緑茶缶[RAW:0E27]",
+      "original": "緑茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 372,
+      "name": "372",
+      "message": "まっ茶缶[RAW:0E27]",
+      "original": "まっ茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 373,
+      "name": "373",
+      "message": "せん茶缶[RAW:0E27]",
+      "original": "せん茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 374,
+      "name": "374",
+      "message": "プーアル茶缶[RAW:0E27]",
+      "original": "プーアル茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 375,
+      "name": "375",
+      "message": "ウーロン茶缶[RAW:0E27]",
+      "original": "ウーロン茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 376,
+      "name": "376",
+      "message": "そば茶缶[RAW:0E27]",
+      "original": "そば茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 377,
+      "name": "377",
+      "message": "人参茶缶[RAW:0E27]",
+      "original": "人参茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 378,
+      "name": "378",
+      "message": "紅茶缶[RAW:0E27]",
+      "original": "紅茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 379,
+      "name": "379",
+      "message": "ハーブティー缶[RAW:0E27]",
+      "original": "ハーブティー缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 380,
+      "name": "380",
+      "message": "ローズティー缶[RAW:0E27]",
+      "original": "ローズティー缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 381,
+      "name": "381",
+      "message": "春色ブレンド紅茶缶[RAW:0E27]",
+      "original": "春色ブレンド紅茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 382,
+      "name": "382",
+      "message": "夏色ブレンド紅茶缶[RAW:0E27]",
+      "original": "夏色ブレンド紅茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 383,
+      "name": "383",
+      "message": "秋色ブレンド紅茶缶[RAW:0E27]",
+      "original": "秋色ブレンド紅茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 384,
+      "name": "384",
+      "message": "黄金ブレンド紅茶缶[RAW:0E27]",
+      "original": "黄金ブレンド紅茶缶[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 385,
+      "name": "385",
+      "message": "コーヒーパック[RAW:0E27]",
+      "original": "コーヒーパック[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 386,
+      "name": "386",
+      "message": "ココアパック[RAW:0E27]",
+      "original": "ココアパック[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 387,
+      "name": "387",
+      "message": "ダミー４１[RAW:0E27]",
+      "original": "ダミー４１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 388,
+      "name": "388",
+      "message": "ダミー４２[RAW:0E27]",
+      "original": "ダミー４２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 389,
+      "name": "389",
+      "message": "ダミー４３[RAW:0E27]",
+      "original": "ダミー４３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 390,
+      "name": "390",
+      "message": "ダミー４４[RAW:0E27]",
+      "original": "ダミー４４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 391,
+      "name": "391",
+      "message": "ダミー４５[RAW:0E27]",
+      "original": "ダミー４５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 392,
+      "name": "392",
+      "message": "きゅうりピクルス[RAW:0E27]",
+      "original": "きゅうりピクルス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 393,
+      "name": "393",
+      "message": "たまねぎピクルス[RAW:0E27]",
+      "original": "たまねぎピクルス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 394,
+      "name": "394",
+      "message": "にんじんピクルス[RAW:0E27]",
+      "original": "にんじんピクルス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 395,
+      "name": "395",
+      "message": "ラディシュピクルス[RAW:0E27]",
+      "original": "ラディシュピクルス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 396,
+      "name": "396",
+      "message": "ピクルスつめ合わせ[RAW:0E27]",
+      "original": "ピクルスつめ合わせ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 397,
+      "name": "397",
+      "message": "かぶのつけもの[RAW:0E27]",
+      "original": "かぶのつけもの[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 398,
+      "name": "398",
+      "message": "きゅうりのつけもの[RAW:0E27]",
+      "original": "きゅうりのつけもの[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 399,
+      "name": "399",
+      "message": "すいかのつけもの[RAW:0E27]",
+      "original": "すいかのつけもの[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 400,
+      "name": "400",
+      "message": "なすのつけもの[RAW:0E27]",
+      "original": "なすのつけもの[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 401,
+      "name": "401",
+      "message": "だいこんのつけもの[RAW:0E27]",
+      "original": "だいこんのつけもの[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 402,
+      "name": "402",
+      "message": "はくさいのつけもの[RAW:0E27]",
+      "original": "はくさいのつけもの[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 403,
+      "name": "403",
+      "message": "つけものつめ合わせ[RAW:0E27]",
+      "original": "つけものつめ合わせ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 404,
+      "name": "404",
+      "message": "白キムチ[RAW:0E27]",
+      "original": "白キムチ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 405,
+      "name": "405",
+      "message": "きゅうりのキムチ[RAW:0E27]",
+      "original": "きゅうりのキムチ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 406,
+      "name": "406",
+      "message": "だいこんのキムチ[RAW:0E27]",
+      "original": "だいこんのキムチ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 407,
+      "name": "407",
+      "message": "はくさいのキムチ[RAW:0E27]",
+      "original": "はくさいのキムチ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 408,
+      "name": "408",
+      "message": "キムチつめ合わせ[RAW:0E27]",
+      "original": "キムチつめ合わせ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 409,
+      "name": "409",
+      "message": "うめぼし[RAW:0E27]",
+      "original": "うめぼし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 410,
+      "name": "410",
+      "message": "ダミー４６[RAW:0E27]",
+      "original": "ダミー４６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 411,
+      "name": "411",
+      "message": "ダミー４７[RAW:0E27]",
+      "original": "ダミー４７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 412,
+      "name": "412",
+      "message": "ダミー４８[RAW:0E27]",
+      "original": "ダミー４８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 413,
+      "name": "413",
+      "message": "ダミー４９[RAW:0E27]",
+      "original": "ダミー４９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 414,
+      "name": "414",
+      "message": "ダミー５０[RAW:0E27]",
+      "original": "ダミー５０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 415,
+      "name": "415",
+      "message": "毛糸玉[RAW:0E27]",
+      "original": "毛糸玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 416,
+      "name": "416",
+      "message": "サフォーク毛糸玉[RAW:0E27]",
+      "original": "サフォーク毛糸玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 417,
+      "name": "417",
+      "message": "極毛糸玉[RAW:0E27]",
+      "original": "極毛糸玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 418,
+      "name": "418",
+      "message": "白アルパカ毛糸玉[RAW:0E27]",
+      "original": "白アルパカ毛糸玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 419,
+      "name": "419",
+      "message": "茶アルパカ毛糸玉[RAW:0E27]",
+      "original": "茶アルパカ毛糸玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 420,
+      "name": "420",
+      "message": "ダミー５１[RAW:0E27]",
+      "original": "ダミー５１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 421,
+      "name": "421",
+      "message": "ダミー５２[RAW:0E27]",
+      "original": "ダミー５２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 422,
+      "name": "422",
+      "message": "ダミー５３[RAW:0E27]",
+      "original": "ダミー５３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 423,
+      "name": "423",
+      "message": "ダミー５４[RAW:0E27]",
+      "original": "ダミー５４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 424,
+      "name": "424",
+      "message": "ダミー５５[RAW:0E27]",
+      "original": "ダミー５５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 425,
+      "name": "425",
+      "message": "ダミー５６[RAW:0E27]",
+      "original": "ダミー５６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 426,
+      "name": "426",
+      "message": "ダミー５７[RAW:0E27]",
+      "original": "ダミー５７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 427,
+      "name": "427",
+      "message": "お米[RAW:0E27]",
+      "original": "お米[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 428,
+      "name": "428",
+      "message": "小麦粉[RAW:0E27]",
+      "original": "小麦粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 429,
+      "name": "429",
+      "message": "パン粉[RAW:0E27]",
+      "original": "パン粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 430,
+      "name": "430",
+      "message": "米粉[RAW:0E27]",
+      "original": "米粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 431,
+      "name": "431",
+      "message": "きな粉[RAW:0E27]",
+      "original": "きな粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 432,
+      "name": "432",
+      "message": "そば粉[RAW:0E27]",
+      "original": "そば粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 433,
+      "name": "433",
+      "message": "白玉粉[RAW:0E27]",
+      "original": "白玉粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 434,
+      "name": "434",
+      "message": "ダミー５８[RAW:0E27]",
+      "original": "ダミー５８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 435,
+      "name": "435",
+      "message": "ダミー５９[RAW:0E27]",
+      "original": "ダミー５９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 436,
+      "name": "436",
+      "message": "ダミー６０[RAW:0E27]",
+      "original": "ダミー６０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 437,
+      "name": "437",
+      "message": "ダミー６１[RAW:0E27]",
+      "original": "ダミー６１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 438,
+      "name": "438",
+      "message": "ダミー６２[RAW:0E27]",
+      "original": "ダミー６２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 439,
+      "name": "439",
+      "message": "ハチミツ[RAW:0E27]",
+      "original": "ハチミツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 440,
+      "name": "440",
+      "message": "ローヤルゼリー[RAW:0E27]",
+      "original": "ローヤルゼリー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 441,
+      "name": "441",
+      "message": "春のハチミツ[RAW:0E27]",
+      "original": "春のハチミツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 442,
+      "name": "442",
+      "message": "夏のハチミツ[RAW:0E27]",
+      "original": "夏のハチミツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 443,
+      "name": "443",
+      "message": "秋のハチミツ[RAW:0E27]",
+      "original": "秋のハチミツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 444,
+      "name": "444",
+      "message": "樹木のハチミツ[RAW:0E27]",
+      "original": "樹木のハチミツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 445,
+      "name": "445",
+      "message": "バラのハチミツ[RAW:0E27]",
+      "original": "バラのハチミツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 446,
+      "name": "446",
+      "message": "ダミー６３[RAW:0E27]",
+      "original": "ダミー６３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 447,
+      "name": "447",
+      "message": "ダミー６４[RAW:0E27]",
+      "original": "ダミー６４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 448,
+      "name": "448",
+      "message": "ダミー６５[RAW:0E27]",
+      "original": "ダミー６５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 449,
+      "name": "449",
+      "message": "ダミー６６[RAW:0E27]",
+      "original": "ダミー６６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 450,
+      "name": "450",
+      "message": "ダミー６７[RAW:0E27]",
+      "original": "ダミー６７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 451,
+      "name": "451",
+      "message": "ダミー６８[RAW:0E27]",
+      "original": "ダミー６８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 452,
+      "name": "452",
+      "message": "油[RAW:0E27]",
+      "original": "油[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 453,
+      "name": "453",
+      "message": "カレー粉[RAW:0E27]",
+      "original": "カレー粉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 454,
+      "name": "454",
+      "message": "スパイス[RAW:0E27]",
+      "original": "スパイス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 455,
+      "name": "455",
+      "message": "枝豆[RAW:0E27]",
+      "original": "枝豆[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 456,
+      "name": "456",
+      "message": "おもち[RAW:0E27]",
+      "original": "おもち[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 457,
+      "name": "457",
+      "message": "うに[RAW:0E27]",
+      "original": "うに[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 458,
+      "name": "458",
+      "message": "のり[RAW:0E27]",
+      "original": "のり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 459,
+      "name": "459",
+      "message": "トリュフ[RAW:0E27]",
+      "original": "トリュフ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 460,
+      "name": "460",
+      "message": "ダミー６９[RAW:0E27]",
+      "original": "ダミー６９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 461,
+      "name": "461",
+      "message": "ダミー７０[RAW:0E27]",
+      "original": "ダミー７０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 462,
+      "name": "462",
+      "message": "ダミー７１[RAW:0E27]",
+      "original": "ダミー７１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 463,
+      "name": "463",
+      "message": "恋する乙女[RAW:0E27]",
+      "original": "恋する乙女[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 464,
+      "name": "464",
+      "message": "純然たる思い[RAW:0E27]",
+      "original": "純然たる思い[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 465,
+      "name": "465",
+      "message": "正義の理[RAW:0E27]",
+      "original": "正義の理[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 466,
+      "name": "466",
+      "message": "太陽の笑顔[RAW:0E27]",
+      "original": "太陽の笑顔[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 467,
+      "name": "467",
+      "message": "高貴なる純白[RAW:0E27]",
+      "original": "高貴なる純白[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 468,
+      "name": "468",
+      "message": "いろどりの大地[RAW:0E27]",
+      "original": "いろどりの大地[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 469,
+      "name": "469",
+      "message": "ダミー７２[RAW:0E27]",
+      "original": "ダミー７２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 470,
+      "name": "470",
+      "message": "ダミー７３[RAW:0E27]",
+      "original": "ダミー７３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 471,
+      "name": "471",
+      "message": "ダミー７４[RAW:0E27]",
+      "original": "ダミー７４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 472,
+      "name": "472",
+      "message": "ローズ香水[RAW:0E27]",
+      "original": "ローズ香水[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 473,
+      "name": "473",
+      "message": "シトラス香水[RAW:0E27]",
+      "original": "シトラス香水[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 474,
+      "name": "474",
+      "message": "ハーブ香水[RAW:0E27]",
+      "original": "ハーブ香水[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 475,
+      "name": "475",
+      "message": "春のときめき[RAW:0E27]",
+      "original": "春のときめき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 476,
+      "name": "476",
+      "message": "夏の思い出[RAW:0E27]",
+      "original": "夏の思い出[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 477,
+      "name": "477",
+      "message": "秋のたそがれ[RAW:0E27]",
+      "original": "秋のたそがれ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 478,
+      "name": "478",
+      "message": "冬のともしび[RAW:0E27]",
+      "original": "冬のともしび[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 479,
+      "name": "479",
+      "message": "ダミー７５[RAW:0E27]",
+      "original": "ダミー７５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 480,
+      "name": "480",
+      "message": "ダミー７６[RAW:0E27]",
+      "original": "ダミー７６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 481,
+      "name": "481",
+      "message": "ダミー７７[RAW:0E27]",
+      "original": "ダミー７７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 482,
+      "name": "482",
+      "message": "ダミー７８[RAW:0E27]",
+      "original": "ダミー７８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 483,
+      "name": "483",
+      "message": "ダミー７９[RAW:0E27]",
+      "original": "ダミー７９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 484,
+      "name": "484",
+      "message": "つかれとれーる[RAW:0E27]",
+      "original": "つかれとれーる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 485,
+      "name": "485",
+      "message": "たふねす[RAW:0E27]",
+      "original": "たふねす[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 486,
+      "name": "486",
+      "message": "たいこーぼー[RAW:0E27]",
+      "original": "たいこーぼー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 487,
+      "name": "487",
+      "message": "よくみえーる[RAW:0E27]",
+      "original": "よくみえーる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 488,
+      "name": "488",
+      "message": "ねっこねこ[RAW:0E27]",
+      "original": "ねっこねこ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 489,
+      "name": "489",
+      "message": "いっぬいぬ[RAW:0E27]",
+      "original": "いっぬいぬ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 490,
+      "name": "490",
+      "message": "ダミー１１６[RAW:0E27]",
+      "original": "ダミー１１６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 491,
+      "name": "491",
+      "message": "あるっぱか[RAW:0E27]",
+      "original": "あるっぱか[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 492,
+      "name": "492",
+      "message": "かむかむあにまる[RAW:0E27]",
+      "original": "かむかむあにまる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 493,
+      "name": "493",
+      "message": "ダミー１１７[RAW:0E27]",
+      "original": "ダミー１１７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 494,
+      "name": "494",
+      "message": "ダミー１１８[RAW:0E27]",
+      "original": "ダミー１１８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 495,
+      "name": "495",
+      "message": "ダミー８０[RAW:0E27]",
+      "original": "ダミー８０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 496,
+      "name": "496",
+      "message": "ダミー８１[RAW:0E27]",
+      "original": "ダミー８１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 497,
+      "name": "497",
+      "message": "ダミー８２[RAW:0E27]",
+      "original": "ダミー８２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 498,
+      "name": "498",
+      "message": "かぶ[RAW:0E27]",
+      "original": "かぶ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 499,
+      "name": "499",
+      "message": "じゃがいも[RAW:0E27]",
+      "original": "じゃがいも[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 500,
+      "name": "500",
+      "message": "きゃべつ[RAW:0E27]",
+      "original": "きゃべつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 501,
+      "name": "501",
+      "message": "きゅうり[RAW:0E27]",
+      "original": "きゅうり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 502,
+      "name": "502",
+      "message": "アスパラ[RAW:0E27]",
+      "original": "アスパラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 503,
+      "name": "503",
+      "message": "いちご[RAW:0E27]",
+      "original": "いちご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 504,
+      "name": "504",
+      "message": "トマト[RAW:0E27]",
+      "original": "トマト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 505,
+      "name": "505",
+      "message": "とうもろこし[RAW:0E27]",
+      "original": "とうもろこし[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 506,
+      "name": "506",
+      "message": "たまねぎ[RAW:0E27]",
+      "original": "たまねぎ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 507,
+      "name": "507",
+      "message": "すいか[RAW:0E27]",
+      "original": "すいか[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 508,
+      "name": "508",
+      "message": "パイナップル[RAW:0E27]",
+      "original": "パイナップル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 509,
+      "name": "509",
+      "message": "かぼちゃ[RAW:0E27]",
+      "original": "かぼちゃ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 510,
+      "name": "510",
+      "message": "ラディッシュ[RAW:0E27]",
+      "original": "ラディッシュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 511,
+      "name": "511",
+      "message": "なす[RAW:0E27]",
+      "original": "なす[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 512,
+      "name": "512",
+      "message": "にんじん[RAW:0E27]",
+      "original": "にんじん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 513,
+      "name": "513",
+      "message": "さつまいも[RAW:0E27]",
+      "original": "さつまいも[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 514,
+      "name": "514",
+      "message": "ピーマン[RAW:0E27]",
+      "original": "ピーマン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 515,
+      "name": "515",
+      "message": "ほうれん草[RAW:0E27]",
+      "original": "ほうれん草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 516,
+      "name": "516",
+      "message": "大根[RAW:0E27]",
+      "original": "大根[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 517,
+      "name": "517",
+      "message": "白菜[RAW:0E27]",
+      "original": "白菜[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 518,
+      "name": "518",
+      "message": "ピンクローズ[RAW:0E27]",
+      "original": "ピンクローズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 519,
+      "name": "519",
+      "message": "マーガレット[RAW:0E27]",
+      "original": "マーガレット[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 520,
+      "name": "520",
+      "message": "カーネーション[RAW:0E27]",
+      "original": "カーネーション[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 521,
+      "name": "521",
+      "message": "カサブランカ[RAW:0E27]",
+      "original": "カサブランカ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 522,
+      "name": "522",
+      "message": "レッドローズ[RAW:0E27]",
+      "original": "レッドローズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 523,
+      "name": "523",
+      "message": "ひまわり[RAW:0E27]",
+      "original": "ひまわり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 524,
+      "name": "524",
+      "message": "なでしこ[RAW:0E27]",
+      "original": "なでしこ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 525,
+      "name": "525",
+      "message": "ガーベラ[RAW:0E27]",
+      "original": "ガーベラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 526,
+      "name": "526",
+      "message": "ホワイトローズ[RAW:0E27]",
+      "original": "ホワイトローズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 527,
+      "name": "527",
+      "message": "スノードロップ[RAW:0E27]",
+      "original": "スノードロップ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 528,
+      "name": "528",
+      "message": "りんどう[RAW:0E27]",
+      "original": "りんどう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 529,
+      "name": "529",
+      "message": "ブルーローズ[RAW:0E27]",
+      "original": "ブルーローズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 530,
+      "name": "530",
+      "message": "小麦[RAW:0E27]",
+      "original": "小麦[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 531,
+      "name": "531",
+      "message": "いなほ[RAW:0E27]",
+      "original": "いなほ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 532,
+      "name": "532",
+      "message": "そば[RAW:0E27]",
+      "original": "そば[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 533,
+      "name": "533",
+      "message": "大豆[RAW:0E27]",
+      "original": "大豆[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 534,
+      "name": "534",
+      "message": "コーヒー豆[RAW:0E27]",
+      "original": "コーヒー豆[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 535,
+      "name": "535",
+      "message": "さくらんぼ[RAW:0E27]",
+      "original": "さくらんぼ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 536,
+      "name": "536",
+      "message": "もも[RAW:0E27]",
+      "original": "もも[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 537,
+      "name": "537",
+      "message": "バナナ[RAW:0E27]",
+      "original": "バナナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 538,
+      "name": "538",
+      "message": "ぶどう[RAW:0E27]",
+      "original": "ぶどう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 539,
+      "name": "539",
+      "message": "りんご[RAW:0E27]",
+      "original": "りんご[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 540,
+      "name": "540",
+      "message": "みかん[RAW:0E27]",
+      "original": "みかん[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 541,
+      "name": "541",
+      "message": "カカオ[RAW:0E27]",
+      "original": "カカオ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 542,
+      "name": "542",
+      "message": "春茶葉[RAW:0E27]",
+      "original": "春茶葉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 543,
+      "name": "543",
+      "message": "夏茶葉[RAW:0E27]",
+      "original": "夏茶葉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 544,
+      "name": "544",
+      "message": "秋茶葉[RAW:0E27]",
+      "original": "秋茶葉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 545,
+      "name": "545",
+      "message": "飼い葉[RAW:0E27]",
+      "original": "飼い葉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 546,
+      "name": "546",
+      "message": "ミルク[RAW:0E27]",
+      "original": "ミルク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 547,
+      "name": "547",
+      "message": "ジャージーミルク[RAW:0E27]",
+      "original": "ジャージーミルク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 548,
+      "name": "548",
+      "message": "ミラクルミルク[RAW:0E27]",
+      "original": "ミラクルミルク[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 549,
+      "name": "549",
+      "message": "卵[RAW:0E27]",
+      "original": "卵[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 550,
+      "name": "550",
+      "message": "黒い卵[RAW:0E27]",
+      "original": "黒い卵[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 551,
+      "name": "551",
+      "message": "金の卵[RAW:0E27]",
+      "original": "金の卵[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 552,
+      "name": "552",
+      "message": "羊毛[RAW:0E27]",
+      "original": "羊毛[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 553,
+      "name": "553",
+      "message": "いい羊毛[RAW:0E27]",
+      "original": "いい羊毛[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 554,
+      "name": "554",
+      "message": "ふわわ羊毛[RAW:0E27]",
+      "original": "ふわわ羊毛[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 555,
+      "name": "555",
+      "message": "白いアルパカの毛[RAW:0E27]",
+      "original": "白いアルパカの毛[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 556,
+      "name": "556",
+      "message": "茶色いアルパカの毛[RAW:0E27]",
+      "original": "茶色いアルパカの毛[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 557,
+      "name": "557",
+      "message": "ダミー８３[RAW:0E27]",
+      "original": "ダミー８３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 558,
+      "name": "558",
+      "message": "ダミー８４[RAW:0E27]",
+      "original": "ダミー８４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 559,
+      "name": "559",
+      "message": "ダミー８５[RAW:0E27]",
+      "original": "ダミー８５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 560,
+      "name": "560",
+      "message": "ダミー８６[RAW:0E27]",
+      "original": "ダミー８６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 561,
+      "name": "561",
+      "message": "ダミー８７[RAW:0E27]",
+      "original": "ダミー８７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 562,
+      "name": "562",
+      "message": "雪玉[RAW:0E27]",
+      "original": "雪玉[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 563,
+      "name": "563",
+      "message": "雑草[RAW:0E27]",
+      "original": "雑草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 564,
+      "name": "564",
+      "message": "石[RAW:0E27]",
+      "original": "石[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 565,
+      "name": "565",
+      "message": "石材[RAW:0E27]",
+      "original": "石材[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 566,
+      "name": "566",
+      "message": "枝[RAW:0E27]",
+      "original": "枝[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 567,
+      "name": "567",
+      "message": "木材[RAW:0E27]",
+      "original": "木材[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 568,
+      "name": "568",
+      "message": "ムーンドロップ草[RAW:0E27]",
+      "original": "ムーンドロップ草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 569,
+      "name": "569",
+      "message": "マジックブルー草[RAW:0E27]",
+      "original": "マジックブルー草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 570,
+      "name": "570",
+      "message": "マジックレッド草[RAW:0E27]",
+      "original": "マジックレッド草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 571,
+      "name": "571",
+      "message": "ササ[RAW:0E27]",
+      "original": "ササ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 572,
+      "name": "572",
+      "message": "エリ草[RAW:0E27]",
+      "original": "エリ草[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 573,
+      "name": "573",
+      "message": "くり[RAW:0E27]",
+      "original": "くり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 574,
+      "name": "574",
+      "message": "クルミ[RAW:0E27]",
+      "original": "クルミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 575,
+      "name": "575",
+      "message": "ブルーベリー[RAW:0E27]",
+      "original": "ブルーベリー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 576,
+      "name": "576",
+      "message": "うめ[RAW:0E27]",
+      "original": "うめ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 577,
+      "name": "577",
+      "message": "あんず[RAW:0E27]",
+      "original": "あんず[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 578,
+      "name": "578",
+      "message": "たけのこ[RAW:0E27]",
+      "original": "たけのこ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 579,
+      "name": "579",
+      "message": "しめじ[RAW:0E27]",
+      "original": "しめじ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 580,
+      "name": "580",
+      "message": "しいたけ[RAW:0E27]",
+      "original": "しいたけ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 581,
+      "name": "581",
+      "message": "エリンギ[RAW:0E27]",
+      "original": "エリンギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 582,
+      "name": "582",
+      "message": "ホウキタケ[RAW:0E27]",
+      "original": "ホウキタケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 583,
+      "name": "583",
+      "message": "ブラウンマッシュ[RAW:0E27]",
+      "original": "ブラウンマッシュ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 584,
+      "name": "584",
+      "message": "どくきのこ[RAW:0E27]",
+      "original": "どくきのこ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 585,
+      "name": "585",
+      "message": "ミント[RAW:0E27]",
+      "original": "ミント[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 586,
+      "name": "586",
+      "message": "カモミール[RAW:0E27]",
+      "original": "カモミール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 587,
+      "name": "587",
+      "message": "ラベンダー[RAW:0E27]",
+      "original": "ラベンダー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 588,
+      "name": "588",
+      "message": "ハチのす[RAW:0E27]",
+      "original": "ハチのす[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 589,
+      "name": "589",
+      "message": "コイン[RAW:0E27]",
+      "original": "コイン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 590,
+      "name": "590",
+      "message": "アダマンタイト[RAW:0E27]",
+      "original": "アダマンタイト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 591,
+      "name": "591",
+      "message": "アメジスト[RAW:0E27]",
+      "original": "アメジスト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 592,
+      "name": "592",
+      "message": "エメラルド[RAW:0E27]",
+      "original": "エメラルド[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 593,
+      "name": "593",
+      "message": "オリハルコン[RAW:0E27]",
+      "original": "オリハルコン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 594,
+      "name": "594",
+      "message": "金[RAW:0E27]",
+      "original": "金[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 595,
+      "name": "595",
+      "message": "銀[RAW:0E27]",
+      "original": "銀[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 596,
+      "name": "596",
+      "message": "銅[RAW:0E27]",
+      "original": "銅[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 597,
+      "name": "597",
+      "message": "クズ鉱石[RAW:0E27]",
+      "original": "クズ鉱石[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 598,
+      "name": "598",
+      "message": "サンドローズ[RAW:0E27]",
+      "original": "サンドローズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 599,
+      "name": "599",
+      "message": "ダイヤモンド[RAW:0E27]",
+      "original": "ダイヤモンド[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 600,
+      "name": "600",
+      "message": "トパーズ[RAW:0E27]",
+      "original": "トパーズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 601,
+      "name": "601",
+      "message": "ピンクダイヤモンド[RAW:0E27]",
+      "original": "ピンクダイヤモンド[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 602,
+      "name": "602",
+      "message": "ペリドット[RAW:0E27]",
+      "original": "ペリドット[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 603,
+      "name": "603",
+      "message": "ほたる石[RAW:0E27]",
+      "original": "ほたる石[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 604,
+      "name": "604",
+      "message": "ミスリル[RAW:0E27]",
+      "original": "ミスリル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 605,
+      "name": "605",
+      "message": "ムーンストーン[RAW:0E27]",
+      "original": "ムーンストーン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 606,
+      "name": "606",
+      "message": "めのう[RAW:0E27]",
+      "original": "めのう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 607,
+      "name": "607",
+      "message": "ルビー[RAW:0E27]",
+      "original": "ルビー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 608,
+      "name": "608",
+      "message": "ひすい[RAW:0E27]",
+      "original": "ひすい[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 609,
+      "name": "609",
+      "message": "謎の石版[RAW:0E27]",
+      "original": "謎の石版[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 610,
+      "name": "610",
+      "message": "賢者の石[RAW:0E27]",
+      "original": "賢者の石[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 611,
+      "name": "611",
+      "message": "鉱山石[RAW:0E27]",
+      "original": "鉱山石[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 612,
+      "name": "612",
+      "message": "ダミー８８[RAW:0E27]",
+      "original": "ダミー８８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 613,
+      "name": "613",
+      "message": "ダミー８９[RAW:0E27]",
+      "original": "ダミー８９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 614,
+      "name": "614",
+      "message": "ダミー９０[RAW:0E27]",
+      "original": "ダミー９０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 615,
+      "name": "615",
+      "message": "ダミー９１[RAW:0E27]",
+      "original": "ダミー９１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 616,
+      "name": "616",
+      "message": "ダミー９２[RAW:0E27]",
+      "original": "ダミー９２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 617,
+      "name": "617",
+      "message": "アブラゼミ[RAW:0E27]",
+      "original": "アブラゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 618,
+      "name": "618",
+      "message": "ニイニイゼミ[RAW:0E27]",
+      "original": "ニイニイゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 619,
+      "name": "619",
+      "message": "ハルゼミ[RAW:0E27]",
+      "original": "ハルゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 620,
+      "name": "620",
+      "message": "ヒメハルゼミ[RAW:0E27]",
+      "original": "ヒメハルゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 621,
+      "name": "621",
+      "message": "クサゼミ[RAW:0E27]",
+      "original": "クサゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 622,
+      "name": "622",
+      "message": "ツクツクボウシ[RAW:0E27]",
+      "original": "ツクツクボウシ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 623,
+      "name": "623",
+      "message": "ミンミンゼミ[RAW:0E27]",
+      "original": "ミンミンゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 624,
+      "name": "624",
+      "message": "チッチゼミ[RAW:0E27]",
+      "original": "チッチゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 625,
+      "name": "625",
+      "message": "コエゾゼミ[RAW:0E27]",
+      "original": "コエゾゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 626,
+      "name": "626",
+      "message": "エゾゼミ[RAW:0E27]",
+      "original": "エゾゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 627,
+      "name": "627",
+      "message": "ヒグラシ[RAW:0E27]",
+      "original": "ヒグラシ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 628,
+      "name": "628",
+      "message": "クマゼミ[RAW:0E27]",
+      "original": "クマゼミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 629,
+      "name": "629",
+      "message": "カブトムシ[RAW:0E27]",
+      "original": "カブトムシ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 630,
+      "name": "630",
+      "message": "クワガタ[RAW:0E27]",
+      "original": "クワガタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 631,
+      "name": "631",
+      "message": "オオクワガタ[RAW:0E27]",
+      "original": "オオクワガタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 632,
+      "name": "632",
+      "message": "アトラスオオカブト[RAW:0E27]",
+      "original": "アトラスオオカブト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 633,
+      "name": "633",
+      "message": "ゾウカブト[RAW:0E27]",
+      "original": "ゾウカブト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 634,
+      "name": "634",
+      "message": "ツヤクワガタ[RAW:0E27]",
+      "original": "ツヤクワガタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 635,
+      "name": "635",
+      "message": "アヌビスゾウカブト[RAW:0E27]",
+      "original": "アヌビスゾウカブト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 636,
+      "name": "636",
+      "message": "ヘラクレス[RAW:0E27]",
+      "original": "ヘラクレス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 637,
+      "name": "637",
+      "message": "マヤシロカブト[RAW:0008-0E27]",
+      "original": "マヤシロカブト[RAW:0008-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0008-0E27]"
+      ]
+    },
+    {
+      "index": 638,
+      "name": "638",
+      "message": "モロンシロカブト[RAW:0E27]",
+      "original": "モロンシロカブト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 639,
+      "name": "639",
+      "message": "ヒルスシロカブト[RAW:0E27]",
+      "original": "ヒルスシロカブト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 640,
+      "name": "640",
+      "message": "グラントシロカブト[RAW:0E27]",
+      "original": "グラントシロカブト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 641,
+      "name": "641",
+      "message": "アカトンボ[RAW:0E27]",
+      "original": "アカトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 642,
+      "name": "642",
+      "message": "リスアカネ[RAW:0E27]",
+      "original": "リスアカネ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 643,
+      "name": "643",
+      "message": "ウミアカトンボ[RAW:0E27]",
+      "original": "ウミアカトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 644,
+      "name": "644",
+      "message": "アメイロトンボ[RAW:0E27]",
+      "original": "アメイロトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 645,
+      "name": "645",
+      "message": "ベニトンボ[RAW:0E27]",
+      "original": "ベニトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 646,
+      "name": "646",
+      "message": "アオトンボ[RAW:0E27]",
+      "original": "アオトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 647,
+      "name": "647",
+      "message": "シオカラトンボ[RAW:0E27]",
+      "original": "シオカラトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 648,
+      "name": "648",
+      "message": "アオヤンマ[RAW:0E27]",
+      "original": "アオヤンマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 649,
+      "name": "649",
+      "message": "アオハダトンボ[RAW:0E27]",
+      "original": "アオハダトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 650,
+      "name": "650",
+      "message": "ムカシヤンマ[RAW:0E27]",
+      "original": "ムカシヤンマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 651,
+      "name": "651",
+      "message": "キイトトンボ[RAW:0E27]",
+      "original": "キイトトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 652,
+      "name": "652",
+      "message": "オニヤンマ[RAW:0E27]",
+      "original": "オニヤンマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 653,
+      "name": "653",
+      "message": "ハラビロトンボ[RAW:0E27]",
+      "original": "ハラビロトンボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 654,
+      "name": "654",
+      "message": "ギンヤンマ[RAW:0E27]",
+      "original": "ギンヤンマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 655,
+      "name": "655",
+      "message": "オオギンヤンマ[RAW:0E27]",
+      "original": "オオギンヤンマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 656,
+      "name": "656",
+      "message": "ゲンジボタル[RAW:0E27]",
+      "original": "ゲンジボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 657,
+      "name": "657",
+      "message": "クロマドボタル[RAW:0E27]",
+      "original": "クロマドボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 658,
+      "name": "658",
+      "message": "アキマドボタル[RAW:0E27]",
+      "original": "アキマドボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 659,
+      "name": "659",
+      "message": "オオマドボタル[RAW:0E27]",
+      "original": "オオマドボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 660,
+      "name": "660",
+      "message": "ヘイケボタル[RAW:0E27]",
+      "original": "ヘイケボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 661,
+      "name": "661",
+      "message": "スジグロボタル[RAW:0E27]",
+      "original": "スジグロボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 662,
+      "name": "662",
+      "message": "キイロスジボタル[RAW:0E27]",
+      "original": "キイロスジボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 663,
+      "name": "663",
+      "message": "シブイロヒゲボタル[RAW:0E27]",
+      "original": "シブイロヒゲボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 664,
+      "name": "664",
+      "message": "ヒメボタル[RAW:0E27]",
+      "original": "ヒメボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 665,
+      "name": "665",
+      "message": "オバボタル[RAW:0E27]",
+      "original": "オバボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 666,
+      "name": "666",
+      "message": "ナツミオバボタル[RAW:0E27]",
+      "original": "ナツミオバボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 667,
+      "name": "667",
+      "message": "オオオバボタル[RAW:0E27]",
+      "original": "オオオバボタル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 668,
+      "name": "668",
+      "message": "アマガエル[RAW:0E27]",
+      "original": "アマガエル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 669,
+      "name": "669",
+      "message": "クツワアメガエル[RAW:0E27]",
+      "original": "クツワアメガエル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 670,
+      "name": "670",
+      "message": "アカメアマガエル[RAW:0E27]",
+      "original": "アカメアマガエル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 671,
+      "name": "671",
+      "message": "イエアメガエル[RAW:0E27]",
+      "original": "イエアメガエル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 672,
+      "name": "672",
+      "message": "トノサマガエル[RAW:0E27]",
+      "original": "トノサマガエル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 673,
+      "name": "673",
+      "message": "モンシロチョウ[RAW:0E27]",
+      "original": "モンシロチョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 674,
+      "name": "674",
+      "message": "ゴマシジミ[RAW:0E27]",
+      "original": "ゴマシジミ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 675,
+      "name": "675",
+      "message": "オオゴマダラ[RAW:0E27]",
+      "original": "オオゴマダラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 676,
+      "name": "676",
+      "message": "シロタイスアゲハ[RAW:0E27]",
+      "original": "シロタイスアゲハ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 677,
+      "name": "677",
+      "message": "シロモルフォ[RAW:0E27]",
+      "original": "シロモルフォ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 678,
+      "name": "678",
+      "message": "アゲハチョウ[RAW:0E27]",
+      "original": "アゲハチョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 679,
+      "name": "679",
+      "message": "モンキチョウ[RAW:0E27]",
+      "original": "モンキチョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 680,
+      "name": "680",
+      "message": "キタテハ[RAW:0E27]",
+      "original": "キタテハ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 681,
+      "name": "681",
+      "message": "ヒョウモンチョウ[RAW:0E27]",
+      "original": "ヒョウモンチョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 682,
+      "name": "682",
+      "message": "オオキチョウ[RAW:0E27]",
+      "original": "オオキチョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 683,
+      "name": "683",
+      "message": "オオムラサキ[RAW:0E27]",
+      "original": "オオムラサキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 684,
+      "name": "684",
+      "message": "ミヤマカラスアゲハ[RAW:0E27]",
+      "original": "ミヤマカラスアゲハ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 685,
+      "name": "685",
+      "message": "ムラサキタテハ[RAW:0E27]",
+      "original": "ムラサキタテハ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 686,
+      "name": "686",
+      "message": "ビロードタテハ[RAW:0E27]",
+      "original": "ビロードタテハ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 687,
+      "name": "687",
+      "message": "ヘレナモルフォ[RAW:0E27]",
+      "original": "ヘレナモルフォ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 688,
+      "name": "688",
+      "message": "ショウリョウバッタ[RAW:0E27]",
+      "original": "ショウリョウバッタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 689,
+      "name": "689",
+      "message": "オンブバッタ[RAW:0E27]",
+      "original": "オンブバッタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 690,
+      "name": "690",
+      "message": "コバネイナゴ[RAW:0E27]",
+      "original": "コバネイナゴ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 691,
+      "name": "691",
+      "message": "クツワムシ[RAW:0E27]",
+      "original": "クツワムシ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 692,
+      "name": "692",
+      "message": "トノサマバッタ[RAW:0E27]",
+      "original": "トノサマバッタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 693,
+      "name": "693",
+      "message": "コオロギ[RAW:0E27]",
+      "original": "コオロギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 694,
+      "name": "694",
+      "message": "マダラバッタ[RAW:0E27]",
+      "original": "マダラバッタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 695,
+      "name": "695",
+      "message": "ツチイナゴ[RAW:0E27]",
+      "original": "ツチイナゴ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 696,
+      "name": "696",
+      "message": "ハラヒシバッタ[RAW:0E27]",
+      "original": "ハラヒシバッタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 697,
+      "name": "697",
+      "message": "エンマコオロギ[RAW:0E27]",
+      "original": "エンマコオロギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 698,
+      "name": "698",
+      "message": "トゲヒシバッタ[RAW:0E27]",
+      "original": "トゲヒシバッタ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 699,
+      "name": "699",
+      "message": "ヒガシキリギリス[RAW:0E27]",
+      "original": "ヒガシキリギリス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 700,
+      "name": "700",
+      "message": "ミツカドコオロギ[RAW:0E27]",
+      "original": "ミツカドコオロギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 701,
+      "name": "701",
+      "message": "アリヅカコオロギ[RAW:0E27]",
+      "original": "アリヅカコオロギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 702,
+      "name": "702",
+      "message": "ダミー９３[RAW:0E27]",
+      "original": "ダミー９３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 703,
+      "name": "703",
+      "message": "ダミー９４[RAW:0E27]",
+      "original": "ダミー９４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 704,
+      "name": "704",
+      "message": "ダミー９５[RAW:0E27]",
+      "original": "ダミー９５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 705,
+      "name": "705",
+      "message": "ダミー９６[RAW:0E27]",
+      "original": "ダミー９６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 706,
+      "name": "706",
+      "message": "ダミー９７[RAW:0E27]",
+      "original": "ダミー９７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 707,
+      "name": "707",
+      "message": "魚の骨[RAW:0E27]",
+      "original": "魚の骨[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 708,
+      "name": "708",
+      "message": "長ぐつ[RAW:0E27]",
+      "original": "長ぐつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 709,
+      "name": "709",
+      "message": "ボール[RAW:0E27]",
+      "original": "ボール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 710,
+      "name": "710",
+      "message": "古代魚の化石[RAW:0E27]",
+      "original": "古代魚の化石[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 711,
+      "name": "711",
+      "message": "伝説の宝[RAW:0E27]",
+      "original": "伝説の宝[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 712,
+      "name": "712",
+      "message": "手紙入りのビン[RAW:0E27]",
+      "original": "手紙入りのビン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 713,
+      "name": "713",
+      "message": "アユ[RAW:0E27]",
+      "original": "アユ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 714,
+      "name": "714",
+      "message": "チビアユ[RAW:0E27]",
+      "original": "チビアユ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 715,
+      "name": "715",
+      "message": "デカアユ[RAW:0E27]",
+      "original": "デカアユ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 716,
+      "name": "716",
+      "message": "イワナ[RAW:0E27]",
+      "original": "イワナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 717,
+      "name": "717",
+      "message": "チビイワナ[RAW:0E27]",
+      "original": "チビイワナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 718,
+      "name": "718",
+      "message": "デカイワナ[RAW:0E27]",
+      "original": "デカイワナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 719,
+      "name": "719",
+      "message": "ウナギ[RAW:0E27]",
+      "original": "ウナギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 720,
+      "name": "720",
+      "message": "チビウナギ[RAW:0E27]",
+      "original": "チビウナギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 721,
+      "name": "721",
+      "message": "デカウナギ[RAW:0E27]",
+      "original": "デカウナギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 722,
+      "name": "722",
+      "message": "コイ[RAW:0E27]",
+      "original": "コイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 723,
+      "name": "723",
+      "message": "チビコイ[RAW:0E27]",
+      "original": "チビコイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 724,
+      "name": "724",
+      "message": "サケ[RAW:0E27]",
+      "original": "サケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 725,
+      "name": "725",
+      "message": "チビサケ[RAW:0E27]",
+      "original": "チビサケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 726,
+      "name": "726",
+      "message": "コモチサケ[RAW:0E27]",
+      "original": "コモチサケ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 727,
+      "name": "727",
+      "message": "シシャモ[RAW:0E27]",
+      "original": "シシャモ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 728,
+      "name": "728",
+      "message": "チビシシャモ[RAW:0E27]",
+      "original": "チビシシャモ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 729,
+      "name": "729",
+      "message": "コモチシシャモ[RAW:0E27]",
+      "original": "コモチシシャモ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 730,
+      "name": "730",
+      "message": "シラウオ[RAW:0E27]",
+      "original": "シラウオ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 731,
+      "name": "731",
+      "message": "チビシラウオ[RAW:0E27]",
+      "original": "チビシラウオ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 732,
+      "name": "732",
+      "message": "デカシラウオ[RAW:0E27]",
+      "original": "デカシラウオ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 733,
+      "name": "733",
+      "message": "スズキ[RAW:0E27]",
+      "original": "スズキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 734,
+      "name": "734",
+      "message": "チビスズキ[RAW:0E27]",
+      "original": "チビスズキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 735,
+      "name": "735",
+      "message": "デカスズキ[RAW:0E27]",
+      "original": "デカスズキ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 736,
+      "name": "736",
+      "message": "ドジョウ[RAW:0E27]",
+      "original": "ドジョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 737,
+      "name": "737",
+      "message": "チビドジョウ[RAW:0E27]",
+      "original": "チビドジョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 738,
+      "name": "738",
+      "message": "デカドジョウ[RAW:0E27]",
+      "original": "デカドジョウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 739,
+      "name": "739",
+      "message": "ハゼ[RAW:0E27]",
+      "original": "ハゼ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 740,
+      "name": "740",
+      "message": "チビハゼ[RAW:0E27]",
+      "original": "チビハゼ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 741,
+      "name": "741",
+      "message": "デカハゼ[RAW:0E27]",
+      "original": "デカハゼ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 742,
+      "name": "742",
+      "message": "フナ[RAW:0E27]",
+      "original": "フナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 743,
+      "name": "743",
+      "message": "チビフナ[RAW:0E27]",
+      "original": "チビフナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 744,
+      "name": "744",
+      "message": "デカフナ[RAW:0E27]",
+      "original": "デカフナ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 745,
+      "name": "745",
+      "message": "ブラックバス[RAW:0E27]",
+      "original": "ブラックバス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 746,
+      "name": "746",
+      "message": "チビバス[RAW:0E27]",
+      "original": "チビバス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 747,
+      "name": "747",
+      "message": "デカバス[RAW:0E27]",
+      "original": "デカバス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 748,
+      "name": "748",
+      "message": "ブルーギル[RAW:0E27]",
+      "original": "ブルーギル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 749,
+      "name": "749",
+      "message": "チビギル[RAW:0E27]",
+      "original": "チビギル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 750,
+      "name": "750",
+      "message": "デカギル[RAW:0E27]",
+      "original": "デカギル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 751,
+      "name": "751",
+      "message": "マス[RAW:0E27]",
+      "original": "マス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 752,
+      "name": "752",
+      "message": "チビマス[RAW:0E27]",
+      "original": "チビマス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 753,
+      "name": "753",
+      "message": "デカマス[RAW:0E27]",
+      "original": "デカマス[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 754,
+      "name": "754",
+      "message": "メダカ[RAW:0E27]",
+      "original": "メダカ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 755,
+      "name": "755",
+      "message": "チビメダカ[RAW:0E27]",
+      "original": "チビメダカ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 756,
+      "name": "756",
+      "message": "デカメダカ[RAW:0E27]",
+      "original": "デカメダカ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 757,
+      "name": "757",
+      "message": "ヤマメ[RAW:0E27]",
+      "original": "ヤマメ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 758,
+      "name": "758",
+      "message": "チビヤマメ[RAW:0E27]",
+      "original": "チビヤマメ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 759,
+      "name": "759",
+      "message": "デカヤマメ[RAW:0E27]",
+      "original": "デカヤマメ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 760,
+      "name": "760",
+      "message": "ライギョ[RAW:0E27]",
+      "original": "ライギョ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 761,
+      "name": "761",
+      "message": "チビライギョ[RAW:0E27]",
+      "original": "チビライギョ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 762,
+      "name": "762",
+      "message": "デカライギョ[RAW:0E27]",
+      "original": "デカライギョ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 763,
+      "name": "763",
+      "message": "ワカサギ[RAW:0E27]",
+      "original": "ワカサギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 764,
+      "name": "764",
+      "message": "チビワカサギ[RAW:0E27]",
+      "original": "チビワカサギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 765,
+      "name": "765",
+      "message": "デカワカサギ[RAW:0E27]",
+      "original": "デカワカサギ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 766,
+      "name": "766",
+      "message": "アオサワガニ[RAW:0E27]",
+      "original": "アオサワガニ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 767,
+      "name": "767",
+      "message": "サワガニ[RAW:0E27]",
+      "original": "サワガニ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 768,
+      "name": "768",
+      "message": "チビサワガニ[RAW:0E27]",
+      "original": "チビサワガニ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 769,
+      "name": "769",
+      "message": "チビシャンガニ[RAW:0E27]",
+      "original": "チビシャンガニ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 770,
+      "name": "770",
+      "message": "カツオ[RAW:0E27]",
+      "original": "カツオ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 771,
+      "name": "771",
+      "message": "マグロ[RAW:0E27]",
+      "original": "マグロ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 772,
+      "name": "772",
+      "message": "マンボウ[RAW:0E27]",
+      "original": "マンボウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 773,
+      "name": "773",
+      "message": "チビザメ[RAW:0E27]",
+      "original": "チビザメ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 774,
+      "name": "774",
+      "message": "ウツボ[RAW:0E27]",
+      "original": "ウツボ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 775,
+      "name": "775",
+      "message": "サバ[RAW:0E27]",
+      "original": "サバ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 776,
+      "name": "776",
+      "message": "ヒラメ[RAW:0E27]",
+      "original": "ヒラメ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 777,
+      "name": "777",
+      "message": "イトウ[RAW:0E27]",
+      "original": "イトウ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 778,
+      "name": "778",
+      "message": "オオサンショウウオ[RAW:0E27]",
+      "original": "オオサンショウウオ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 779,
+      "name": "779",
+      "message": "ニシキゴイ[RAW:0E27]",
+      "original": "ニシキゴイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 780,
+      "name": "780",
+      "message": "ナマズ[RAW:0E27]",
+      "original": "ナマズ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 781,
+      "name": "781",
+      "message": "カメ[RAW:0E27]",
+      "original": "カメ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 782,
+      "name": "782",
+      "message": "ダミー９８[RAW:0E27]",
+      "original": "ダミー９８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 783,
+      "name": "783",
+      "message": "ダミー９９[RAW:0E27]",
+      "original": "ダミー９９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 784,
+      "name": "784",
+      "message": "ダミー１００[RAW:0E27]",
+      "original": "ダミー１００[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 785,
+      "name": "785",
+      "message": "ダミー１０１[RAW:0E27]",
+      "original": "ダミー１０１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 786,
+      "name": "786",
+      "message": "ダミー１０２[RAW:0E27]",
+      "original": "ダミー１０２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 787,
+      "name": "787",
+      "message": "春の太陽[RAW:0E27]",
+      "original": "春の太陽[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 788,
+      "name": "788",
+      "message": "夏の太陽[RAW:0E27]",
+      "original": "夏の太陽[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 789,
+      "name": "789",
+      "message": "秋の太陽[RAW:0E27]",
+      "original": "秋の太陽[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 790,
+      "name": "790",
+      "message": "冬の太陽[RAW:0E27]",
+      "original": "冬の太陽[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 791,
+      "name": "791",
+      "message": "赤のすてき[RAW:0E27]",
+      "original": "赤のすてき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 792,
+      "name": "792",
+      "message": "橙のすてき[RAW:0E27]",
+      "original": "橙のすてき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 793,
+      "name": "793",
+      "message": "黄のすてき[RAW:0E27]",
+      "original": "黄のすてき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 794,
+      "name": "794",
+      "message": "緑のすてき[RAW:0E27]",
+      "original": "緑のすてき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 795,
+      "name": "795",
+      "message": "青のすてき[RAW:0E27]",
+      "original": "青のすてき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 796,
+      "name": "796",
+      "message": "視のすてき[RAW:0E27]",
+      "original": "視のすてき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 797,
+      "name": "797",
+      "message": "ふしぎな水[RAW:0E27]",
+      "original": "ふしぎな水[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 798,
+      "name": "798",
+      "message": "骨ガム[RAW:0E27]",
+      "original": "骨ガム[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 799,
+      "name": "799",
+      "message": "すず[RAW:0E27]",
+      "original": "すず[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 800,
+      "name": "800",
+      "message": "動物の薬[RAW:0E27]",
+      "original": "動物の薬[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 801,
+      "name": "801",
+      "message": "ニワトリのエサ[RAW:0E27]",
+      "original": "ニワトリのエサ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 802,
+      "name": "802",
+      "message": "おやつ[RAW:0E27]",
+      "original": "おやつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 803,
+      "name": "803",
+      "message": "野菜おやつ[RAW:0E27]",
+      "original": "野菜おやつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 804,
+      "name": "804",
+      "message": "穀物おやつ[RAW:0E27]",
+      "original": "穀物おやつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 805,
+      "name": "805",
+      "message": "魚のおやつ[RAW:0E27]",
+      "original": "魚のおやつ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 806,
+      "name": "806",
+      "message": "ワンニャンフード[RAW:0E27]",
+      "original": "ワンニャンフード[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 807,
+      "name": "807",
+      "message": "ホーホーフード[RAW:0E27]",
+      "original": "ホーホーフード[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 808,
+      "name": "808",
+      "message": "ウマ用のクッキー[RAW:0E27]",
+      "original": "ウマ用のクッキー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 809,
+      "name": "809",
+      "message": "魚のエサ[RAW:0E27]",
+      "original": "魚のエサ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 810,
+      "name": "810",
+      "message": "なべ[RAW:0E27]",
+      "original": "なべ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 811,
+      "name": "811",
+      "message": "フライパン[RAW:0E27]",
+      "original": "フライパン[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 812,
+      "name": "812",
+      "message": "ちょうみりょう[RAW:0E27]",
+      "original": "ちょうみりょう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 813,
+      "name": "813",
+      "message": "ダミー１０３[RAW:0E27]",
+      "original": "ダミー１０３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 814,
+      "name": "814",
+      "message": "ダミー１０４[RAW:0E27]",
+      "original": "ダミー１０４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 815,
+      "name": "815",
+      "message": "ダミー１０５[RAW:0E27]",
+      "original": "ダミー１０５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 816,
+      "name": "816",
+      "message": "ダミー１０６[RAW:0E27]",
+      "original": "ダミー１０６[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 817,
+      "name": "817",
+      "message": "ダミー１０７[RAW:0E27]",
+      "original": "ダミー１０７[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 818,
+      "name": "818",
+      "message": "ダミー１０８[RAW:0E27]",
+      "original": "ダミー１０８[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 819,
+      "name": "819",
+      "message": "ダミー１０９[RAW:0E27]",
+      "original": "ダミー１０９[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 820,
+      "name": "820",
+      "message": "ダミー１１０[RAW:0E27]",
+      "original": "ダミー１１０[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 821,
+      "name": "821",
+      "message": "クワ[RAW:0E27]",
+      "original": "クワ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 822,
+      "name": "822",
+      "message": "じょうろ[RAW:0E27]",
+      "original": "じょうろ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 823,
+      "name": "823",
+      "message": "カマ[RAW:0E27]",
+      "original": "カマ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 824,
+      "name": "824",
+      "message": "オノ[RAW:0E27]",
+      "original": "オノ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 825,
+      "name": "825",
+      "message": "ハンマー[RAW:0E27]",
+      "original": "ハンマー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 826,
+      "name": "826",
+      "message": "乳しぼり器[RAW:0E27]",
+      "original": "乳しぼり器[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 827,
+      "name": "827",
+      "message": "毛がりばさみ[RAW:0E27]",
+      "original": "毛がりばさみ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 828,
+      "name": "828",
+      "message": "ブラシ[RAW:0E27]",
+      "original": "ブラシ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 829,
+      "name": "829",
+      "message": "ベル[RAW:0E27]",
+      "original": "ベル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 830,
+      "name": "830",
+      "message": "ちょうしんき[RAW:0E27]",
+      "original": "ちょうしんき[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 831,
+      "name": "831",
+      "message": "釣り竿[RAW:0E27]",
+      "original": "釣り竿[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 832,
+      "name": "832",
+      "message": "ワンダー釣り竿[RAW:0E27]",
+      "original": "ワンダー釣り竿[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 833,
+      "name": "833",
+      "message": "スノーボード[RAW:0E27]",
+      "original": "スノーボード[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 834,
+      "name": "834",
+      "message": "スケートボード[RAW:0E27]",
+      "original": "スケートボード[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 835,
+      "name": "835",
+      "message": "空色アンブレラ[RAW:0E27]",
+      "original": "空色アンブレラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 836,
+      "name": "836",
+      "message": "しましまアンブレラ[RAW:0E27]",
+      "original": "しましまアンブレラ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 837,
+      "name": "837",
+      "message": "紅バンガサ[RAW:0E27]",
+      "original": "紅バンガサ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 838,
+      "name": "838",
+      "message": "藍バンガサ[RAW:0E27]",
+      "original": "藍バンガサ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 839,
+      "name": "839",
+      "message": "ダミー１１１[RAW:0E27]",
+      "original": "ダミー１１１[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 840,
+      "name": "840",
+      "message": "ダミー１１２[RAW:0E27]",
+      "original": "ダミー１１２[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 841,
+      "name": "841",
+      "message": "ダミー１１３[RAW:0E27]",
+      "original": "ダミー１１３[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 842,
+      "name": "842",
+      "message": "ダミー１１４[RAW:0E27]",
+      "original": "ダミー１１４[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 843,
+      "name": "843",
+      "message": "ダミー１１５[RAW:0E27]",
+      "original": "ダミー１１５[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 844,
+      "name": "844",
+      "message": "かぶの種[RAW:0E27]",
+      "original": "かぶの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 845,
+      "name": "845",
+      "message": "じゃがいもの種[RAW:0E27]",
+      "original": "じゃがいもの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 846,
+      "name": "846",
+      "message": "きゃべつの種[RAW:0E27]",
+      "original": "きゃべつの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 847,
+      "name": "847",
+      "message": "きゅうりの種[RAW:0E27]",
+      "original": "きゅうりの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 848,
+      "name": "848",
+      "message": "アスパラの種[RAW:0E27]",
+      "original": "アスパラの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 849,
+      "name": "849",
+      "message": "いちごの種[RAW:0E27]",
+      "original": "いちごの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 850,
+      "name": "850",
+      "message": "トマトの種[RAW:0E27]",
+      "original": "トマトの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 851,
+      "name": "851",
+      "message": "とうもろこしの種[RAW:0E27]",
+      "original": "とうもろこしの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 852,
+      "name": "852",
+      "message": "たまねぎの種[RAW:0E27]",
+      "original": "たまねぎの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 853,
+      "name": "853",
+      "message": "すいかの種[RAW:0E27]",
+      "original": "すいかの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 854,
+      "name": "854",
+      "message": "パイナップルの種[RAW:0E27]",
+      "original": "パイナップルの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 855,
+      "name": "855",
+      "message": "かぼちゃの種[RAW:0E27]",
+      "original": "かぼちゃの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 856,
+      "name": "856",
+      "message": "ラディッシュの種[RAW:0E27]",
+      "original": "ラディッシュの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 857,
+      "name": "857",
+      "message": "なすの種[RAW:0E27]",
+      "original": "なすの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 858,
+      "name": "858",
+      "message": "にんじんの種[RAW:0E27]",
+      "original": "にんじんの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 859,
+      "name": "859",
+      "message": "さつまいもの種[RAW:0E27]",
+      "original": "さつまいもの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 860,
+      "name": "860",
+      "message": "ピーマンの種[RAW:0E27]",
+      "original": "ピーマンの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 861,
+      "name": "861",
+      "message": "ほうれん草の種[RAW:0E27]",
+      "original": "ほうれん草の種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 862,
+      "name": "862",
+      "message": "大根の種[RAW:0E27]",
+      "original": "大根の種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 863,
+      "name": "863",
+      "message": "白菜の種[RAW:0E27]",
+      "original": "白菜の種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 864,
+      "name": "864",
+      "message": "ピンクローズの種[RAW:0E27]",
+      "original": "ピンクローズの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 865,
+      "name": "865",
+      "message": "マーガレットの種[RAW:0E27]",
+      "original": "マーガレットの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 866,
+      "name": "866",
+      "message": "カーネーションの種[RAW:0E27]",
+      "original": "カーネーションの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 867,
+      "name": "867",
+      "message": "カサブランカの種[RAW:0E27]",
+      "original": "カサブランカの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 868,
+      "name": "868",
+      "message": "レッドローズの種[RAW:0E27]",
+      "original": "レッドローズの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 869,
+      "name": "869",
+      "message": "ひまわりの種[RAW:0E27]",
+      "original": "ひまわりの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 870,
+      "name": "870",
+      "message": "なでしこの種[RAW:0E27]",
+      "original": "なでしこの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 871,
+      "name": "871",
+      "message": "ガーベラの種[RAW:0E27]",
+      "original": "ガーベラの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 872,
+      "name": "872",
+      "message": "ホワイトローズの種[RAW:0E27]",
+      "original": "ホワイトローズの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 873,
+      "name": "873",
+      "message": "スノードロップの種[RAW:0E27]",
+      "original": "スノードロップの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 874,
+      "name": "874",
+      "message": "りんどうの種[RAW:0E27]",
+      "original": "りんどうの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 875,
+      "name": "875",
+      "message": "ブルーローズの種[RAW:0E27]",
+      "original": "ブルーローズの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 876,
+      "name": "876",
+      "message": "小麦の種[RAW:0E27]",
+      "original": "小麦の種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 877,
+      "name": "877",
+      "message": "お米の苗[RAW:0E27]",
+      "original": "お米の苗[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 878,
+      "name": "878",
+      "message": "そばの種[RAW:0E27]",
+      "original": "そばの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 879,
+      "name": "879",
+      "message": "大豆の種[RAW:0E27]",
+      "original": "大豆の種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 880,
+      "name": "880",
+      "message": "コーヒーの種[RAW:0E27]",
+      "original": "コーヒーの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 881,
+      "name": "881",
+      "message": "さくらんぼの種[RAW:0E27]",
+      "original": "さくらんぼの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 882,
+      "name": "882",
+      "message": "ももの種[RAW:0E27]",
+      "original": "ももの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 883,
+      "name": "883",
+      "message": "バナナの種[RAW:0E27]",
+      "original": "バナナの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 884,
+      "name": "884",
+      "message": "ぶどうの種[RAW:0E27]",
+      "original": "ぶどうの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 885,
+      "name": "885",
+      "message": "りんごの種[RAW:0E27]",
+      "original": "りんごの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 886,
+      "name": "886",
+      "message": "みかんの種[RAW:0E27]",
+      "original": "みかんの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 887,
+      "name": "887",
+      "message": "カカオの種[RAW:0E27]",
+      "original": "カカオの種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 888,
+      "name": "888",
+      "message": "お茶の種[RAW:0E27]",
+      "original": "お茶の種[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 889,
+      "name": "889",
+      "message": "ひりょう[RAW:0E27]",
+      "original": "ひりょう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 890,
+      "name": "890",
+      "message": "水ひりょう[RAW:0E27]",
+      "original": "水ひりょう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 891,
+      "name": "891",
+      "message": "速さひりょう[RAW:0E27]",
+      "original": "速さひりょう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 892,
+      "name": "892",
+      "message": "数ひりょう[RAW:0E27]",
+      "original": "数ひりょう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 893,
+      "name": "893",
+      "message": "さいご[RAW:0E27-0F27]線",
+      "original": "さいご[RAW:0E27-0F27]線",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

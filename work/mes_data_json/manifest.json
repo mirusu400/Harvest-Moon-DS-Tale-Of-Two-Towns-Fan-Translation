@@ -1,0 +1,271 @@
+{
+  "source_file": "mes_data.bin",
+  "table_file": "Ktable_with_jtable.tbl",
+  "entry_count": 44,
+  "chunks": [
+    {
+      "index": 0,
+      "kind": "script",
+      "json_file": "mes_data_0000.json",
+      "original_size": 310
+    },
+    {
+      "index": 1,
+      "kind": "script",
+      "json_file": "mes_data_0001.json",
+      "original_size": 2000
+    },
+    {
+      "index": 2,
+      "kind": "script",
+      "json_file": "mes_data_0002.json",
+      "original_size": 2932
+    },
+    {
+      "index": 3,
+      "kind": "script",
+      "json_file": "mes_data_0003.json",
+      "original_size": 33282
+    },
+    {
+      "index": 4,
+      "kind": "script",
+      "json_file": "mes_data_0004.json",
+      "original_size": 396
+    },
+    {
+      "index": 5,
+      "kind": "script",
+      "json_file": "mes_data_0005.json",
+      "original_size": 33666
+    },
+    {
+      "index": 6,
+      "kind": "script",
+      "json_file": "mes_data_0006.json",
+      "original_size": 8456
+    },
+    {
+      "index": 7,
+      "kind": "script",
+      "json_file": "mes_data_0007.json",
+      "original_size": 8050
+    },
+    {
+      "index": 8,
+      "kind": "script",
+      "json_file": "mes_data_0008.json",
+      "original_size": 36122
+    },
+    {
+      "index": 9,
+      "kind": "script",
+      "json_file": "mes_data_0009.json",
+      "original_size": 4088
+    },
+    {
+      "index": 10,
+      "kind": "script",
+      "json_file": "mes_data_0010.json",
+      "original_size": 13286
+    },
+    {
+      "index": 11,
+      "kind": "script",
+      "json_file": "mes_data_0011.json",
+      "original_size": 9868
+    },
+    {
+      "index": 12,
+      "kind": "script",
+      "json_file": "mes_data_0012.json",
+      "original_size": 3518
+    },
+    {
+      "index": 13,
+      "kind": "script",
+      "json_file": "mes_data_0013.json",
+      "original_size": 13110
+    },
+    {
+      "index": 14,
+      "kind": "script",
+      "json_file": "mes_data_0014.json",
+      "original_size": 140
+    },
+    {
+      "index": 15,
+      "kind": "script",
+      "json_file": "mes_data_0015.json",
+      "original_size": 50544
+    },
+    {
+      "index": 16,
+      "kind": "script",
+      "json_file": "mes_data_0016.json",
+      "original_size": 328
+    },
+    {
+      "index": 17,
+      "kind": "script",
+      "json_file": "mes_data_0017.json",
+      "original_size": 402
+    },
+    {
+      "index": 18,
+      "kind": "script",
+      "json_file": "mes_data_0018.json",
+      "original_size": 270
+    },
+    {
+      "index": 19,
+      "kind": "script",
+      "json_file": "mes_data_0019.json",
+      "original_size": 522
+    },
+    {
+      "index": 20,
+      "kind": "script",
+      "json_file": "mes_data_0020.json",
+      "original_size": 4834
+    },
+    {
+      "index": 21,
+      "kind": "script",
+      "json_file": "mes_data_0021.json",
+      "original_size": 8758
+    },
+    {
+      "index": 22,
+      "kind": "script",
+      "json_file": "mes_data_0022.json",
+      "original_size": 2478
+    },
+    {
+      "index": 23,
+      "kind": "script",
+      "json_file": "mes_data_0023.json",
+      "original_size": 42350
+    },
+    {
+      "index": 24,
+      "kind": "script",
+      "json_file": "mes_data_0024.json",
+      "original_size": 2408
+    },
+    {
+      "index": 25,
+      "kind": "script",
+      "json_file": "mes_data_0025.json",
+      "original_size": 366
+    },
+    {
+      "index": 26,
+      "kind": "script",
+      "json_file": "mes_data_0026.json",
+      "original_size": 3966
+    },
+    {
+      "index": 27,
+      "kind": "script",
+      "json_file": "mes_data_0027.json",
+      "original_size": 638
+    },
+    {
+      "index": 28,
+      "kind": "script",
+      "json_file": "mes_data_0028.json",
+      "original_size": 5464
+    },
+    {
+      "index": 29,
+      "kind": "script",
+      "json_file": "mes_data_0029.json",
+      "original_size": 434
+    },
+    {
+      "index": 30,
+      "kind": "script",
+      "json_file": "mes_data_0030.json",
+      "original_size": 3848
+    },
+    {
+      "index": 31,
+      "kind": "script",
+      "json_file": "mes_data_0031.json",
+      "original_size": 548
+    },
+    {
+      "index": 32,
+      "kind": "script",
+      "json_file": "mes_data_0032.json",
+      "original_size": 6086
+    },
+    {
+      "index": 33,
+      "kind": "script",
+      "json_file": "mes_data_0033.json",
+      "original_size": 27736
+    },
+    {
+      "index": 34,
+      "kind": "script",
+      "json_file": "mes_data_0034.json",
+      "original_size": 3596
+    },
+    {
+      "index": 35,
+      "kind": "script",
+      "json_file": "mes_data_0035.json",
+      "original_size": 1938
+    },
+    {
+      "index": 36,
+      "kind": "script",
+      "json_file": "mes_data_0036.json",
+      "original_size": 228
+    },
+    {
+      "index": 37,
+      "kind": "script",
+      "json_file": "mes_data_0037.json",
+      "original_size": 5344
+    },
+    {
+      "index": 38,
+      "kind": "script",
+      "json_file": "mes_data_0038.json",
+      "original_size": 724
+    },
+    {
+      "index": 39,
+      "kind": "script",
+      "json_file": "mes_data_0039.json",
+      "original_size": 2360
+    },
+    {
+      "index": 40,
+      "kind": "script",
+      "json_file": "mes_data_0040.json",
+      "original_size": 1054
+    },
+    {
+      "index": 41,
+      "kind": "script",
+      "json_file": "mes_data_0041.json",
+      "original_size": 956
+    },
+    {
+      "index": 42,
+      "kind": "script",
+      "json_file": "mes_data_0042.json",
+      "original_size": 74
+    },
+    {
+      "index": 43,
+      "kind": "script",
+      "json_file": "mes_data_0043.json",
+      "original_size": 12484
+    }
+  ]
+}

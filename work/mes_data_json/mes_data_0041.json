@@ -1,0 +1,260 @@
+{
+  "source_file": "mes_data_0041.hav",
+  "container_index": 41,
+  "entry_count": 23,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "ボロボロ荷馬車[RAW:0E27]",
+      "original": "ボロボロ荷馬車[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "竹の荷馬車[RAW:0E27]",
+      "original": "竹の荷馬車[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "みこし荷馬車[RAW:0E27]",
+      "original": "みこし荷馬車[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "しましま荷馬車[RAW:0E27]",
+      "original": "しましま荷馬車[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "ゆうびん荷馬車[RAW:0E27]",
+      "original": "ゆうびん荷馬車[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "シシマイ[RAW:0E27]",
+      "original": "シシマイ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "ＵＦＯタイプ[RAW:0E27]",
+      "original": "ＵＦＯタイプ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "メカニワトリ[RAW:0E27]",
+      "original": "メカニワトリ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "そり[RAW:0E27]",
+      "original": "そり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "ダンボール[RAW:0E27]",
+      "original": "ダンボール[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "村長さんからもらった荷馬車。[RAW:2823]あまり荷物をのせられない。[RAW:0E27]",
+      "original": "村長さんからもらった荷馬車。[RAW:2823]あまり荷物をのせられない。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "竹を使ったしぶい荷馬車。[RAW:2823]後ろののぼりがカッコイイ。[RAW:2823]軽量に作られている。[RAW:0E27]",
+      "original": "竹を使ったしぶい荷馬車。[RAW:2823]後ろののぼりがカッコイイ。[RAW:2823]軽量に作られている。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "思わず担ぎたくなる[RAW:2823]職人の技が光る荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "original": "思わず担ぎたくなる[RAW:2823]職人の技が光る荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "カザミドリがかわいい[RAW:2823]シンプルな荷馬車。[RAW:2823]軽量に作られている。[RAW:0E27]",
+      "original": "カザミドリがかわいい[RAW:2823]シンプルな荷馬車。[RAW:2823]軽量に作られている。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "ゆうびん屋さん気分になれる[RAW:2823]ガッチリした造りの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "original": "ゆうびん屋さん気分になれる[RAW:2823]ガッチリした造りの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "アジアのお祭りを[RAW:2823]モチーフにした荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "original": "アジアのお祭りを[RAW:2823]モチーフにした荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "未知の技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
+      "original": "未知の技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "高度な技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
+      "original": "高度な技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "クマがチャームポイントの[RAW:2823]そりのデザインの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "original": "クマがチャームポイントの[RAW:2823]そりのデザインの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "どこかで見た事のある[RAW:2823]なつかしのダンボール。[RAW:2823]甘ずっぱい思い出いっぱい。[RAW:0E27]",
+      "original": "どこかで見た事のある[RAW:2823]なつかしのダンボール。[RAW:2823]甘ずっぱい思い出いっぱい。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "改造してページ数を増やします。[RAW:2823]現在　[RAW:0010]Ｐ　→　改造後　[RAW:0110]Ｐ[RAW:0E27]",
+      "original": "改造してページ数を増やします。[RAW:2823]現在　[RAW:0010]Ｐ　→　改造後　[RAW:0110]Ｐ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0010]",
+        "[RAW:0110]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "切り替え完了。[RAW:0E27]",
+      "original": "切り替え完了。[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "荷物がのりきらないので、[RAW:2823]交換できません。[RAW:0E27-0F27]“",
+      "original": "荷物がのりきらないので、[RAW:2823]交換できません。[RAW:0E27-0F27]“",
+      "translation": "",
+      "controls": [
+        "[RAW:2823]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

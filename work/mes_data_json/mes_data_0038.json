@@ -1,0 +1,369 @@
+{
+  "source_file": "mes_data_0038.hav",
+  "container_index": 38,
+  "entry_count": 36,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "バイトぼしゅう！[RAW:0E27]",
+      "original": "バイトぼしゅう！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "バイトぼしゅう！[RAW:0E27-0F27]」",
+      "original": "バイトぼしゅう！[RAW:0E27-0F27]」",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

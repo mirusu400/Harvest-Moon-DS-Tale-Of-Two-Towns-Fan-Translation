@@ -1,0 +1,1094 @@
+{
+  "source_file": "mes_data_0001.hav",
+  "container_index": 1,
+  "entry_count": 105,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "はじめてのおつかい[RAW:0E27]",
+      "original": "はじめてのおつかい[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "おつかい見習い[RAW:0E27]",
+      "original": "おつかい見習い[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "おつかい界のエース[RAW:0E27]",
+      "original": "おつかい界のエース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "おつかい界のアイドル[RAW:0E27]",
+      "original": "おつかい界のアイドル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "かれいなるおつかい人[RAW:0E27]",
+      "original": "かれいなるおつかい人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "ふたごの村のおつかい人[RAW:0E27]",
+      "original": "ふたごの村のおつかい人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "ベテランおつかい人[RAW:0E27]",
+      "original": "ベテランおつかい人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "カリスマおつかい人[RAW:0E27]",
+      "original": "カリスマおつかい人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "キングオブ・デリバリー[RAW:0E27]",
+      "original": "キングオブ・デリバリー[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "女神さまのおつかい[RAW:0E27]",
+      "original": "女神さまのおつかい[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "職人見習い[RAW:0E27]",
+      "original": "職人見習い[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "かけだし職人[RAW:0E27]",
+      "original": "かけだし職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "夢見る職人[RAW:0E27]",
+      "original": "夢見る職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "育ち盛りの職人[RAW:0E27]",
+      "original": "育ち盛りの職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "一人前の職人[RAW:0E27]",
+      "original": "一人前の職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "達人級の職人[RAW:0E27]",
+      "original": "達人級の職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "うわさの職人[RAW:0E27]",
+      "original": "うわさの職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "国宝級の職人[RAW:0E27]",
+      "original": "国宝級の職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "天下一の職人[RAW:0E27]",
+      "original": "天下一の職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "キングオブ職人[RAW:0E27]",
+      "original": "キングオブ職人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "素人料理人[RAW:0E27]",
+      "original": "素人料理人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "見習い料理人[RAW:0E27]",
+      "original": "見習い料理人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "見習い料理人・初伝[RAW:0E27]",
+      "original": "見習い料理人・初伝[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "見習い料理人・中伝[RAW:0E27]",
+      "original": "見習い料理人・中伝[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "皆伝調理師[RAW:0E27]",
+      "original": "皆伝調理師[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "皆伝調理師・準師範[RAW:0E27]",
+      "original": "皆伝調理師・準師範[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "皆伝調理師・師範代[RAW:0E27]",
+      "original": "皆伝調理師・師範代[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "皆伝調理師・師範[RAW:0E27]",
+      "original": "皆伝調理師・師範[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "皆伝調理師・大師範[RAW:0E27]",
+      "original": "皆伝調理師・大師範[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "29",
+      "message": "皆伝調理師・秘伝[RAW:0E27]",
+      "original": "皆伝調理師・秘伝[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "30",
+      "message": "素人のサカナ好き[RAW:0E27]",
+      "original": "素人のサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "31",
+      "message": "かけだしのサカナ好き[RAW:0E27]",
+      "original": "かけだしのサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "32",
+      "message": "ふつうのサカナ好き[RAW:0E27]",
+      "original": "ふつうのサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "33",
+      "message": "なかなかのサカナ好き[RAW:0E27]",
+      "original": "なかなかのサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "34",
+      "message": "マニアなサカナ好き[RAW:0E27]",
+      "original": "マニアなサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "35",
+      "message": "達人級なサカナ好き[RAW:0E27]",
+      "original": "達人級なサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "36",
+      "message": "カリスマなサカナ好き[RAW:0E27]",
+      "original": "カリスマなサカナ好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "37",
+      "message": "おサカナ親善大使[RAW:0E27]",
+      "original": "おサカナ親善大使[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "38",
+      "message": "おサカナはかせ[RAW:0E27]",
+      "original": "おサカナはかせ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "39",
+      "message": "おサカナマスター[RAW:0E27]",
+      "original": "おサカナマスター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "40",
+      "message": "虫とり初心者[RAW:0E27]",
+      "original": "虫とり初心者[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "41",
+      "message": "虫とり好き[RAW:0E27]",
+      "original": "虫とり好き[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "42",
+      "message": "虫とりの達人[RAW:0E27]",
+      "original": "虫とりの達人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "43",
+      "message": "虫とりの長[RAW:0E27]",
+      "original": "虫とりの長[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "44",
+      "message": "虫とりエース[RAW:0E27]",
+      "original": "虫とりエース[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "45",
+      "message": "虫とりセレブ[RAW:0E27]",
+      "original": "虫とりセレブ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "46",
+      "message": "虫とりキング[RAW:0E27]",
+      "original": "虫とりキング[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "47",
+      "message": "ワールド・オブ・虫とり[RAW:0E27]",
+      "original": "ワールド・オブ・虫とり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "48",
+      "message": "虫とり親善大使[RAW:0E27]",
+      "original": "虫とり親善大使[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "49",
+      "message": "虫とりマスター[RAW:0E27]",
+      "original": "虫とりマスター[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "50",
+      "message": "[RAW:2F23]称号[RAW:9023-0E27]",
+      "original": "[RAW:2F23]称号[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "51",
+      "message": "[RAW:2F23-0010-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27]"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "52",
+      "message": "[RAW:2F23-0010-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27]"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "53",
+      "message": "[RAW:2F23-0010-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27]"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "54",
+      "message": "[RAW:2F23-0010-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27]"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "55",
+      "message": "[RAW:2F23-0010-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27]"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "56",
+      "message": "[RAW:2F23]ハチミツを作った数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]ハチミツを作った数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "57",
+      "message": "[RAW:2F23]池で育てた魚の匹数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]池で育てた魚の匹数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "58",
+      "message": "[RAW:2F23]すべり台などの山のしかけを[RAW:2823]使用した回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]すべり台などの山のしかけを[RAW:2823]使用した回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "59",
+      "message": "[RAW:2F23]釣りや浅い川で魚をとった数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]釣りや浅い川で魚をとった数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "60",
+      "message": "[RAW:2F23]山の道などでアイテムを[RAW:2823]拾った回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]山の道などでアイテムを[RAW:2823]拾った回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "61",
+      "message": "[RAW:2F23]ウマに乗って移動した道のり。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]ウマに乗って移動した道のり。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "62",
+      "message": "[RAW:2F23]錬金でアイテムを作った回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]錬金でアイテムを作った回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "63",
+      "message": "[RAW:2F23]女神さまにプレゼントを[RAW:2823]わたした回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]女神さまにプレゼントを[RAW:2823]わたした回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "64",
+      "message": "[RAW:2F23]トンネル奥で鉱石を[RAW:2823]入手した回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]トンネル奥で鉱石を[RAW:2823]入手した回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "65",
+      "message": "[RAW:2F23]トンネル奥の鉱石がとれる[RAW:2823]場所で、トラップにかかった[RAW:2823]回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]トンネル奥の鉱石がとれる[RAW:2823]場所で、トラップにかかった[RAW:2823]回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:2823]",
+        "[RAW:2823]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "66",
+      "message": "[RAW:2F23]たおれて次の日になった回数。[RAW:9023-0E27]",
+      "original": "[RAW:2F23]たおれて次の日になった回数。[RAW:9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23]",
+        "[RAW:9023-0E27]"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "67",
+      "message": "[RAW:2F23-0010-9023-0E27-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27-9023-0E27]"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "68",
+      "message": "[RAW:2F23-0010-9023-0E27-9023-0E27]",
+      "original": "[RAW:2F23-0010-9023-0E27-9023-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:2F23-0010-9023-0E27-9023-0E27]"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "69",
+      "message": "おつかいレベル[RAW:0E27]",
+      "original": "おつかいレベル[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "70",
+      "message": "魚コンプリート数[RAW:0E27]",
+      "original": "魚コンプリート数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "71",
+      "message": "虫コンプリート数[RAW:0E27]",
+      "original": "虫コンプリート数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "72",
+      "message": "料理レシピ数[RAW:0E27]",
+      "original": "料理レシピ数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "73",
+      "message": "メーカー・水車使用数[RAW:0E27]",
+      "original": "メーカー・水車使用数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "74",
+      "message": "ハチミツ作成数[RAW:0E27]",
+      "original": "ハチミツ作成数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "75",
+      "message": "池で魚を育てた数[RAW:0E27]",
+      "original": "池で魚を育てた数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "76",
+      "message": "山遊び使用回数[RAW:0E27]",
+      "original": "山遊び使用回数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "77",
+      "message": "魚をとった数[RAW:0E27]",
+      "original": "魚をとった数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "78",
+      "message": "アイテムを拾った数[RAW:0E27]",
+      "original": "アイテムを拾った数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "79",
+      "message": "ウマで移動した道のり[RAW:0E27]",
+      "original": "ウマで移動した道のり[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "80",
+      "message": "錬金回数[RAW:0E27]",
+      "original": "錬金回数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "81",
+      "message": "女神さまへプレゼント[RAW:0E27]",
+      "original": "女神さまへプレゼント[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "82",
+      "message": "鉱石を入手した数[RAW:0E27]",
+      "original": "鉱石を入手した数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "83",
+      "message": "トラップ回数[RAW:0E27]",
+      "original": "トラップ回数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "84",
+      "message": "たおれた回数[RAW:0E27]",
+      "original": "たおれた回数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "85",
+      "message": "累計入場者数[RAW:0E27]",
+      "original": "累計入場者数[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "86",
+      "message": "累計入場料[RAW:0E27]",
+      "original": "累計入場料[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "87",
+      "message": "Ｌｖ．[RAW:0010-0E27]",
+      "original": "Ｌｖ．[RAW:0010-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010-0E27]"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "88",
+      "message": "[RAW:0110]種類[RAW:0E27]",
+      "original": "[RAW:0110]種類[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0110]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "89",
+      "message": "[RAW:0210]種類[RAW:0E27]",
+      "original": "[RAW:0210]種類[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0210]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "90",
+      "message": "[RAW:0310]種類[RAW:0E27]",
+      "original": "[RAW:0310]種類[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0310]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "91",
+      "message": "[RAW:0410]回[RAW:0E27]",
+      "original": "[RAW:0410]回[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0410]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "92",
+      "message": "[RAW:0010]個[RAW:0E27]",
+      "original": "[RAW:0010]個[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "93",
+      "message": "[RAW:0110]匹[RAW:0E27]",
+      "original": "[RAW:0110]匹[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0110]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "94",
+      "message": "[RAW:0210]回[RAW:0E27]",
+      "original": "[RAW:0210]回[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0210]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "95",
+      "message": "[RAW:0310]匹[RAW:0E27]",
+      "original": "[RAW:0310]匹[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0310]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "96",
+      "message": "[RAW:0410]個[RAW:0E27]",
+      "original": "[RAW:0410]個[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0410]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "97",
+      "message": "[RAW:0010]歩[RAW:0E27]",
+      "original": "[RAW:0010]歩[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "98",
+      "message": "[RAW:0110]回[RAW:0E27]",
+      "original": "[RAW:0110]回[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0110]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "99",
+      "message": "[RAW:0210]回[RAW:0E27]",
+      "original": "[RAW:0210]回[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0210]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "100",
+      "message": "[RAW:0310]個[RAW:0E27]",
+      "original": "[RAW:0310]個[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0310]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "101",
+      "message": "[RAW:0410]回[RAW:0E27]",
+      "original": "[RAW:0410]回[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0410]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "102",
+      "message": "[RAW:0010]回[RAW:0E27]",
+      "original": "[RAW:0010]回[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "103",
+      "message": "[RAW:0110]人[RAW:0E27]",
+      "original": "[RAW:0110]人[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0110]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "104",
+      "message": "[RAW:0210]Ｇ[RAW:0E27-0F27]Ｍ",
+      "original": "[RAW:0210]Ｇ[RAW:0E27-0F27]Ｍ",
+      "translation": "",
+      "controls": [
+        "[RAW:0210]",
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

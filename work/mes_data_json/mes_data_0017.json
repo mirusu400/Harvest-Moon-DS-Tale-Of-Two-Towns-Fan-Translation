@@ -1,0 +1,301 @@
+{
+  "source_file": "mes_data_0017.hav",
+  "container_index": 17,
+  "entry_count": 29,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "ＤＳワイヤレス通信[RAW:0E27]",
+      "original": "ＤＳワイヤレス通信[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "Ｗｉ－Ｆｉ通信[RAW:0E27]",
+      "original": "Ｗｉ－Ｆｉ通信[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "友達リスト[RAW:0E27]",
+      "original": "友達リスト[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "やめる[RAW:0E27]",
+      "original": "やめる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "牧場に来てもらう[RAW:0E27]",
+      "original": "牧場に来てもらう[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "他の牧場に行く[RAW:0E27]",
+      "original": "他の牧場に行く[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "やめる[RAW:0E27]",
+      "original": "やめる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "はい[RAW:0E27]",
+      "original": "はい[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "いいえ[RAW:0E27]",
+      "original": "いいえ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "次へ[RAW:0E27]",
+      "original": "次へ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "牧場に出発！[RAW:0E27]",
+      "original": "牧場に出発！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "バザールの出品物を決める[RAW:0E27]",
+      "original": "バザールの出品物を決める[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "12",
+      "message": "決定[RAW:0E27]",
+      "original": "決定[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "13",
+      "message": "やめる[RAW:0E27]",
+      "original": "やめる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "14",
+      "message": "友達コードを作る[RAW:0E27]",
+      "original": "友達コードを作る[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "15",
+      "message": "[RAW:0010-0E27]",
+      "original": "[RAW:0010-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010-0E27]"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "16",
+      "message": "[RAW:0010-0110-0210-0E27]",
+      "original": "[RAW:0010-0110-0210-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010-0110-0210-0E27]"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "17",
+      "message": "[RAW:0310-0E27]",
+      "original": "[RAW:0310-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0310-0E27]"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "18",
+      "message": "[RAW:0410]牧場[RAW:0E27]",
+      "original": "[RAW:0410]牧場[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0410]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "19",
+      "message": "[RAW:0010-0E27]",
+      "original": "[RAW:0010-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0010-0E27]"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "20",
+      "message": "[RAW:0110]牧場[RAW:0E27]",
+      "original": "[RAW:0110]牧場[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0110]",
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "21",
+      "message": "[RAW:0210-0E27]",
+      "original": "[RAW:0210-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0210-0E27]"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "22",
+      "message": "[RAW:0310-0E27]",
+      "original": "[RAW:0310-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0310-0E27]"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "23",
+      "message": "[RAW:0410-0E27]",
+      "original": "[RAW:0410-0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0410-0E27]"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "24",
+      "message": "－－－－－－－－－－－－[RAW:0E27]",
+      "original": "－－－－－－－－－－－－[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "25",
+      "message": "あなたの友達コード[RAW:0E27]",
+      "original": "あなたの友達コード[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "26",
+      "message": "ゆっくりしていってね！！！[RAW:0E27]",
+      "original": "ゆっくりしていってね！！！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "27",
+      "message": "ともだち通信[RAW:0E27]",
+      "original": "ともだち通信[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "28",
+      "message": "わいわい通信[RAW:0E27-0F27]［",
+      "original": "わいわい通信[RAW:0E27-0F27]［",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}

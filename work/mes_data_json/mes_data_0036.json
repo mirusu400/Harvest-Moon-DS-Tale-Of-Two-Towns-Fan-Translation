@@ -1,0 +1,129 @@
+{
+  "source_file": "mes_data_0036.hav",
+  "container_index": 36,
+  "entry_count": 12,
+  "pointer_size": 2,
+  "null_chunk": false,
+  "entries": [
+    {
+      "index": 0,
+      "name": "0",
+      "message": "このはな村の生活[RAW:0E27]",
+      "original": "このはな村の生活[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "1",
+      "message": "ブルーベル村の生活[RAW:0E27]",
+      "original": "ブルーベル村の生活[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "2",
+      "message": "虫つかみのコツ[RAW:0E27]",
+      "original": "虫つかみのコツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "3",
+      "message": "魚つかみのコツ[RAW:0E27]",
+      "original": "魚つかみのコツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "4",
+      "message": "山の幸（さち）[RAW:0E27]",
+      "original": "山の幸（さち）[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "5",
+      "message": "教えてあげる[RAW:0E27]",
+      "original": "教えてあげる[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "6",
+      "message": "虫つかみのコツ[RAW:0E27]",
+      "original": "虫つかみのコツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "7",
+      "message": "魚つかみのコツ[RAW:0E27]",
+      "original": "魚つかみのコツ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "8",
+      "message": "山の幸（さち）[RAW:0E27]",
+      "original": "山の幸（さち）[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "9",
+      "message": "教えてあげる！[RAW:0E27]",
+      "original": "教えてあげる！[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "10",
+      "message": "ジャンプ虫つかみ[RAW:0E27]",
+      "original": "ジャンプ虫つかみ[RAW:0E27]",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27]"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "11",
+      "message": "ジャンプ虫つかみ[RAW:0E27-0F27]´",
+      "original": "ジャンプ虫つかみ[RAW:0E27-0F27]´",
+      "translation": "",
+      "controls": [
+        "[RAW:0E27-0F27]"
+      ]
+    }
+  ]
+}
