@@ -105,7 +105,7 @@
       "name": "6",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -117,7 +117,7 @@
       "name": "7",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -129,7 +129,7 @@
       "name": "8",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -141,7 +141,7 @@
       "name": "9",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -199,7 +199,7 @@
       "name": "13",
       "message": "[RAW:411F-BB1F-481F-3621]じゃあ、これは[RAW:2823]ちゃんとおつかいができた[RAW:2823]ごほうびじゃ。[RAW:2B23]今からおれいを渡すから、[RAW:2823]ほしいものを[RAW:6D20]おれい[RAW:6C20]の[RAW:2823]ところからえらんで…、[RAW:2B23-411F-BB1F-491F-6D20]カバン[RAW:6C20]に[RAW:2823]持っていけばいいのじゃ！[RAW:2823]かんたんじゃろ？[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]じゃあ、これは[RAW:2823]ちゃんとおつかいができた[RAW:2823]ごほうびじゃ。[RAW:2B23]今からおれいを渡すから、[RAW:2823]ほしいものを[RAW:6D20]おれい[RAW:6C20]の[RAW:2823]ところからえらんで…、[RAW:2B23-411F-BB1F-491F-6D20]カバン[RAW:6C20]に[RAW:2823]持っていけばいいのじゃ！[RAW:2823]かんたんじゃろ？[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]그럼、이건[RAW:2823]심부름을　제대로　해낸[RAW:2823]포상일세。[RAW:2B23]이제　답례를　줄　테니、[RAW:2823]원하는　걸　[RAW:6D20]답례[RAW:6C20-2823]칸에서　고르고…、[RAW:2B23-411F-BB1F-491F-6D20]가방[RAW:6C20]에[RAW:2823]가져가면　된다네！[RAW:2823]간단하지？[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]그럼、이건[RAW:2823]심부름을　제대로　해낸[RAW:2823]포상일세。[RAW:2B23]이제　답례를　줄　테니、[RAW:2823]원하는　걸　[RAW:6D20]답례[RAW:6C20]칸에서　고르고…、[RAW:2823]가방[RAW:2B23-411F-BB1F-491F-6D20]에[RAW:6C20]가져가면　된다네！[RAW:2823]간단하지？[RAW:2823][RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823]",
@@ -236,7 +236,7 @@
       "name": "15",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -248,7 +248,7 @@
       "name": "16",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -260,7 +260,7 @@
       "name": "17",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -272,7 +272,7 @@
       "name": "18",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -284,7 +284,7 @@
       "name": "19",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -406,7 +406,7 @@
       "name": "27",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -418,7 +418,7 @@
       "name": "28",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27]",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27]",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27]",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",
@@ -430,7 +430,7 @@
       "name": "29",
       "message": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27-0F27]］",
       "original": "[RAW:411F-BB1F-481F-3621]こんにちは[RAW:2823-2A23]ちゃん。[RAW:0E27-0F27]］",
-      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2B23]양。[RAW:0E27-0F27]］",
+      "translation": "[RAW:411F-BB1F-481F-3621]안녕[RAW:2823-2A23]양。[RAW:0E27-0F27]］",
       "controls": [
         "[RAW:411F-BB1F-481F-3621]",
         "[RAW:2823-2A23]",

@@ -344,7 +344,7 @@
       "name": "30",
       "message": "[RAW:401F-AB1F-481F-3521]それじゃ、またね、[RAW:2823-2A23]。[RAW:0E27]",
       "original": "[RAW:401F-AB1F-481F-3521]それじゃ、またね、[RAW:2823-2A23]。[RAW:0E27]",
-      "translation": "[RAW:401F-AB1F-481F-3521]그럼、또　봐、[RAW:2A23]　[RAW:2823]。[RAW:0E27]",
+      "translation": "[RAW:401F-AB1F-481F-3521]그럼、또　봐、[RAW:2823-2A23]　[RAW:0E27]。",
       "controls": [
         "[RAW:401F-AB1F-481F-3521]",
         "[RAW:2823-2A23]",
