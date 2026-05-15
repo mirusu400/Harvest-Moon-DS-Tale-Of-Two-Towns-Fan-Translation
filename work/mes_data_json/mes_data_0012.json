@@ -10,7 +10,7 @@
       "name": "0",
       "message": "セーブ中です。[RAW:0E27]",
       "original": "セーブ中です。[RAW:0E27]",
-      "translation": "",
+      "translation": "저장 중입니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "ここに種はまけない。[RAW:0E27]",
       "original": "ここに種はまけない。[RAW:0E27]",
-      "translation": "",
+      "translation": "여기엔 씨를 못 뿌린다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "季節が違うのでまけません。[RAW:0E27]",
       "original": "季節が違うのでまけません。[RAW:0E27]",
-      "translation": "",
+      "translation": "계절이 달라 못 뿌린다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "冬には種をまけません。[RAW:0E27]",
       "original": "冬には種をまけません。[RAW:0E27]",
-      "translation": "",
+      "translation": "겨울엔 씨를 못 뿌린다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "ここにひりょうはまけない。[RAW:0E27]",
       "original": "ここにひりょうはまけない。[RAW:0E27]",
-      "translation": "",
+      "translation": "여기엔 비료를 못 뿌린다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "このひりょうはまけない。[RAW:0E27]",
       "original": "このひりょうはまけない。[RAW:0E27]",
-      "translation": "",
+      "translation": "이 비료는 못 뿌린다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "カマでないと収穫できない。[RAW:0E27]",
       "original": "カマでないと収穫できない。[RAW:0E27]",
-      "translation": "",
+      "translation": "낫으로만 수확 가능。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "すでにミルクをとっている。[RAW:0E27]",
       "original": "すでにミルクをとっている。[RAW:0E27]",
-      "translation": "",
+      "translation": "이미 우유를 짰다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "病気なのでミルクはとれない。[RAW:0E27]",
       "original": "病気なのでミルクはとれない。[RAW:0E27]",
-      "translation": "",
+      "translation": "병이라 우유를 못 짠다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "病気なので毛はとれない。[RAW:0E27]",
       "original": "病気なので毛はとれない。[RAW:0E27]",
-      "translation": "",
+      "translation": "병이라 털을 못 깎는다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "今日はごきげんななめだ。[RAW:0E27]",
       "original": "今日はごきげんななめだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 기분이 안 좋다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "まくには[RAW:1308-5808-1308]マスが必要だ。[RAW:0E27]",
       "original": "まくには[RAW:1308-5808-1308]マスが必要だ。[RAW:0E27]",
-      "translation": "",
+      "translation": "뿌리려면 [RAW:1308-5808-1308]칸이 필요하다。[RAW:0E27]",
       "controls": [
         "[RAW:1308-5808-1308]",
         "[RAW:0E27]"
@@ -131,7 +131,7 @@
       "name": "12",
       "message": "カバンがいっぱいだ。[RAW:0E27]",
       "original": "カバンがいっぱいだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "가방이 가득 찼다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -141,7 +141,7 @@
       "name": "13",
       "message": "怒って帰ってしまった…。[RAW:0E27]",
       "original": "怒って帰ってしまった…。[RAW:0E27]",
-      "translation": "",
+      "translation": "화나서 돌아가 버렸다…。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -151,7 +151,7 @@
       "name": "14",
       "message": "じょうろがまんたんになった！[RAW:0E27]",
       "original": "じょうろがまんたんになった！[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개가 가득 찼다！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -161,7 +161,7 @@
       "name": "15",
       "message": "じょうろの水がなくなった…。[RAW:0E27]",
       "original": "じょうろの水がなくなった…。[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개 물이 떨어졌다…。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -171,7 +171,7 @@
       "name": "16",
       "message": "水がないので、くみにいこう！[RAW:0E27]",
       "original": "水がないので、くみにいこう！[RAW:0E27]",
-      "translation": "",
+      "translation": "물이 없으니、뜨러 가자！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -181,7 +181,7 @@
       "name": "17",
       "message": "[RAW:6F20-0010-6C20]完成！[RAW:0E27]",
       "original": "[RAW:6F20-0010-6C20]完成！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:6F20-0010-6C20]완성！[RAW:0E27]",
       "controls": [
         "[RAW:6F20-0010-6C20]",
         "[RAW:0E27]"
@@ -192,7 +192,7 @@
       "name": "18",
       "message": "これ以上は入らない。[RAW:0E27]",
       "original": "これ以上は入らない。[RAW:0E27]",
-      "translation": "",
+      "translation": "더는 들어가지 않는다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -202,7 +202,7 @@
       "name": "19",
       "message": "何も入っていない。[RAW:0E27]",
       "original": "何も入っていない。[RAW:0E27]",
-      "translation": "",
+      "translation": "아무것도 안 들었다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -212,7 +212,7 @@
       "name": "20",
       "message": "今は取りはずしできない。[RAW:0E27]",
       "original": "今は取りはずしできない。[RAW:0E27]",
-      "translation": "",
+      "translation": "지금은 뗄 수 없다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -222,7 +222,7 @@
       "name": "21",
       "message": "今は何もつくっていない。[RAW:0E27]",
       "original": "今は何もつくっていない。[RAW:0E27]",
-      "translation": "",
+      "translation": "지금은 만들지 않는다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -232,7 +232,7 @@
       "name": "22",
       "message": "今は何も粉砕していない。[RAW:0E27]",
       "original": "今は何も粉砕していない。[RAW:0E27]",
-      "translation": "",
+      "translation": "지금은 빻지 않는다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -242,7 +242,7 @@
       "name": "23",
       "message": "今は何も加工していない。[RAW:0E27]",
       "original": "今は何も加工していない。[RAW:0E27]",
-      "translation": "",
+      "translation": "지금은 가공 안 한다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -252,7 +252,7 @@
       "name": "24",
       "message": "花がいけてある。[RAW:0E27]",
       "original": "花がいけてある。[RAW:0E27]",
-      "translation": "",
+      "translation": "꽃이 꽂혀 있다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -262,7 +262,7 @@
       "name": "25",
       "message": "もうすぐ枯れそう…。[RAW:0E27]",
       "original": "もうすぐ枯れそう…。[RAW:0E27]",
-      "translation": "",
+      "translation": "곧 시들 것 같아…。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -272,7 +272,7 @@
       "name": "26",
       "message": "そうこがいっぱいだ。[RAW:0E27]",
       "original": "そうこがいっぱいだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "창고가 가득 찼다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -282,7 +282,7 @@
       "name": "27",
       "message": "大事なものなので投げないで！[RAW:0E27]",
       "original": "大事なものなので投げないで！[RAW:0E27]",
-      "translation": "",
+      "translation": "소중한 거라 던지지 마！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -292,7 +292,7 @@
       "name": "28",
       "message": "[RAW:0E27]",
       "original": "[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -302,7 +302,7 @@
       "name": "29",
       "message": "[RAW:0E27]",
       "original": "[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -312,7 +312,7 @@
       "name": "30",
       "message": "[RAW:0E27]",
       "original": "[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -322,7 +322,7 @@
       "name": "31",
       "message": "評判が[RAW:6F20]あがった！[RAW:6C20-0E27]",
       "original": "評判が[RAW:6F20]あがった！[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "평판이 [RAW:6F20]올랐다！[RAW:6C20-0E27]",
       "controls": [
         "[RAW:6F20]",
         "[RAW:6C20-0E27]"
@@ -333,7 +333,7 @@
       "name": "32",
       "message": "評判が[RAW:6F20]すごくあがった！[RAW:6C20-0E27]",
       "original": "評判が[RAW:6F20]すごくあがった！[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "평판이 [RAW:6F20]많이 올랐다！[RAW:6C20-0E27]",
       "controls": [
         "[RAW:6F20]",
         "[RAW:6C20-0E27]"
@@ -344,7 +344,7 @@
       "name": "33",
       "message": "評判が[RAW:6D20]さがった……！[RAW:6C20-0E27]",
       "original": "評判が[RAW:6D20]さがった……！[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "평판이 [RAW:6D20]떨어졌다……！[RAW:6C20-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20-0E27]"
@@ -355,7 +355,7 @@
       "name": "34",
       "message": "評判が[RAW:6D20]すごくさがった……！[RAW:6C20-0E27]",
       "original": "評判が[RAW:6D20]すごくさがった……！[RAW:6C20-0E27]",
-      "translation": "",
+      "translation": "평판이 [RAW:6D20]많이 떨어졌다……！[RAW:6C20-0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20-0E27]"
@@ -366,7 +366,7 @@
       "name": "35",
       "message": "[RAW:0F10-6C20-0E10-0E27]",
       "original": "[RAW:0F10-6C20-0E10-0E27]",
-      "translation": "",
+      "translation": "[RAW:0F10-6C20-0E10-0E27]",
       "controls": [
         "[RAW:0F10-6C20-0E10-0E27]"
       ]
@@ -376,7 +376,7 @@
       "name": "36",
       "message": "[RAW:1108-3008-0008-0E27]",
       "original": "[RAW:1108-3008-0008-0E27]",
-      "translation": "",
+      "translation": "[RAW:1108-3008-0008-0E27]",
       "controls": [
         "[RAW:1108-3008-0008-0E27]"
       ]
@@ -386,7 +386,7 @@
       "name": "37",
       "message": "[RAW:1208-3008-0008-0E27]",
       "original": "[RAW:1208-3008-0008-0E27]",
-      "translation": "",
+      "translation": "[RAW:1208-3008-0008-0E27]",
       "controls": [
         "[RAW:1208-3008-0008-0E27]"
       ]
@@ -396,7 +396,7 @@
       "name": "38",
       "message": "[RAW:1308-3008-0008-0E27]",
       "original": "[RAW:1308-3008-0008-0E27]",
-      "translation": "",
+      "translation": "[RAW:1308-3008-0008-0E27]",
       "controls": [
         "[RAW:1308-3008-0008-0E27]"
       ]
@@ -406,7 +406,7 @@
       "name": "39",
       "message": "[RAW:1408-3008-0008-0E27]",
       "original": "[RAW:1408-3008-0008-0E27]",
-      "translation": "",
+      "translation": "[RAW:1408-3008-0008-0E27]",
       "controls": [
         "[RAW:1408-3008-0008-0E27]"
       ]
@@ -416,7 +416,7 @@
       "name": "40",
       "message": "[RAW:6D20]Ａボタン[RAW:6C20]を連打しよう！[RAW:0E27]",
       "original": "[RAW:6D20]Ａボタン[RAW:6C20]を連打しよう！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:6D20]Ａ버튼[RAW:6C20]을 연타하자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -428,7 +428,7 @@
       "name": "41",
       "message": "今日は年間行事があるよ。[RAW:2823]時間になったら[RAW:6D20]町[RAW:6C20]に行こう。[RAW:0E27]",
       "original": "今日は年間行事があるよ。[RAW:2823]時間になったら[RAW:6D20]町[RAW:6C20]に行こう。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 연간 행사가 있어。[RAW:2823]시간이 되면 [RAW:6D20]마을[RAW:6C20]에 가자。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:6D20]",
@@ -441,7 +441,7 @@
       "name": "42",
       "message": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823-6D20-0010-6C20]と[RAW:6D20-0110-6C20]で[RAW:2823]約束してるよ。[RAW:0E27]",
       "original": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823-6D20-0010-6C20]と[RAW:6D20-0110-6C20]で[RAW:2823]約束してるよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]성야제[RAW:6C20]！[RAW:2823-6D20-0010-6C20]와 [RAW:6D20-0110-6C20]에서[RAW:2823]약속했어。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -456,7 +456,7 @@
       "name": "43",
       "message": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]家族で祝おう。[RAW:0E27]",
       "original": "今日は[RAW:6D20]星夜祭[RAW:6C20]！[RAW:2823]家族で祝おう。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]성야제[RAW:6C20]！[RAW:2823]가족끼리 축하하자。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -469,7 +469,7 @@
       "name": "44",
       "message": "今日は[RAW:6D20]かぼちゃ祭り[RAW:6C20]！[RAW:2823]お菓子を用意して[RAW:2823]子供達にあげよう。[RAW:0E27]",
       "original": "今日は[RAW:6D20]かぼちゃ祭り[RAW:6C20]！[RAW:2823]お菓子を用意して[RAW:2823]子供達にあげよう。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]호박 축제[RAW:6C20]！[RAW:2823]과자를 준비해서[RAW:2823]아이들에게 주자。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -483,7 +483,7 @@
       "name": "45",
       "message": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]プレゼントもらえるかな？[RAW:0E27]",
       "original": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]プレゼントもらえるかな？[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]감사제[RAW:6C20]！[RAW:2823]선물을 받을 수 있을까？[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -496,7 +496,7 @@
       "name": "46",
       "message": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]日ごろの感謝をこめて[RAW:2823]チョコを使った料理を渡そう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]感謝祭[RAW:6C20]！[RAW:2823]日ごろの感謝をこめて[RAW:2823]チョコを使った料理を渡そう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]감사제[RAW:6C20]！[RAW:2823]평소 고마움을 담아[RAW:2823]초코 요리를 건네자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -510,7 +510,7 @@
       "name": "47",
       "message": "今日は[RAW:6D20]バザール[RAW:6C20]があるよ。[RAW:2823]みんないっぱい[RAW:2823]買ってくれるといいな。[RAW:0E27]",
       "original": "今日は[RAW:6D20]バザール[RAW:6C20]があるよ。[RAW:2823]みんないっぱい[RAW:2823]買ってくれるといいな。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]바자[RAW:6C20]가 있어。[RAW:2823]다들 많이[RAW:2823]사 주면 좋겠다。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -524,7 +524,7 @@
       "name": "48",
       "message": "今月も今日で終わり。[RAW:2823]作物を収穫しておかないと、[RAW:2823]枯れちゃうよ。[RAW:0E27]",
       "original": "今月も今日で終わり。[RAW:2823]作物を収穫しておかないと、[RAW:2823]枯れちゃうよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "이번 달도 오늘로 끝。[RAW:2823]작물 수확을 안 하면、[RAW:2823]시들어 버려。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -536,7 +536,7 @@
       "name": "49",
       "message": "今月の最終日だから、作物も[RAW:2823]収穫しないと枯れちゃうよ。[RAW:0E27]",
       "original": "今月の最終日だから、作物も[RAW:2823]収穫しないと枯れちゃうよ。[RAW:0E27]",
-      "translation": "",
+      "translation": "이번 달 마지막 날이야。[RAW:2823]수확 안 하면 시들어。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -547,7 +547,7 @@
       "name": "50",
       "message": "カフェ[RAW:0E27]",
       "original": "カフェ[RAW:0E27]",
-      "translation": "",
+      "translation": "카페[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -557,7 +557,7 @@
       "name": "51",
       "message": "ホテル[RAW:0E27]",
       "original": "ホテル[RAW:0E27]",
-      "translation": "",
+      "translation": "호텔[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -567,7 +567,7 @@
       "name": "52",
       "message": "町長の家[RAW:0E27]",
       "original": "町長の家[RAW:0E27]",
-      "translation": "",
+      "translation": "촌장님의 집[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -577,7 +577,7 @@
       "name": "53",
       "message": "このエサ場はまだ使えないよ！[RAW:0E27]",
       "original": "このエサ場はまだ使えないよ！[RAW:0E27]",
-      "translation": "",
+      "translation": "이 먹이자린 아직 못 써！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -587,7 +587,7 @@
       "name": "54",
       "message": "このエサ箱はまだ使えないよ！[RAW:0E27]",
       "original": "このエサ箱はまだ使えないよ！[RAW:0E27]",
-      "translation": "",
+      "translation": "이 먹이통은 아직 못 써！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -597,7 +597,7 @@
       "name": "55",
       "message": "[RAW:0F10-6C20]さんが寝ました。[RAW:0E27]",
       "original": "[RAW:0F10-6C20]さんが寝ました。[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0F10-6C20] 씨가 잠들었습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0F10-6C20]",
         "[RAW:0E27]"
@@ -608,7 +608,7 @@
       "name": "56",
       "message": "[RAW:6C20-0F10]が売れた！[RAW:0E27]",
       "original": "[RAW:6C20-0F10]が売れた！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:6C20-0F10]가 팔렸다！[RAW:0E27]",
       "controls": [
         "[RAW:6C20-0F10]",
         "[RAW:0E27]"
@@ -619,7 +619,7 @@
       "name": "57",
       "message": "[RAW:6C20-0F10]が売り切れた！[RAW:0E27]",
       "original": "[RAW:6C20-0F10]が売り切れた！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:6C20-0F10]가 다 팔렸다！[RAW:0E27]",
       "controls": [
         "[RAW:6C20-0F10]",
         "[RAW:0E27]"
@@ -630,7 +630,7 @@
       "name": "58",
       "message": "今日から[RAW:6D20]花祭り[RAW:6C20]！[RAW:2823]みんなに花を贈ろう！[RAW:0E27]",
       "original": "今日から[RAW:6D20]花祭り[RAW:6C20]！[RAW:2823]みんなに花を贈ろう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘부터 [RAW:6D20]꽃 축제[RAW:6C20]！[RAW:2823]모두에게 꽃을 주자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -643,7 +643,7 @@
       "name": "59",
       "message": "今日は[RAW:6D20]花祭り[RAW:6C20]の結果発表！[RAW:2823]ベストフレンド住人に[RAW:2823]なれたかな？[RAW:0E27]",
       "original": "今日は[RAW:6D20]花祭り[RAW:6C20]の結果発表！[RAW:2823]ベストフレンド住人に[RAW:2823]なれたかな？[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]꽃 축제[RAW:6C20] 결과！[RAW:2823]베스트 프렌드 주민이[RAW:2823]될 수 있었을까？[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -657,7 +657,7 @@
       "name": "60",
       "message": "今日は[RAW:6D20]お茶会[RAW:6C20]！[RAW:2823]お茶を用意して、みんなで[RAW:2823]食事を楽しもう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]お茶会[RAW:6C20]！[RAW:2823]お茶を用意して、みんなで[RAW:2823]食事を楽しもう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]다과회[RAW:6C20]！[RAW:2823]차를 준비하고 다 함께[RAW:2823]식사를 즐기자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -671,7 +671,7 @@
       "name": "61",
       "message": "今日は[RAW:6D20-0010]祭り[RAW:6C20]！[RAW:2823-0010]の調子はどうかな？[RAW:0E27]",
       "original": "今日は[RAW:6D20-0010]祭り[RAW:6C20]！[RAW:2823-0010]の調子はどうかな？[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20-0010]축제[RAW:6C20]！[RAW:2823-0010]의 상태는 어떨까？[RAW:0E27]",
       "controls": [
         "[RAW:6D20-0010]",
         "[RAW:6C20]",
@@ -684,7 +684,7 @@
       "name": "62",
       "message": "今日は[RAW:6D20]スノーボード大会[RAW:6C20]！[RAW:2823]とっておきのすべりを、[RAW:2823]みんなに見てもらおう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]スノーボード大会[RAW:6C20]！[RAW:2823]とっておきのすべりを、[RAW:2823]みんなに見てもらおう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]스노보드 대회[RAW:6C20]！[RAW:2823]비장의 활강을、[RAW:2823]모두에게 보여 주자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -698,7 +698,7 @@
       "name": "63",
       "message": "明日は[RAW:6D20]星夜祭[RAW:6C20]。[RAW:2823]一緒に過ごしてくれる人、[RAW:2823]いないかな？[RAW:0E27]",
       "original": "明日は[RAW:6D20]星夜祭[RAW:6C20]。[RAW:2823]一緒に過ごしてくれる人、[RAW:2823]いないかな？[RAW:0E27]",
-      "translation": "",
+      "translation": "내일은 [RAW:6D20]성야제[RAW:6C20]。[RAW:2823]함께 보내 줄 사람、[RAW:2823]없으려나？[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -712,7 +712,7 @@
       "name": "64",
       "message": "今日は[RAW:6D20]カウントダウン[RAW:6C20]！[RAW:2823]みんなで新年を迎えよう。[RAW:0E27]",
       "original": "今日は[RAW:6D20]カウントダウン[RAW:6C20]！[RAW:2823]みんなで新年を迎えよう。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]카운트다운[RAW:6C20]！[RAW:2823]다 함께 새해를 맞자。[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -725,7 +725,7 @@
       "name": "65",
       "message": "今日は[RAW:6D20]料理祭[RAW:6C20]！[RAW:2823]美味しいメイン料理を作って[RAW:2823]優勝しよう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]料理祭[RAW:6C20]！[RAW:2823]美味しいメイン料理を作って[RAW:2823]優勝しよう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]요리제[RAW:6C20]！[RAW:2823]맛있는 메인 요리를 만들어[RAW:2823]우승하자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -739,7 +739,7 @@
       "name": "66",
       "message": "今日は[RAW:6D20]料理祭[RAW:6C20]！[RAW:2823]美味しいデザートを作って[RAW:2823]優勝しよう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]料理祭[RAW:6C20]！[RAW:2823]美味しいデザートを作って[RAW:2823]優勝しよう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]요리제[RAW:6C20]！[RAW:2823]맛있는 디저트를 만들어[RAW:2823]우승하자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -753,7 +753,7 @@
       "name": "67",
       "message": "今日は[RAW:6D20]ワイン祭り[RAW:6C20]！[RAW:2823]ワインを用意して、みんなで[RAW:2823]食事を楽しもう！[RAW:0E27]",
       "original": "今日は[RAW:6D20]ワイン祭り[RAW:6C20]！[RAW:2823]ワインを用意して、みんなで[RAW:2823]食事を楽しもう！[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]와인 축제[RAW:6C20]！[RAW:2823]와인을 준비해 다 함께[RAW:2823]식사를 즐기자！[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -767,7 +767,7 @@
       "name": "68",
       "message": "今日は[RAW:6D20]草けいば大会[RAW:6C20]！[RAW:2823]ウマの調子はどうかな？[RAW:0E27]",
       "original": "今日は[RAW:6D20]草けいば大会[RAW:6C20]！[RAW:2823]ウマの調子はどうかな？[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 [RAW:6D20]초원 경마 대회[RAW:6C20]！[RAW:2823]말의 상태는 어떨까？[RAW:0E27]",
       "controls": [
         "[RAW:6D20]",
         "[RAW:6C20]",
@@ -780,7 +780,7 @@
       "name": "69",
       "message": "ウシ[RAW:0E27]",
       "original": "ウシ[RAW:0E27]",
-      "translation": "",
+      "translation": "소[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -790,7 +790,7 @@
       "name": "70",
       "message": "ニワトリ[RAW:0E27]",
       "original": "ニワトリ[RAW:0E27]",
-      "translation": "",
+      "translation": "닭[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -800,7 +800,7 @@
       "name": "71",
       "message": "ヒツジ[RAW:0E27]",
       "original": "ヒツジ[RAW:0E27]",
-      "translation": "",
+      "translation": "양[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -810,7 +810,7 @@
       "name": "72",
       "message": "イヌ[RAW:0E27]",
       "original": "イヌ[RAW:0E27]",
-      "translation": "",
+      "translation": "개[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -820,7 +820,7 @@
       "name": "73",
       "message": "ネコ[RAW:0E27]",
       "original": "ネコ[RAW:0E27]",
-      "translation": "",
+      "translation": "고양이[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -830,7 +830,7 @@
       "name": "74",
       "message": "文字が入力されていません。[RAW:0E27]",
       "original": "文字が入力されていません。[RAW:0E27]",
-      "translation": "",
+      "translation": "글자가 없습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -840,7 +840,7 @@
       "name": "75",
       "message": "その文字は入力できません。[RAW:0E27]",
       "original": "その文字は入力できません。[RAW:0E27]",
-      "translation": "",
+      "translation": "그 글자는 못 씁니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -850,7 +850,7 @@
       "name": "76",
       "message": "[RAW:0010]がつれた！[RAW:0110-4308-4D08-0E27]",
       "original": "[RAW:0010]がつれた！[RAW:0110-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]가 낚였다！[RAW:0110-4308-4D08-0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0110-4308-4D08-0E27]"
@@ -861,7 +861,7 @@
       "name": "77",
       "message": "[RAW:0110-4308-4D08]の魚がつれた！[RAW:0E27]",
       "original": "[RAW:0110-4308-4D08]の魚がつれた！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0110-4308-4D08]짜리 물고기가 낚였다！[RAW:0E27]",
       "controls": [
         "[RAW:0110-4308-4D08]",
         "[RAW:0E27]"
@@ -872,7 +872,7 @@
       "name": "78",
       "message": "[RAW:0010]がつれた！[RAW:0E27]",
       "original": "[RAW:0010]がつれた！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]가 낚였다！[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -883,7 +883,7 @@
       "name": "79",
       "message": "今日はもうあげている。[RAW:0E27]",
       "original": "今日はもうあげている。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 이미 줬다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -893,7 +893,7 @@
       "name": "80",
       "message": "病気だからあげられない。[RAW:0E27]",
       "original": "病気だからあげられない。[RAW:0E27]",
-      "translation": "",
+      "translation": "병이라 줄 수 없다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -903,7 +903,7 @@
       "name": "81",
       "message": "春以外、門は開けられない。[RAW:0E27]",
       "original": "春以外、門は開けられない。[RAW:0E27]",
-      "translation": "",
+      "translation": "봄 아니면 문은 못 연다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -913,7 +913,7 @@
       "name": "82",
       "message": "すでに水田に水が入っている。[RAW:0E27]",
       "original": "すでに水田に水が入っている。[RAW:0E27]",
-      "translation": "",
+      "translation": "이미 논에 물이 차 있다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -923,7 +923,7 @@
       "name": "83",
       "message": "もう魚が入っている。[RAW:0E27]",
       "original": "もう魚が入っている。[RAW:0E27]",
-      "translation": "",
+      "translation": "이미 물고기가 들어 있다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -933,7 +933,7 @@
       "name": "84",
       "message": "この鮮度の魚は入れられない。[RAW:0E27]",
       "original": "この鮮度の魚は入れられない。[RAW:0E27]",
-      "translation": "",
+      "translation": "이 신선도는 못 넣는다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -943,7 +943,7 @@
       "name": "85",
       "message": "魚以外は入れられない。[RAW:0E27]",
       "original": "魚以外は入れられない。[RAW:0E27]",
-      "translation": "",
+      "translation": "물고기만 넣을 수 있다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -953,7 +953,7 @@
       "name": "86",
       "message": "魚があれば入れられそう。[RAW:0E27]",
       "original": "魚があれば入れられそう。[RAW:0E27]",
-      "translation": "",
+      "translation": "물고기라면 넣을 듯하다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -963,7 +963,7 @@
       "name": "87",
       "message": "[RAW:0010]を取り出した！[RAW:0E27]",
       "original": "[RAW:0010]を取り出した！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]를 꺼냈다！[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -974,7 +974,7 @@
       "name": "88",
       "message": "今日はもうあげている。[RAW:0E27]",
       "original": "今日はもうあげている。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 이미 줬다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -984,7 +984,7 @@
       "name": "89",
       "message": "池はもういっぱいだ。[RAW:0E27]",
       "original": "池はもういっぱいだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "연못은 이미 가득 찼다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -994,7 +994,7 @@
       "name": "90",
       "message": "ハチのすを入れよう。[RAW:0E27]",
       "original": "ハチのすを入れよう。[RAW:0E27]",
-      "translation": "",
+      "translation": "벌집을 넣자。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1004,7 +1004,7 @@
       "name": "91",
       "message": "ハチのすが入っている。[RAW:0E27]",
       "original": "ハチのすが入っている。[RAW:0E27]",
-      "translation": "",
+      "translation": "벌집이 들어 있다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1014,7 +1014,7 @@
       "name": "92",
       "message": "もう入らない。[RAW:0E27]",
       "original": "もう入らない。[RAW:0E27]",
-      "translation": "",
+      "translation": "더는 들어가지 않는다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1024,7 +1024,7 @@
       "name": "93",
       "message": "これはちがう。[RAW:0E27]",
       "original": "これはちがう。[RAW:0E27]",
-      "translation": "",
+      "translation": "이건 아니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1034,7 +1034,7 @@
       "name": "94",
       "message": "まだできていないようだ。[RAW:0E27]",
       "original": "まだできていないようだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "아직 안 된 것 같다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1044,7 +1044,7 @@
       "name": "95",
       "message": "[RAW:0010]を取り出した！[RAW:0E27]",
       "original": "[RAW:0010]を取り出した！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]를 꺼냈다！[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -1055,7 +1055,7 @@
       "name": "96",
       "message": "今日はもうあげている。[RAW:0E27]",
       "original": "今日はもうあげている。[RAW:0E27]",
-      "translation": "",
+      "translation": "오늘은 이미 줬다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1065,7 +1065,7 @@
       "name": "97",
       "message": "これはちがう。[RAW:0E27]",
       "original": "これはちがう。[RAW:0E27]",
-      "translation": "",
+      "translation": "이건 아니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1075,7 +1075,7 @@
       "name": "98",
       "message": "天気が悪いので[RAW:2823]フクロウは呼び出せない…。[RAW:0E27]",
       "original": "天気が悪いので[RAW:2823]フクロウは呼び出せない…。[RAW:0E27]",
-      "translation": "",
+      "translation": "날씨가 나빠서[RAW:2823]올빼미는 못 부른다…。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -1086,7 +1086,7 @@
       "name": "99",
       "message": "なにもないようだ。[RAW:0E27]",
       "original": "なにもないようだ。[RAW:0E27]",
-      "translation": "",
+      "translation": "아무것도 없는 듯하다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1096,7 +1096,7 @@
       "name": "100",
       "message": "[RAW:0010]がとれた！[RAW:0110-4308-4D08-0E27]",
       "original": "[RAW:0010]がとれた！[RAW:0110-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]를 얻었다！[RAW:0110-4308-4D08-0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0110-4308-4D08-0E27]"
@@ -1107,7 +1107,7 @@
       "name": "101",
       "message": "[RAW:0010]がとれた！[RAW:0E27]",
       "original": "[RAW:0010]がとれた！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]를 얻었다！[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -1118,7 +1118,7 @@
       "name": "102",
       "message": "この魚をとったのは初めてだ！[RAW:0E27]",
       "original": "この魚をとったのは初めてだ！[RAW:0E27]",
-      "translation": "",
+      "translation": "이 물고기는 처음 잡았다！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1128,7 +1128,7 @@
       "name": "103",
       "message": "今までで一番大きいサイズだ！[RAW:0E27]",
       "original": "今までで一番大きいサイズだ！[RAW:0E27]",
-      "translation": "",
+      "translation": "지금까지 가장 큰 크기다！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1138,7 +1138,7 @@
       "name": "104",
       "message": "ペットはそっちに運べない。[RAW:0E27]",
       "original": "ペットはそっちに運べない。[RAW:0E27]",
-      "translation": "",
+      "translation": "펫은 그쪽으로 못 옮긴다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1148,7 +1148,7 @@
       "name": "105",
       "message": "ペットをそっちに投げられない[RAW:0E27]",
       "original": "ペットをそっちに投げられない[RAW:0E27]",
-      "translation": "",
+      "translation": "펫은 그쪽으로 못 던진다[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1158,7 +1158,7 @@
       "name": "106",
       "message": "ここでカサは必要なさそう。[RAW:0E27]",
       "original": "ここでカサは必要なさそう。[RAW:0E27]",
-      "translation": "",
+      "translation": "여긴 우산이 필요 없겠다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1168,7 +1168,7 @@
       "name": "107",
       "message": "動物の薬を使った！[RAW:2823]明日は元気になっていると[RAW:2823]いいな。[RAW:0E27]",
       "original": "動物の薬を使った！[RAW:2823]明日は元気になっていると[RAW:2823]いいな。[RAW:0E27]",
-      "translation": "",
+      "translation": "동물의 약을 썼다！[RAW:2823]내일은 건강해져 있으면[RAW:2823]좋겠다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -1180,7 +1180,7 @@
       "name": "108",
       "message": "元気になるまで[RAW:2823]そっとしておこう。[RAW:0E27]",
       "original": "元気になるまで[RAW:2823]そっとしておこう。[RAW:0E27]",
-      "translation": "",
+      "translation": "건강해질 때까지[RAW:2823]가만히 두자。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -1191,7 +1191,7 @@
       "name": "109",
       "message": "病気なので[RAW:2823]これ以上ブラシがけは[RAW:2823]よそう。[RAW:0E27]",
       "original": "病気なので[RAW:2823]これ以上ブラシがけは[RAW:2823]よそう。[RAW:0E27]",
-      "translation": "",
+      "translation": "병이 났으니[RAW:2823]더 브러시질은[RAW:2823]그만두자。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -1203,7 +1203,7 @@
       "name": "110",
       "message": "今は動物を飼っていない。[RAW:0E27]",
       "original": "今は動物を飼っていない。[RAW:0E27]",
-      "translation": "",
+      "translation": "지금은 동물을 안 기른다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1213,7 +1213,7 @@
       "name": "111",
       "message": "[RAW:0010]Ｇ入金！[RAW:0E27]",
       "original": "[RAW:0010]Ｇ入金！[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]Ｇ 입금！[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -1224,7 +1224,7 @@
       "name": "112",
       "message": "この畑でこの種はまけない。[RAW:0E27]",
       "original": "この畑でこの種はまけない。[RAW:0E27]",
-      "translation": "",
+      "translation": "이 밭엔 못 뿌리는 씨다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1234,7 +1234,7 @@
       "name": "113",
       "message": "たのまれた仕事をやりとげた！[RAW:0E27]",
       "original": "たのまれた仕事をやりとげた！[RAW:0E27]",
-      "translation": "",
+      "translation": "부탁받은 일을 해냈다！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1244,7 +1244,7 @@
       "name": "114",
       "message": "もうすぐ倒れそう[RAW:6308-6308-6308-0E27-0F27]Ｗ",
       "original": "もうすぐ倒れそう[RAW:6308-6308-6308-0E27-0F27]Ｗ",
-      "translation": "",
+      "translation": "곧 쓰러질 것 같아[RAW:6308-6308-6308-0E27-0F27]Ｗ",
       "controls": [
         "[RAW:6308-6308-6308-0E27-0F27]"
       ]

@@ -10,7 +10,7 @@
       "name": "0",
       "message": "増築する～？[RAW:0E27]",
       "original": "増築する～？[RAW:0E27]",
-      "translation": "",
+      "translation": "증축할래～？[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "リフォ～ム[RAW:0E27]",
       "original": "リフォ～ム[RAW:0E27]",
-      "translation": "",
+      "translation": "리포～옴[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "畑を広くします～[RAW:0E27]",
       "original": "畑を広くします～[RAW:0E27]",
-      "translation": "",
+      "translation": "밭을 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "畑を広くします～[RAW:0E27]",
       "original": "畑を広くします～[RAW:0E27]",
-      "translation": "",
+      "translation": "밭을 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "畑を広くします～[RAW:0E27]",
       "original": "畑を広くします～[RAW:0E27]",
-      "translation": "",
+      "translation": "밭을 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "畑を広くします～[RAW:0E27]",
       "original": "畑を広くします～[RAW:0E27]",
-      "translation": "",
+      "translation": "밭을 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "畑を広くします～[RAW:0E27]",
       "original": "畑を広くします～[RAW:0E27]",
-      "translation": "",
+      "translation": "밭을 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "池を作るわ～[RAW:0E27]",
       "original": "池を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "연못을 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "水田を作ります～[RAW:0E27]",
       "original": "水田を作ります～[RAW:0E27]",
-      "translation": "",
+      "translation": "논을 만듭니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "つけものメーカー[RAW:0E27]",
       "original": "つけものメーカー[RAW:0E27]",
-      "translation": "",
+      "translation": "절임 메이커[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "水田を作ります～[RAW:0E27]",
       "original": "水田を作ります～[RAW:0E27]",
-      "translation": "",
+      "translation": "논을 만듭니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "水田を作ります～[RAW:0E27]",
       "original": "水田を作ります～[RAW:0E27]",
-      "translation": "",
+      "translation": "논을 만듭니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "水田を作ります～[RAW:0E27]",
       "original": "水田を作ります～[RAW:0E27]",
-      "translation": "",
+      "translation": "논을 만듭니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -140,7 +140,7 @@
       "name": "13",
       "message": "リフォ～ム[RAW:0E27]",
       "original": "リフォ～ム[RAW:0E27]",
-      "translation": "",
+      "translation": "리포～옴[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -150,7 +150,7 @@
       "name": "14",
       "message": "放牧地を広げます～[RAW:0E27]",
       "original": "放牧地を広げます～[RAW:0E27]",
-      "translation": "",
+      "translation": "방목지를 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "放牧地を広げます～[RAW:0E27]",
       "original": "放牧地を広げます～[RAW:0E27]",
-      "translation": "",
+      "translation": "방목지를 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -170,7 +170,7 @@
       "name": "16",
       "message": "ペットのあそび場[RAW:0E27]",
       "original": "ペットのあそび場[RAW:0E27]",
-      "translation": "",
+      "translation": "펫 놀이터[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -180,7 +180,7 @@
       "name": "17",
       "message": "メーカー小屋[RAW:0E27]",
       "original": "メーカー小屋[RAW:0E27]",
-      "translation": "",
+      "translation": "메이커 오두막[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -190,7 +190,7 @@
       "name": "18",
       "message": "ドリンクメーカー[RAW:0E27]",
       "original": "ドリンクメーカー[RAW:0E27]",
-      "translation": "",
+      "translation": "드링크 메이커[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -200,7 +200,7 @@
       "name": "19",
       "message": "畑を広くします～[RAW:0E27]",
       "original": "畑を広くします～[RAW:0E27]",
-      "translation": "",
+      "translation": "밭을 넓힙니다～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -210,7 +210,7 @@
       "name": "20",
       "message": "ハチの箱を作るわ～[RAW:0E27]",
       "original": "ハチの箱を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "벌 상자를 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -220,7 +220,7 @@
       "name": "21",
       "message": "ハチの箱を作るわ～[RAW:0E27]",
       "original": "ハチの箱を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "벌 상자를 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -230,7 +230,7 @@
       "name": "22",
       "message": "ハチの箱を作るわ～[RAW:0E27]",
       "original": "ハチの箱を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "벌 상자를 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -240,7 +240,7 @@
       "name": "23",
       "message": "ハチの箱を作るわ～[RAW:0E27]",
       "original": "ハチの箱を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "벌 상자를 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -250,7 +250,7 @@
       "name": "24",
       "message": "ハチの箱を作るわ～[RAW:0E27]",
       "original": "ハチの箱を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "벌 상자를 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -260,7 +260,7 @@
       "name": "25",
       "message": "ハチの箱を作るわ～[RAW:0E27]",
       "original": "ハチの箱を作るわ～[RAW:0E27]",
-      "translation": "",
+      "translation": "벌 상자를 만들게～[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -270,7 +270,7 @@
       "name": "26",
       "message": "ろてんぶろ作ります[RAW:0E27]",
       "original": "ろてんぶろ作ります[RAW:0E27]",
-      "translation": "",
+      "translation": "노천탕 만듭니다[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -280,7 +280,7 @@
       "name": "27",
       "message": "トンネルの向こう[RAW:0E27]",
       "original": "トンネルの向こう[RAW:0E27]",
-      "translation": "",
+      "translation": "터널 너머[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -290,7 +290,7 @@
       "name": "28",
       "message": "トンネルの向こう[RAW:0E27]",
       "original": "トンネルの向こう[RAW:0E27]",
-      "translation": "",
+      "translation": "터널 너머[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -300,7 +300,7 @@
       "name": "29",
       "message": "トンネルの向こう[RAW:0E27]",
       "original": "トンネルの向こう[RAW:0E27]",
-      "translation": "",
+      "translation": "터널 너머[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -310,7 +310,7 @@
       "name": "30",
       "message": "トンネルの向こう[RAW:0E27]",
       "original": "トンネルの向こう[RAW:0E27]",
-      "translation": "",
+      "translation": "터널 너머[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -320,7 +320,7 @@
       "name": "31",
       "message": "トンネルの向こう[RAW:0E27-0F27]｝",
       "original": "トンネルの向こう[RAW:0E27-0F27]｝",
-      "translation": "",
+      "translation": "터널 너머[RAW:0E27-0F27]｝",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

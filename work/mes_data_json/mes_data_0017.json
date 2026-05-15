@@ -10,7 +10,7 @@
       "name": "0",
       "message": "ＤＳワイヤレス通信[RAW:0E27]",
       "original": "ＤＳワイヤレス通信[RAW:0E27]",
-      "translation": "",
+      "translation": "ＤＳ 무선 통신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "Ｗｉ－Ｆｉ通信[RAW:0E27]",
       "original": "Ｗｉ－Ｆｉ通信[RAW:0E27]",
-      "translation": "",
+      "translation": "Ｗｉ－Ｆｉ 통신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "友達リスト[RAW:0E27]",
       "original": "友達リスト[RAW:0E27]",
-      "translation": "",
+      "translation": "친구 리스트[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "やめる[RAW:0E27]",
       "original": "やめる[RAW:0E27]",
-      "translation": "",
+      "translation": "그만두기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "牧場に来てもらう[RAW:0E27]",
       "original": "牧場に来てもらう[RAW:0E27]",
-      "translation": "",
+      "translation": "목장에 초대하기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "他の牧場に行く[RAW:0E27]",
       "original": "他の牧場に行く[RAW:0E27]",
-      "translation": "",
+      "translation": "다른 목장에 가기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "やめる[RAW:0E27]",
       "original": "やめる[RAW:0E27]",
-      "translation": "",
+      "translation": "그만두기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "はい[RAW:0E27]",
       "original": "はい[RAW:0E27]",
-      "translation": "",
+      "translation": "네[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "いいえ[RAW:0E27]",
       "original": "いいえ[RAW:0E27]",
-      "translation": "",
+      "translation": "아니요[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "次へ[RAW:0E27]",
       "original": "次へ[RAW:0E27]",
-      "translation": "",
+      "translation": "다음으로[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "牧場に出発！[RAW:0E27]",
       "original": "牧場に出発！[RAW:0E27]",
-      "translation": "",
+      "translation": "목장으로 출발！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "バザールの出品物を決める[RAW:0E27]",
       "original": "バザールの出品物を決める[RAW:0E27]",
-      "translation": "",
+      "translation": "바자회 출품물 정하기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "決定[RAW:0E27]",
       "original": "決定[RAW:0E27]",
-      "translation": "",
+      "translation": "결정[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -140,7 +140,7 @@
       "name": "13",
       "message": "やめる[RAW:0E27]",
       "original": "やめる[RAW:0E27]",
-      "translation": "",
+      "translation": "그만두기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -150,7 +150,7 @@
       "name": "14",
       "message": "友達コードを作る[RAW:0E27]",
       "original": "友達コードを作る[RAW:0E27]",
-      "translation": "",
+      "translation": "친구 코드 만들기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "[RAW:0010-0E27]",
       "original": "[RAW:0010-0E27]",
-      "translation": "",
+      "translation": "[RAW:0010-0E27]",
       "controls": [
         "[RAW:0010-0E27]"
       ]
@@ -170,7 +170,7 @@
       "name": "16",
       "message": "[RAW:0010-0110-0210-0E27]",
       "original": "[RAW:0010-0110-0210-0E27]",
-      "translation": "",
+      "translation": "[RAW:0010-0110-0210-0E27]",
       "controls": [
         "[RAW:0010-0110-0210-0E27]"
       ]
@@ -180,7 +180,7 @@
       "name": "17",
       "message": "[RAW:0310-0E27]",
       "original": "[RAW:0310-0E27]",
-      "translation": "",
+      "translation": "[RAW:0310-0E27]",
       "controls": [
         "[RAW:0310-0E27]"
       ]
@@ -190,7 +190,7 @@
       "name": "18",
       "message": "[RAW:0410]牧場[RAW:0E27]",
       "original": "[RAW:0410]牧場[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0410]목장[RAW:0E27]",
       "controls": [
         "[RAW:0410]",
         "[RAW:0E27]"
@@ -201,7 +201,7 @@
       "name": "19",
       "message": "[RAW:0010-0E27]",
       "original": "[RAW:0010-0E27]",
-      "translation": "",
+      "translation": "[RAW:0010-0E27]",
       "controls": [
         "[RAW:0010-0E27]"
       ]
@@ -211,7 +211,7 @@
       "name": "20",
       "message": "[RAW:0110]牧場[RAW:0E27]",
       "original": "[RAW:0110]牧場[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0110]목장[RAW:0E27]",
       "controls": [
         "[RAW:0110]",
         "[RAW:0E27]"
@@ -222,7 +222,7 @@
       "name": "21",
       "message": "[RAW:0210-0E27]",
       "original": "[RAW:0210-0E27]",
-      "translation": "",
+      "translation": "[RAW:0210-0E27]",
       "controls": [
         "[RAW:0210-0E27]"
       ]
@@ -232,7 +232,7 @@
       "name": "22",
       "message": "[RAW:0310-0E27]",
       "original": "[RAW:0310-0E27]",
-      "translation": "",
+      "translation": "[RAW:0310-0E27]",
       "controls": [
         "[RAW:0310-0E27]"
       ]
@@ -242,7 +242,7 @@
       "name": "23",
       "message": "[RAW:0410-0E27]",
       "original": "[RAW:0410-0E27]",
-      "translation": "",
+      "translation": "[RAW:0410-0E27]",
       "controls": [
         "[RAW:0410-0E27]"
       ]
@@ -252,7 +252,7 @@
       "name": "24",
       "message": "－－－－－－－－－－－－[RAW:0E27]",
       "original": "－－－－－－－－－－－－[RAW:0E27]",
-      "translation": "",
+      "translation": "－－－－－－－－－－－－[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -262,7 +262,7 @@
       "name": "25",
       "message": "あなたの友達コード[RAW:0E27]",
       "original": "あなたの友達コード[RAW:0E27]",
-      "translation": "",
+      "translation": "당신의 친구 코드[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -272,7 +272,7 @@
       "name": "26",
       "message": "ゆっくりしていってね！！！[RAW:0E27]",
       "original": "ゆっくりしていってね！！！[RAW:0E27]",
-      "translation": "",
+      "translation": "느긋하게 쉬다 가세요！！！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -282,7 +282,7 @@
       "name": "27",
       "message": "ともだち通信[RAW:0E27]",
       "original": "ともだち通信[RAW:0E27]",
-      "translation": "",
+      "translation": "친구 통신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -292,7 +292,7 @@
       "name": "28",
       "message": "わいわい通信[RAW:0E27-0F27]［",
       "original": "わいわい通信[RAW:0E27-0F27]［",
-      "translation": "",
+      "translation": "와글와글 통신[RAW:0E27-0F27]［",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

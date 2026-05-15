@@ -10,7 +10,7 @@
       "name": "0",
       "message": "資産表　家族情報[RAW:0E27]",
       "original": "資産表　家族情報[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　가족 정보[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "資産表　収支一覧[RAW:0E27]",
       "original": "資産表　収支一覧[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　수지 일람[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "資産表　[RAW:0E27]",
       "original": "資産表　[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "資産表　料理レシピ[RAW:0E27]",
       "original": "資産表　料理レシピ[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　요리 레시피[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "資産表　採取一覧[RAW:0E27]",
       "original": "資産表　採取一覧[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　채집 일람[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "資産表　住人一覧[RAW:0E27]",
       "original": "資産表　住人一覧[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　주민 일람[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "資産表　その他情報[RAW:0E27]",
       "original": "資産表　その他情報[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　기타 정보[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "資産表　達成度[RAW:0E27]",
       "original": "資産表　達成度[RAW:0E27]",
-      "translation": "",
+      "translation": "자산표　달성도[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "？？？？？？[RAW:0E27]",
       "original": "？？？？？？[RAW:0E27]",
-      "translation": "",
+      "translation": "？？？？？？[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "バザール達成度[RAW:0E27]",
       "original": "バザール達成度[RAW:0E27]",
-      "translation": "",
+      "translation": "바자회 달성도[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "[RAW:2F23-0010]年目[RAW:0110]　[RAW:0210]日飼育開始[RAW:2823]収穫できる副産物の数　[RAW:0310-2823-9023-0E27]",
       "original": "[RAW:2F23-0010]年目[RAW:0110]　[RAW:0210]日飼育開始[RAW:2823]収穫できる副産物の数　[RAW:0310-2823-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]년째[RAW:0110]　[RAW:0210]일 사육 시작[RAW:2823]수확 가능한 부산물 수　[RAW:0310-2823-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0110]",
@@ -124,7 +124,7 @@
       "name": "11",
       "message": "[RAW:2F23-0010]年目[RAW:0110]　[RAW:0210]日飼育開始[RAW:2823]収穫できる副産物の数　[RAW:0310-2823-6D20]現在妊娠中[RAW:6C20-9023-0E27]",
       "original": "[RAW:2F23-0010]年目[RAW:0110]　[RAW:0210]日飼育開始[RAW:2823]収穫できる副産物の数　[RAW:0310-2823-6D20]現在妊娠中[RAW:6C20-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]년째[RAW:0110]　[RAW:0210]일 사육 시작[RAW:2823]수확 가능한 부산물 수　[RAW:0310-2823-6D20]현재 임신 중[RAW:6C20-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0110]",
@@ -139,7 +139,7 @@
       "name": "12",
       "message": "[RAW:2F23-0010]年目[RAW:0110]　[RAW:0210]日飼育開始[RAW:2823-9023-0E27]",
       "original": "[RAW:2F23-0010]年目[RAW:0110]　[RAW:0210]日飼育開始[RAW:2823-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]년째[RAW:0110]　[RAW:0210]일 사육 시작[RAW:2823-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0110]",
@@ -152,7 +152,7 @@
       "name": "13",
       "message": "[RAW:2F23-0010]　[RAW:0110]年[RAW:0210-0310]日[RAW:2823]イヌ祭り　参加回数　[RAW:0410]回[RAW:2823]優勝[RAW:0510]回[RAW:0008]２位[RAW:0610]回[RAW:0008]３位[RAW:0710]回[RAW:2823-9023-0E27]",
       "original": "[RAW:2F23-0010]　[RAW:0110]年[RAW:0210-0310]日[RAW:2823]イヌ祭り　参加回数　[RAW:0410]回[RAW:2823]優勝[RAW:0510]回[RAW:0008]２位[RAW:0610]回[RAW:0008]３位[RAW:0710]回[RAW:2823-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]　[RAW:0110]년[RAW:0210-0310]일[RAW:2823]강아지 축제　참가 횟수　[RAW:0410]회[RAW:2823]우승[RAW:0510]회[RAW:0008]２위[RAW:0610]회[RAW:0008]３위[RAW:0710]회[RAW:2823-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0110]",
@@ -173,7 +173,7 @@
       "name": "14",
       "message": "[RAW:2F23-0010]　[RAW:0110]年[RAW:0210-0310]日[RAW:2823]ネコ祭り　参加回数　[RAW:0410]回[RAW:2823]優勝[RAW:0510]回[RAW:0008]２位[RAW:0610]回[RAW:0008]３位[RAW:0710]回[RAW:2823-9023-0E27]",
       "original": "[RAW:2F23-0010]　[RAW:0110]年[RAW:0210-0310]日[RAW:2823]ネコ祭り　参加回数　[RAW:0410]回[RAW:2823]優勝[RAW:0510]回[RAW:0008]２位[RAW:0610]回[RAW:0008]３位[RAW:0710]回[RAW:2823-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]　[RAW:0110]년[RAW:0210-0310]일[RAW:2823]고양이 축제　참가 횟수　[RAW:0410]회[RAW:2823]우승[RAW:0510]회[RAW:0008]２위[RAW:0610]회[RAW:0008]３위[RAW:0710]회[RAW:2823-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0110]",
@@ -194,7 +194,7 @@
       "name": "15",
       "message": "[RAW:2F23-0010]　[RAW:0110]年[RAW:0210-0310]日[RAW:2823]草けいば大会　参加回数　[RAW:0410]回[RAW:2823]優勝[RAW:0510]回[RAW:0008]２位[RAW:0610]回[RAW:0008]３位[RAW:0710]回[RAW:2823-9023-0E27]",
       "original": "[RAW:2F23-0010]　[RAW:0110]年[RAW:0210-0310]日[RAW:2823]草けいば大会　参加回数　[RAW:0410]回[RAW:2823]優勝[RAW:0510]回[RAW:0008]２位[RAW:0610]回[RAW:0008]３位[RAW:0710]回[RAW:2823-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]　[RAW:0110]년[RAW:0210-0310]일[RAW:2823]풀경마 대회　참가 횟수　[RAW:0410]회[RAW:2823]우승[RAW:0510]회[RAW:0008]２위[RAW:0610]회[RAW:0008]３위[RAW:0710]회[RAW:2823-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0110]",
@@ -215,7 +215,7 @@
       "name": "16",
       "message": "[RAW:0010]％[RAW:0E27]",
       "original": "[RAW:0010]％[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]％[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -226,7 +226,7 @@
       "name": "17",
       "message": "生まれたての牧場主[RAW:0E27]",
       "original": "生まれたての牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "갓 태어난 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -236,7 +236,7 @@
       "name": "18",
       "message": "ちいさな手の牧場主[RAW:0E27]",
       "original": "ちいさな手の牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "작은 손의 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -246,7 +246,7 @@
       "name": "19",
       "message": "育ちざかりの牧場主[RAW:0E27]",
       "original": "育ちざかりの牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "성장기 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -256,7 +256,7 @@
       "name": "20",
       "message": "歩き始めた牧場主[RAW:0E27]",
       "original": "歩き始めた牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "걸음마 뗀 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -266,7 +266,7 @@
       "name": "21",
       "message": "まっすぐな牧場主[RAW:0E27]",
       "original": "まっすぐな牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "올곧은 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -276,7 +276,7 @@
       "name": "22",
       "message": "夢見る牧場主[RAW:0E27]",
       "original": "夢見る牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "꿈꾸는 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -286,7 +286,7 @@
       "name": "23",
       "message": "ほほえみの牧場主[RAW:0E27]",
       "original": "ほほえみの牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "미소의 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -296,7 +296,7 @@
       "name": "24",
       "message": "有名な牧場主[RAW:0E27]",
       "original": "有名な牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "유명한 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -306,7 +306,7 @@
       "name": "25",
       "message": "人気の牧場主[RAW:0E27]",
       "original": "人気の牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "인기 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -316,7 +316,7 @@
       "name": "26",
       "message": "牧場のアイドル[RAW:0E27]",
       "original": "牧場のアイドル[RAW:0E27]",
-      "translation": "",
+      "translation": "목장의 아이돌[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -326,7 +326,7 @@
       "name": "27",
       "message": "牧場村の村長[RAW:0E27]",
       "original": "牧場村の村長[RAW:0E27]",
-      "translation": "",
+      "translation": "목장마을 촌장[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -336,7 +336,7 @@
       "name": "28",
       "message": "牧場町の町長[RAW:0E27]",
       "original": "牧場町の町長[RAW:0E27]",
-      "translation": "",
+      "translation": "목장마을 시장[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -346,7 +346,7 @@
       "name": "29",
       "message": "カリスマ牧場主[RAW:0E27]",
       "original": "カリスマ牧場主[RAW:0E27]",
-      "translation": "",
+      "translation": "카리스마 목장주[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -356,7 +356,7 @@
       "name": "30",
       "message": "牧場島の王[RAW:0E27]",
       "original": "牧場島の王[RAW:0E27]",
-      "translation": "",
+      "translation": "목장섬의 왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -366,7 +366,7 @@
       "name": "31",
       "message": "牧場国の国王[RAW:0E27]",
       "original": "牧場国の国王[RAW:0E27]",
-      "translation": "",
+      "translation": "목장국의 국왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -376,7 +376,7 @@
       "name": "32",
       "message": "牧場王[RAW:0E27]",
       "original": "牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -386,7 +386,7 @@
       "name": "33",
       "message": "国をむすぶ牧場王[RAW:0E27]",
       "original": "国をむすぶ牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "나라 잇는 목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -396,7 +396,7 @@
       "name": "34",
       "message": "幸せを運ぶ牧場王[RAW:0E27]",
       "original": "幸せを運ぶ牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "행복 나르는 목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -406,7 +406,7 @@
       "name": "35",
       "message": "世界の牧場王[RAW:0E27]",
       "original": "世界の牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "세계의 목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -416,7 +416,7 @@
       "name": "36",
       "message": "星を渡る牧場王[RAW:0E27]",
       "original": "星を渡る牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "별을 건너는 목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -426,7 +426,7 @@
       "name": "37",
       "message": "銀河を渡る牧場王[RAW:0E27]",
       "original": "銀河を渡る牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "은하를 건너는 목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -436,7 +436,7 @@
       "name": "38",
       "message": "宇宙を渡る牧場王[RAW:0E27]",
       "original": "宇宙を渡る牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "우주를 건너는 목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -446,7 +446,7 @@
       "name": "39",
       "message": "牧場天使[RAW:0E27]",
       "original": "牧場天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -456,7 +456,7 @@
       "name": "40",
       "message": "風をうたう牧場天使[RAW:0E27]",
       "original": "風をうたう牧場天使[RAW:0E27]",
-      "translation": "",
+      "translation": "바람 노래하는 목장천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -466,7 +466,7 @@
       "name": "41",
       "message": "雨をうたう牧場天使[RAW:0E27]",
       "original": "雨をうたう牧場天使[RAW:0E27]",
-      "translation": "",
+      "translation": "비를 노래하는 목장천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -476,7 +476,7 @@
       "name": "42",
       "message": "光をうたう牧場天使[RAW:0E27]",
       "original": "光をうたう牧場天使[RAW:0E27]",
-      "translation": "",
+      "translation": "빛을 노래하는 목장천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -486,7 +486,7 @@
       "name": "43",
       "message": "星々をうたう牧場天使[RAW:0E27]",
       "original": "星々をうたう牧場天使[RAW:0E27]",
-      "translation": "",
+      "translation": "별들을 노래하는 목장천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -496,7 +496,7 @@
       "name": "44",
       "message": "牧場神[RAW:0E27]",
       "original": "牧場神[RAW:0E27]",
-      "translation": "",
+      "translation": "목장신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -506,7 +506,7 @@
       "name": "45",
       "message": "風を抱く牧場神[RAW:0E27]",
       "original": "風を抱く牧場神[RAW:0E27]",
-      "translation": "",
+      "translation": "바람 품은 목장신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -516,7 +516,7 @@
       "name": "46",
       "message": "光を抱く牧場神[RAW:0E27]",
       "original": "光を抱く牧場神[RAW:0E27]",
-      "translation": "",
+      "translation": "빛을 품은 목장신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -526,7 +526,7 @@
       "name": "47",
       "message": "めぐみを抱く牧場神[RAW:0E27]",
       "original": "めぐみを抱く牧場神[RAW:0E27]",
-      "translation": "",
+      "translation": "은혜 품은 목장신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -536,7 +536,7 @@
       "name": "48",
       "message": "星々を抱く牧場神[RAW:0E27]",
       "original": "星々を抱く牧場神[RAW:0E27]",
-      "translation": "",
+      "translation": "별들을 품은 목장신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -546,7 +546,7 @@
       "name": "49",
       "message": "生命を抱く牧場最高神[RAW:0E27]",
       "original": "生命を抱く牧場最高神[RAW:0E27]",
-      "translation": "",
+      "translation": "생명 품은 목장최고신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -556,7 +556,7 @@
       "name": "50",
       "message": "神を超越せし者[RAW:0E27]",
       "original": "神を超越せし者[RAW:0E27]",
-      "translation": "",
+      "translation": "신을 초월한 자[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -566,7 +566,7 @@
       "name": "51",
       "message": "[RAW:2F23]牧場称号[RAW:2823-0008-0110-9023-0E27]",
       "original": "[RAW:2F23]牧場称号[RAW:2823-0008-0110-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23]목장 칭호[RAW:2823-0008-0110-9023-0E27]",
       "controls": [
         "[RAW:2F23]",
         "[RAW:2823-0008-0110-9023-0E27]"
@@ -577,7 +577,7 @@
       "name": "52",
       "message": "[RAW:0010]牧場[RAW:0008]動物一覧[RAW:0E27]",
       "original": "[RAW:0010]牧場[RAW:0008]動物一覧[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]목장[RAW:0008]동물 일람[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0008]",
@@ -589,7 +589,7 @@
       "name": "53",
       "message": "[RAW:2F23]結婚記念日[RAW:2823-0008-0110]年目[RAW:0008-0210]の月[RAW:0008-0310]日[RAW:9023-0E27]",
       "original": "[RAW:2F23]結婚記念日[RAW:2823-0008-0110]年目[RAW:0008-0210]の月[RAW:0008-0310]日[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23]결혼기념일[RAW:2823-0008-0110]년째[RAW:0008-0210]월[RAW:0008-0310]일[RAW:9023-0E27]",
       "controls": [
         "[RAW:2F23]",
         "[RAW:2823-0008-0110]",
@@ -603,7 +603,7 @@
       "name": "54",
       "message": "[RAW:2F23]生まれた日[RAW:2823-0008-0110]年目[RAW:0008-0210]の月[RAW:0008-0310]日[RAW:9023-0E27]",
       "original": "[RAW:2F23]生まれた日[RAW:2823-0008-0110]年目[RAW:0008-0210]の月[RAW:0008-0310]日[RAW:9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23]태어난 날[RAW:2823-0008-0110]년째[RAW:0008-0210]월[RAW:0008-0310]일[RAW:9023-0E27]",
       "controls": [
         "[RAW:2F23]",
         "[RAW:2823-0008-0110]",
@@ -617,7 +617,7 @@
       "name": "55",
       "message": "[RAW:2F23]バザール称号[RAW:2823-0008-0110-9023-0E27]",
       "original": "[RAW:2F23]バザール称号[RAW:2823-0008-0110-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23]바자회 칭호[RAW:2823-0008-0110-9023-0E27]",
       "controls": [
         "[RAW:2F23]",
         "[RAW:2823-0008-0110-9023-0E27]"
@@ -628,7 +628,7 @@
       "name": "56",
       "message": "いなか町の小バザール[RAW:0E27]",
       "original": "いなか町の小バザール[RAW:0E27]",
-      "translation": "",
+      "translation": "시골 마을 작은 바자회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -638,7 +638,7 @@
       "name": "57",
       "message": "この地方で一番の中バザール[RAW:0E27]",
       "original": "この地方で一番の中バザール[RAW:0E27]",
-      "translation": "",
+      "translation": "이 지방 최고 중바자회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -648,7 +648,7 @@
       "name": "58",
       "message": "この国一の大バザール[RAW:0E27]",
       "original": "この国一の大バザール[RAW:0E27]",
-      "translation": "",
+      "translation": "이 나라 제일 대바자회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -658,7 +658,7 @@
       "name": "59",
       "message": "大陸一の大バザール[RAW:0E27]",
       "original": "大陸一の大バザール[RAW:0E27]",
-      "translation": "",
+      "translation": "대륙 제일 대바자회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -668,7 +668,7 @@
       "name": "60",
       "message": "世界一の大バザール[RAW:0E27]",
       "original": "世界一の大バザール[RAW:0E27]",
-      "translation": "",
+      "translation": "세계 제일 대바자회[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -678,7 +678,7 @@
       "name": "61",
       "message": "[RAW:2F23-0010]年目[RAW:0008]収支一覧[RAW:2823]収入１位[RAW:0008-0B08-0110-2708-2823]支出１位[RAW:0008-0D08-0210-2708-9023-0E27]",
       "original": "[RAW:2F23-0010]年目[RAW:0008]収支一覧[RAW:2823]収入１位[RAW:0008-0B08-0110-2708-2823]支出１位[RAW:0008-0D08-0210-2708-9023-0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23-0010]년째[RAW:0008]수지 일람[RAW:2823]수입 １위[RAW:0008-0B08-0110-2708-2823]지출 １위[RAW:0008-0D08-0210-2708-9023-0E27]",
       "controls": [
         "[RAW:2F23-0010]",
         "[RAW:0008]",
@@ -692,7 +692,7 @@
       "name": "62",
       "message": "[RAW:0010]個[RAW:0E27]",
       "original": "[RAW:0010]個[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]개[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -703,7 +703,7 @@
       "name": "63",
       "message": "[RAW:0110]個[RAW:0E27]",
       "original": "[RAW:0110]個[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0110]개[RAW:0E27]",
       "controls": [
         "[RAW:0110]",
         "[RAW:0E27]"
@@ -714,7 +714,7 @@
       "name": "64",
       "message": "[RAW:0210]個[RAW:0E27]",
       "original": "[RAW:0210]個[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0210]개[RAW:0E27]",
       "controls": [
         "[RAW:0210]",
         "[RAW:0E27]"
@@ -725,7 +725,7 @@
       "name": "65",
       "message": "[RAW:0310]個[RAW:0E27]",
       "original": "[RAW:0310]個[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0310]개[RAW:0E27]",
       "controls": [
         "[RAW:0310]",
         "[RAW:0E27]"
@@ -736,7 +736,7 @@
       "name": "66",
       "message": "[RAW:0410]個[RAW:0E27]",
       "original": "[RAW:0410]個[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0410]개[RAW:0E27]",
       "controls": [
         "[RAW:0410]",
         "[RAW:0E27]"
@@ -747,7 +747,7 @@
       "name": "67",
       "message": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0010-4308-4D08-0E27]",
       "original": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0010-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]최대[RAW:0010-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]",
         "[RAW:0010-4308-4D08-0E27]"
@@ -758,7 +758,7 @@
       "name": "68",
       "message": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0110-4308-4D08-0E27]",
       "original": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0110-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]최대[RAW:0110-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]",
         "[RAW:0110-4308-4D08-0E27]"
@@ -769,7 +769,7 @@
       "name": "69",
       "message": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0210-4308-4D08-0E27]",
       "original": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0210-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]최대[RAW:0210-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]",
         "[RAW:0210-4308-4D08-0E27]"
@@ -780,7 +780,7 @@
       "name": "70",
       "message": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0310-4308-4D08-0E27]",
       "original": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0310-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]최대[RAW:0310-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]",
         "[RAW:0310-4308-4D08-0E27]"
@@ -791,7 +791,7 @@
       "name": "71",
       "message": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0410-4308-4D08-0E27]",
       "original": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]最大[RAW:0410-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]최대[RAW:0410-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008-0008]",
         "[RAW:0410-4308-4D08-0E27]"
@@ -802,7 +802,7 @@
       "name": "72",
       "message": "[RAW:0010]匹[RAW:0E27]",
       "original": "[RAW:0010]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]마리[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -813,7 +813,7 @@
       "name": "73",
       "message": "[RAW:0110]匹[RAW:0E27]",
       "original": "[RAW:0110]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0110]마리[RAW:0E27]",
       "controls": [
         "[RAW:0110]",
         "[RAW:0E27]"
@@ -824,7 +824,7 @@
       "name": "74",
       "message": "[RAW:0210]匹[RAW:0E27]",
       "original": "[RAW:0210]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0210]마리[RAW:0E27]",
       "controls": [
         "[RAW:0210]",
         "[RAW:0E27]"
@@ -835,7 +835,7 @@
       "name": "75",
       "message": "[RAW:0310]匹[RAW:0E27]",
       "original": "[RAW:0310]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0310]마리[RAW:0E27]",
       "controls": [
         "[RAW:0310]",
         "[RAW:0E27]"
@@ -846,7 +846,7 @@
       "name": "76",
       "message": "[RAW:0410]匹[RAW:0E27]",
       "original": "[RAW:0410]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0410]마리[RAW:0E27]",
       "controls": [
         "[RAW:0410]",
         "[RAW:0E27]"
@@ -857,7 +857,7 @@
       "name": "77",
       "message": "[RAW:3023]牧場[RAW:0E27]",
       "original": "[RAW:3023]牧場[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:3023]목장[RAW:0E27]",
       "controls": [
         "[RAW:3023]",
         "[RAW:0E27]"
@@ -868,7 +868,7 @@
       "name": "78",
       "message": "[RAW:2A23-0E27]",
       "original": "[RAW:2A23-0E27]",
-      "translation": "",
+      "translation": "[RAW:2A23-0E27]",
       "controls": [
         "[RAW:2A23-0E27]"
       ]
@@ -878,7 +878,7 @@
       "name": "79",
       "message": "[RAW:0210-0E27]",
       "original": "[RAW:0210-0E27]",
-      "translation": "",
+      "translation": "[RAW:0210-0E27]",
       "controls": [
         "[RAW:0210-0E27]"
       ]
@@ -888,7 +888,7 @@
       "name": "80",
       "message": "[RAW:0310-0E27]",
       "original": "[RAW:0310-0E27]",
-      "translation": "",
+      "translation": "[RAW:0310-0E27]",
       "controls": [
         "[RAW:0310-0E27]"
       ]
@@ -898,7 +898,7 @@
       "name": "81",
       "message": "[RAW:0410]の月[RAW:0510]日[RAW:0E27]",
       "original": "[RAW:0410]の月[RAW:0510]日[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0410]월[RAW:0510]일[RAW:0E27]",
       "controls": [
         "[RAW:0410]",
         "[RAW:0510]",
@@ -910,7 +910,7 @@
       "name": "82",
       "message": "[RAW:3723-0E27]",
       "original": "[RAW:3723-0E27]",
-      "translation": "",
+      "translation": "[RAW:3723-0E27]",
       "controls": [
         "[RAW:3723-0E27]"
       ]
@@ -920,7 +920,7 @@
       "name": "83",
       "message": "[RAW:0610]の月[RAW:0710]日[RAW:0E27]",
       "original": "[RAW:0610]の月[RAW:0710]日[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0610]월[RAW:0710]일[RAW:0E27]",
       "controls": [
         "[RAW:0610]",
         "[RAW:0710]",
@@ -932,7 +932,7 @@
       "name": "84",
       "message": "春[RAW:0E27]",
       "original": "春[RAW:0E27]",
-      "translation": "",
+      "translation": "봄[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -942,7 +942,7 @@
       "name": "85",
       "message": "夏[RAW:0E27]",
       "original": "夏[RAW:0E27]",
-      "translation": "",
+      "translation": "여름[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -952,7 +952,7 @@
       "name": "86",
       "message": "秋[RAW:0E27]",
       "original": "秋[RAW:0E27]",
-      "translation": "",
+      "translation": "가을[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -962,7 +962,7 @@
       "name": "87",
       "message": "冬[RAW:0E27]",
       "original": "冬[RAW:0E27]",
-      "translation": "",
+      "translation": "겨울[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -972,7 +972,7 @@
       "name": "88",
       "message": "[RAW:9323-0E27]",
       "original": "[RAW:9323-0E27]",
-      "translation": "",
+      "translation": "[RAW:9323-0E27]",
       "controls": [
         "[RAW:9323-0E27]"
       ]
@@ -982,7 +982,7 @@
       "name": "89",
       "message": "[RAW:0010-0508-0E27]",
       "original": "[RAW:0010-0508-0E27]",
-      "translation": "",
+      "translation": "[RAW:0010-0508-0E27]",
       "controls": [
         "[RAW:0010-0508-0E27]"
       ]
@@ -992,7 +992,7 @@
       "name": "90",
       "message": "[RAW:0110-0508-0E27]",
       "original": "[RAW:0110-0508-0E27]",
-      "translation": "",
+      "translation": "[RAW:0110-0508-0E27]",
       "controls": [
         "[RAW:0110-0508-0E27]"
       ]
@@ -1002,7 +1002,7 @@
       "name": "91",
       "message": "[RAW:0210]匹[RAW:0E27]",
       "original": "[RAW:0210]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0210]마리[RAW:0E27]",
       "controls": [
         "[RAW:0210]",
         "[RAW:0E27]"
@@ -1013,7 +1013,7 @@
       "name": "92",
       "message": "[RAW:0310]匹[RAW:0E27]",
       "original": "[RAW:0310]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0310]마리[RAW:0E27]",
       "controls": [
         "[RAW:0310]",
         "[RAW:0E27]"
@@ -1024,7 +1024,7 @@
       "name": "93",
       "message": "[RAW:0410]匹[RAW:0E27]",
       "original": "[RAW:0410]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0410]마리[RAW:0E27]",
       "controls": [
         "[RAW:0410]",
         "[RAW:0E27]"
@@ -1035,7 +1035,7 @@
       "name": "94",
       "message": "[RAW:0510]匹[RAW:0E27]",
       "original": "[RAW:0510]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0510]마리[RAW:0E27]",
       "controls": [
         "[RAW:0510]",
         "[RAW:0E27]"
@@ -1046,7 +1046,7 @@
       "name": "95",
       "message": "[RAW:0610]匹[RAW:0E27]",
       "original": "[RAW:0610]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0610]마리[RAW:0E27]",
       "controls": [
         "[RAW:0610]",
         "[RAW:0E27]"
@@ -1057,7 +1057,7 @@
       "name": "96",
       "message": "[RAW:0710]匹[RAW:0E27]",
       "original": "[RAW:0710]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0710]마리[RAW:0E27]",
       "controls": [
         "[RAW:0710]",
         "[RAW:0E27]"
@@ -1068,7 +1068,7 @@
       "name": "97",
       "message": "[RAW:0810]匹[RAW:0E27]",
       "original": "[RAW:0810]匹[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0810]마리[RAW:0E27]",
       "controls": [
         "[RAW:0810]",
         "[RAW:0E27]"
@@ -1079,7 +1079,7 @@
       "name": "98",
       "message": "[RAW:0010]回[RAW:0E27]",
       "original": "[RAW:0010]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0010]회[RAW:0E27]",
       "controls": [
         "[RAW:0010]",
         "[RAW:0E27]"
@@ -1090,7 +1090,7 @@
       "name": "99",
       "message": "[RAW:0110]回[RAW:0E27]",
       "original": "[RAW:0110]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0110]회[RAW:0E27]",
       "controls": [
         "[RAW:0110]",
         "[RAW:0E27]"
@@ -1101,7 +1101,7 @@
       "name": "100",
       "message": "[RAW:0210]回[RAW:0E27]",
       "original": "[RAW:0210]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0210]회[RAW:0E27]",
       "controls": [
         "[RAW:0210]",
         "[RAW:0E27]"
@@ -1112,7 +1112,7 @@
       "name": "101",
       "message": "[RAW:0310]回[RAW:0E27]",
       "original": "[RAW:0310]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0310]회[RAW:0E27]",
       "controls": [
         "[RAW:0310]",
         "[RAW:0E27]"
@@ -1123,7 +1123,7 @@
       "name": "102",
       "message": "[RAW:0410]回[RAW:0E27]",
       "original": "[RAW:0410]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0410]회[RAW:0E27]",
       "controls": [
         "[RAW:0410]",
         "[RAW:0E27]"
@@ -1134,7 +1134,7 @@
       "name": "103",
       "message": "[RAW:0510]回[RAW:0E27]",
       "original": "[RAW:0510]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0510]회[RAW:0E27]",
       "controls": [
         "[RAW:0510]",
         "[RAW:0E27]"
@@ -1145,7 +1145,7 @@
       "name": "104",
       "message": "[RAW:0610]回[RAW:0E27]",
       "original": "[RAW:0610]回[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:0610]회[RAW:0E27]",
       "controls": [
         "[RAW:0610]",
         "[RAW:0E27]"
@@ -1156,7 +1156,7 @@
       "name": "105",
       "message": "[RAW:0008-1F08-1F08-1F08-0008-0E27]",
       "original": "[RAW:0008-1F08-1F08-1F08-0008-0E27]",
-      "translation": "",
+      "translation": "[RAW:0008-1F08-1F08-1F08-0008-0E27]",
       "controls": [
         "[RAW:0008-1F08-1F08-1F08-0008-0E27]"
       ]
@@ -1166,7 +1166,7 @@
       "name": "106",
       "message": "[RAW:2F23]リストから動物を[RAW:2823]選んでください[RAW:0E27]",
       "original": "[RAW:2F23]リストから動物を[RAW:2823]選んでください[RAW:0E27]",
-      "translation": "",
+      "translation": "[RAW:2F23]목록에서 동물을[RAW:2823]골라 주세요[RAW:0E27]",
       "controls": [
         "[RAW:2F23]",
         "[RAW:2823]",
@@ -1178,7 +1178,7 @@
       "name": "107",
       "message": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0010-4308-4D08-0E27]",
       "original": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0010-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "★터주[RAW:0008-0008-0008-0008-0008]최대[RAW:0010-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008]",
         "[RAW:0010-4308-4D08-0E27]"
@@ -1189,7 +1189,7 @@
       "name": "108",
       "message": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0110-4308-4D08-0E27]",
       "original": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0110-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "★터주[RAW:0008-0008-0008-0008-0008]최대[RAW:0110-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008]",
         "[RAW:0110-4308-4D08-0E27]"
@@ -1200,7 +1200,7 @@
       "name": "109",
       "message": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0210-4308-4D08-0E27]",
       "original": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0210-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "★터주[RAW:0008-0008-0008-0008-0008]최대[RAW:0210-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008]",
         "[RAW:0210-4308-4D08-0E27]"
@@ -1211,7 +1211,7 @@
       "name": "110",
       "message": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0310-4308-4D08-0E27]",
       "original": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0310-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "★터주[RAW:0008-0008-0008-0008-0008]최대[RAW:0310-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008]",
         "[RAW:0310-4308-4D08-0E27]"
@@ -1222,7 +1222,7 @@
       "name": "111",
       "message": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0410-4308-4D08-0E27]",
       "original": "★ヌシ[RAW:0008-0008-0008-0008-0008]最大[RAW:0410-4308-4D08-0E27]",
-      "translation": "",
+      "translation": "★터주[RAW:0008-0008-0008-0008-0008]최대[RAW:0410-4308-4D08-0E27]",
       "controls": [
         "[RAW:0008-0008-0008-0008-0008]",
         "[RAW:0410-4308-4D08-0E27]"
@@ -1233,7 +1233,7 @@
       "name": "112",
       "message": "生まれたての牧場士[RAW:0E27]",
       "original": "生まれたての牧場士[RAW:0E27]",
-      "translation": "",
+      "translation": "갓 태어난 목장사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1243,7 +1243,7 @@
       "name": "113",
       "message": "見習い牧場士たまご組[RAW:0E27]",
       "original": "見習い牧場士たまご組[RAW:0E27]",
-      "translation": "",
+      "translation": "견습 목장사 알반[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1253,7 +1253,7 @@
       "name": "114",
       "message": "見習い牧場士ひよこ組[RAW:0E27]",
       "original": "見習い牧場士ひよこ組[RAW:0E27]",
-      "translation": "",
+      "translation": "견습 목장사 병아리반[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1263,7 +1263,7 @@
       "name": "115",
       "message": "見習い牧場士にわとり組[RAW:0E27]",
       "original": "見習い牧場士にわとり組[RAW:0E27]",
-      "translation": "",
+      "translation": "견습 목장사 닭반[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1273,7 +1273,7 @@
       "name": "116",
       "message": "見習い牧場士うこっけい組[RAW:0E27]",
       "original": "見習い牧場士うこっけい組[RAW:0E27]",
-      "translation": "",
+      "translation": "견습 목장사 오골계반[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1283,7 +1283,7 @@
       "name": "117",
       "message": "初等牧場士１年生[RAW:0E27]",
       "original": "初等牧場士１年生[RAW:0E27]",
-      "translation": "",
+      "translation": "초등 목장사 １학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1293,7 +1293,7 @@
       "name": "118",
       "message": "初等牧場士２年生[RAW:0E27]",
       "original": "初等牧場士２年生[RAW:0E27]",
-      "translation": "",
+      "translation": "초등 목장사 ２학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1303,7 +1303,7 @@
       "name": "119",
       "message": "初等牧場士３年生[RAW:0E27]",
       "original": "初等牧場士３年生[RAW:0E27]",
-      "translation": "",
+      "translation": "초등 목장사 ３학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1313,7 +1313,7 @@
       "name": "120",
       "message": "初等牧場士４年生[RAW:0E27]",
       "original": "初等牧場士４年生[RAW:0E27]",
-      "translation": "",
+      "translation": "초등 목장사 ４학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1323,7 +1323,7 @@
       "name": "121",
       "message": "初等牧場士５年生[RAW:0E27]",
       "original": "初等牧場士５年生[RAW:0E27]",
-      "translation": "",
+      "translation": "초등 목장사 ５학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1333,7 +1333,7 @@
       "name": "122",
       "message": "初等牧場士６年生[RAW:0E27]",
       "original": "初等牧場士６年生[RAW:0E27]",
-      "translation": "",
+      "translation": "초등 목장사 ６학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1343,7 +1343,7 @@
       "name": "123",
       "message": "中等牧場士１年生[RAW:0E27]",
       "original": "中等牧場士１年生[RAW:0E27]",
-      "translation": "",
+      "translation": "중등 목장사 １학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1353,7 +1353,7 @@
       "name": "124",
       "message": "中等牧場士２年生[RAW:0E27]",
       "original": "中等牧場士２年生[RAW:0E27]",
-      "translation": "",
+      "translation": "중등 목장사 ２학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1363,7 +1363,7 @@
       "name": "125",
       "message": "中等牧場士３年生[RAW:0E27]",
       "original": "中等牧場士３年生[RAW:0E27]",
-      "translation": "",
+      "translation": "중등 목장사 ３학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1373,7 +1373,7 @@
       "name": "126",
       "message": "高等牧場士１年生[RAW:0E27]",
       "original": "高等牧場士１年生[RAW:0E27]",
-      "translation": "",
+      "translation": "고등 목장사 １학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1383,7 +1383,7 @@
       "name": "127",
       "message": "高等牧場士２年生[RAW:0E27]",
       "original": "高等牧場士２年生[RAW:0E27]",
-      "translation": "",
+      "translation": "고등 목장사 ２학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1393,7 +1393,7 @@
       "name": "128",
       "message": "高等牧場士３年生[RAW:0E27]",
       "original": "高等牧場士３年生[RAW:0E27]",
-      "translation": "",
+      "translation": "고등 목장사 ３학년[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1403,7 +1403,7 @@
       "name": "129",
       "message": "牧場長[RAW:0E27]",
       "original": "牧場長[RAW:0E27]",
-      "translation": "",
+      "translation": "목장장[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1413,7 +1413,7 @@
       "name": "130",
       "message": "牧場騎士[RAW:0E27]",
       "original": "牧場騎士[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 기사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1423,7 +1423,7 @@
       "name": "131",
       "message": "牧場男爵[RAW:0E27]",
       "original": "牧場男爵[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 남작[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1433,7 +1433,7 @@
       "name": "132",
       "message": "牧場子爵[RAW:0E27]",
       "original": "牧場子爵[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 자작[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1443,7 +1443,7 @@
       "name": "133",
       "message": "牧場伯爵[RAW:0E27]",
       "original": "牧場伯爵[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 백작[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1453,7 +1453,7 @@
       "name": "134",
       "message": "牧場侯爵[RAW:0E27]",
       "original": "牧場侯爵[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 후작[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1463,7 +1463,7 @@
       "name": "135",
       "message": "牧場公爵[RAW:0E27]",
       "original": "牧場公爵[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 공작[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1473,7 +1473,7 @@
       "name": "136",
       "message": "牧場大公爵[RAW:0E27]",
       "original": "牧場大公爵[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 대공작[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1483,7 +1483,7 @@
       "name": "137",
       "message": "牧場王[RAW:0E27]",
       "original": "牧場王[RAW:0E27]",
-      "translation": "",
+      "translation": "목장왕[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1493,7 +1493,7 @@
       "name": "138",
       "message": "牧場帝[RAW:0E27]",
       "original": "牧場帝[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 황제[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1503,7 +1503,7 @@
       "name": "139",
       "message": "牧場天使[RAW:0E27]",
       "original": "牧場天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1513,7 +1513,7 @@
       "name": "140",
       "message": "牧場大天使[RAW:0E27]",
       "original": "牧場大天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 대천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1523,7 +1523,7 @@
       "name": "141",
       "message": "牧場権天使[RAW:0E27]",
       "original": "牧場権天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 권천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1533,7 +1533,7 @@
       "name": "142",
       "message": "牧場能天使[RAW:0E27]",
       "original": "牧場能天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 능천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1543,7 +1543,7 @@
       "name": "143",
       "message": "牧場力天使[RAW:0E27]",
       "original": "牧場力天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 역천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1553,7 +1553,7 @@
       "name": "144",
       "message": "牧場主天使[RAW:0E27]",
       "original": "牧場主天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 주천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1563,7 +1563,7 @@
       "name": "145",
       "message": "牧場座天使[RAW:0E27]",
       "original": "牧場座天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 좌천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1573,7 +1573,7 @@
       "name": "146",
       "message": "牧場智天使[RAW:0E27]",
       "original": "牧場智天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 지천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1583,7 +1583,7 @@
       "name": "147",
       "message": "牧場熾天使[RAW:0E27]",
       "original": "牧場熾天使[RAW:0E27]",
-      "translation": "",
+      "translation": "목장 치천사[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1593,7 +1593,7 @@
       "name": "148",
       "message": "すべてをつなぐ牧場神[RAW:0E27]",
       "original": "すべてをつなぐ牧場神[RAW:0E27]",
-      "translation": "",
+      "translation": "모든 것을 잇는 목장신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1603,7 +1603,7 @@
       "name": "149",
       "message": "牧場最高神[RAW:0E27]",
       "original": "牧場最高神[RAW:0E27]",
-      "translation": "",
+      "translation": "목장최고신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1613,7 +1613,7 @@
       "name": "150",
       "message": "真牧場最高神[RAW:0E27]",
       "original": "真牧場最高神[RAW:0E27]",
-      "translation": "",
+      "translation": "진 목장최고신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -1623,7 +1623,7 @@
       "name": "151",
       "message": "[RAW:0010]の月[RAW:0110]日[RAW:0E27-0F27]え",
       "original": "[RAW:0010]の月[RAW:0110]日[RAW:0E27-0F27]え",
-      "translation": "",
+      "translation": "[RAW:0010]월[RAW:0110]일[RAW:0E27-0F27]え",
       "controls": [
         "[RAW:0010]",
         "[RAW:0110]",

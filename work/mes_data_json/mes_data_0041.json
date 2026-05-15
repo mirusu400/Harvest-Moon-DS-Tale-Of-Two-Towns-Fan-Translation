@@ -10,7 +10,7 @@
       "name": "0",
       "message": "ボロボロ荷馬車[RAW:0E27]",
       "original": "ボロボロ荷馬車[RAW:0E27]",
-      "translation": "",
+      "translation": "낡은 짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "竹の荷馬車[RAW:0E27]",
       "original": "竹の荷馬車[RAW:0E27]",
-      "translation": "",
+      "translation": "대나무 짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "みこし荷馬車[RAW:0E27]",
       "original": "みこし荷馬車[RAW:0E27]",
-      "translation": "",
+      "translation": "가마 짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "しましま荷馬車[RAW:0E27]",
       "original": "しましま荷馬車[RAW:0E27]",
-      "translation": "",
+      "translation": "줄무늬 짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "ゆうびん荷馬車[RAW:0E27]",
       "original": "ゆうびん荷馬車[RAW:0E27]",
-      "translation": "",
+      "translation": "우편 짐마차[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "シシマイ[RAW:0E27]",
       "original": "シシマイ[RAW:0E27]",
-      "translation": "",
+      "translation": "시시마이[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "ＵＦＯタイプ[RAW:0E27]",
       "original": "ＵＦＯタイプ[RAW:0E27]",
-      "translation": "",
+      "translation": "ＵＦＯ 타입[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "メカニワトリ[RAW:0E27]",
       "original": "メカニワトリ[RAW:0E27]",
-      "translation": "",
+      "translation": "메카 닭[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "そり[RAW:0E27]",
       "original": "そり[RAW:0E27]",
-      "translation": "",
+      "translation": "썰매[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "ダンボール[RAW:0E27]",
       "original": "ダンボール[RAW:0E27]",
-      "translation": "",
+      "translation": "골판지 상자[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "村長さんからもらった荷馬車。[RAW:2823]あまり荷物をのせられない。[RAW:0E27]",
       "original": "村長さんからもらった荷馬車。[RAW:2823]あまり荷物をのせられない。[RAW:0E27]",
-      "translation": "",
+      "translation": "촌장님께 받은 짐마차。[RAW:2823]짐을 많이 싣진 못한다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -121,7 +121,7 @@
       "name": "11",
       "message": "竹を使ったしぶい荷馬車。[RAW:2823]後ろののぼりがカッコイイ。[RAW:2823]軽量に作られている。[RAW:0E27]",
       "original": "竹を使ったしぶい荷馬車。[RAW:2823]後ろののぼりがカッコイイ。[RAW:2823]軽量に作られている。[RAW:0E27]",
-      "translation": "",
+      "translation": "대나무로 만든 짐마차。[RAW:2823]뒤쪽 깃발이 멋지다。[RAW:2823]가볍게 만들어졌다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -133,7 +133,7 @@
       "name": "12",
       "message": "思わず担ぎたくなる[RAW:2823]職人の技が光る荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
       "original": "思わず担ぎたくなる[RAW:2823]職人の技が光る荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
-      "translation": "",
+      "translation": "무심코 메고 싶어지는[RAW:2823]장인 솜씨 빛나는 짐마차。[RAW:2823]보냉 기능도 조금 있다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -145,7 +145,7 @@
       "name": "13",
       "message": "カザミドリがかわいい[RAW:2823]シンプルな荷馬車。[RAW:2823]軽量に作られている。[RAW:0E27]",
       "original": "カザミドリがかわいい[RAW:2823]シンプルな荷馬車。[RAW:2823]軽量に作られている。[RAW:0E27]",
-      "translation": "",
+      "translation": "풍향계가 귀여운[RAW:2823]심플한 짐마차。[RAW:2823]가볍게 만들어졌다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -157,7 +157,7 @@
       "name": "14",
       "message": "ゆうびん屋さん気分になれる[RAW:2823]ガッチリした造りの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
       "original": "ゆうびん屋さん気分になれる[RAW:2823]ガッチリした造りの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
-      "translation": "",
+      "translation": "우편부 기분을 내는[RAW:2823]튼튼한 구조의 짐마차。[RAW:2823]보냉 기능도 조금 있다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -169,7 +169,7 @@
       "name": "15",
       "message": "アジアのお祭りを[RAW:2823]モチーフにした荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
       "original": "アジアのお祭りを[RAW:2823]モチーフにした荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
-      "translation": "",
+      "translation": "아시아 축제를[RAW:2823]모티브로 한 짐마차。[RAW:2823]보냉 기능도 조금 있다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -181,7 +181,7 @@
       "name": "16",
       "message": "未知の技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
       "original": "未知の技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
-      "translation": "",
+      "translation": "미지의 기술로 만들어졌다。[RAW:2823]보냉 기능도 완벽。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -192,7 +192,7 @@
       "name": "17",
       "message": "高度な技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
       "original": "高度な技術で作られている。[RAW:2823]保冷機能もバッチリ。[RAW:0E27]",
-      "translation": "",
+      "translation": "고도의 기술로 만들어졌다。[RAW:2823]보냉 기능도 완벽。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27]"
@@ -203,7 +203,7 @@
       "name": "18",
       "message": "クマがチャームポイントの[RAW:2823]そりのデザインの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
       "original": "クマがチャームポイントの[RAW:2823]そりのデザインの荷馬車。[RAW:2823]保冷機能も少しある。[RAW:0E27]",
-      "translation": "",
+      "translation": "곰이 매력 포인트인[RAW:2823]썰매 디자인의 짐마차。[RAW:2823]보냉 기능도 조금 있다。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -215,7 +215,7 @@
       "name": "19",
       "message": "どこかで見た事のある[RAW:2823]なつかしのダンボール。[RAW:2823]甘ずっぱい思い出いっぱい。[RAW:0E27]",
       "original": "どこかで見た事のある[RAW:2823]なつかしのダンボール。[RAW:2823]甘ずっぱい思い出いっぱい。[RAW:0E27]",
-      "translation": "",
+      "translation": "어디선가 본 적 있는[RAW:2823]그리운 골판지 상자。[RAW:2823]새콤달콤한 추억 가득。[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823]",
@@ -227,7 +227,7 @@
       "name": "20",
       "message": "改造してページ数を増やします。[RAW:2823]現在　[RAW:0010]Ｐ　→　改造後　[RAW:0110]Ｐ[RAW:0E27]",
       "original": "改造してページ数を増やします。[RAW:2823]現在　[RAW:0010]Ｐ　→　改造後　[RAW:0110]Ｐ[RAW:0E27]",
-      "translation": "",
+      "translation": "개조해 페이지를 늘립니다。[RAW:2823]현재　[RAW:0010]Ｐ　→　개조 후　[RAW:0110]Ｐ[RAW:0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:0010]",
@@ -240,7 +240,7 @@
       "name": "21",
       "message": "切り替え完了。[RAW:0E27]",
       "original": "切り替え完了。[RAW:0E27]",
-      "translation": "",
+      "translation": "전환 완료。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -250,7 +250,7 @@
       "name": "22",
       "message": "荷物がのりきらないので、[RAW:2823]交換できません。[RAW:0E27-0F27]“",
       "original": "荷物がのりきらないので、[RAW:2823]交換できません。[RAW:0E27-0F27]“",
-      "translation": "",
+      "translation": "짐이 다 실리지 않아、[RAW:2823]교환할 수 없습니다。[RAW:0E27-0F27]“",
       "controls": [
         "[RAW:2823]",
         "[RAW:0E27-0F27]"

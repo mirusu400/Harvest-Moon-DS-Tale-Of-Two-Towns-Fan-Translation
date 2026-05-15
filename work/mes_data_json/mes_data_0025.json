@@ -10,7 +10,7 @@
       "name": "0",
       "message": "改造うけたまわる！[RAW:0E27]",
       "original": "改造うけたまわる！[RAW:0E27]",
-      "translation": "",
+      "translation": "개조를 받아준다！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "限界突破！クワ[RAW:0E27]",
       "original": "限界突破！クワ[RAW:0E27]",
-      "translation": "",
+      "translation": "한계 돌파！괭이[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "限界突破！じょうろ[RAW:0E27]",
       "original": "限界突破！じょうろ[RAW:0E27]",
-      "translation": "",
+      "translation": "한계 돌파！물뿌리개[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "限界突破！カマ[RAW:0E27]",
       "original": "限界突破！カマ[RAW:0E27]",
-      "translation": "",
+      "translation": "한계 돌파！낫[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "クワＬｖ２[RAW:0E27]",
       "original": "クワＬｖ２[RAW:0E27]",
-      "translation": "",
+      "translation": "괭이 Ｌｖ２[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "クワＬｖ３[RAW:0E27]",
       "original": "クワＬｖ３[RAW:0E27]",
-      "translation": "",
+      "translation": "괭이 Ｌｖ３[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "クワＬｖ４[RAW:0E27]",
       "original": "クワＬｖ４[RAW:0E27]",
-      "translation": "",
+      "translation": "괭이 Ｌｖ４[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "クワＬｖ５[RAW:0E27]",
       "original": "クワＬｖ５[RAW:0E27]",
-      "translation": "",
+      "translation": "괭이 Ｌｖ５[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "クワＬｖ６[RAW:0E27]",
       "original": "クワＬｖ６[RAW:0E27]",
-      "translation": "",
+      "translation": "괭이 Ｌｖ６[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "最強のクワ！[RAW:0E27]",
       "original": "最強のクワ！[RAW:0E27]",
-      "translation": "",
+      "translation": "최강의 괭이！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "じょうろＬｖ２[RAW:0E27]",
       "original": "じょうろＬｖ２[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개 Ｌｖ２[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "じょうろＬｖ３[RAW:0E27]",
       "original": "じょうろＬｖ３[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개 Ｌｖ３[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "じょうろＬｖ４[RAW:0E27]",
       "original": "じょうろＬｖ４[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개 Ｌｖ４[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -140,7 +140,7 @@
       "name": "13",
       "message": "じょうろＬｖ５[RAW:0E27]",
       "original": "じょうろＬｖ５[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개 Ｌｖ５[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -150,7 +150,7 @@
       "name": "14",
       "message": "じょうろＬｖ６[RAW:0E27]",
       "original": "じょうろＬｖ６[RAW:0E27]",
-      "translation": "",
+      "translation": "물뿌리개 Ｌｖ６[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -160,7 +160,7 @@
       "name": "15",
       "message": "最強のじょうろ！[RAW:0E27]",
       "original": "最強のじょうろ！[RAW:0E27]",
-      "translation": "",
+      "translation": "최강의 물뿌리개！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -170,7 +170,7 @@
       "name": "16",
       "message": "カマＬｖ２[RAW:0E27]",
       "original": "カマＬｖ２[RAW:0E27]",
-      "translation": "",
+      "translation": "낫 Ｌｖ２[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -180,7 +180,7 @@
       "name": "17",
       "message": "カマＬｖ３[RAW:0E27]",
       "original": "カマＬｖ３[RAW:0E27]",
-      "translation": "",
+      "translation": "낫 Ｌｖ３[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -190,7 +190,7 @@
       "name": "18",
       "message": "カマＬｖ４[RAW:0E27]",
       "original": "カマＬｖ４[RAW:0E27]",
-      "translation": "",
+      "translation": "낫 Ｌｖ４[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -200,7 +200,7 @@
       "name": "19",
       "message": "カマＬｖ５[RAW:0E27]",
       "original": "カマＬｖ５[RAW:0E27]",
-      "translation": "",
+      "translation": "낫 Ｌｖ５[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -210,7 +210,7 @@
       "name": "20",
       "message": "カマＬｖ６[RAW:0E27]",
       "original": "カマＬｖ６[RAW:0E27]",
-      "translation": "",
+      "translation": "낫 Ｌｖ６[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -220,7 +220,7 @@
       "name": "21",
       "message": "最強のカマ！[RAW:0E27-0F27]’",
       "original": "最強のカマ！[RAW:0E27-0F27]’",
-      "translation": "",
+      "translation": "최강의 낫！[RAW:0E27-0F27]’",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

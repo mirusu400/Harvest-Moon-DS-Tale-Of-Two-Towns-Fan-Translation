@@ -10,7 +10,7 @@
       "name": "0",
       "message": "鮮度：ばつぐん！[RAW:0E27]",
       "original": "鮮度：ばつぐん！[RAW:0E27]",
-      "translation": "",
+      "translation": "신선도：최상！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "鮮度：まだまだイケる！[RAW:0E27]",
       "original": "鮮度：まだまだイケる！[RAW:0E27]",
-      "translation": "",
+      "translation": "신선도：아직 괜찮아！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "鮮度：少しいたんだかな？[RAW:0E27]",
       "original": "鮮度：少しいたんだかな？[RAW:0E27]",
-      "translation": "",
+      "translation": "신선도：조금 상했나？[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "鮮度：そろそろヤバい…！[RAW:0E27]",
       "original": "鮮度：そろそろヤバい…！[RAW:0E27]",
-      "translation": "",
+      "translation": "신선도：슬슬 위험해…！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "鮮度：くさってしまった…[RAW:0E27]",
       "original": "鮮度：くさってしまった…[RAW:0E27]",
-      "translation": "",
+      "translation": "신선도：썩어 버렸다…[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "　[RAW:0E27-0F27]：",
       "original": "　[RAW:0E27-0F27]：",
-      "translation": "",
+      "translation": "　[RAW:0E27-0F27]：",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

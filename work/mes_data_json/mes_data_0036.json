@@ -10,7 +10,7 @@
       "name": "0",
       "message": "このはな村の生活[RAW:0E27]",
       "original": "このはな村の生活[RAW:0E27]",
-      "translation": "",
+      "translation": "코노하나 마을 생활[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "ブルーベル村の生活[RAW:0E27]",
       "original": "ブルーベル村の生活[RAW:0E27]",
-      "translation": "",
+      "translation": "블루벨 마을 생활[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "虫つかみのコツ[RAW:0E27]",
       "original": "虫つかみのコツ[RAW:0E27]",
-      "translation": "",
+      "translation": "곤충잡기 요령[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "魚つかみのコツ[RAW:0E27]",
       "original": "魚つかみのコツ[RAW:0E27]",
-      "translation": "",
+      "translation": "물고기잡기 요령[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "山の幸（さち）[RAW:0E27]",
       "original": "山の幸（さち）[RAW:0E27]",
-      "translation": "",
+      "translation": "산의 산물[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "教えてあげる[RAW:0E27]",
       "original": "教えてあげる[RAW:0E27]",
-      "translation": "",
+      "translation": "알려 줄게[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "虫つかみのコツ[RAW:0E27]",
       "original": "虫つかみのコツ[RAW:0E27]",
-      "translation": "",
+      "translation": "곤충잡기 요령[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "魚つかみのコツ[RAW:0E27]",
       "original": "魚つかみのコツ[RAW:0E27]",
-      "translation": "",
+      "translation": "물고기잡기 요령[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "山の幸（さち）[RAW:0E27]",
       "original": "山の幸（さち）[RAW:0E27]",
-      "translation": "",
+      "translation": "산의 산물[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "教えてあげる！[RAW:0E27]",
       "original": "教えてあげる！[RAW:0E27]",
-      "translation": "",
+      "translation": "알려 줄게！[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "ジャンプ虫つかみ[RAW:0E27]",
       "original": "ジャンプ虫つかみ[RAW:0E27]",
-      "translation": "",
+      "translation": "점프 곤충잡기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "ジャンプ虫つかみ[RAW:0E27-0F27]´",
       "original": "ジャンプ虫つかみ[RAW:0E27-0F27]´",
-      "translation": "",
+      "translation": "점프 곤충잡기[RAW:0E27-0F27]´",
       "controls": [
         "[RAW:0E27-0F27]"
       ]

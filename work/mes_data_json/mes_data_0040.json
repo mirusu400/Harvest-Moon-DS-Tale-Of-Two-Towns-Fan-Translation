@@ -10,7 +10,7 @@
       "name": "0",
       "message": "画面をタッチしてください[RAW:0E27]",
       "original": "画面をタッチしてください[RAW:0E27]",
-      "translation": "",
+      "translation": "화면을 터치해 주세요[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -20,7 +20,7 @@
       "name": "1",
       "message": "はじめから[RAW:0E27]",
       "original": "はじめから[RAW:0E27]",
-      "translation": "",
+      "translation": "처음부터[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -30,7 +30,7 @@
       "name": "2",
       "message": "つづきから[RAW:0E27]",
       "original": "つづきから[RAW:0E27]",
-      "translation": "",
+      "translation": "이어하기[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -40,7 +40,7 @@
       "name": "3",
       "message": "通信[RAW:0E27]",
       "original": "通信[RAW:0E27]",
-      "translation": "",
+      "translation": "통신[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -50,7 +50,7 @@
       "name": "4",
       "message": "データがありません[RAW:0E27]",
       "original": "データがありません[RAW:0E27]",
-      "translation": "",
+      "translation": "데이터가 없습니다[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -60,7 +60,7 @@
       "name": "5",
       "message": "[RAW:2A23-0E27]",
       "original": "[RAW:2A23-0E27]",
-      "translation": "",
+      "translation": "[RAW:2A23-0E27]",
       "controls": [
         "[RAW:2A23-0E27]"
       ]
@@ -70,7 +70,7 @@
       "name": "6",
       "message": "[RAW:3023-0E27]",
       "original": "[RAW:3023-0E27]",
-      "translation": "",
+      "translation": "[RAW:3023-0E27]",
       "controls": [
         "[RAW:3023-0E27]"
       ]
@@ -80,7 +80,7 @@
       "name": "7",
       "message": "どこを使ってゲームを始める？[RAW:0E27]",
       "original": "どこを使ってゲームを始める？[RAW:0E27]",
-      "translation": "",
+      "translation": "어디로 게임을 시작할래？[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -90,7 +90,7 @@
       "name": "8",
       "message": "ここに上書きしますか？[RAW:0E27]",
       "original": "ここに上書きしますか？[RAW:0E27]",
-      "translation": "",
+      "translation": "여기에 덮어쓸까요？[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -100,7 +100,7 @@
       "name": "9",
       "message": "はい[RAW:0E27]",
       "original": "はい[RAW:0E27]",
-      "translation": "",
+      "translation": "예[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -110,7 +110,7 @@
       "name": "10",
       "message": "いいえ[RAW:0E27]",
       "original": "いいえ[RAW:0E27]",
-      "translation": "",
+      "translation": "아니요[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -120,7 +120,7 @@
       "name": "11",
       "message": "どれをロードするかえらんでね[RAW:0E27]",
       "original": "どれをロードするかえらんでね[RAW:0E27]",
-      "translation": "",
+      "translation": "어느 걸 로드할지 골라 줘[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -130,7 +130,7 @@
       "name": "12",
       "message": "これをロードしますか？[RAW:0E27]",
       "original": "これをロードしますか？[RAW:0E27]",
-      "translation": "",
+      "translation": "이걸 로드할까요？[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -140,7 +140,7 @@
       "name": "13",
       "message": "ロード中です。[RAW:0E27]",
       "original": "ロード中です。[RAW:0E27]",
-      "translation": "",
+      "translation": "로드 중입니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -150,7 +150,7 @@
       "name": "14",
       "message": "電源を切ったり、[RAW:2408-3308]カードを[RAW:0E27]",
       "original": "電源を切ったり、[RAW:2408-3308]カードを[RAW:0E27]",
-      "translation": "",
+      "translation": "전원을 끄거나、[RAW:2408-3308]카드를[RAW:0E27]",
       "controls": [
         "[RAW:2408-3308]",
         "[RAW:0E27]"
@@ -161,7 +161,7 @@
       "name": "15",
       "message": "抜き差ししないでください。[RAW:0E27]",
       "original": "抜き差ししないでください。[RAW:0E27]",
-      "translation": "",
+      "translation": "빼거나 꽂지 마세요。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -171,7 +171,7 @@
       "name": "16",
       "message": "セーブ中です。[RAW:0E27]",
       "original": "セーブ中です。[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브 중입니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -181,7 +181,7 @@
       "name": "17",
       "message": "セーブしました。[RAW:0E27]",
       "original": "セーブしました。[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브했습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -191,7 +191,7 @@
       "name": "18",
       "message": "データを読めませんでした。[RAW:0E27]",
       "original": "データを読めませんでした。[RAW:0E27]",
-      "translation": "",
+      "translation": "데이터를 읽지 못했습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -201,7 +201,7 @@
       "name": "19",
       "message": "電源を切って、[RAW:2408-3308]カードを[RAW:0E27]",
       "original": "電源を切って、[RAW:2408-3308]カードを[RAW:0E27]",
-      "translation": "",
+      "translation": "전원을 끄고、[RAW:2408-3308]카드를[RAW:0E27]",
       "controls": [
         "[RAW:2408-3308]",
         "[RAW:0E27]"
@@ -212,7 +212,7 @@
       "name": "20",
       "message": "差込なおしてください。[RAW:0E27]",
       "original": "差込なおしてください。[RAW:0E27]",
-      "translation": "",
+      "translation": "다시 꽂아 주세요。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -222,7 +222,7 @@
       "name": "21",
       "message": "セーブデータ１は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
       "original": "セーブデータ１は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
-      "translation": "",
+      "translation": "세이브１이 손상됐거나[RAW:2823]읽을 수 없었습니다。[RAW:2823-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823-0E27]"
@@ -233,7 +233,7 @@
       "name": "22",
       "message": "セーブデータ１を消します。[RAW:0E27]",
       "original": "セーブデータ１を消します。[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브１을 지웁니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -243,7 +243,7 @@
       "name": "23",
       "message": "セーブデータ２は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
       "original": "セーブデータ２は壊れているか[RAW:2823]読込めませんでした。[RAW:2823-0E27]",
-      "translation": "",
+      "translation": "세이브２가 손상됐거나[RAW:2823]읽을 수 없었습니다。[RAW:2823-0E27]",
       "controls": [
         "[RAW:2823]",
         "[RAW:2823-0E27]"
@@ -254,7 +254,7 @@
       "name": "24",
       "message": "セーブデータ２を消します。[RAW:0E27]",
       "original": "セーブデータ２を消します。[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브２를 지웁니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -264,7 +264,7 @@
       "name": "25",
       "message": "データを書込めませんでした。[RAW:0E27]",
       "original": "データを書込めませんでした。[RAW:0E27]",
-      "translation": "",
+      "translation": "데이터를 쓰지 못했습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -274,7 +274,7 @@
       "name": "26",
       "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
       "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
-      "translation": "",
+      "translation": "Ｗｉ－Ｆｉ 설정[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -284,7 +284,7 @@
       "name": "27",
       "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
       "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
-      "translation": "",
+      "translation": "Ｗｉ－Ｆｉ 설정[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -294,7 +294,7 @@
       "name": "28",
       "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
       "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
-      "translation": "",
+      "translation": "Ｗｉ－Ｆｉ 설정[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -304,7 +304,7 @@
       "name": "29",
       "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
       "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
-      "translation": "",
+      "translation": "Ｗｉ－Ｆｉ 설정[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -314,7 +314,7 @@
       "name": "30",
       "message": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
       "original": "Ｗｉ－Ｆｉ設定[RAW:0E27]",
-      "translation": "",
+      "translation": "Ｗｉ－Ｆｉ 설정[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -324,7 +324,7 @@
       "name": "31",
       "message": "セーブデータ１は壊れているか[RAW:0E27]",
       "original": "セーブデータ１は壊れているか[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브１이 손상됐거나[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -334,7 +334,7 @@
       "name": "32",
       "message": "読込めませんでした。[RAW:0E27]",
       "original": "読込めませんでした。[RAW:0E27]",
-      "translation": "",
+      "translation": "읽을 수 없었습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -344,7 +344,7 @@
       "name": "33",
       "message": "セーブデータ１を消します。[RAW:0E27]",
       "original": "セーブデータ１を消します。[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브１을 지웁니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -354,7 +354,7 @@
       "name": "34",
       "message": "セーブデータ２は壊れているか[RAW:0E27]",
       "original": "セーブデータ２は壊れているか[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브２가 손상됐거나[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -364,7 +364,7 @@
       "name": "35",
       "message": "読込めませんでした。[RAW:0E27]",
       "original": "読込めませんでした。[RAW:0E27]",
-      "translation": "",
+      "translation": "읽을 수 없었습니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -374,7 +374,7 @@
       "name": "36",
       "message": "セーブデータ２を消します。[RAW:0E27]",
       "original": "セーブデータ２を消します。[RAW:0E27]",
-      "translation": "",
+      "translation": "세이브２를 지웁니다。[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -384,7 +384,7 @@
       "name": "37",
       "message": "まだ通信できないファイルだ…[RAW:0E27]",
       "original": "まだ通信できないファイルだ…[RAW:0E27]",
-      "translation": "",
+      "translation": "아직 통신 불가 파일이다…[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -394,7 +394,7 @@
       "name": "38",
       "message": "　データのないファイルです　[RAW:0E27]",
       "original": "　データのないファイルです　[RAW:0E27]",
-      "translation": "",
+      "translation": "　데이터 없는 파일입니다　[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -404,7 +404,7 @@
       "name": "39",
       "message": "最新のセーブデータが破損して[RAW:0E27]",
       "original": "最新のセーブデータが破損して[RAW:0E27]",
-      "translation": "",
+      "translation": "최신 세이브가 손상되어[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -414,7 +414,7 @@
       "name": "40",
       "message": "います。バックアップがある[RAW:0E27]",
       "original": "います。バックアップがある[RAW:0E27]",
-      "translation": "",
+      "translation": "있습니다。백업이 있는[RAW:0E27]",
       "controls": [
         "[RAW:0E27]"
       ]
@@ -424,7 +424,7 @@
       "name": "41",
       "message": "場合は復元します。[RAW:0E27-0F27]－",
       "original": "場合は復元します。[RAW:0E27-0F27]－",
-      "translation": "",
+      "translation": "경우 복원합니다。[RAW:0E27-0F27]－",
       "controls": [
         "[RAW:0E27-0F27]"
       ]
